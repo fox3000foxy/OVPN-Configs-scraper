@@ -1103,22 +1103,6 @@
     "as": "AS4685 Asahi Net",
     "query": "138.64.65.21"
   },
-  "61.77.207.247": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Suwon",
-    "zip": "165",
-    "lat": 37.2677,
-    "lon": 127.0457,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "61.77.207.247"
-  },
   "218.159.159.79": {
     "status": "success",
     "country": "South Korea",
@@ -1150,6 +1134,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "175.206.43.179"
+  },
+  "61.77.207.247": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Suwon",
+    "zip": "165",
+    "lat": 37.2677,
+    "lon": 127.0457,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "61.77.207.247"
   },
   "222.121.62.68": {
     "status": "success",
@@ -1342,22 +1342,6 @@
     "org": "Korea Telecom",
     "as": "AS4766 Korea Telecom",
     "query": "221.158.167.4"
-  },
-  "184.22.53.226": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "73",
-    "regionName": "Nakhon Pathom",
-    "city": "Nakhon Pathom",
-    "zip": "73000",
-    "lat": 13.8179,
-    "lon": 100.0416,
-    "timezone": "Asia/Bangkok",
-    "isp": "AIS-Fibre",
-    "org": "",
-    "as": "AS133481 AIS Fibre",
-    "query": "184.22.53.226"
   },
   "61.81.62.93": {
     "status": "success",
@@ -1582,6 +1566,22 @@
     "org": "Comcast IP Services, L.L.C.",
     "as": "AS7922 Comcast Cable Communications, LLC",
     "query": "73.157.28.181"
+  },
+  "58.149.179.110": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Seoul",
+    "zip": "04524",
+    "lat": 37.5658,
+    "lon": 126.978,
+    "timezone": "Asia/Seoul",
+    "isp": "LG DACOM Corporation",
+    "org": "LG Uplus",
+    "as": "AS3786 LG DACOM Corporation",
+    "query": "58.149.179.110"
   },
   "76.69.228.15": {
     "status": "success",
