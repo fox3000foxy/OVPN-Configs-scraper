@@ -671,6 +671,22 @@
     "as": "AS4760 HKT Limited",
     "query": "42.200.252.158"
   },
+  "112.167.199.210": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "43",
+    "regionName": "North Chungcheong",
+    "city": "Okcheon",
+    "zip": "290",
+    "lat": 36.3044,
+    "lon": 127.5651,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Chungbukbonbujang",
+    "as": "AS4766 Korea Telecom",
+    "query": "112.167.199.210"
+  },
   "106.161.60.241": {
     "status": "success",
     "country": "Japan",
@@ -1550,22 +1566,6 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "114.201.3.61"
-  },
-  "116.46.241.88": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Gangnam-gu",
-    "zip": "063",
-    "lat": 37.4854,
-    "lon": 127.0524,
-    "timezone": "Asia/Seoul",
-    "isp": "LG POWERCOMM",
-    "org": "Xpeed",
-    "as": "AS17858 LG POWERCOMM",
-    "query": "116.46.241.88"
   },
   "60.225.225.4": {
     "status": "success",
