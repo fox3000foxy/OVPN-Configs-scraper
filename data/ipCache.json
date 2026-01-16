@@ -943,22 +943,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.74.49.201"
   },
-  "27.127.58.125": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "23",
-    "regionName": "Aichi",
-    "city": "Nagoya",
-    "zip": "462-0841",
-    "lat": 35.1926,
-    "lon": 136.906,
-    "timezone": "Asia/Tokyo",
-    "isp": "BIGLOBE Inc.",
-    "org": "BIGLOBE",
-    "as": "AS2518 BIGLOBE Inc.",
-    "query": "27.127.58.125"
-  },
   "60.71.31.141": {
     "status": "success",
     "country": "Japan",
@@ -974,6 +958,22 @@
     "org": "Japan Nation-wide Network of Softbank Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "60.71.31.141"
+  },
+  "27.127.58.125": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "23",
+    "regionName": "Aichi",
+    "city": "Nagoya",
+    "zip": "462-0841",
+    "lat": 35.1926,
+    "lon": 136.906,
+    "timezone": "Asia/Tokyo",
+    "isp": "BIGLOBE Inc.",
+    "org": "BIGLOBE",
+    "as": "AS2518 BIGLOBE Inc.",
+    "query": "27.127.58.125"
   },
   "119.175.4.233": {
     "status": "success",
@@ -1455,22 +1455,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "5.143.108.24"
   },
-  "58.233.80.160": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Gwangjin-gu",
-    "zip": "050",
-    "lat": 37.5409,
-    "lon": 127.0762,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "58.233.80.160"
-  },
   "211.251.31.182": {
     "status": "success",
     "country": "South Korea",
@@ -1582,6 +1566,22 @@
     "org": "Kristelecom Ltd",
     "as": "AS50427 Orion Telecom LLC",
     "query": "176.116.186.64"
+  },
+  "121.161.37.187": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Goyang-si",
+    "zip": "104",
+    "lat": 37.6392,
+    "lon": 126.8375,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "121.161.37.187"
   },
   "182.253.243.24": {
     "status": "success",
