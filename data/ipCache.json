@@ -431,22 +431,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.79.241.255"
   },
-  "121.3.217.251": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Yao",
-    "zip": "581-0061",
-    "lat": 34.62,
-    "lon": 135.5894,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "121.3.217.251"
-  },
   "1.240.128.118": {
     "status": "success",
     "country": "South Korea",
@@ -462,6 +446,22 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.240.128.118"
+  },
+  "121.3.217.251": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Yao",
+    "zip": "581-0061",
+    "lat": 34.62,
+    "lon": 135.5894,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "121.3.217.251"
   },
   "126.235.187.176": {
     "status": "success",
@@ -607,21 +607,21 @@
     "as": "AS45758 Triple T Broadband Public Company Limited",
     "query": "49.49.238.4"
   },
-  "95.27.187.15": {
+  "103.152.178.62": {
     "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "MOW",
-    "regionName": "Moscow",
-    "city": "Moscow",
-    "zip": "",
-    "lat": 55.7569,
-    "lon": 37.7005,
-    "timezone": "Europe/Moscow",
-    "isp": "CORBINA-BROADBAND",
-    "org": "",
-    "as": "AS8402 PJSC \"Vimpelcom\"",
-    "query": "95.27.187.15"
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-0001",
+    "lat": 35.694,
+    "lon": 139.754,
+    "timezone": "Asia/Tokyo",
+    "isp": "Ayao Takata",
+    "org": "SDCC-East01",
+    "as": "AS38074 SDCC Japan-West Area",
+    "query": "103.152.178.62"
   },
   "42.127.224.34": {
     "status": "success",
@@ -655,6 +655,22 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.94.100.174"
   },
+  "125.2.164.69": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "23",
+    "regionName": "Aichi",
+    "city": "Sannomaru",
+    "zip": "460-0001",
+    "lat": 35.1803,
+    "lon": 136.8942,
+    "timezone": "Asia/Tokyo",
+    "isp": "Community Network Center Inc.",
+    "org": "Himawari Network Inc.",
+    "as": "AS9354 Community Network Center Inc.",
+    "query": "125.2.164.69"
+  },
   "106.159.145.248": {
     "status": "success",
     "country": "Japan",
@@ -686,22 +702,6 @@
     "org": "Internet Initiative Japan Inc.",
     "as": "AS2497 Internet Initiative Japan Inc.",
     "query": "160.13.103.69"
-  },
-  "125.2.164.69": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "23",
-    "regionName": "Aichi",
-    "city": "Sannomaru",
-    "zip": "460-0001",
-    "lat": 35.1803,
-    "lon": 136.8942,
-    "timezone": "Asia/Tokyo",
-    "isp": "Community Network Center Inc.",
-    "org": "Himawari Network Inc.",
-    "as": "AS9354 Community Network Center Inc.",
-    "query": "125.2.164.69"
   },
   "219.117.76.92": {
     "status": "success",
@@ -782,22 +782,6 @@
     "org": "Packethub S.A",
     "as": "AS137409 GSL Networks Pty LTD",
     "query": "217.217.114.59"
-  },
-  "119.47.102.55": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "33",
-    "regionName": "Okayama",
-    "city": "Okayama",
-    "zip": "700-0831",
-    "lat": 34.6591,
-    "lon": 133.9337,
-    "timezone": "Asia/Tokyo",
-    "isp": "Okayama Network Inc.",
-    "org": "Okayama Network Inc.",
-    "as": "AS18129 OKAYAMA NETWORK INC.",
-    "query": "119.47.102.55"
   },
   "61.77.207.247": {
     "status": "success",
@@ -894,6 +878,22 @@
     "org": "Chubu Telecommunications Co., Inc.",
     "as": "AS18126 Chubu Telecommunications Company, Inc.",
     "query": "115.38.134.81"
+  },
+  "222.97.129.40": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Dong-gu",
+    "zip": "488",
+    "lat": 35.1266,
+    "lon": 129.0299,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Korea Telecom",
+    "as": "AS4766 Korea Telecom",
+    "query": "222.97.129.40"
   },
   "118.104.255.49": {
     "status": "success",
@@ -1231,22 +1231,6 @@
     "as": "AS133481 AIS Fibre",
     "query": "49.228.97.96"
   },
-  "59.4.220.59": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "48",
-    "regionName": "Gyeongsangnam-do",
-    "city": "Geochang-gun",
-    "zip": "50124",
-    "lat": 35.7282,
-    "lon": 127.8989,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "59.4.220.59"
-  },
   "210.96.106.235": {
     "status": "success",
     "country": "South Korea",
@@ -1262,6 +1246,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "210.96.106.235"
+  },
+  "59.4.220.59": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "48",
+    "regionName": "Gyeongsangnam-do",
+    "city": "Geochang-gun",
+    "zip": "50124",
+    "lat": 35.7282,
+    "lon": 127.8989,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "59.4.220.59"
   },
   "61.84.34.95": {
     "status": "success",
