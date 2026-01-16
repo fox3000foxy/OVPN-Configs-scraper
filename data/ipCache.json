@@ -527,22 +527,6 @@
     "as": "AS9605 NTT DOCOMO, INC.",
     "query": "1.66.34.134"
   },
-  "133.218.27.146": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "23",
-    "regionName": "Aichi",
-    "city": "Nagoya",
-    "zip": "462-0841",
-    "lat": 35.1926,
-    "lon": 136.906,
-    "timezone": "Asia/Tokyo",
-    "isp": "Internet Initiative Japan Inc.",
-    "org": "Rikei Corporation",
-    "as": "AS2497 Internet Initiative Japan Inc.",
-    "query": "133.218.27.146"
-  },
   "125.199.40.49": {
     "status": "success",
     "country": "Japan",
