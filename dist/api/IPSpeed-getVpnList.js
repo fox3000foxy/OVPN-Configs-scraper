@@ -1,0 +1,39 @@
+"use strict";
+var __importDefault = (this && this.__importDefault) || function (mod) {
+    return (mod && mod.__esModule) ? mod : { "default": mod };
+};
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.getVpnList = getVpnList;
+const cheerio_1 = require("cheerio");
+const node_fetch_1 = __importDefault(require("node-fetch"));
+const url = "https://ipspeed.info/freevpn_openvpn.php?language=en&page=";
+async function scrapPage(page) {
+    const response = await (0, node_fetch_1.default)(url + page);
+    if (!response.ok)
+        throw new Error("Network error");
+    return response.text();
+}
+function parsePage(html) {
+    const $ = (0, cheerio_1.load)(html);
+    const links = $("a[href$='.ovpn']");
+    const ipSpeedServers = [];
+    for (const link of links) {
+        const parentRow = $(link).parent().parent();
+        const country = parentRow.find(".list_o1").text().trim().split(" ")[1];
+        const ip = $(link).text().trim().replace(".ovpn", "");
+        const download_url = $(link).attr("href");
+        ipSpeedServers.push({ ip, country, download_url });
+    }
+    return ipSpeedServers;
+}
+const PAGE_NB = 4;
+async function getVpnList() {
+    const pages = Array.from({ length: PAGE_NB }, (_, i) => i + 1);
+    const htmls = await Promise.all(pages.map(page => scrapPage(page.toString())));
+    const allLinks = htmls.flatMap(parsePage);
+    const linksSet = new Set(allLinks);
+    const linksArray = Array.from(linksSet);
+    // linksArray.sort((a, b) => a.country.localeCompare(b.country) || a.ip.localeCompare(b.ip));
+    linksSet.clear();
+    return linksArray;
+}
