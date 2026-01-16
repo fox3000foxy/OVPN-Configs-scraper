@@ -447,6 +447,22 @@
     "as": "AS2519 ARTERIA Networks Corporation",
     "query": "122.103.113.207"
   },
+  "218.148.187.249": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Goyang-si",
+    "zip": "103",
+    "lat": 37.6792,
+    "lon": 126.8183,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "KORNET",
+    "as": "AS4766 Korea Telecom",
+    "query": "218.148.187.249"
+  },
   "49.167.12.160": {
     "status": "success",
     "country": "South Korea",
@@ -575,22 +591,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.119.224.202"
   },
-  "5.143.38.141": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PRI",
-    "regionName": "Primorye",
-    "city": "Vladivostok",
-    "zip": "690001",
-    "lat": 43.1068,
-    "lon": 131.8692,
-    "timezone": "Asia/Vladivostok",
-    "isp": "Rostelecom networks",
-    "org": "OJSC Rostelecom Far-East Region",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "5.143.38.141"
-  },
   "211.198.67.197": {
     "status": "success",
     "country": "South Korea",
@@ -606,6 +606,22 @@
     "org": "jinuapateu",
     "as": "AS4766 Korea Telecom",
     "query": "211.198.67.197"
+  },
+  "220.100.45.229": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Yokohama",
+    "zip": "231-0841",
+    "lat": 35.4337,
+    "lon": 139.6499,
+    "timezone": "Asia/Tokyo",
+    "isp": "Internet Initiative Japan",
+    "org": "Internet Initiative Japan Inc.",
+    "as": "AS2497 Internet Initiative Japan Inc.",
+    "query": "220.100.45.229"
   },
   "1.66.34.134": {
     "status": "success",
@@ -655,22 +671,6 @@
     "as": "AS4760 HKT Limited",
     "query": "42.200.252.158"
   },
-  "112.167.199.210": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "43",
-    "regionName": "North Chungcheong",
-    "city": "Okcheon",
-    "zip": "290",
-    "lat": 36.3044,
-    "lon": 127.5651,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Chungbukbonbujang",
-    "as": "AS4766 Korea Telecom",
-    "query": "112.167.199.210"
-  },
   "106.161.60.241": {
     "status": "success",
     "country": "Japan",
@@ -718,6 +718,22 @@
     "org": "J:COM WEST Co., Ltd.",
     "as": "AS9617 JCOM Co., Ltd.",
     "query": "219.115.166.66"
+  },
+  "126.11.90.241": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.11.90.241"
   },
   "112.69.235.159": {
     "status": "success",
@@ -815,22 +831,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "222.14.54.111"
   },
-  "126.116.156.167": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.116.156.167"
-  },
   "183.80.198.12": {
     "status": "success",
     "country": "Vietnam",
@@ -911,6 +911,22 @@
     "as": "AS17529 STARCAT Co .,LTD.",
     "query": "61.211.140.202"
   },
+  "47.153.191.145": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA",
+    "regionName": "California",
+    "city": "Whittier",
+    "zip": "90603",
+    "lat": 33.9436,
+    "lon": -117.9957,
+    "timezone": "America/Los_Angeles",
+    "isp": "Frontier Communications Corporation",
+    "org": "Frontier Communications Solutions",
+    "as": "AS5650 Frontier Communications of America, Inc.",
+    "query": "47.153.191.145"
+  },
   "106.165.84.140": {
     "status": "success",
     "country": "Japan",
@@ -959,22 +975,6 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "153.169.11.46"
   },
-  "47.153.191.145": {
-    "status": "success",
-    "country": "United States",
-    "countryCode": "US",
-    "region": "CA",
-    "regionName": "California",
-    "city": "Whittier",
-    "zip": "90603",
-    "lat": 33.9436,
-    "lon": -117.9957,
-    "timezone": "America/Los_Angeles",
-    "isp": "Frontier Communications Corporation",
-    "org": "Frontier Communications Solutions",
-    "as": "AS5650 Frontier Communications of America, Inc.",
-    "query": "47.153.191.145"
-  },
   "42.150.189.160": {
     "status": "success",
     "country": "Japan",
@@ -1022,6 +1022,22 @@
     "org": "Vietnam Internet Network Information Center",
     "as": "AS18403 FPT Telecom Company",
     "query": "42.115.248.55"
+  },
+  "5.143.38.141": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Vladivostok",
+    "zip": "690001",
+    "lat": 43.1068,
+    "lon": 131.8692,
+    "timezone": "Asia/Vladivostok",
+    "isp": "Rostelecom networks",
+    "org": "OJSC Rostelecom Far-East Region",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "5.143.38.141"
   },
   "126.66.3.201": {
     "status": "success",
@@ -1326,22 +1342,6 @@
     "org": "Korea Telecom",
     "as": "AS4766 Korea Telecom",
     "query": "220.88.51.21"
-  },
-  "122.50.43.110": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "40",
-    "regionName": "Fukuoka",
-    "city": "Kitaku",
-    "zip": "807-1154",
-    "lat": 33.7937,
-    "lon": 130.687,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM",
-    "org": "Jupiter Telecommunications Co., Ltd.",
-    "as": "AS18134 JCOM Co., Ltd.",
-    "query": "122.50.43.110"
   },
   "211.112.158.69": {
     "status": "success",
@@ -2382,6 +2382,22 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "106.166.172.245"
+  },
+  "122.50.43.110": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "40",
+    "regionName": "Fukuoka",
+    "city": "Kitaku",
+    "zip": "807-1154",
+    "lat": 33.7937,
+    "lon": 130.687,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM",
+    "org": "Jupiter Telecommunications Co., Ltd.",
+    "as": "AS18134 JCOM Co., Ltd.",
+    "query": "122.50.43.110"
   },
   "188.253.26.167": {
     "status": "success",
