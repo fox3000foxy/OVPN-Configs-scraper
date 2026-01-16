@@ -1151,22 +1151,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "218.159.159.79"
   },
-  "121.179.109.26": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "29",
-    "regionName": "Gwangju",
-    "city": "Buk-gu",
-    "zip": "610",
-    "lat": 35.2118,
-    "lon": 126.8876,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Jeonnambonbujang",
-    "as": "AS4766 Korea Telecom",
-    "query": "121.179.109.26"
-  },
   "222.121.62.68": {
     "status": "success",
     "country": "South Korea",
@@ -1182,6 +1166,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "222.121.62.68"
+  },
+  "121.179.109.26": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "29",
+    "regionName": "Gwangju",
+    "city": "Buk-gu",
+    "zip": "610",
+    "lat": 35.2118,
+    "lon": 126.8876,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Jeonnambonbujang",
+    "as": "AS4766 Korea Telecom",
+    "query": "121.179.109.26"
   },
   "109.236.237.143": {
     "status": "success",
