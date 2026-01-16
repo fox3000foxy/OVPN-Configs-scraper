@@ -302,6 +302,7 @@ Or download individually:
 | 94.243.230.97 | Russia | CityTelekom LLC PPPoE | IPSpeed | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/94.243.230.97.ovpn) |
 | 94.243.230.97 | Russia | CityTelekom LLC PPPoE | IPSpeed | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/94.243.230.97.ovpn) |
 | 94.243.230.97 | Russia | CityTelekom LLC PPPoE | IPSpeed | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/94.243.230.97.ovpn) |
+| 95.27.187.15 | Russia | CORBINA-BROADBAND | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/95.27.187.15.ovpn) |
 | 217.175.14.88 | Russia | CrystalNET Plus | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/217.175.14.88.ovpn) |
 | 95.154.189.173 | Russia | EPL | IPSpeed | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/95.154.189.173.ovpn) |
 | 95.154.189.173 | Russia | EPL | IPSpeed | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/95.154.189.173.ovpn) |
@@ -536,12 +537,6 @@ Or download individually:
 | 49.49.216.198 | Thailand | Triple T Broadband Public Company Limited | IPSpeed | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/49.49.216.198.ovpn) |
 | 171.6.21.133 | Thailand | Triple T Broadband Public Company Limited | IPSpeed | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/171.6.21.133.ovpn) |
 | 49.49.216.198 | Thailand | Triple T Broadband Public Company Limited | IPSpeed | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/49.49.216.198.ovpn) |
-
-
-### The Netherlands
-| IP | Country | ISP | Provider | Config |
-|---|---|---|---|---|
-| 89.19.216.121 | The Netherlands | Timeweb, LLP | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/89.19.216.121.ovpn) |
 
 
 ### Ukraine
