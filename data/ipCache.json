@@ -975,22 +975,6 @@
     "as": "AS18126 Chubu Telecommunications Company, Inc.",
     "query": "113.155.236.250"
   },
-  "109.120.6.149": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "OMS",
-    "regionName": "Omsk Oblast",
-    "city": "Omsk",
-    "zip": "644000",
-    "lat": 54.9896,
-    "lon": 73.3729,
-    "timezone": "Asia/Omsk",
-    "isp": "Omskie kabelnye seti Ltd",
-    "org": "Omskie kabelnye seti Ltd.",
-    "as": "AS47165 Omskie kabelnye seti Ltd.",
-    "query": "109.120.6.149"
-  },
   "60.133.204.57": {
     "status": "success",
     "country": "Japan",
@@ -1454,6 +1438,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "125.137.152.126"
+  },
+  "118.219.21.191": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "27",
+    "regionName": "Daegu",
+    "city": "Daegu",
+    "zip": "412",
+    "lat": 35.8699,
+    "lon": 128.6314,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "118.219.21.191"
   },
   "76.69.228.15": {
     "status": "success",
