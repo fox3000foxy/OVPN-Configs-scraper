@@ -239,6 +239,22 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.159.87.12"
   },
+  "222.97.142.229": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Yeonje-gu",
+    "zip": "475",
+    "lat": 35.1811,
+    "lon": 129.0928,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "KORNET",
+    "as": "AS4766 Korea Telecom",
+    "query": "222.97.142.229"
+  },
   "183.180.154.178": {
     "status": "success",
     "country": "Japan",
@@ -254,22 +270,6 @@
     "org": "ARTERIA Networks Corporation",
     "as": "AS2519 ARTERIA Networks Corporation",
     "query": "183.180.154.178"
-  },
-  "36.14.133.245": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "20",
-    "regionName": "Nagano",
-    "city": "Okaya Shi",
-    "zip": "394-0021",
-    "lat": 36.071,
-    "lon": 138.0434,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "36.14.133.245"
   },
   "218.145.181.197": {
     "status": "success",
@@ -350,22 +350,6 @@
     "org": "NTT Communications Corporation",
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "60.36.150.117"
-  },
-  "126.1.42.49": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.1.42.49"
   },
   "42.125.132.145": {
     "status": "success",
@@ -1214,22 +1198,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "14.32.50.31"
-  },
-  "1.224.195.110": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Ansan-si",
-    "zip": "152",
-    "lat": 37.3231,
-    "lon": 126.8412,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "1.224.195.110"
   },
   "175.113.226.10": {
     "status": "success",
