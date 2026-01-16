@@ -239,22 +239,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.159.87.12"
   },
-  "222.97.142.229": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "26",
-    "regionName": "Busan",
-    "city": "Yeonje-gu",
-    "zip": "475",
-    "lat": 35.1811,
-    "lon": 129.0928,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "KORNET",
-    "as": "AS4766 Korea Telecom",
-    "query": "222.97.142.229"
-  },
   "183.180.154.178": {
     "status": "success",
     "country": "Japan",
@@ -270,6 +254,22 @@
     "org": "ARTERIA Networks Corporation",
     "as": "AS2519 ARTERIA Networks Corporation",
     "query": "183.180.154.178"
+  },
+  "222.97.142.229": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Yeonje-gu",
+    "zip": "475",
+    "lat": 35.1811,
+    "lon": 129.0928,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "KORNET",
+    "as": "AS4766 Korea Telecom",
+    "query": "222.97.142.229"
   },
   "218.145.181.197": {
     "status": "success",
@@ -751,6 +751,22 @@
     "as": "AS35807 SkyNet Ltd.",
     "query": "93.100.140.41"
   },
+  "88.206.13.150": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "CHE",
+    "regionName": "Chelyabinsk Oblast",
+    "city": "Chelyabinsk",
+    "zip": "454000",
+    "lat": 55.1586,
+    "lon": 61.4296,
+    "timezone": "Asia/Yekaterinburg",
+    "isp": "Intersvyaz-2 JSC",
+    "org": "",
+    "as": "AS8369 Intersvyaz-2 JSC",
+    "query": "88.206.13.150"
+  },
   "180.198.178.2": {
     "status": "success",
     "country": "Japan",
@@ -1023,22 +1039,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.217.201.240"
   },
-  "88.206.13.150": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "CHE",
-    "regionName": "Chelyabinsk Oblast",
-    "city": "Chelyabinsk",
-    "zip": "454000",
-    "lat": 55.1586,
-    "lon": 61.4296,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "Intersvyaz-2 JSC",
-    "org": "",
-    "as": "AS8369 Intersvyaz-2 JSC",
-    "query": "88.206.13.150"
-  },
   "125.138.193.208": {
     "status": "success",
     "country": "South Korea",
@@ -1198,6 +1198,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "14.32.50.31"
+  },
+  "118.71.89.19": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "SG",
+    "regionName": "Ho Chi Minh",
+    "city": "Ho Chi Minh City",
+    "zip": "700000",
+    "lat": 10.822,
+    "lon": 106.6257,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "isp": "Vietnam Internet Network Information Center",
+    "org": "",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "118.71.89.19"
   },
   "175.113.226.10": {
     "status": "success",
@@ -1406,22 +1422,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "125.137.152.126"
-  },
-  "118.219.21.191": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "27",
-    "regionName": "Daegu",
-    "city": "Daegu",
-    "zip": "412",
-    "lat": 35.8699,
-    "lon": 128.6314,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "118.219.21.191"
   },
   "76.69.228.15": {
     "status": "success",
