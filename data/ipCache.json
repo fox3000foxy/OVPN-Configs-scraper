@@ -559,21 +559,21 @@
     "as": "AS23969 TOT Public Company Limited",
     "query": "101.109.212.215"
   },
-  "126.217.172.16": {
+  "183.80.198.12": {
     "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.217.172.16"
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "SG",
+    "regionName": "Ho Chi Minh",
+    "city": "Ho Chi Minh City",
+    "zip": "700000",
+    "lat": 10.822,
+    "lon": 106.6257,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "isp": "FPT Telecom Company",
+    "org": "Vietnam Internet Network Information Center",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "183.80.198.12"
   },
   "113.154.110.135": {
     "status": "success",
@@ -590,6 +590,22 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "113.154.110.135"
+  },
+  "126.217.172.16": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.217.172.16"
   },
   "14.45.164.190": {
     "status": "success",
@@ -638,22 +654,6 @@
     "org": "EHIME CATV CO., LTD.",
     "as": "AS18260 EHIME CATV CO.,LTD.",
     "query": "219.109.62.207"
-  },
-  "126.79.186.36": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.79.186.36"
   },
   "58.3.255.67": {
     "status": "success",
@@ -815,6 +815,22 @@
     "as": "AS55392 INTERNET MULTIFEED CO.",
     "query": "217.178.200.160"
   },
+  "49.228.101.18": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "10",
+    "regionName": "Bangkok",
+    "city": "Bangkok",
+    "zip": "10400",
+    "lat": 13.7618,
+    "lon": 100.5324,
+    "timezone": "Asia/Bangkok",
+    "isp": "Advanced Wireless Network Company Limited",
+    "org": "AIS Fibre",
+    "as": "AS133481 AIS Fibre",
+    "query": "49.228.101.18"
+  },
   "39.111.1.5": {
     "status": "success",
     "country": "Japan",
@@ -911,22 +927,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "114.200.230.80"
   },
-  "121.159.227.92": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "44",
-    "regionName": "Chungcheongnam-do",
-    "city": "Seosan City",
-    "zip": "319",
-    "lat": 36.7758,
-    "lon": 126.4499,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "121.159.227.92"
-  },
   "61.83.2.222": {
     "status": "success",
     "country": "South Korea",
@@ -1007,22 +1007,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "111.107.47.57"
   },
-  "14.47.248.47": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Areannamkwaengi",
-    "zip": "129",
-    "lat": 37.0745,
-    "lon": 127.3264,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "14.47.248.47"
-  },
   "124.219.150.206": {
     "status": "success",
     "country": "Japan",
@@ -1038,6 +1022,22 @@
     "org": "Sony Network Communications Inc.",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "124.219.150.206"
+  },
+  "14.47.248.47": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Areannamkwaengi",
+    "zip": "129",
+    "lat": 37.0745,
+    "lon": 127.3264,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "14.47.248.47"
   },
   "218.226.79.128": {
     "status": "success",
@@ -1247,22 +1247,6 @@
     "as": "AS17858 LG POWERCOMM",
     "query": "182.215.193.29"
   },
-  "49.228.101.18": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "10",
-    "regionName": "Bangkok",
-    "city": "Bangkok",
-    "zip": "10400",
-    "lat": 13.7618,
-    "lon": 100.5324,
-    "timezone": "Asia/Bangkok",
-    "isp": "Advanced Wireless Network Company Limited",
-    "org": "AIS Fibre",
-    "as": "AS133481 AIS Fibre",
-    "query": "49.228.101.18"
-  },
   "175.193.71.236": {
     "status": "success",
     "country": "South Korea",
@@ -1359,6 +1343,22 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "178.46.210.209"
   },
+  "176.65.34.28": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "TOM",
+    "regionName": "Tomsk Oblast",
+    "city": "Tomsk",
+    "zip": "634009",
+    "lat": 56.4957,
+    "lon": 84.9636,
+    "timezone": "Asia/Tomsk",
+    "isp": "SkyLine Ltd",
+    "org": "SkyLine Ltd",
+    "as": "AS49814 TomGate LLC",
+    "query": "176.65.34.28"
+  },
   "115.86.66.155": {
     "status": "success",
     "country": "South Korea",
@@ -1439,22 +1439,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "5.143.104.42"
   },
-  "176.65.34.28": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "TOM",
-    "regionName": "Tomsk Oblast",
-    "city": "Tomsk",
-    "zip": "634009",
-    "lat": 56.4957,
-    "lon": 84.9636,
-    "timezone": "Asia/Tomsk",
-    "isp": "SkyLine Ltd",
-    "org": "SkyLine Ltd",
-    "as": "AS49814 TomGate LLC",
-    "query": "176.65.34.28"
-  },
   "95.189.219.90": {
     "status": "success",
     "country": "Russia",
@@ -1534,6 +1518,38 @@
     "org": "Inmart-Internet LTD",
     "as": "AS196767 INMART.UA LLC",
     "query": "176.102.10.253"
+  },
+  "213.21.26.24": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "SPE",
+    "regionName": "St.-Petersburg",
+    "city": "St Petersburg",
+    "zip": "",
+    "lat": 59.9311,
+    "lon": 30.3609,
+    "timezone": "Europe/Moscow",
+    "isp": "brand AtHome",
+    "org": "",
+    "as": "AS39102 Global Network Management Inc",
+    "query": "213.21.26.24"
+  },
+  "109.161.91.226": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "YAR",
+    "regionName": "Yaroslavl Oblast",
+    "city": "Lyubim",
+    "zip": "152470",
+    "lat": 58.3669,
+    "lon": 40.6852,
+    "timezone": "Europe/Moscow",
+    "isp": "Rostelecom networks",
+    "org": "OJSC Rostelecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "109.161.91.226"
   },
   "183.82.239.194": {
     "status": "success",
