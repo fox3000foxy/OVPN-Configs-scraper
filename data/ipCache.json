@@ -1871,21 +1871,21 @@
     "as": "AS17955 Densan Co., Ltd.",
     "query": "202.247.225.107"
   },
-  "118.158.191.108": {
+  "220.247.64.16": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Kawasaki",
-    "zip": "210-0835",
-    "lat": 35.5181,
-    "lon": 139.7226,
+    "region": "11",
+    "regionName": "Saitama",
+    "city": "Motobuto",
+    "zip": "330-0051",
+    "lat": 35.8722,
+    "lon": 139.6637,
     "timezone": "Asia/Tokyo",
-    "isp": "DION (KDDI CORPORATION)",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "118.158.191.108"
+    "isp": "ARTERIA Networks Corporation",
+    "org": "ARTERIA Networks Corporation",
+    "as": "AS2519 ARTERIA Networks Corporation",
+    "query": "220.247.64.16"
   },
   "101.128.133.100": {
     "status": "success",
@@ -1903,22 +1903,6 @@
     "as": "AS2497 Internet Initiative Japan Inc.",
     "query": "101.128.133.100"
   },
-  "220.247.64.16": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "11",
-    "regionName": "Saitama",
-    "city": "Motobuto",
-    "zip": "330-0051",
-    "lat": 35.8722,
-    "lon": 139.6637,
-    "timezone": "Asia/Tokyo",
-    "isp": "ARTERIA Networks Corporation",
-    "org": "ARTERIA Networks Corporation",
-    "as": "AS2519 ARTERIA Networks Corporation",
-    "query": "220.247.64.16"
-  },
   "219.104.84.18": {
     "status": "success",
     "country": "Japan",
@@ -1934,6 +1918,22 @@
     "org": "So-net Service",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "219.104.84.18"
+  },
+  "118.158.191.108": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Kawasaki",
+    "zip": "210-0835",
+    "lat": 35.5181,
+    "lon": 139.7226,
+    "timezone": "Asia/Tokyo",
+    "isp": "DION (KDDI CORPORATION)",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "118.158.191.108"
   },
   "219.100.37.13": {
     "status": "success",
@@ -2030,22 +2030,6 @@
     "org": "Sony Network Communications Inc.",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "59.146.94.202"
-  },
-  "119.240.24.46": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "03",
-    "regionName": "Iwate",
-    "city": "Miyako",
-    "zip": "027-0091",
-    "lat": 39.6401,
-    "lon": 141.9586,
-    "timezone": "Asia/Tokyo",
-    "isp": "BIGLOBE Inc.",
-    "org": "BIGLOBE",
-    "as": "AS2518 BIGLOBE Inc.",
-    "query": "119.240.24.46"
   },
   "219.63.13.25": {
     "status": "success",
@@ -2175,22 +2159,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "119.105.86.251"
   },
-  "14.133.170.32": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "23",
-    "regionName": "Aichi",
-    "city": "Nagoya",
-    "zip": "462-0841",
-    "lat": 35.1926,
-    "lon": 136.906,
-    "timezone": "Asia/Tokyo",
-    "isp": "Chubu Telecommunications Company, Inc.",
-    "org": "Chubu Telecommunications Co., Inc.",
-    "as": "AS18126 Chubu Telecommunications Company, Inc.",
-    "query": "14.133.170.32"
-  },
   "126.108.252.123": {
     "status": "success",
     "country": "Japan",
@@ -2286,6 +2254,22 @@
     "org": "Jupiter Telecommunication Co. Ltd",
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "42.146.135.174"
+  },
+  "119.240.24.46": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "03",
+    "regionName": "Iwate",
+    "city": "Miyako",
+    "zip": "027-0091",
+    "lat": 39.6401,
+    "lon": 141.9586,
+    "timezone": "Asia/Tokyo",
+    "isp": "BIGLOBE Inc.",
+    "org": "BIGLOBE",
+    "as": "AS2518 BIGLOBE Inc.",
+    "query": "119.240.24.46"
   },
   "211.7.96.16": {
     "status": "success",
@@ -2479,22 +2463,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "14.57.196.103"
   },
-  "121.136.151.123": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Yongin-si",
-    "zip": "170",
-    "lat": 37.2728,
-    "lon": 127.1118,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "121.136.151.123"
-  },
   "112.170.21.41": {
     "status": "success",
     "country": "South Korea",
@@ -2510,6 +2478,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "112.170.21.41"
+  },
+  "121.136.151.123": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Yongin-si",
+    "zip": "170",
+    "lat": 37.2728,
+    "lon": 127.1118,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "121.136.151.123"
   },
   "115.90.91.30": {
     "status": "success",
@@ -2783,6 +2767,22 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "175.119.37.95"
   },
+  "221.144.197.228": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "42",
+    "regionName": "Gangwon-do",
+    "city": "Wŏnju",
+    "zip": "263",
+    "lat": 37.384,
+    "lon": 127.8724,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Korea Telecom",
+    "as": "AS4766 Korea Telecom",
+    "query": "221.144.197.228"
+  },
   "14.37.248.1": {
     "status": "success",
     "country": "South Korea",
@@ -2943,21 +2943,21 @@
     "as": "AS133481 AIS Fibre",
     "query": "49.228.97.117"
   },
-  "47.145.245.129": {
+  "67.170.115.255": {
     "status": "success",
     "country": "United States",
     "countryCode": "US",
-    "region": "CA",
-    "regionName": "California",
-    "city": "Claremont",
-    "zip": "91711",
-    "lat": 34.1091,
-    "lon": -117.7126,
+    "region": "WA",
+    "regionName": "Washington",
+    "city": "Auburn",
+    "zip": "98001",
+    "lat": 47.3066,
+    "lon": -122.2619,
     "timezone": "America/Los_Angeles",
-    "isp": "Frontier Communications Corporation",
-    "org": "Frontier Communications Solutions",
-    "as": "AS5650 Frontier Communications of America, Inc.",
-    "query": "47.145.245.129"
+    "isp": "Comcast Cable Communications, LLC",
+    "org": "Comcast Cable Communications, IP Services",
+    "as": "AS7922 Comcast Cable Communications, LLC",
+    "query": "67.170.115.255"
   },
   "42.117.64.124": {
     "status": "success",
