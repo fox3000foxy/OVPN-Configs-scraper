@@ -815,22 +815,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.145.190.37"
   },
-  "218.41.143.69": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "01",
-    "regionName": "Hokkaido",
-    "city": "Sapporo",
-    "zip": "065-0011",
-    "lat": 43.0763,
-    "lon": 141.3654,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc.",
-    "org": "",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "218.41.143.69"
-  },
   "59.9.4.63": {
     "status": "success",
     "country": "South Korea",
@@ -894,6 +878,22 @@
     "org": "KORNET",
     "as": "AS4766 Korea Telecom",
     "query": "211.219.73.150"
+  },
+  "222.109.180.8": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Seongdong-gu",
+    "zip": "047",
+    "lat": 37.5511,
+    "lon": 127.0387,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Sudogwonseobubonbu",
+    "as": "AS4766 Korea Telecom",
+    "query": "222.109.180.8"
   },
   "217.178.195.13": {
     "status": "success",
@@ -1087,22 +1087,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "111.99.88.67"
   },
-  "118.71.204.136": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "HN",
-    "regionName": "Hanoi",
-    "city": "Hanoi",
-    "zip": "100000",
-    "lat": 21.0184,
-    "lon": 105.8461,
-    "timezone": "Asia/Bangkok",
-    "isp": "Vietnam Internet Network Information Center",
-    "org": "",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "118.71.204.136"
-  },
   "116.68.80.251": {
     "status": "success",
     "country": "India",
@@ -1118,6 +1102,22 @@
     "org": "Asianet Satellite Communications Pvt Ltd",
     "as": "AS17465 Cable ISP in India",
     "query": "116.68.80.251"
+  },
+  "118.71.204.136": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "HN",
+    "regionName": "Hanoi",
+    "city": "Hanoi",
+    "zip": "100000",
+    "lat": 21.0184,
+    "lon": 105.8461,
+    "timezone": "Asia/Bangkok",
+    "isp": "Vietnam Internet Network Information Center",
+    "org": "",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "118.71.204.136"
   },
   "112.68.233.44": {
     "status": "success",
@@ -1471,22 +1471,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "61.74.154.126"
   },
-  "218.148.38.123": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Suwon",
-    "zip": "165",
-    "lat": 37.2677,
-    "lon": 127.0457,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "KORNET",
-    "as": "AS4766 Korea Telecom",
-    "query": "218.148.38.123"
-  },
   "61.81.62.93": {
     "status": "success",
     "country": "South Korea",
@@ -1534,6 +1518,22 @@
     "org": "TBROAD DobongGangbukGwangjinSeongdong",
     "as": "AS9689 SK Broadband Co Ltd",
     "query": "124.254.221.7"
+  },
+  "218.148.38.123": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Suwon",
+    "zip": "165",
+    "lat": 37.2677,
+    "lon": 127.0457,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "KORNET",
+    "as": "AS4766 Korea Telecom",
+    "query": "218.148.38.123"
   },
   "176.116.186.64": {
     "status": "success",
