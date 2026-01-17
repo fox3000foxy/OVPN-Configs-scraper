@@ -383,22 +383,6 @@
     "as": "AS42038 Krivets Sergey Sergeevich",
     "query": "5.100.77.20"
   },
-  "222.9.173.113": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "23",
-    "regionName": "Aichi",
-    "city": "Okazaki",
-    "zip": "444-0861",
-    "lat": 34.9555,
-    "lon": 137.1653,
-    "timezone": "Asia/Tokyo",
-    "isp": "Chubu Telecommunications Company, Inc.",
-    "org": "Chubu Telecommunications Co., Inc.",
-    "as": "AS18126 Chubu Telecommunications Company, Inc.",
-    "query": "222.9.173.113"
-  },
   "1.66.34.134": {
     "status": "success",
     "country": "Japan",
@@ -414,6 +398,22 @@
     "org": "NTTDoCoMo",
     "as": "AS9605 NTT DOCOMO, INC.",
     "query": "1.66.34.134"
+  },
+  "222.9.173.113": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "23",
+    "regionName": "Aichi",
+    "city": "Okazaki",
+    "zip": "444-0861",
+    "lat": 34.9555,
+    "lon": 137.1653,
+    "timezone": "Asia/Tokyo",
+    "isp": "Chubu Telecommunications Company, Inc.",
+    "org": "Chubu Telecommunications Co., Inc.",
+    "as": "AS18126 Chubu Telecommunications Company, Inc.",
+    "query": "222.9.173.113"
   },
   "180.27.13.39": {
     "status": "success",
@@ -542,6 +542,38 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "222.14.193.1"
+  },
+  "133.32.129.124": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tokyo",
+    "zip": "151-0071",
+    "lat": 35.6837,
+    "lon": 139.6805,
+    "timezone": "Asia/Tokyo",
+    "isp": "ARTERIA Networks Corporation",
+    "org": "ARTERIA Networks Corporation",
+    "as": "AS2519 ARTERIA Networks Corporation",
+    "query": "133.32.129.124"
+  },
+  "114.149.100.229": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "23",
+    "regionName": "Aichi",
+    "city": "Nagoya",
+    "zip": "462-0841",
+    "lat": 35.1926,
+    "lon": 136.906,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "Open Computer Network",
+    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
+    "query": "114.149.100.229"
   },
   "124.47.125.245": {
     "status": "success",
@@ -703,22 +735,6 @@
     "as": "AS17506 ARTERIA Networks Corporation",
     "query": "113.33.96.52"
   },
-  "210.148.238.80": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0071",
-    "lat": 35.6837,
-    "lon": 139.6805,
-    "timezone": "Asia/Tokyo",
-    "isp": "Internet Initiative Japan Inc.",
-    "org": "IIJ Internet",
-    "as": "AS2497 Internet Initiative Japan Inc.",
-    "query": "210.148.238.80"
-  },
   "124.212.183.144": {
     "status": "success",
     "country": "Japan",
@@ -734,6 +750,22 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "124.212.183.144"
+  },
+  "210.148.238.80": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tokyo",
+    "zip": "151-0071",
+    "lat": 35.6837,
+    "lon": 139.6805,
+    "timezone": "Asia/Tokyo",
+    "isp": "Internet Initiative Japan Inc.",
+    "org": "IIJ Internet",
+    "as": "AS2497 Internet Initiative Japan Inc.",
+    "query": "210.148.238.80"
   },
   "219.241.104.116": {
     "status": "success",
@@ -766,6 +798,22 @@
     "org": "AIS Fibre",
     "as": "AS133481 AIS Fibre",
     "query": "49.228.67.63"
+  },
+  "94.19.155.164": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "SPE",
+    "regionName": "St.-Petersburg",
+    "city": "St Petersburg",
+    "zip": "190990",
+    "lat": 59.8983,
+    "lon": 30.2618,
+    "timezone": "Europe/Moscow",
+    "isp": "SkyNet LLC",
+    "org": "SkyNet Networks",
+    "as": "AS35807 SkyNet Ltd.",
+    "query": "94.19.155.164"
   },
   "222.117.186.129": {
     "status": "success",
@@ -846,22 +894,6 @@
     "org": "Netforest, Inc",
     "as": "AS17931 Netforest,Inc.",
     "query": "203.153.79.138"
-  },
-  "222.114.218.186": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "44",
-    "regionName": "Chungcheongnam-do",
-    "city": "Tangjin",
-    "zip": "318",
-    "lat": 36.8852,
-    "lon": 126.6562,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Korea Telecom",
-    "as": "AS4766 Korea Telecom",
-    "query": "222.114.218.186"
   },
   "121.175.33.43": {
     "status": "success",
@@ -1118,22 +1150,6 @@
     "org": "Korea Telecom",
     "as": "AS4766 Korea Telecom",
     "query": "221.144.197.228"
-  },
-  "220.76.63.6": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Gangdong-gu",
-    "zip": "053",
-    "lat": 37.536,
-    "lon": 127.1426,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Korea Telecom",
-    "as": "AS4766 Korea Telecom",
-    "query": "220.76.63.6"
   },
   "27.140.89.119": {
     "status": "success",
@@ -1407,6 +1423,22 @@
     "as": "AS4134 CHINANET-BACKBONE",
     "query": "14.219.122.86"
   },
+  "222.114.218.186": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "44",
+    "regionName": "Chungcheongnam-do",
+    "city": "Tangjin",
+    "zip": "318",
+    "lat": 36.8852,
+    "lon": 126.6562,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Korea Telecom",
+    "as": "AS4766 Korea Telecom",
+    "query": "222.114.218.186"
+  },
   "95.154.65.250": {
     "status": "success",
     "country": "Russia",
@@ -1518,38 +1550,6 @@
     "org": "GAONET",
     "as": "AS7524 ITEC HANKYU HANSHIN CO.,LTD.",
     "query": "213.18.111.107"
-  },
-  "118.82.55.107": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "09",
-    "regionName": "Tochigi",
-    "city": "Tochigi",
-    "zip": "328-0011",
-    "lat": 36.3928,
-    "lon": 139.7646,
-    "timezone": "Asia/Tokyo",
-    "isp": "Cable TV Corporation",
-    "org": "Cable TV Corporation",
-    "as": "AS18278 Cable TV Corporation",
-    "query": "118.82.55.107"
-  },
-  "24.130.208.249": {
-    "status": "success",
-    "country": "United States",
-    "countryCode": "US",
-    "region": "CA",
-    "regionName": "California",
-    "city": "Sunnyvale",
-    "zip": "94085",
-    "lat": 37.386,
-    "lon": -122.0144,
-    "timezone": "America/Los_Angeles",
-    "isp": "Comcast Cable Communications",
-    "org": "Comcast Cable Communications Holdings, Inc",
-    "as": "AS7922 Comcast Cable Communications, LLC",
-    "query": "24.130.208.249"
   },
   "174.7.33.45": {
     "status": "success",
