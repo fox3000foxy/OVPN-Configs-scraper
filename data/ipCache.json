@@ -127,6 +127,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.16"
   },
+  "72.196.67.191": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA",
+    "regionName": "California",
+    "city": "Irvine",
+    "zip": "92618",
+    "lat": 33.7074,
+    "lon": -117.7054,
+    "timezone": "America/Los_Angeles",
+    "isp": "Cox Communications Inc.",
+    "org": "Cox Communications",
+    "as": "AS22773 Cox Communications Inc.",
+    "query": "72.196.67.191"
+  },
   "219.100.37.109": {
     "status": "success",
     "country": "Japan",
@@ -158,22 +174,6 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.208"
-  },
-  "72.196.67.191": {
-    "status": "success",
-    "country": "United States",
-    "countryCode": "US",
-    "region": "CA",
-    "regionName": "California",
-    "city": "Irvine",
-    "zip": "92618",
-    "lat": 33.7074,
-    "lon": -117.7054,
-    "timezone": "America/Los_Angeles",
-    "isp": "Cox Communications Inc.",
-    "org": "Cox Communications",
-    "as": "AS22773 Cox Communications Inc.",
-    "query": "72.196.67.191"
   },
   "219.100.37.204": {
     "status": "success",
@@ -222,22 +222,6 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "106.156.91.45"
-  },
-  "60.144.85.226": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan Nation-wide Network of Softbank Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "60.144.85.226"
   },
   "60.122.72.195": {
     "status": "success",
@@ -671,6 +655,22 @@
     "as": "AS8369 Intersvyaz-2 JSC",
     "query": "88.206.13.150"
   },
+  "175.212.255.180": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Seoul",
+    "zip": "04524",
+    "lat": 37.5658,
+    "lon": 126.978,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "175.212.255.180"
+  },
   "113.155.236.250": {
     "status": "success",
     "country": "Japan",
@@ -735,22 +735,6 @@
     "as": "AS38074 SDCC Japan-West Area",
     "query": "103.152.178.62"
   },
-  "122.211.100.57": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "23",
-    "regionName": "Aichi",
-    "city": "Nagoya",
-    "zip": "461-0001",
-    "lat": 35.1796,
-    "lon": 136.9166,
-    "timezone": "Asia/Tokyo",
-    "isp": "ARTERIA Networks Corporation",
-    "org": "UCOM Corporation",
-    "as": "AS17506 ARTERIA Networks Corporation",
-    "query": "122.211.100.57"
-  },
   "42.114.194.57": {
     "status": "success",
     "country": "Vietnam",
@@ -766,6 +750,22 @@
     "org": "Vietnam Internet Network Information Center",
     "as": "AS18403 FPT Telecom Company",
     "query": "42.114.194.57"
+  },
+  "122.211.100.57": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "23",
+    "regionName": "Aichi",
+    "city": "Nagoya",
+    "zip": "461-0001",
+    "lat": 35.1796,
+    "lon": 136.9166,
+    "timezone": "Asia/Tokyo",
+    "isp": "ARTERIA Networks Corporation",
+    "org": "UCOM Corporation",
+    "as": "AS17506 ARTERIA Networks Corporation",
+    "query": "122.211.100.57"
   },
   "61.21.74.112": {
     "status": "success",
@@ -831,22 +831,6 @@
     "as": "AS18126 Chubu Telecommunications Company, Inc.",
     "query": "124.18.97.154"
   },
-  "158.199.108.129": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "21",
-    "regionName": "Gifu",
-    "city": "Takayama",
-    "zip": "506-0021",
-    "lat": 36.1327,
-    "lon": 137.2563,
-    "timezone": "Asia/Tokyo",
-    "isp": "Community Network Center Incorporated.",
-    "org": "",
-    "as": "AS17698 COMMUNITY NETWORK CENTER INCORPORATED.",
-    "query": "158.199.108.129"
-  },
   "126.121.149.77": {
     "status": "success",
     "country": "Japan",
@@ -878,6 +862,22 @@
     "org": "Japan Nation-wide Network of Softbank Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "60.83.105.13"
+  },
+  "158.199.108.129": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "21",
+    "regionName": "Gifu",
+    "city": "Takayama",
+    "zip": "506-0021",
+    "lat": 36.1327,
+    "lon": 137.2563,
+    "timezone": "Asia/Tokyo",
+    "isp": "Community Network Center Incorporated.",
+    "org": "",
+    "as": "AS17698 COMMUNITY NETWORK CENTER INCORPORATED.",
+    "query": "158.199.108.129"
   },
   "130.62.12.39": {
     "status": "success",
@@ -1151,6 +1151,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.174.164.24"
   },
+  "14.35.34.55": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Yeongdeungpo-gu",
+    "zip": "072",
+    "lat": 37.5247,
+    "lon": 126.9133,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "14.35.34.55"
+  },
   "181.94.226.73": {
     "status": "success",
     "country": "Paraguay",
@@ -1214,22 +1230,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "14.48.19.185"
-  },
-  "218.148.114.42": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Bucheon-si",
-    "zip": "144",
-    "lat": 37.5188,
-    "lon": 126.8126,
-    "timezone": "Asia/Seoul",
-    "isp": "KORNET",
-    "org": "jusighwyeusakeiti",
-    "as": "AS4766 Korea Telecom",
-    "query": "218.148.114.42"
   },
   "37.23.100.152": {
     "status": "success",
@@ -1407,6 +1407,22 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "188.18.162.24"
   },
+  "47.32.66.83": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "GA",
+    "regionName": "Georgia",
+    "city": "Columbus",
+    "zip": "31901",
+    "lat": 32.4732,
+    "lon": -84.9754,
+    "timezone": "America/New_York",
+    "isp": "Charter Communications",
+    "org": "Spectrum",
+    "as": "AS20115 Charter Communications LLC",
+    "query": "47.32.66.83"
+  },
   "1.55.222.33": {
     "status": "success",
     "country": "Vietnam",
@@ -1439,21 +1455,21 @@
     "as": "AS138384 Rakuten Mobile Network, Inc.",
     "query": "133.106.142.208"
   },
-  "186.13.209.245": {
+  "37.214.255.160": {
     "status": "success",
-    "country": "Argentina",
-    "countryCode": "AR",
-    "region": "B",
-    "regionName": "Buenos Aires",
-    "city": "Caseros",
-    "zip": "1678",
-    "lat": -34.6005,
-    "lon": -58.5301,
-    "timezone": "America/Argentina/Buenos_Aires",
-    "isp": "Techtel LMDS Comunicaciones Interactivas S.A.",
+    "country": "Belarus",
+    "countryCode": "BY",
+    "region": "HM",
+    "regionName": "Minsk City",
+    "city": "Minsk",
+    "zip": "220006",
+    "lat": 53.901,
+    "lon": 27.5707,
+    "timezone": "Europe/Minsk",
+    "isp": "Republican Unitary Telecommunication Enterprise Beltelecom",
     "org": "",
-    "as": "AS11664 Techtel LMDS Comunicaciones Interactivas S.A.",
-    "query": "186.13.209.245"
+    "as": "AS6697 Republican Unitary Telecommunication Enterprise Beltelecom",
+    "query": "37.214.255.160"
   },
   "41.101.166.26": {
     "status": "success",
