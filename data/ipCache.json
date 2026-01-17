@@ -543,6 +543,22 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "39.111.188.171"
   },
+  "126.79.67.234": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.79.67.234"
+  },
   "101.109.212.215": {
     "status": "success",
     "country": "Thailand",
@@ -671,22 +687,6 @@
     "as": "AS7679 QTnet,Inc.",
     "query": "58.3.255.67"
   },
-  "49.228.235.226": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "10",
-    "regionName": "Bangkok",
-    "city": "Bangkok",
-    "zip": "10110",
-    "lat": 13.7101,
-    "lon": 100.4543,
-    "timezone": "Asia/Bangkok",
-    "isp": "Advanced Wireless Network Company Limited",
-    "org": "AIS Fibre",
-    "as": "AS133481 AIS Fibre",
-    "query": "49.228.235.226"
-  },
   "60.106.138.31": {
     "status": "success",
     "country": "Japan",
@@ -702,6 +702,22 @@
     "org": "Japan Nation-wide Network of Softbank Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "60.106.138.31"
+  },
+  "49.228.235.226": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "10",
+    "regionName": "Bangkok",
+    "city": "Bangkok",
+    "zip": "10110",
+    "lat": 13.7101,
+    "lon": 100.4543,
+    "timezone": "Asia/Bangkok",
+    "isp": "Advanced Wireless Network Company Limited",
+    "org": "AIS Fibre",
+    "as": "AS133481 AIS Fibre",
+    "query": "49.228.235.226"
   },
   "60.127.12.243": {
     "status": "success",
@@ -719,22 +735,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.127.12.243"
   },
-  "184.22.35.120": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "10",
-    "regionName": "Bangkok",
-    "city": "Bangkok",
-    "zip": "10400",
-    "lat": 13.7618,
-    "lon": 100.5324,
-    "timezone": "Asia/Bangkok",
-    "isp": "AIS-Fibre",
-    "org": "",
-    "as": "AS133481 AIS Fibre",
-    "query": "184.22.35.120"
-  },
   "60.132.229.163": {
     "status": "success",
     "country": "Japan",
@@ -750,6 +750,22 @@
     "org": "Japan Nation-wide Network of Softbank Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "60.132.229.163"
+  },
+  "184.22.35.120": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "10",
+    "regionName": "Bangkok",
+    "city": "Bangkok",
+    "zip": "10400",
+    "lat": 13.7618,
+    "lon": 100.5324,
+    "timezone": "Asia/Bangkok",
+    "isp": "AIS-Fibre",
+    "org": "",
+    "as": "AS133481 AIS Fibre",
+    "query": "184.22.35.120"
   },
   "95.52.108.73": {
     "status": "success",
@@ -831,22 +847,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "39.111.1.5"
   },
-  "49.228.101.18": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "10",
-    "regionName": "Bangkok",
-    "city": "Bangkok",
-    "zip": "10400",
-    "lat": 13.7618,
-    "lon": 100.5324,
-    "timezone": "Asia/Bangkok",
-    "isp": "Advanced Wireless Network Company Limited",
-    "org": "AIS Fibre",
-    "as": "AS133481 AIS Fibre",
-    "query": "49.228.101.18"
-  },
   "106.155.97.11": {
     "status": "success",
     "country": "Japan",
@@ -862,22 +862,6 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "106.155.97.11"
-  },
-  "138.64.84.19": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0071",
-    "lat": 35.6837,
-    "lon": 139.6805,
-    "timezone": "Asia/Tokyo",
-    "isp": "ASAHI Net, Inc.",
-    "org": "ASAHI",
-    "as": "AS4685 Asahi Net",
-    "query": "138.64.84.19"
   },
   "121.83.63.217": {
     "status": "success",
@@ -1550,6 +1534,22 @@
     "org": "JSC \"ER-Telecom Holding\" Nizhny Novgorod",
     "as": "AS42682 JSC ER-Telecom Holding",
     "query": "95.79.205.153"
+  },
+  "133.106.32.146": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "11",
+    "regionName": "Saitama",
+    "city": "Sōka",
+    "zip": "340-0043",
+    "lat": 35.8364,
+    "lon": 139.8,
+    "timezone": "Asia/Tokyo",
+    "isp": "Rakuten Mobile, Inc.",
+    "org": "RMN",
+    "as": "AS138384 Rakuten Mobile Network, Inc.",
+    "query": "133.106.32.146"
   },
   "183.82.239.194": {
     "status": "success",
