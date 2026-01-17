@@ -959,22 +959,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "112.171.71.3"
   },
-  "114.173.34.110": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "11",
-    "regionName": "Saitama",
-    "city": "Kawaguchi",
-    "zip": "332-0031",
-    "lat": 35.8147,
-    "lon": 139.7289,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "Open Computer Network",
-    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
-    "query": "114.173.34.110"
-  },
   "133.123.153.65": {
     "status": "success",
     "country": "Japan",
@@ -1295,22 +1279,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "210.100.238.121"
   },
-  "210.126.17.154": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Gwanak-gu",
-    "zip": "087",
-    "lat": 37.4873,
-    "lon": 126.9227,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Korea Telecom",
-    "as": "AS4766 Korea Telecom",
-    "query": "210.126.17.154"
-  },
   "218.235.107.230": {
     "status": "success",
     "country": "South Korea",
@@ -1326,6 +1294,22 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "218.235.107.230"
+  },
+  "210.126.17.154": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Gwanak-gu",
+    "zip": "087",
+    "lat": 37.4873,
+    "lon": 126.9227,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Korea Telecom",
+    "as": "AS4766 Korea Telecom",
+    "query": "210.126.17.154"
   },
   "126.217.14.66": {
     "status": "success",
@@ -1566,6 +1550,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "211.251.31.182"
+  },
+  "221.143.113.9": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "28",
+    "regionName": "Incheon",
+    "city": "Incheon",
+    "zip": "220",
+    "lat": 37.4585,
+    "lon": 126.7015,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "SK Broadband Co Ltd",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "221.143.113.9"
   },
   "76.69.228.15": {
     "status": "success",
