@@ -415,22 +415,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.50"
   },
-  "118.37.36.181": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Gangseo-gu",
-    "zip": "076",
-    "lat": 37.5438,
-    "lon": 126.8538,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "118.37.36.181"
-  },
   "1.66.34.134": {
     "status": "success",
     "country": "Japan",
@@ -447,6 +431,22 @@
     "as": "AS9605 NTT DOCOMO, INC.",
     "query": "1.66.34.134"
   },
+  "118.37.36.181": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Gangseo-gu",
+    "zip": "076",
+    "lat": 37.5438,
+    "lon": 126.8538,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "118.37.36.181"
+  },
   "95.84.132.179": {
     "status": "success",
     "country": "Russia",
@@ -462,6 +462,22 @@
     "org": "",
     "as": "AS42610 PJSC Rostelecom",
     "query": "95.84.132.179"
+  },
+  "114.35.64.20": {
+    "status": "success",
+    "country": "Taiwan",
+    "countryCode": "TW",
+    "region": "NWT",
+    "regionName": "New Taipei City",
+    "city": "New Taipei City",
+    "zip": "",
+    "lat": 25.0693,
+    "lon": 121.4626,
+    "timezone": "Asia/Taipei",
+    "isp": "Chunghwa Telecom Co., Ltd.",
+    "org": "Chunghwa Telecom Co. Ltd.",
+    "as": "AS3462 Data Communication Business Group",
+    "query": "114.35.64.20"
   },
   "211.192.121.212": {
     "status": "success",
@@ -767,22 +783,6 @@
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "61.21.74.112"
   },
-  "202.79.159.167": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "23",
-    "regionName": "Aichi",
-    "city": "Kasugai",
-    "zip": "486-0851",
-    "lat": 35.2547,
-    "lon": 136.9837,
-    "timezone": "Asia/Tokyo",
-    "isp": "Community Network Center Inc.",
-    "org": "CCNW",
-    "as": "AS17698 COMMUNITY NETWORK CENTER INCORPORATED.",
-    "query": "202.79.159.167"
-  },
   "138.64.194.75": {
     "status": "success",
     "country": "Japan",
@@ -798,6 +798,22 @@
     "org": "ASAHI",
     "as": "AS4685 Asahi Net",
     "query": "138.64.194.75"
+  },
+  "202.79.159.167": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "23",
+    "regionName": "Aichi",
+    "city": "Kasugai",
+    "zip": "486-0851",
+    "lat": 35.2547,
+    "lon": 136.9837,
+    "timezone": "Asia/Tokyo",
+    "isp": "Community Network Center Inc.",
+    "org": "CCNW",
+    "as": "AS17698 COMMUNITY NETWORK CENTER INCORPORATED.",
+    "query": "202.79.159.167"
   },
   "124.18.97.154": {
     "status": "success",
@@ -991,22 +1007,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "221.44.227.125"
   },
-  "133.218.174.211": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0071",
-    "lat": 35.6837,
-    "lon": 139.6805,
-    "timezone": "Asia/Tokyo",
-    "isp": "Internet Initiative Japan Inc.",
-    "org": "Rikei Corporation",
-    "as": "AS2497 Internet Initiative Japan Inc.",
-    "query": "133.218.174.211"
-  },
   "222.102.49.72": {
     "status": "success",
     "country": "South Korea",
@@ -1071,22 +1071,6 @@
     "as": "AS18403 FPT Telecom Company",
     "query": "42.117.149.19"
   },
-  "126.54.185.26": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.54.185.26"
-  },
   "46.53.246.155": {
     "status": "success",
     "country": "Belarus",
@@ -1102,6 +1086,22 @@
     "org": "Atlanttelecomendusers",
     "as": "AS42772 Unitary enterprise A1",
     "query": "46.53.246.155"
+  },
+  "126.54.185.26": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.54.185.26"
   },
   "118.86.155.227": {
     "status": "success",
@@ -1150,6 +1150,22 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "121.174.164.24"
+  },
+  "181.94.226.73": {
+    "status": "success",
+    "country": "Paraguay",
+    "countryCode": "PY",
+    "region": "ASU",
+    "regionName": "Asunción",
+    "city": "Asunción",
+    "zip": "",
+    "lat": -25.2869,
+    "lon": -57.6511,
+    "timezone": "America/Asuncion",
+    "isp": "Núcleo S.A.",
+    "org": "Telecom Personal Bs",
+    "as": "AS27895 Núcleo S.A.",
+    "query": "181.94.226.73"
   },
   "93.100.140.41": {
     "status": "success",
@@ -1262,22 +1278,6 @@
     "org": "Telezon",
     "as": "AS34858 Telezon-Seti LLC",
     "query": "192.145.96.207"
-  },
-  "38.25.53.144": {
-    "status": "success",
-    "country": "Peru",
-    "countryCode": "PE",
-    "region": "LMA",
-    "regionName": "Lima Province",
-    "city": "Lima",
-    "zip": "",
-    "lat": -12.046,
-    "lon": -77.0305,
-    "timezone": "America/Lima",
-    "isp": "WI-NET Telecom SAC",
-    "org": "WI-NET Telecom SAC",
-    "as": "AS265691 WI-NET TELECOM S.A.C.",
-    "query": "38.25.53.144"
   },
   "73.189.58.7": {
     "status": "success",
@@ -1454,22 +1454,6 @@
     "org": "",
     "as": "AS11664 Techtel LMDS Comunicaciones Interactivas S.A.",
     "query": "186.13.209.245"
-  },
-  "37.214.255.160": {
-    "status": "success",
-    "country": "Belarus",
-    "countryCode": "BY",
-    "region": "HM",
-    "regionName": "Minsk City",
-    "city": "Minsk",
-    "zip": "220006",
-    "lat": 53.901,
-    "lon": 27.5707,
-    "timezone": "Europe/Minsk",
-    "isp": "Republican Unitary Telecommunication Enterprise Beltelecom",
-    "org": "",
-    "as": "AS6697 Republican Unitary Telecommunication Enterprise Beltelecom",
-    "query": "37.214.255.160"
   },
   "41.101.166.26": {
     "status": "success",
