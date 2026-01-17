@@ -239,6 +239,22 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.113.239.82"
   },
+  "180.68.118.32": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Busan",
+    "zip": "462",
+    "lat": 35.2582,
+    "lon": 129.0948,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "180.68.118.32"
+  },
   "1.246.154.63": {
     "status": "success",
     "country": "South Korea",
@@ -270,22 +286,6 @@
     "org": "LG POWERCOMM",
     "as": "AS17858 LG POWERCOMM",
     "query": "180.229.33.160"
-  },
-  "180.68.118.32": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "26",
-    "regionName": "Busan",
-    "city": "Busan",
-    "zip": "462",
-    "lat": 35.2582,
-    "lon": 129.0948,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "180.68.118.32"
   },
   "60.36.150.117": {
     "status": "success",
@@ -1407,22 +1407,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "61.105.119.213"
   },
-  "39.114.102.23": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "29",
-    "regionName": "Gwangju",
-    "city": "Dong-gu",
-    "zip": "614",
-    "lat": 35.1496,
-    "lon": 126.9156,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "39.114.102.23"
-  },
   "175.210.229.68": {
     "status": "success",
     "country": "South Korea",
@@ -1566,6 +1550,22 @@
     "org": "TDS TELECOM",
     "as": "AS4181 TDS TELECOM",
     "query": "135.134.142.196"
+  },
+  "188.133.216.115": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "ALT",
+    "regionName": "Altai Krai",
+    "city": "Barnaul",
+    "zip": "656002",
+    "lat": 53.362,
+    "lon": 83.7279,
+    "timezone": "Asia/Barnaul",
+    "isp": "ENTER-NETWORK",
+    "org": "Enter, LLC",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "188.133.216.115"
   },
   "124.187.234.189": {
     "status": "success",
