@@ -895,6 +895,22 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "220.57.96.201"
   },
+  "134.180.165.217": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "ARTERIA Networks Corporation",
+    "org": "Rakuten Mobile, Inc.",
+    "as": "AS2519 ARTERIA Networks Corporation",
+    "query": "134.180.165.217"
+  },
   "203.153.79.138": {
     "status": "success",
     "country": "Japan",
@@ -926,22 +942,6 @@
     "org": "Korea Telecom",
     "as": "AS4766 Korea Telecom",
     "query": "121.175.33.43"
-  },
-  "134.180.165.217": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "ARTERIA Networks Corporation",
-    "org": "Rakuten Mobile, Inc.",
-    "as": "AS2519 ARTERIA Networks Corporation",
-    "query": "134.180.165.217"
   },
   "59.133.51.161": {
     "status": "success",
@@ -1503,22 +1503,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "90.189.217.65"
   },
-  "24.4.74.187": {
-    "status": "success",
-    "country": "United States",
-    "countryCode": "US",
-    "region": "CA",
-    "regionName": "California",
-    "city": "San Mateo",
-    "zip": "94403",
-    "lat": 37.5428,
-    "lon": -122.2971,
-    "timezone": "America/Los_Angeles",
-    "isp": "Comcast Cable Communications, LLC",
-    "org": "Comcast Cable Communications",
-    "as": "AS7922 Comcast Cable Communications, LLC",
-    "query": "24.4.74.187"
-  },
   "183.96.136.28": {
     "status": "success",
     "country": "South Korea",
@@ -1534,6 +1518,22 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "183.96.136.28"
+  },
+  "24.4.74.187": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA",
+    "regionName": "California",
+    "city": "San Mateo",
+    "zip": "94403",
+    "lat": 37.5428,
+    "lon": -122.2971,
+    "timezone": "America/Los_Angeles",
+    "isp": "Comcast Cable Communications, LLC",
+    "org": "Comcast Cable Communications",
+    "as": "AS7922 Comcast Cable Communications, LLC",
+    "query": "24.4.74.187"
   },
   "88.200.233.160": {
     "status": "success",
