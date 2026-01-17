@@ -831,6 +831,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "59.9.4.63"
   },
+  "223.207.218.246": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "60",
+    "regionName": "Nakhon Sawan",
+    "city": "Nakhon Sawan",
+    "zip": "60000",
+    "lat": 15.6868,
+    "lon": 100.1151,
+    "timezone": "Asia/Bangkok",
+    "isp": "Triple T Broadband Public Company Limited",
+    "org": "Triple T Broadband Public Company Limited",
+    "as": "AS45758 Triple T Broadband Public Company Limited",
+    "query": "223.207.218.246"
+  },
   "159.253.170.32": {
     "status": "success",
     "country": "Russia",
@@ -895,22 +911,6 @@
     "as": "AS55392 INTERNET MULTIFEED CO.",
     "query": "217.178.195.13"
   },
-  "222.101.121.196": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Goyang-si",
-    "zip": "10461",
-    "lat": 37.661,
-    "lon": 126.8324,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "222.101.121.196"
-  },
   "121.141.149.105": {
     "status": "success",
     "country": "South Korea",
@@ -959,22 +959,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.100.196.98"
   },
-  "49.228.170.131": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "10",
-    "regionName": "Bangkok",
-    "city": "Bangkok",
-    "zip": "10330",
-    "lat": 13.7749,
-    "lon": 100.5197,
-    "timezone": "Asia/Bangkok",
-    "isp": "Advanced Wireless Network Company Limited",
-    "org": "AIS Fibre",
-    "as": "AS133481 AIS Fibre",
-    "query": "49.228.170.131"
-  },
   "126.241.23.14": {
     "status": "success",
     "country": "Japan",
@@ -990,6 +974,22 @@
     "org": "SOFTBANK Corp",
     "as": "AS17676 SoftBank Corp.",
     "query": "126.241.23.14"
+  },
+  "49.228.170.131": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "10",
+    "regionName": "Bangkok",
+    "city": "Bangkok",
+    "zip": "10330",
+    "lat": 13.7749,
+    "lon": 100.5197,
+    "timezone": "Asia/Bangkok",
+    "isp": "Advanced Wireless Network Company Limited",
+    "org": "AIS Fibre",
+    "as": "AS133481 AIS Fibre",
+    "query": "49.228.170.131"
   },
   "184.22.220.217": {
     "status": "success",
@@ -1199,22 +1199,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "59.0.93.49"
   },
-  "61.76.231.181": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "48",
-    "regionName": "Gyeongsangnam-do",
-    "city": "Changwon",
-    "zip": "516",
-    "lat": 35.138,
-    "lon": 128.7034,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "61.76.231.181"
-  },
   "210.104.241.53": {
     "status": "success",
     "country": "South Korea",
@@ -1230,6 +1214,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "210.104.241.53"
+  },
+  "61.76.231.181": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "48",
+    "regionName": "Gyeongsangnam-do",
+    "city": "Changwon",
+    "zip": "516",
+    "lat": 35.138,
+    "lon": 128.7034,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "61.76.231.181"
   },
   "61.77.207.247": {
     "status": "success",
@@ -1439,6 +1439,22 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "222.236.200.106"
   },
+  "116.121.181.6": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Suwon",
+    "zip": "165",
+    "lat": 37.2677,
+    "lon": 127.0457,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "116.121.181.6"
+  },
   "61.81.62.93": {
     "status": "success",
     "country": "South Korea",
@@ -1503,22 +1519,6 @@
     "as": "AS50427 Orion Telecom LLC",
     "query": "176.116.186.64"
   },
-  "211.251.31.182": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Goyang-si",
-    "zip": "105",
-    "lat": 37.6468,
-    "lon": 126.8843,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "211.251.31.182"
-  },
   "221.143.113.9": {
     "status": "success",
     "country": "South Korea",
@@ -1535,6 +1535,22 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "221.143.113.9"
   },
+  "211.251.31.182": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Goyang-si",
+    "zip": "105",
+    "lat": 37.6468,
+    "lon": 126.8843,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "211.251.31.182"
+  },
   "113.22.165.253": {
     "status": "success",
     "country": "Vietnam",
@@ -1550,22 +1566,6 @@
     "org": "Vietnam Internet Network Information Center",
     "as": "AS18403 FPT Telecom Company",
     "query": "113.22.165.253"
-  },
-  "180.68.163.145": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Paju",
-    "zip": "109",
-    "lat": 37.7191,
-    "lon": 126.7615,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "180.68.163.145"
   },
   "174.7.33.45": {
     "status": "success",
