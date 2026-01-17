@@ -47,22 +47,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.82"
   },
-  "219.100.37.126": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftEther",
-    "org": "SoftEther Corporation",
-    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.126"
-  },
   "219.100.37.4": {
     "status": "success",
     "country": "Japan",
@@ -79,7 +63,7 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.4"
   },
-  "219.100.37.15": {
+  "219.100.37.126": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
@@ -93,7 +77,7 @@
     "isp": "SoftEther",
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.15"
+    "query": "219.100.37.126"
   },
   "219.100.37.16": {
     "status": "success",
@@ -110,6 +94,22 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.16"
+  },
+  "219.100.37.15": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftEther",
+    "org": "SoftEther Corporation",
+    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
+    "query": "219.100.37.15"
   },
   "219.100.37.109": {
     "status": "success",
