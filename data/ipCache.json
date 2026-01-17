@@ -1039,22 +1039,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "112.171.71.3"
   },
-  "126.141.88.74": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.141.88.74"
-  },
   "126.217.14.66": {
     "status": "success",
     "country": "Japan",
@@ -1070,6 +1054,22 @@
     "org": "SOFTBANK Corp",
     "as": "AS17676 SoftBank Corp.",
     "query": "126.217.14.66"
+  },
+  "126.141.88.74": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.141.88.74"
   },
   "184.22.220.217": {
     "status": "success",
@@ -1391,22 +1391,6 @@
     "as": "AS28840 PJSC \"TATTELECOM\"",
     "query": "178.204.45.150"
   },
-  "125.131.231.62": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Gangdong-gu",
-    "zip": "052",
-    "lat": 37.5554,
-    "lon": 127.1515,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Sudogwongangnambonbujang",
-    "as": "AS4766 Korea Telecom",
-    "query": "125.131.231.62"
-  },
   "211.204.251.153": {
     "status": "success",
     "country": "South Korea",
@@ -1422,6 +1406,22 @@
     "org": "SK Broadband Co Ltd",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "211.204.251.153"
+  },
+  "125.131.231.62": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Gangdong-gu",
+    "zip": "052",
+    "lat": 37.5554,
+    "lon": 127.1515,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Sudogwongangnambonbujang",
+    "as": "AS4766 Korea Telecom",
+    "query": "125.131.231.62"
   },
   "61.74.154.126": {
     "status": "success",
