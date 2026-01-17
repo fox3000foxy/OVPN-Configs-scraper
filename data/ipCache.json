@@ -1519,21 +1519,21 @@
     "as": "AS39102 Global Network Management Inc",
     "query": "213.21.26.24"
   },
-  "93.177.17.221": {
+  "109.161.91.226": {
     "status": "success",
     "country": "Russia",
     "countryCode": "RU",
-    "region": "SAK",
-    "regionName": "Sakhalin Oblast",
-    "city": "Okha",
-    "zip": "694490",
-    "lat": 53.594,
-    "lon": 142.9528,
-    "timezone": "Asia/Sakhalin",
+    "region": "YAR",
+    "regionName": "Yaroslavl Oblast",
+    "city": "Lyubim",
+    "zip": "152470",
+    "lat": 58.3669,
+    "lon": 40.6852,
+    "timezone": "Europe/Moscow",
     "isp": "Rostelecom networks",
-    "org": "",
+    "org": "OJSC Rostelecom",
     "as": "AS12389 PJSC Rostelecom",
-    "query": "93.177.17.221"
+    "query": "109.161.91.226"
   },
   "183.82.239.194": {
     "status": "success",
