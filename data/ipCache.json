@@ -735,6 +735,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "119.205.75.134"
   },
+  "218.154.111.211": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "31",
+    "regionName": "Ulsan",
+    "city": "Nam-gu",
+    "zip": "446",
+    "lat": 35.5335,
+    "lon": 129.3173,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "218.154.111.211"
+  },
   "121.83.51.37": {
     "status": "success",
     "country": "Japan",
@@ -863,22 +879,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.110.16.61"
   },
-  "39.111.161.168": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Kawasaki",
-    "zip": "210-0831",
-    "lat": 35.5315,
-    "lon": 139.7259,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc.",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "39.111.161.168"
-  },
   "110.2.200.150": {
     "status": "success",
     "country": "Japan",
@@ -894,6 +894,22 @@
     "org": "STNet",
     "as": "AS7522 STNet, Incorporated",
     "query": "110.2.200.150"
+  },
+  "39.111.161.168": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Kawasaki",
+    "zip": "210-0831",
+    "lat": 35.5315,
+    "lon": 139.7259,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc.",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "39.111.161.168"
   },
   "126.125.49.30": {
     "status": "success",
@@ -1055,22 +1071,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "59.140.6.12"
   },
-  "49.228.67.156": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "10",
-    "regionName": "Bangkok",
-    "city": "Bangkok",
-    "zip": "10260",
-    "lat": 13.6687,
-    "lon": 100.579,
-    "timezone": "Asia/Bangkok",
-    "isp": "Advanced Wireless Network Company Limited",
-    "org": "AIS Fibre",
-    "as": "AS133481 AIS Fibre",
-    "query": "49.228.67.156"
-  },
   "175.129.80.214": {
     "status": "success",
     "country": "Japan",
@@ -1102,6 +1102,22 @@
     "org": "Shaw Communications",
     "as": "AS6327 Shaw Communications",
     "query": "70.77.244.177"
+  },
+  "49.228.67.156": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "10",
+    "regionName": "Bangkok",
+    "city": "Bangkok",
+    "zip": "10260",
+    "lat": 13.6687,
+    "lon": 100.579,
+    "timezone": "Asia/Bangkok",
+    "isp": "Advanced Wireless Network Company Limited",
+    "org": "AIS Fibre",
+    "as": "AS133481 AIS Fibre",
+    "query": "49.228.67.156"
   },
   "222.14.30.197": {
     "status": "success",
@@ -1550,22 +1566,6 @@
     "org": "Comcast Cable Communications, Inc.",
     "as": "AS7922 Comcast Cable Communications, LLC",
     "query": "98.237.195.169"
-  },
-  "135.134.142.196": {
-    "status": "success",
-    "country": "United States",
-    "countryCode": "US",
-    "region": "WA",
-    "regionName": "Washington",
-    "city": "Spokane",
-    "zip": "99209",
-    "lat": 47.6597,
-    "lon": -117.4291,
-    "timezone": "America/Los_Angeles",
-    "isp": "TDS TELECOM",
-    "org": "TDS TELECOM",
-    "as": "AS4181 TDS TELECOM",
-    "query": "135.134.142.196"
   },
   "76.69.228.15": {
     "status": "success",
