@@ -1503,22 +1503,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "183.96.136.28"
   },
-  "2.61.153.2": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KK",
-    "regionName": "Khakasiya Republic",
-    "city": "Abakan",
-    "zip": "655000",
-    "lat": 53.72,
-    "lon": 91.4324,
-    "timezone": "Asia/Krasnoyarsk",
-    "isp": "Rostelecom networks",
-    "org": "OJSC Sibirtelecom",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "2.61.153.2"
-  },
   "24.4.74.187": {
     "status": "success",
     "country": "United States",
@@ -1534,6 +1518,22 @@
     "org": "Comcast Cable Communications",
     "as": "AS7922 Comcast Cable Communications, LLC",
     "query": "24.4.74.187"
+  },
+  "2.61.153.2": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KK",
+    "regionName": "Khakasiya Republic",
+    "city": "Abakan",
+    "zip": "655000",
+    "lat": 53.72,
+    "lon": 91.4324,
+    "timezone": "Asia/Krasnoyarsk",
+    "isp": "Rostelecom networks",
+    "org": "OJSC Sibirtelecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "2.61.153.2"
   },
   "88.200.233.160": {
     "status": "success",
