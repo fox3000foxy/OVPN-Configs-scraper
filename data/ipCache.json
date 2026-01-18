@@ -447,22 +447,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "92.126.119.51"
   },
-  "221.45.99.215": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan nation-wide Network of SOFTBANK BB Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "221.45.99.215"
-  },
   "171.7.15.88": {
     "status": "success",
     "country": "Thailand",
@@ -478,6 +462,22 @@
     "org": "Triple T Broadband Public Company Limited",
     "as": "AS45758 Triple T Broadband Public Company Limited",
     "query": "171.7.15.88"
+  },
+  "221.45.99.215": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan nation-wide Network of SOFTBANK BB Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "221.45.99.215"
   },
   "160.13.103.69": {
     "status": "success",
@@ -911,22 +911,6 @@
     "as": "AS9997 Suzuka Cable Co.,Ltd",
     "query": "218.226.10.235"
   },
-  "42.117.129.228": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "HN",
-    "regionName": "Hanoi",
-    "city": "Hanoi",
-    "zip": "100000",
-    "lat": 21.0184,
-    "lon": 105.8461,
-    "timezone": "Asia/Bangkok",
-    "isp": "FPT Telecom Company",
-    "org": "Vietnam Internet Network Information Center",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "42.117.129.228"
-  },
   "218.41.143.69": {
     "status": "success",
     "country": "Japan",
@@ -942,6 +926,22 @@
     "org": "",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "218.41.143.69"
+  },
+  "42.117.129.228": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "HN",
+    "regionName": "Hanoi",
+    "city": "Hanoi",
+    "zip": "100000",
+    "lat": 21.0184,
+    "lon": 105.8461,
+    "timezone": "Asia/Bangkok",
+    "isp": "FPT Telecom Company",
+    "org": "Vietnam Internet Network Information Center",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "42.117.129.228"
   },
   "126.90.30.188": {
     "status": "success",
@@ -1295,22 +1295,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.121.99.118"
   },
-  "61.74.154.126": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Seocho-gu",
-    "zip": "065",
-    "lat": 37.5015,
-    "lon": 127.0013,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "61.74.154.126"
-  },
   "111.94.109.219": {
     "status": "success",
     "country": "Indonesia",
@@ -1326,6 +1310,22 @@
     "org": "FastNet",
     "as": "AS23700 Linknet-Fastnet ASN",
     "query": "111.94.109.219"
+  },
+  "61.74.154.126": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Seocho-gu",
+    "zip": "065",
+    "lat": 37.5015,
+    "lon": 127.0013,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "61.74.154.126"
   },
   "118.240.68.160": {
     "status": "success",
@@ -1567,21 +1567,21 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "180.68.163.145"
   },
-  "115.128.200.198": {
+  "73.11.130.21": {
     "status": "success",
-    "country": "Australia",
-    "countryCode": "AU",
-    "region": "NSW",
-    "regionName": "New South Wales",
-    "city": "Sydney",
-    "zip": "2048",
-    "lat": -33.8914,
-    "lon": 151.1654,
-    "timezone": "Australia/Sydney",
-    "isp": "TPG Internet Pty Ltd",
-    "org": "Vodafone Australia Pty Ltd",
-    "as": "AS7545 TPG Telecom Limited",
-    "query": "115.128.200.198"
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WA",
+    "regionName": "Washington",
+    "city": "Sammamish",
+    "zip": "98074",
+    "lat": 47.626,
+    "lon": -122.0404,
+    "timezone": "America/Los_Angeles",
+    "isp": "Comcast Cable Communications, LLC",
+    "org": "Comcast Cable Communications, LLC",
+    "as": "AS7922 Comcast Cable Communications, LLC",
+    "query": "73.11.130.21"
   },
   "174.7.33.45": {
     "status": "success",
