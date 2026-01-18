@@ -623,6 +623,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "221.155.13.133"
   },
+  "118.39.121.143": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Geumjeong-gu",
+    "zip": "463",
+    "lat": 35.2582,
+    "lon": 129.0948,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "118.39.121.143"
+  },
   "121.162.135.220": {
     "status": "success",
     "country": "South Korea",
@@ -1279,22 +1295,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "61.79.206.176"
   },
-  "222.104.120.218": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "47",
-    "regionName": "Gyeongsangbuk-do",
-    "city": "Yeongju",
-    "zip": "360",
-    "lat": 36.8226,
-    "lon": 128.6274,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "222.104.120.218"
-  },
   "211.44.188.45": {
     "status": "success",
     "country": "South Korea",
@@ -1310,6 +1310,22 @@
     "org": "SK Broadband Co Ltd",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "211.44.188.45"
+  },
+  "222.104.120.218": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "47",
+    "regionName": "Gyeongsangbuk-do",
+    "city": "Yeongju",
+    "zip": "360",
+    "lat": 36.8226,
+    "lon": 128.6274,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "222.104.120.218"
   },
   "68.147.134.46": {
     "status": "success",
@@ -1327,22 +1343,6 @@
     "as": "AS6327 Shaw Communications",
     "query": "68.147.134.46"
   },
-  "2.63.0.95": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KYA",
-    "regionName": "Krasnoyarsk Krai",
-    "city": "Krasnoyarsk",
-    "zip": "660049",
-    "lat": 56.0374,
-    "lon": 92.9314,
-    "timezone": "Asia/Krasnoyarsk",
-    "isp": "Rostelecom networks",
-    "org": "OJSC Sibirtelecom",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "2.63.0.95"
-  },
   "219.241.104.116": {
     "status": "success",
     "country": "South Korea",
@@ -1358,6 +1358,22 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "219.241.104.116"
+  },
+  "2.63.0.95": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KYA",
+    "regionName": "Krasnoyarsk Krai",
+    "city": "Krasnoyarsk",
+    "zip": "660049",
+    "lat": 56.0374,
+    "lon": 92.9314,
+    "timezone": "Asia/Krasnoyarsk",
+    "isp": "Rostelecom networks",
+    "org": "OJSC Sibirtelecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "2.63.0.95"
   },
   "121.154.21.199": {
     "status": "success",
@@ -1550,22 +1566,6 @@
     "org": "Cox Communications Inc.",
     "as": "AS22773 Cox Communications Inc.",
     "query": "98.164.168.108"
-  },
-  "210.204.192.114": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Pyeongtaek-si",
-    "zip": "178",
-    "lat": 37.0009,
-    "lon": 127.0859,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "210.204.192.114"
   },
   "111.95.79.75": {
     "status": "success",
