@@ -511,22 +511,6 @@
     "as": "AS2519 ARTERIA Networks Corporation",
     "query": "133.32.235.215"
   },
-  "60.105.147.180": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan Nation-wide Network of Softbank Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "60.105.147.180"
-  },
   "119.47.102.55": {
     "status": "success",
     "country": "Japan",
@@ -542,6 +526,22 @@
     "org": "Okayama Network Inc.",
     "as": "AS18129 OKAYAMA NETWORK INC.",
     "query": "119.47.102.55"
+  },
+  "60.105.147.180": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.105.147.180"
   },
   "92.202.59.17": {
     "status": "success",
@@ -1487,22 +1487,6 @@
     "as": "AS47759 POIG Ltd.",
     "query": "178.173.99.148"
   },
-  "114.186.164.194": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Higashirinkan",
-    "zip": "252-0311",
-    "lat": 35.5197,
-    "lon": 139.4335,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "NTT Communications Corporation",
-    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
-    "query": "114.186.164.194"
-  },
   "213.18.111.107": {
     "status": "success",
     "country": "Japan",
@@ -1550,6 +1534,22 @@
     "org": "KORNET",
     "as": "AS4766 Korea Telecom",
     "query": "220.82.221.195"
+  },
+  "159.28.134.154": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Seishin",
+    "zip": "252-0211",
+    "lat": 35.5943,
+    "lon": 139.3714,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "159.28.134.154"
   },
   "219.100.37.176": {
     "status": "success",
