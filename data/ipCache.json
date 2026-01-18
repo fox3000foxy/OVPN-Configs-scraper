@@ -175,22 +175,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "120.75.146.85"
   },
-  "60.36.150.117": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Miharadai",
-    "zip": "590-0111",
-    "lat": 34.4996,
-    "lon": 135.5485,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "NTT Communications Corporation",
-    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
-    "query": "60.36.150.117"
-  },
   "60.144.85.226": {
     "status": "success",
     "country": "Japan",
@@ -206,6 +190,22 @@
     "org": "Japan Nation-wide Network of Softbank Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "60.144.85.226"
+  },
+  "60.36.150.117": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Miharadai",
+    "zip": "590-0111",
+    "lat": 34.4996,
+    "lon": 135.5485,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "NTT Communications Corporation",
+    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
+    "query": "60.36.150.117"
   },
   "133.202.180.143": {
     "status": "success",
@@ -639,22 +639,6 @@
     "as": "AS45758 Triple T Broadband Public Company Limited",
     "query": "49.48.148.44"
   },
-  "59.28.247.22": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "48",
-    "regionName": "Gyeongsangnam-do",
-    "city": "Jinju",
-    "zip": "526",
-    "lat": 35.1684,
-    "lon": 128.031,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "59.28.247.22"
-  },
   "115.65.23.149": {
     "status": "success",
     "country": "Japan",
@@ -911,22 +895,6 @@
     "as": "AS18403 FPT Telecom Company",
     "query": "42.117.149.19"
   },
-  "222.111.19.158": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Nowon-gu",
-    "zip": "018",
-    "lat": 37.6289,
-    "lon": 127.0648,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Korea Telecom",
-    "as": "AS4766 Korea Telecom",
-    "query": "222.111.19.158"
-  },
   "184.22.231.72": {
     "status": "success",
     "country": "Thailand",
@@ -958,6 +926,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "220.125.51.211"
+  },
+  "222.111.19.158": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Nowon-gu",
+    "zip": "018",
+    "lat": 37.6289,
+    "lon": 127.0648,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Korea Telecom",
+    "as": "AS4766 Korea Telecom",
+    "query": "222.111.19.158"
   },
   "121.183.242.194": {
     "status": "success",
@@ -1310,6 +1294,22 @@
     "org": "JSC Ufanet",
     "as": "AS41704 JSC Ufanet",
     "query": "95.105.125.62"
+  },
+  "71.57.50.63": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IL",
+    "regionName": "Illinois",
+    "city": "Des Plaines",
+    "zip": "60016",
+    "lat": 42.0487,
+    "lon": -87.8905,
+    "timezone": "America/Chicago",
+    "isp": "Comcast Cable Communications",
+    "org": "Comcast Cable Communications Holdings, Inc",
+    "as": "AS7922 Comcast Cable Communications, LLC",
+    "query": "71.57.50.63"
   },
   "47.32.66.83": {
     "status": "success",
