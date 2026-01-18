@@ -1167,22 +1167,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "106.136.145.112"
   },
-  "122.196.181.217": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Bandai",
-    "zip": "558-0051",
-    "lat": 34.6206,
-    "lon": 135.4992,
-    "timezone": "Asia/Tokyo",
-    "isp": "OCCN",
-    "org": "Jupiter Telecommunications Co., Ltd.",
-    "as": "AS9617 JCOM Co., Ltd.",
-    "query": "122.196.181.217"
-  },
   "14.39.212.190": {
     "status": "success",
     "country": "South Korea",
@@ -1231,22 +1215,6 @@
     "as": "AS9365 its communications Inc.",
     "query": "175.177.44.75"
   },
-  "27.133.182.145": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "34",
-    "regionName": "Hiroshima",
-    "city": "Fukuyama",
-    "zip": "720-0801",
-    "lat": 34.4859,
-    "lon": 133.3796,
-    "timezone": "Asia/Tokyo",
-    "isp": "Enecom, Inc.",
-    "org": "Energia Communications, Inc.",
-    "as": "AS18144 Enecom,Inc.",
-    "query": "27.133.182.145"
-  },
   "175.128.3.61": {
     "status": "success",
     "country": "Japan",
@@ -1262,6 +1230,22 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "175.128.3.61"
+  },
+  "27.133.182.145": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "34",
+    "regionName": "Hiroshima",
+    "city": "Fukuyama",
+    "zip": "720-0801",
+    "lat": 34.4859,
+    "lon": 133.3796,
+    "timezone": "Asia/Tokyo",
+    "isp": "Enecom, Inc.",
+    "org": "Energia Communications, Inc.",
+    "as": "AS18144 Enecom,Inc.",
+    "query": "27.133.182.145"
   },
   "126.224.84.232": {
     "status": "success",
@@ -1550,6 +1534,22 @@
     "org": "Axioma, LLC",
     "as": "AS39785 Axioma, LLC",
     "query": "93.159.240.248"
+  },
+  "77.35.113.231": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Ussuriysk",
+    "zip": "692500",
+    "lat": 43.8008,
+    "lon": 131.9459,
+    "timezone": "Asia/Vladivostok",
+    "isp": "PRIMORYE",
+    "org": "",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "77.35.113.231"
   },
   "186.13.209.137": {
     "status": "success",
