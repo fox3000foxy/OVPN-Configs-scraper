@@ -319,22 +319,6 @@
     "as": "AS45758 Triple T Broadband Public Company Limited",
     "query": "171.4.225.173"
   },
-  "211.112.158.69": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Yongsan-dong",
-    "zip": "04371",
-    "lat": 37.5379,
-    "lon": 126.97,
-    "timezone": "Asia/Seoul",
-    "isp": "LG HelloVision Corp.",
-    "org": "Pubnetplus",
-    "as": "AS9770 LG HelloVision Corp.",
-    "query": "211.112.158.69"
-  },
   "1.66.34.134": {
     "status": "success",
     "country": "Japan",
@@ -350,6 +334,22 @@
     "org": "NTTDoCoMo",
     "as": "AS9605 NTT DOCOMO, INC.",
     "query": "1.66.34.134"
+  },
+  "211.112.158.69": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Yongsan-dong",
+    "zip": "04371",
+    "lat": 37.5379,
+    "lon": 126.97,
+    "timezone": "Asia/Seoul",
+    "isp": "LG HelloVision Corp.",
+    "org": "Pubnetplus",
+    "as": "AS9770 LG HelloVision Corp.",
+    "query": "211.112.158.69"
   },
   "14.45.164.190": {
     "status": "success",
@@ -735,22 +735,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.40.131.146"
   },
-  "95.52.108.73": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KGD",
-    "regionName": "Kaliningrad Oblast",
-    "city": "Kaliningrad",
-    "zip": "236029",
-    "lat": 54.7065,
-    "lon": 20.511,
-    "timezone": "Europe/Kaliningrad",
-    "isp": "PJSC \"Rostelecom\" North-West region",
-    "org": "OJSC North-West Telecom",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "95.52.108.73"
-  },
   "222.103.51.42": {
     "status": "success",
     "country": "South Korea",
@@ -766,6 +750,22 @@
     "org": "Korea Telecom",
     "as": "AS4766 Korea Telecom",
     "query": "222.103.51.42"
+  },
+  "95.52.108.73": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KGD",
+    "regionName": "Kaliningrad Oblast",
+    "city": "Kaliningrad",
+    "zip": "236029",
+    "lat": 54.7065,
+    "lon": 20.511,
+    "timezone": "Europe/Kaliningrad",
+    "isp": "PJSC \"Rostelecom\" North-West region",
+    "org": "OJSC North-West Telecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "95.52.108.73"
   },
   "49.228.101.108": {
     "status": "success",
@@ -863,22 +863,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "61.83.2.222"
   },
-  "112.160.139.229": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "48",
-    "regionName": "Gyeongsangnam-do",
-    "city": "Changwon",
-    "zip": "511",
-    "lat": 35.2733,
-    "lon": 128.653,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Busanbonbu(saeop)",
-    "as": "AS4766 Korea Telecom",
-    "query": "112.160.139.229"
-  },
   "121.164.172.207": {
     "status": "success",
     "country": "South Korea",
@@ -910,6 +894,22 @@
     "org": "",
     "as": "AS133481 AIS Fibre",
     "query": "49.228.238.121"
+  },
+  "203.175.32.228": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Seo-gu",
+    "zip": "492",
+    "lat": 35.1231,
+    "lon": 129.0184,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS17573 SK Broadband Co Ltd",
+    "query": "203.175.32.228"
   },
   "111.107.47.57": {
     "status": "success",
@@ -1135,22 +1135,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "14.42.6.25"
   },
-  "220.94.255.219": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Anyang-si",
-    "zip": "139",
-    "lat": 37.4027,
-    "lon": 126.9257,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "220.94.255.219"
-  },
   "122.39.18.185": {
     "status": "success",
     "country": "South Korea",
@@ -1166,6 +1150,22 @@
     "org": "Xpeed",
     "as": "AS17858 LG POWERCOMM",
     "query": "122.39.18.185"
+  },
+  "220.94.255.219": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Anyang-si",
+    "zip": "139",
+    "lat": 37.4027,
+    "lon": 126.9257,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "220.94.255.219"
   },
   "211.7.96.227": {
     "status": "success",
@@ -1215,22 +1215,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "211.222.41.204"
   },
-  "2.60.69.163": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "OMS",
-    "regionName": "Omsk Oblast",
-    "city": "Omsk",
-    "zip": "644000",
-    "lat": 54.9896,
-    "lon": 73.3729,
-    "timezone": "Asia/Omsk",
-    "isp": "JSC Rostelecom regional branch \"Siberia\"",
-    "org": "OJSC Sibirtelecom",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "2.60.69.163"
-  },
   "182.172.122.57": {
     "status": "success",
     "country": "South Korea",
@@ -1246,6 +1230,22 @@
     "org": "Dlive",
     "as": "AS10036 DLIVE",
     "query": "182.172.122.57"
+  },
+  "2.60.69.163": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "OMS",
+    "regionName": "Omsk Oblast",
+    "city": "Omsk",
+    "zip": "644000",
+    "lat": 54.9896,
+    "lon": 73.3729,
+    "timezone": "Asia/Omsk",
+    "isp": "JSC Rostelecom regional branch \"Siberia\"",
+    "org": "OJSC Sibirtelecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "2.60.69.163"
   },
   "112.218.21.132": {
     "status": "success",
