@@ -527,6 +527,22 @@
     "as": "AS2519 ARTERIA Networks Corporation",
     "query": "133.32.235.215"
   },
+  "119.47.102.55": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "33",
+    "regionName": "Okayama",
+    "city": "Okayama",
+    "zip": "700-0831",
+    "lat": 34.6591,
+    "lon": 133.9337,
+    "timezone": "Asia/Tokyo",
+    "isp": "Okayama Network Inc.",
+    "org": "Okayama Network Inc.",
+    "as": "AS18129 OKAYAMA NETWORK INC.",
+    "query": "119.47.102.55"
+  },
   "60.105.147.180": {
     "status": "success",
     "country": "Japan",
@@ -574,22 +590,6 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "124.212.183.144"
-  },
-  "119.47.102.55": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "33",
-    "regionName": "Okayama",
-    "city": "Okayama",
-    "zip": "700-0831",
-    "lat": 34.6591,
-    "lon": 133.9337,
-    "timezone": "Asia/Tokyo",
-    "isp": "Okayama Network Inc.",
-    "org": "Okayama Network Inc.",
-    "as": "AS18129 OKAYAMA NETWORK INC.",
-    "query": "119.47.102.55"
   },
   "118.240.3.52": {
     "status": "success",
@@ -654,22 +654,6 @@
     "org": "Chubu Telecommunications Co., Inc.",
     "as": "AS18126 Chubu Telecommunications Company, Inc.",
     "query": "180.197.203.57"
-  },
-  "46.242.9.163": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "MOW",
-    "regionName": "Moscow",
-    "city": "Moscow",
-    "zip": "127474",
-    "lat": 55.7487,
-    "lon": 37.6187,
-    "timezone": "Europe/Moscow",
-    "isp": "NCNET",
-    "org": "",
-    "as": "AS42610 PJSC Rostelecom",
-    "query": "46.242.9.163"
   },
   "114.180.103.113": {
     "status": "success",
@@ -1455,22 +1439,6 @@
     "as": "AS47759 POIG Ltd.",
     "query": "178.173.99.148"
   },
-  "118.82.55.107": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "09",
-    "regionName": "Tochigi",
-    "city": "Tochigi",
-    "zip": "328-0011",
-    "lat": 36.3928,
-    "lon": 139.7646,
-    "timezone": "Asia/Tokyo",
-    "isp": "Cable TV Corporation",
-    "org": "Cable TV Corporation",
-    "as": "AS18278 Cable TV Corporation",
-    "query": "118.82.55.107"
-  },
   "213.18.111.107": {
     "status": "success",
     "country": "Japan",
@@ -1486,6 +1454,22 @@
     "org": "GAONET",
     "as": "AS7524 ITEC HANKYU HANSHIN CO.,LTD.",
     "query": "213.18.111.107"
+  },
+  "118.82.55.107": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "09",
+    "regionName": "Tochigi",
+    "city": "Tochigi",
+    "zip": "328-0011",
+    "lat": 36.3928,
+    "lon": 139.7646,
+    "timezone": "Asia/Tokyo",
+    "isp": "Cable TV Corporation",
+    "org": "Cable TV Corporation",
+    "as": "AS18278 Cable TV Corporation",
+    "query": "118.82.55.107"
   },
   "220.82.221.195": {
     "status": "success",
@@ -1534,6 +1518,22 @@
     "org": "Chita Medias Network INC.",
     "as": "AS9354 Community Network Center Inc.",
     "query": "157.5.14.19"
+  },
+  "49.228.97.54": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "10",
+    "regionName": "Bangkok",
+    "city": "Bangkok",
+    "zip": "10120",
+    "lat": 13.7101,
+    "lon": 100.4543,
+    "timezone": "Asia/Bangkok",
+    "isp": "Advanced Wireless Network Company Limited",
+    "org": "AIS Fibre",
+    "as": "AS133481 AIS Fibre",
+    "query": "49.228.97.54"
   },
   "219.100.37.176": {
     "status": "success",
@@ -2302,6 +2302,22 @@
     "org": "OJSC Sibirtelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "212.20.43.5"
+  },
+  "46.242.9.163": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "MOW",
+    "regionName": "Moscow",
+    "city": "Moscow",
+    "zip": "127474",
+    "lat": 55.7487,
+    "lon": 37.6187,
+    "timezone": "Europe/Moscow",
+    "isp": "NCNET",
+    "org": "",
+    "as": "AS42610 PJSC Rostelecom",
+    "query": "46.242.9.163"
   },
   "82.209.105.49": {
     "status": "success",
