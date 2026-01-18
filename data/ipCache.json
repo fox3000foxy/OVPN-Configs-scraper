@@ -719,22 +719,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "59.138.79.222"
   },
-  "122.50.43.110": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "40",
-    "regionName": "Fukuoka",
-    "city": "Kitaku",
-    "zip": "807-1154",
-    "lat": 33.7937,
-    "lon": 130.687,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM",
-    "org": "Jupiter Telecommunications Co., Ltd.",
-    "as": "AS18134 JCOM Co., Ltd.",
-    "query": "122.50.43.110"
-  },
   "42.200.252.158": {
     "status": "success",
     "country": "Hong Kong",
@@ -1182,6 +1166,22 @@
     "org": "Korea Telecom",
     "as": "AS4766 Korea Telecom",
     "query": "220.88.51.21"
+  },
+  "61.255.91.50": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "28",
+    "regionName": "Incheon",
+    "city": "Incheon",
+    "zip": "221",
+    "lat": 37.4723,
+    "lon": 126.6594,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "SK Broadband Co Ltd",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "61.255.91.50"
   },
   "211.226.138.204": {
     "status": "success",
@@ -2382,6 +2382,22 @@
     "org": "JCOM Co., Ltd",
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "119.175.44.34"
+  },
+  "122.50.43.110": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "40",
+    "regionName": "Fukuoka",
+    "city": "Kitaku",
+    "zip": "807-1154",
+    "lat": 33.7937,
+    "lon": 130.687,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM",
+    "org": "Jupiter Telecommunications Co., Ltd.",
+    "as": "AS18134 JCOM Co., Ltd.",
+    "query": "122.50.43.110"
   },
   "49.109.16.199": {
     "status": "success",
