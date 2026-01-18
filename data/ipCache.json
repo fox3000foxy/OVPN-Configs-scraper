@@ -591,22 +591,6 @@
     "as": "AS9595 NTT-ME Corporation",
     "query": "124.44.10.44"
   },
-  "124.18.97.154": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "23",
-    "regionName": "Aichi",
-    "city": "Kiyosu",
-    "zip": "452-0941",
-    "lat": 35.2172,
-    "lon": 136.8325,
-    "timezone": "Asia/Tokyo",
-    "isp": "Chubu Telecommunications Company, Inc.",
-    "org": "Chubu Telecommunications Co., Inc.",
-    "as": "AS18126 Chubu Telecommunications Company, Inc.",
-    "query": "124.18.97.154"
-  },
   "126.217.201.240": {
     "status": "success",
     "country": "Japan",
@@ -622,6 +606,22 @@
     "org": "SOFTBANK Corp",
     "as": "AS17676 SoftBank Corp.",
     "query": "126.217.201.240"
+  },
+  "124.18.97.154": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "23",
+    "regionName": "Aichi",
+    "city": "Kiyosu",
+    "zip": "452-0941",
+    "lat": 35.2172,
+    "lon": 136.8325,
+    "timezone": "Asia/Tokyo",
+    "isp": "Chubu Telecommunications Company, Inc.",
+    "org": "Chubu Telecommunications Co., Inc.",
+    "as": "AS18126 Chubu Telecommunications Company, Inc.",
+    "query": "124.18.97.154"
   },
   "221.44.227.125": {
     "status": "success",
@@ -719,21 +719,21 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.73.70.60"
   },
-  "119.228.132.167": {
+  "126.34.165.35": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Hirakata",
-    "zip": "573-0011",
-    "lat": 34.8052,
-    "lon": 135.6689,
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
     "timezone": "Asia/Tokyo",
-    "isp": "OPTAGE Inc.",
-    "org": "OPTAGE Inc.",
-    "as": "AS17511 OPTAGE Inc.",
-    "query": "119.228.132.167"
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.34.165.35"
   },
   "183.180.154.63": {
     "status": "success",
@@ -750,6 +750,22 @@
     "org": "ARTERIA Networks Corporation",
     "as": "AS2519 ARTERIA Networks Corporation",
     "query": "183.180.154.63"
+  },
+  "119.228.132.167": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Hirakata",
+    "zip": "573-0011",
+    "lat": 34.8052,
+    "lon": 135.6689,
+    "timezone": "Asia/Tokyo",
+    "isp": "OPTAGE Inc.",
+    "org": "OPTAGE Inc.",
+    "as": "AS17511 OPTAGE Inc.",
+    "query": "119.228.132.167"
   },
   "68.149.154.94": {
     "status": "success",
@@ -1503,37 +1519,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.149.221.10"
   },
-  "125.186.91.205": {
+  "121.136.158.119": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
     "region": "41",
     "regionName": "Gyeonggi-do",
-    "city": "Gunpo",
-    "zip": "158",
-    "lat": 37.3466,
-    "lon": 126.9332,
-    "timezone": "Asia/Seoul",
-    "isp": "LG POWERCOMM",
-    "org": "LG POWERCOMM",
-    "as": "AS17858 LG POWERCOMM",
-    "query": "125.186.91.205"
-  },
-  "175.210.238.10": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "28",
-    "regionName": "Incheon",
-    "city": "Gyeyang-gu",
-    "zip": "211",
-    "lat": 37.5249,
-    "lon": 126.7409,
+    "city": "Yongin-si",
+    "zip": "170",
+    "lat": 37.2728,
+    "lon": 127.1118,
     "timezone": "Asia/Seoul",
     "isp": "Korea Telecom",
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
-    "query": "175.210.238.10"
+    "query": "121.136.158.119"
   },
   "70.64.16.129": {
     "status": "success",
