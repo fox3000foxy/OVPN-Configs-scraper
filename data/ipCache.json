@@ -687,6 +687,22 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.159.87.12"
   },
+  "58.183.127.232": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "35",
+    "regionName": "Yamaguchi",
+    "city": "Yamaguchi",
+    "zip": "753-0041",
+    "lat": 34.1766,
+    "lon": 131.483,
+    "timezone": "Asia/Tokyo",
+    "isp": "Enecom, Inc.",
+    "org": "Energia Communications, Inc.",
+    "as": "AS18144 Enecom,Inc.",
+    "query": "58.183.127.232"
+  },
   "61.80.40.55": {
     "status": "success",
     "country": "South Korea",
@@ -1231,22 +1247,6 @@
     "as": "AS10620 Telmex Colombia S.A.",
     "query": "186.81.100.17"
   },
-  "194.246.95.65": {
-    "status": "success",
-    "country": "Ukraine",
-    "countryCode": "UA",
-    "region": "09",
-    "regionName": "Luhansk",
-    "city": "Luhansk",
-    "zip": "91000",
-    "lat": 48.5679,
-    "lon": 39.319,
-    "timezone": "Europe/Kyiv",
-    "isp": "Dovecom LLC",
-    "org": "Dovecom LLC",
-    "as": "AS202619 Dovecom LLC",
-    "query": "194.246.95.65"
-  },
   "95.189.184.14": {
     "status": "success",
     "country": "Russia",
@@ -1294,22 +1294,6 @@
     "org": "JSC Ufanet",
     "as": "AS41704 JSC Ufanet",
     "query": "95.105.125.62"
-  },
-  "71.57.50.63": {
-    "status": "success",
-    "country": "United States",
-    "countryCode": "US",
-    "region": "IL",
-    "regionName": "Illinois",
-    "city": "Des Plaines",
-    "zip": "60016",
-    "lat": 42.0487,
-    "lon": -87.8905,
-    "timezone": "America/Chicago",
-    "isp": "Comcast Cable Communications",
-    "org": "Comcast Cable Communications Holdings, Inc",
-    "as": "AS7922 Comcast Cable Communications, LLC",
-    "query": "71.57.50.63"
   },
   "47.32.66.83": {
     "status": "success",
@@ -1374,6 +1358,22 @@
     "org": "LAYER6",
     "as": "AS59729 GREEN FLOID LLC",
     "query": "195.123.226.217"
+  },
+  "194.246.95.65": {
+    "status": "success",
+    "country": "Ukraine",
+    "countryCode": "UA",
+    "region": "09",
+    "regionName": "Luhansk",
+    "city": "Luhansk",
+    "zip": "91000",
+    "lat": 48.5679,
+    "lon": 39.319,
+    "timezone": "Europe/Kyiv",
+    "isp": "Dovecom LLC",
+    "org": "Dovecom LLC",
+    "as": "AS202619 Dovecom LLC",
+    "query": "194.246.95.65"
   },
   "220.158.5.129": {
     "status": "success",
