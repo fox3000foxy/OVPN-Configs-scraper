@@ -191,6 +191,22 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "60.36.150.117"
   },
+  "60.144.85.226": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.144.85.226"
+  },
   "133.202.180.143": {
     "status": "success",
     "country": "Japan",
@@ -207,21 +223,21 @@
     "as": "AS2518 BIGLOBE Inc.",
     "query": "133.202.180.143"
   },
-  "60.144.85.226": {
+  "222.97.142.229": {
     "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan Nation-wide Network of Softbank Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "60.144.85.226"
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Yeonje-gu",
+    "zip": "475",
+    "lat": 35.1811,
+    "lon": 129.0928,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "KORNET",
+    "as": "AS4766 Korea Telecom",
+    "query": "222.97.142.229"
   },
   "183.180.154.178": {
     "status": "success",
@@ -271,22 +287,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "218.145.181.197"
   },
-  "222.97.142.229": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "26",
-    "regionName": "Busan",
-    "city": "Yeonje-gu",
-    "zip": "475",
-    "lat": 35.1811,
-    "lon": 129.0928,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "KORNET",
-    "as": "AS4766 Korea Telecom",
-    "query": "222.97.142.229"
-  },
   "180.39.139.166": {
     "status": "success",
     "country": "Japan",
@@ -334,6 +334,22 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.102"
+  },
+  "95.84.132.179": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "MOW",
+    "regionName": "Moscow",
+    "city": "Moscow",
+    "zip": "127474",
+    "lat": 55.7487,
+    "lon": 37.6187,
+    "timezone": "Europe/Moscow",
+    "isp": "NCNET",
+    "org": "",
+    "as": "AS42610 PJSC Rostelecom",
+    "query": "95.84.132.179"
   },
   "219.100.37.50": {
     "status": "success",
@@ -606,22 +622,6 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "119.192.208.193"
-  },
-  "1.254.167.49": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "48",
-    "regionName": "Gyeongsangnam-do",
-    "city": "Changwon",
-    "zip": "514",
-    "lat": 35.2317,
-    "lon": 128.6822,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "1.254.167.49"
   },
   "49.48.148.44": {
     "status": "success",
@@ -1311,21 +1311,21 @@
     "as": "AS41704 JSC Ufanet",
     "query": "95.105.125.62"
   },
-  "71.57.50.63": {
+  "47.32.66.83": {
     "status": "success",
     "country": "United States",
     "countryCode": "US",
-    "region": "IL",
-    "regionName": "Illinois",
-    "city": "Des Plaines",
-    "zip": "60016",
-    "lat": 42.0487,
-    "lon": -87.8905,
-    "timezone": "America/Chicago",
-    "isp": "Comcast Cable Communications",
-    "org": "Comcast Cable Communications Holdings, Inc",
-    "as": "AS7922 Comcast Cable Communications, LLC",
-    "query": "71.57.50.63"
+    "region": "GA",
+    "regionName": "Georgia",
+    "city": "Columbus",
+    "zip": "31901",
+    "lat": 32.4732,
+    "lon": -84.9754,
+    "timezone": "America/New_York",
+    "isp": "Charter Communications",
+    "org": "Spectrum",
+    "as": "AS20115 Charter Communications LLC",
+    "query": "47.32.66.83"
   },
   "1.55.222.33": {
     "status": "success",
@@ -1374,22 +1374,6 @@
     "org": "LAYER6",
     "as": "AS59729 GREEN FLOID LLC",
     "query": "195.123.226.217"
-  },
-  "47.32.66.83": {
-    "status": "success",
-    "country": "United States",
-    "countryCode": "US",
-    "region": "GA",
-    "regionName": "Georgia",
-    "city": "Columbus",
-    "zip": "31901",
-    "lat": 32.4732,
-    "lon": -84.9754,
-    "timezone": "America/New_York",
-    "isp": "Charter Communications",
-    "org": "Spectrum",
-    "as": "AS20115 Charter Communications LLC",
-    "query": "47.32.66.83"
   },
   "220.158.5.129": {
     "status": "success",
@@ -1503,22 +1487,6 @@
     "as": "AS59127 Newmedia Corporation",
     "query": "113.197.44.143"
   },
-  "182.165.93.26": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "28",
-    "regionName": "Hyōgo",
-    "city": "Nishinomiya",
-    "zip": "662-0921",
-    "lat": 34.7285,
-    "lon": 135.3471,
-    "timezone": "Asia/Tokyo",
-    "isp": "OPTAGE Inc.",
-    "org": "OPTAGE Inc.",
-    "as": "AS17511 OPTAGE Inc.",
-    "query": "182.165.93.26"
-  },
   "49.228.245.34": {
     "status": "success",
     "country": "Thailand",
@@ -1535,6 +1503,22 @@
     "as": "AS133481 AIS Fibre",
     "query": "49.228.245.34"
   },
+  "182.165.93.26": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "28",
+    "regionName": "Hyōgo",
+    "city": "Nishinomiya",
+    "zip": "662-0921",
+    "lat": 34.7285,
+    "lon": 135.3471,
+    "timezone": "Asia/Tokyo",
+    "isp": "OPTAGE Inc.",
+    "org": "OPTAGE Inc.",
+    "as": "AS17511 OPTAGE Inc.",
+    "query": "182.165.93.26"
+  },
   "85.173.126.66": {
     "status": "success",
     "country": "Russia",
@@ -1550,6 +1534,22 @@
     "org": "Kabbalktelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "85.173.126.66"
+  },
+  "95.188.88.132": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KYA",
+    "regionName": "Krasnoyarsk Krai",
+    "city": "Krasnoyarsk",
+    "zip": "660049",
+    "lat": 56.0374,
+    "lon": 92.9314,
+    "timezone": "Asia/Krasnoyarsk",
+    "isp": "Rostelecom networks",
+    "org": "OJSC Rostelecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "95.188.88.132"
   },
   "24.224.168.13": {
     "status": "success",
