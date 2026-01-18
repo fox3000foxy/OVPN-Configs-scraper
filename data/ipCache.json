@@ -495,22 +495,6 @@
     "as": "AS9622 Kurashiki Cable TV",
     "query": "202.91.63.251"
   },
-  "125.24.169.34": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "10",
-    "regionName": "Bangkok",
-    "city": "Bangkok",
-    "zip": "10110",
-    "lat": 13.7101,
-    "lon": 100.4543,
-    "timezone": "Asia/Bangkok",
-    "isp": "TOT Public Company Limited",
-    "org": "TOT Public Company Limited",
-    "as": "AS23969 TOT Public Company Limited",
-    "query": "125.24.169.34"
-  },
   "61.211.140.202": {
     "status": "success",
     "country": "Japan",
@@ -1470,6 +1454,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "183.96.128.95"
+  },
+  "126.206.146.218": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.206.146.218"
   },
   "183.82.239.194": {
     "status": "success",
