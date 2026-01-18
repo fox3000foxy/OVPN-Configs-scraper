@@ -111,22 +111,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.16"
   },
-  "66.44.62.8": {
-    "status": "success",
-    "country": "United States",
-    "countryCode": "US",
-    "region": "DC",
-    "regionName": "District of Columbia",
-    "city": "Washington",
-    "zip": "20016",
-    "lat": 38.9379,
-    "lon": -77.0859,
-    "timezone": "America/New_York",
-    "isp": "RCN",
-    "org": "RCN Corporation",
-    "as": "AS6079 RCN",
-    "query": "66.44.62.8"
-  },
   "73.71.215.182": {
     "status": "success",
     "country": "United States",
@@ -1246,6 +1230,22 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "175.128.3.61"
+  },
+  "61.24.93.129": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tokyo",
+    "zip": "151-0071",
+    "lat": 35.6837,
+    "lon": 139.6805,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM Co., Ltd.",
+    "org": "JCOM Co., Ltd",
+    "as": "AS9824 JCOM Co., Ltd.",
+    "query": "61.24.93.129"
   },
   "126.224.84.232": {
     "status": "success",
