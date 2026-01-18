@@ -703,22 +703,6 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "114.180.103.113"
   },
-  "221.157.130.155": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "27",
-    "regionName": "Daegu",
-    "city": "Dalseo-gu",
-    "zip": "427",
-    "lat": 35.8475,
-    "lon": 128.4805,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Korea Telecom",
-    "as": "AS4766 Korea Telecom",
-    "query": "221.157.130.155"
-  },
   "118.237.134.168": {
     "status": "success",
     "country": "Japan",
@@ -1247,6 +1231,22 @@
     "as": "AS18403 FPT Telecom Company",
     "query": "1.52.159.78"
   },
+  "83.139.129.87": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "VOR",
+    "regionName": "Voronezh Oblast",
+    "city": "Voronezh",
+    "zip": "394009",
+    "lat": 51.6683,
+    "lon": 39.192,
+    "timezone": "Europe/Moscow",
+    "isp": "Informsvyaz-Chernozemye",
+    "org": "Information Company",
+    "as": "AS6856 AO IK \"Informsvyaz-Chernozemye\"",
+    "query": "83.139.129.87"
+  },
   "182.217.139.187": {
     "status": "success",
     "country": "South Korea",
@@ -1375,22 +1375,6 @@
     "as": "AS49325 Kvartal Plus Ltd",
     "query": "46.174.115.82"
   },
-  "178.187.62.163": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "ALT",
-    "regionName": "Altai Krai",
-    "city": "Barnaul",
-    "zip": "656002",
-    "lat": 53.362,
-    "lon": 83.7279,
-    "timezone": "Asia/Barnaul",
-    "isp": "OJSC \"Sibirtelecom\"",
-    "org": "Sibirtelecom Co.",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "178.187.62.163"
-  },
   "77.79.169.41": {
     "status": "success",
     "country": "Russia",
@@ -1406,6 +1390,22 @@
     "org": "JSC Ufanet",
     "as": "AS24955 JSC Ufanet",
     "query": "77.79.169.41"
+  },
+  "178.187.62.163": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "ALT",
+    "regionName": "Altai Krai",
+    "city": "Barnaul",
+    "zip": "656002",
+    "lat": 53.362,
+    "lon": 83.7279,
+    "timezone": "Asia/Barnaul",
+    "isp": "OJSC \"Sibirtelecom\"",
+    "org": "Sibirtelecom Co.",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "178.187.62.163"
   },
   "91.220.87.58": {
     "status": "success",
