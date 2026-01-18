@@ -831,22 +831,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "211.195.19.58"
   },
-  "118.104.255.49": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "24",
-    "regionName": "Mie",
-    "city": "Suzuka",
-    "zip": "513-0801",
-    "lat": 34.8853,
-    "lon": 136.5796,
-    "timezone": "Asia/Tokyo",
-    "isp": "Chubu Telecommunications Company, Inc.",
-    "org": "Chubu Telecommunications Co., Inc.",
-    "as": "AS18126 Chubu Telecommunications Company, Inc.",
-    "query": "118.104.255.49"
-  },
   "133.32.235.215": {
     "status": "success",
     "country": "Japan",
@@ -1055,22 +1039,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "150.249.68.92"
   },
-  "180.197.203.57": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "20",
-    "regionName": "Nagano",
-    "city": "Matsumoto",
-    "zip": "390-0811",
-    "lat": 36.2345,
-    "lon": 137.9746,
-    "timezone": "Asia/Tokyo",
-    "isp": "Chubu Telecommunications Company, Inc.",
-    "org": "Chubu Telecommunications Co., Inc.",
-    "as": "AS18126 Chubu Telecommunications Company, Inc.",
-    "query": "180.197.203.57"
-  },
   "150.249.171.78": {
     "status": "success",
     "country": "Japan",
@@ -1086,6 +1054,22 @@
     "org": "Sony Network Communications Inc.",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "150.249.171.78"
+  },
+  "180.197.203.57": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "20",
+    "regionName": "Nagano",
+    "city": "Matsumoto",
+    "zip": "390-0811",
+    "lat": 36.2345,
+    "lon": 137.9746,
+    "timezone": "Asia/Tokyo",
+    "isp": "Chubu Telecommunications Company, Inc.",
+    "org": "Chubu Telecommunications Co., Inc.",
+    "as": "AS18126 Chubu Telecommunications Company, Inc.",
+    "query": "180.197.203.57"
   },
   "60.126.10.156": {
     "status": "success",
@@ -1247,6 +1231,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.130.232.211"
   },
+  "119.196.49.82": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Gwanak-gu",
+    "zip": "087",
+    "lat": 37.4873,
+    "lon": 126.9227,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Sudogwonseobubonbu",
+    "as": "AS4766 Korea Telecom",
+    "query": "119.196.49.82"
+  },
   "218.157.88.247": {
     "status": "success",
     "country": "South Korea",
@@ -1359,22 +1359,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "211.44.188.45"
   },
-  "219.241.104.116": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Ansan-si",
-    "zip": "154",
-    "lat": 37.3031,
-    "lon": 126.8214,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "219.241.104.116"
-  },
   "2.63.0.95": {
     "status": "success",
     "country": "Russia",
@@ -1390,6 +1374,22 @@
     "org": "OJSC Sibirtelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "2.63.0.95"
+  },
+  "219.241.104.116": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Ansan-si",
+    "zip": "154",
+    "lat": 37.3031,
+    "lon": 126.8214,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "219.241.104.116"
   },
   "121.154.21.199": {
     "status": "success",
@@ -1551,21 +1551,21 @@
     "as": "AS9845 LG HelloVision Corp.",
     "query": "115.40.206.229"
   },
-  "49.228.64.93": {
+  "50.93.222.208": {
     "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "10",
-    "regionName": "Bangkok",
-    "city": "Bangkok",
-    "zip": "10260",
-    "lat": 13.6687,
-    "lon": 100.579,
-    "timezone": "Asia/Bangkok",
-    "isp": "Advanced Wireless Network Company Limited",
-    "org": "AIS Fibre",
-    "as": "AS133481 AIS Fibre",
-    "query": "49.228.64.93"
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WI",
+    "regionName": "Wisconsin",
+    "city": "Madison",
+    "zip": "53703",
+    "lat": 43.0812,
+    "lon": -89.3838,
+    "timezone": "America/Chicago",
+    "isp": "ResTech Services LLC",
+    "org": "ResTech Services LLC",
+    "as": "AS46262 ResTech Services LLC",
+    "query": "50.93.222.208"
   },
   "111.95.79.75": {
     "status": "success",
@@ -2734,22 +2734,6 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "121.144.12.33"
-  },
-  "119.196.49.82": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Gwanak-gu",
-    "zip": "087",
-    "lat": 37.4873,
-    "lon": 126.9227,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Sudogwonseobubonbu",
-    "as": "AS4766 Korea Telecom",
-    "query": "119.196.49.82"
   },
   "210.100.238.121": {
     "status": "success",
