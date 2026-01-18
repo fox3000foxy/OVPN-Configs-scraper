@@ -1311,22 +1311,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "218.157.88.247"
   },
-  "77.82.70.225": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KAM",
-    "regionName": "Kamchatka",
-    "city": "Petropavlovsk-Kamchatsky",
-    "zip": "683905",
-    "lat": 53.0566,
-    "lon": 158.662,
-    "timezone": "Asia/Kamchatka",
-    "isp": "Rostelecom networks",
-    "org": "Open Joint Stock Company",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "77.82.70.225"
-  },
   "221.163.37.163": {
     "status": "success",
     "country": "South Korea",
@@ -1534,6 +1518,22 @@
     "org": "SK Broadband Co Ltd",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "211.178.35.232"
+  },
+  "50.93.222.208": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WI",
+    "regionName": "Wisconsin",
+    "city": "Madison",
+    "zip": "53703",
+    "lat": 43.0812,
+    "lon": -89.3838,
+    "timezone": "America/Chicago",
+    "isp": "ResTech Services LLC",
+    "org": "ResTech Services LLC",
+    "as": "AS46262 ResTech Services LLC",
+    "query": "50.93.222.208"
   },
   "185.216.231.38": {
     "status": "success",
