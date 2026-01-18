@@ -575,22 +575,6 @@
     "as": "AS4725 SoftBank Corp.",
     "query": "220.212.128.195"
   },
-  "221.152.115.166": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "26",
-    "regionName": "Busan",
-    "city": "Saha-gu",
-    "zip": "494",
-    "lat": 35.1187,
-    "lon": 128.957,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "(ju)hyeonsolru",
-    "as": "AS4766 Korea Telecom",
-    "query": "221.152.115.166"
-  },
   "60.119.210.134": {
     "status": "success",
     "country": "Japan",
@@ -606,6 +590,22 @@
     "org": "Japan Nation-wide Network of Softbank Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "60.119.210.134"
+  },
+  "221.152.115.166": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Saha-gu",
+    "zip": "494",
+    "lat": 35.1187,
+    "lon": 128.957,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "(ju)hyeonsolru",
+    "as": "AS4766 Korea Telecom",
+    "query": "221.152.115.166"
   },
   "121.148.48.93": {
     "status": "success",
@@ -1007,22 +1007,6 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "223.217.91.125"
   },
-  "112.138.20.32": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "22",
-    "regionName": "Shizuoka",
-    "city": "Shizuoka",
-    "zip": "420-0861",
-    "lat": 34.9882,
-    "lon": 138.3742,
-    "timezone": "Asia/Tokyo",
-    "isp": "TOKAI Communications Corporation",
-    "org": "TOKAI",
-    "as": "AS10010 TOKAI Communications Corporation",
-    "query": "112.138.20.32"
-  },
   "59.86.111.147": {
     "status": "success",
     "country": "Japan",
@@ -1038,6 +1022,22 @@
     "org": "TOKAI",
     "as": "AS10010 TOKAI Communications Corporation",
     "query": "59.86.111.147"
+  },
+  "112.138.20.32": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "22",
+    "regionName": "Shizuoka",
+    "city": "Shizuoka",
+    "zip": "420-0861",
+    "lat": 34.9882,
+    "lon": 138.3742,
+    "timezone": "Asia/Tokyo",
+    "isp": "TOKAI Communications Corporation",
+    "org": "TOKAI",
+    "as": "AS10010 TOKAI Communications Corporation",
+    "query": "112.138.20.32"
   },
   "106.159.95.188": {
     "status": "success",
