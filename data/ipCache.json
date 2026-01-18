@@ -575,22 +575,6 @@
     "as": "AS23969 TOT Public Company Limited",
     "query": "125.24.169.34"
   },
-  "14.35.99.157": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Seongnam-si",
-    "zip": "133",
-    "lat": 37.4331,
-    "lon": 127.1375,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "14.35.99.157"
-  },
   "125.202.166.110": {
     "status": "success",
     "country": "Japan",
@@ -911,6 +895,22 @@
     "as": "AS10010 TOKAI Communications Corporation",
     "query": "27.98.9.157"
   },
+  "184.22.33.32": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "10",
+    "regionName": "Bangkok",
+    "city": "Bangkok",
+    "zip": "10400",
+    "lat": 13.7618,
+    "lon": 100.5324,
+    "timezone": "Asia/Bangkok",
+    "isp": "AIS-Fibre",
+    "org": "",
+    "as": "AS133481 AIS Fibre",
+    "query": "184.22.33.32"
+  },
   "112.160.139.229": {
     "status": "success",
     "country": "South Korea",
@@ -942,22 +942,6 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "61.83.2.222"
-  },
-  "184.22.33.32": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "10",
-    "regionName": "Bangkok",
-    "city": "Bangkok",
-    "zip": "10400",
-    "lat": 13.7618,
-    "lon": 100.5324,
-    "timezone": "Asia/Bangkok",
-    "isp": "AIS-Fibre",
-    "org": "",
-    "as": "AS133481 AIS Fibre",
-    "query": "184.22.33.32"
   },
   "49.228.238.121": {
     "status": "success",
@@ -1295,22 +1279,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "95.191.30.221"
   },
-  "95.70.32.205": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KHA",
-    "regionName": "Khabarovsk",
-    "city": "Khabarovsk",
-    "zip": "680000",
-    "lat": 48.4817,
-    "lon": 135.083,
-    "timezone": "Asia/Vladivostok",
-    "isp": "KHT RU",
-    "org": "",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "95.70.32.205"
-  },
   "212.164.178.28": {
     "status": "success",
     "country": "Russia",
@@ -1326,6 +1294,22 @@
     "org": "OJSC Sibirtelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "212.164.178.28"
+  },
+  "95.70.32.205": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KHA",
+    "regionName": "Khabarovsk",
+    "city": "Khabarovsk",
+    "zip": "680000",
+    "lat": 48.4817,
+    "lon": 135.083,
+    "timezone": "Asia/Vladivostok",
+    "isp": "KHT RU",
+    "org": "",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "95.70.32.205"
   },
   "24.47.212.56": {
     "status": "success",
@@ -1470,6 +1454,38 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "183.96.128.95"
+  },
+  "126.206.146.218": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.206.146.218"
+  },
+  "220.126.64.165": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Bucheon-si",
+    "zip": "144",
+    "lat": 37.5188,
+    "lon": 126.8126,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "220.126.64.165"
   },
   "183.82.239.194": {
     "status": "success",
