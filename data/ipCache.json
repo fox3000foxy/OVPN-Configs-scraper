@@ -911,22 +911,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "90.189.196.154"
   },
-  "92.202.199.250": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0071",
-    "lat": 35.6837,
-    "lon": 139.6805,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "92.202.199.250"
-  },
   "210.165.237.222": {
     "status": "success",
     "country": "Japan",
@@ -942,6 +926,22 @@
     "org": "InfoSphere",
     "as": "AS2514 NTT PC Communications, Inc.",
     "query": "210.165.237.222"
+  },
+  "92.202.199.250": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tokyo",
+    "zip": "151-0071",
+    "lat": 35.6837,
+    "lon": 139.6805,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "92.202.199.250"
   },
   "106.136.145.112": {
     "status": "success",
@@ -1326,6 +1326,22 @@
     "org": "miyazaki cabletelevision network Co., LTD",
     "as": "AS17939 miyazaki cabletelevision network Co.,LTD",
     "query": "218.216.32.95"
+  },
+  "211.224.254.164": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "44",
+    "regionName": "Chungcheongnam-do",
+    "city": "Yesan",
+    "zip": "324",
+    "lat": 36.6781,
+    "lon": 126.6946,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "211.224.254.164"
   },
   "110.132.162.18": {
     "status": "success",
