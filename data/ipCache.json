@@ -431,22 +431,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "175.196.122.188"
   },
-  "36.14.74.224": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Machida",
-    "zip": "194-0041",
-    "lat": 35.5652,
-    "lon": 139.4642,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "36.14.74.224"
-  },
   "1.21.121.201": {
     "status": "success",
     "country": "Japan",
@@ -719,22 +703,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.147.198.161"
   },
-  "126.125.49.30": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.125.49.30"
-  },
   "59.20.128.226": {
     "status": "success",
     "country": "South Korea",
@@ -750,6 +718,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "59.20.128.226"
+  },
+  "126.125.49.30": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.125.49.30"
   },
   "151.241.227.248": {
     "status": "success",
@@ -878,22 +862,6 @@
     "org": "Lao Telecommunication Public Company",
     "as": "AS9873 Lao Telecom Communication, LTC",
     "query": "115.84.87.250"
-  },
-  "184.22.104.32": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "10",
-    "regionName": "Bangkok",
-    "city": "Bangkok",
-    "zip": "10160",
-    "lat": 13.7159,
-    "lon": 100.417,
-    "timezone": "Asia/Bangkok",
-    "isp": "AIS-Fibre",
-    "org": "",
-    "as": "AS133481 AIS Fibre",
-    "query": "184.22.104.32"
   },
   "46.53.250.58": {
     "status": "success",
@@ -1071,6 +1039,22 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "116.123.228.25"
   },
+  "118.219.21.191": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "27",
+    "regionName": "Daegu",
+    "city": "Daegu",
+    "zip": "412",
+    "lat": 35.8699,
+    "lon": 128.6314,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "118.219.21.191"
+  },
   "5.165.11.208": {
     "status": "success",
     "country": "Russia",
@@ -1102,6 +1086,22 @@
     "org": "Korea Telecom",
     "as": "AS4766 Korea Telecom",
     "query": "222.111.19.158"
+  },
+  "95.32.184.90": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "VOR",
+    "regionName": "Voronezh Oblast",
+    "city": "Voronezh",
+    "zip": "394033",
+    "lat": 51.7032,
+    "lon": 39.1974,
+    "timezone": "Europe/Moscow",
+    "isp": "Rostelecom networks",
+    "org": "OJSC Rostelecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "95.32.184.90"
   },
   "31.40.209.216": {
     "status": "success",
@@ -1359,22 +1359,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "5.143.104.220"
   },
-  "176.124.116.232": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KDA",
-    "regionName": "Krasnodar Krai",
-    "city": "Tuapse",
-    "zip": "352800",
-    "lat": 44.0989,
-    "lon": 39.0674,
-    "timezone": "Europe/Moscow",
-    "isp": "LLC \"Multiservice\"",
-    "org": "TAIGET",
-    "as": "AS52043 LLC Multiservice",
-    "query": "176.124.116.232"
-  },
   "188.68.138.30": {
     "status": "success",
     "country": "Russia",
@@ -1454,6 +1438,22 @@
     "org": "",
     "as": "AS42610 PJSC Rostelecom",
     "query": "5.228.115.113"
+  },
+  "176.124.116.232": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KDA",
+    "regionName": "Krasnodar Krai",
+    "city": "Tuapse",
+    "zip": "352800",
+    "lat": 44.0989,
+    "lon": 39.0674,
+    "timezone": "Europe/Moscow",
+    "isp": "LLC \"Multiservice\"",
+    "org": "TAIGET",
+    "as": "AS52043 LLC Multiservice",
+    "query": "176.124.116.232"
   },
   "210.157.194.208": {
     "status": "success",
