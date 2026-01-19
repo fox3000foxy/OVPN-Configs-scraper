@@ -1039,22 +1039,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.117.95.216"
   },
-  "60.73.48.68": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan Nation-wide Network of Softbank Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "60.73.48.68"
-  },
   "118.240.118.77": {
     "status": "success",
     "country": "Japan",
@@ -1070,6 +1054,22 @@
     "org": "General placeholder reference all addresses",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "118.240.118.77"
+  },
+  "60.73.48.68": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.73.48.68"
   },
   "221.170.21.130": {
     "status": "success",
@@ -1502,22 +1502,6 @@
     "org": "LG Uplus",
     "as": "AS3786 LG DACOM Corporation",
     "query": "1.220.0.57"
-  },
-  "222.238.181.128": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "27",
-    "regionName": "Daegu",
-    "city": "Suseong-gu",
-    "zip": "421",
-    "lat": 35.8388,
-    "lon": 128.6219,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "SK Broadband Co Ltd",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "222.238.181.128"
   },
   "58.152.29.42": {
     "status": "success",
