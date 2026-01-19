@@ -1343,6 +1343,22 @@
     "as": "AS18403 FPT Telecom Company",
     "query": "183.80.5.235"
   },
+  "125.133.161.106": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "28",
+    "regionName": "Incheon",
+    "city": "Incheon",
+    "zip": "220",
+    "lat": 37.4585,
+    "lon": 126.7015,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Korea Telecom",
+    "as": "AS4766 Korea Telecom",
+    "query": "125.133.161.106"
+  },
   "218.158.29.178": {
     "status": "success",
     "country": "South Korea",
@@ -1534,22 +1550,6 @@
     "org": "HVGangwon",
     "as": "AS38120 LG HelloVision Corp.",
     "query": "115.31.100.14"
-  },
-  "210.182.153.244": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "43",
-    "regionName": "North Chungcheong",
-    "city": "Cheongju-si",
-    "zip": "28515",
-    "lat": 36.6378,
-    "lon": 127.4838,
-    "timezone": "Asia/Seoul",
-    "isp": "HCN CHUNGBUK CABLE TV SYSTEMS",
-    "org": "Boranet",
-    "as": "AS9319 HCN CHUNGBUK CABLE TV SYSTEMS",
-    "query": "210.182.153.244"
   },
   "186.13.209.137": {
     "status": "success",
