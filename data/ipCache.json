@@ -143,22 +143,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.208"
   },
-  "34.142.207.18": {
-    "status": "success",
-    "country": "Singapore",
-    "countryCode": "SG",
-    "region": "01",
-    "regionName": "Central Singapore",
-    "city": "Singapore",
-    "zip": "190464",
-    "lat": 1.3048,
-    "lon": 103.8622,
-    "timezone": "Asia/Singapore",
-    "isp": "Google LLC",
-    "org": "Google Cloud (asia-southeast1)",
-    "as": "AS396982 Google LLC",
-    "query": "34.142.207.18"
-  },
   "219.100.37.204": {
     "status": "success",
     "country": "Japan",
@@ -174,6 +158,22 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.204"
+  },
+  "34.142.207.18": {
+    "status": "success",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "region": "01",
+    "regionName": "Central Singapore",
+    "city": "Singapore",
+    "zip": "190464",
+    "lat": 1.3048,
+    "lon": 103.8622,
+    "timezone": "Asia/Singapore",
+    "isp": "Google LLC",
+    "org": "Google Cloud (asia-southeast1)",
+    "as": "AS396982 Google LLC",
+    "query": "34.142.207.18"
   },
   "36.14.133.245": {
     "status": "success",
@@ -975,22 +975,6 @@
     "as": "AS262462 Aranet Play",
     "query": "181.224.85.249"
   },
-  "14.185.86.252": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "DN",
-    "regionName": "Da Nang",
-    "city": "Da Nang",
-    "zip": "550000",
-    "lat": 16.0685,
-    "lon": 108.2215,
-    "timezone": "Asia/Ho_Chi_Minh",
-    "isp": "VNPT",
-    "org": "Vietnam Posts and Telecommunications Group",
-    "as": "AS45899 VNPT Corp",
-    "query": "14.185.86.252"
-  },
   "77.79.169.18": {
     "status": "success",
     "country": "Russia",
@@ -1039,6 +1023,22 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "116.123.228.25"
   },
+  "14.185.86.252": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "DN",
+    "regionName": "Da Nang",
+    "city": "Da Nang",
+    "zip": "550000",
+    "lat": 16.0685,
+    "lon": 108.2215,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "isp": "VNPT",
+    "org": "Vietnam Posts and Telecommunications Group",
+    "as": "AS45899 VNPT Corp",
+    "query": "14.185.86.252"
+  },
   "118.219.21.191": {
     "status": "success",
     "country": "South Korea",
@@ -1071,22 +1071,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "222.111.19.158"
   },
-  "112.171.58.30": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Gwanak-gu",
-    "zip": "087",
-    "lat": 37.4873,
-    "lon": 126.9227,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "112.171.58.30"
-  },
   "5.165.11.208": {
     "status": "success",
     "country": "Russia",
@@ -1103,6 +1087,22 @@
     "as": "AS51604 JSC ER-Telecom Holding",
     "query": "5.165.11.208"
   },
+  "112.171.58.30": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Gwanak-gu",
+    "zip": "087",
+    "lat": 37.4873,
+    "lon": 126.9227,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "112.171.58.30"
+  },
   "95.32.184.90": {
     "status": "success",
     "country": "Russia",
@@ -1118,6 +1118,22 @@
     "org": "OJSC Rostelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "95.32.184.90"
+  },
+  "1.53.186.97": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "SG",
+    "regionName": "Ho Chi Minh",
+    "city": "Ho Chi Minh City",
+    "zip": "700000",
+    "lat": 10.822,
+    "lon": 106.6257,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "isp": "FPT Telecom Company",
+    "org": "Vietnam Internet Network Information Center",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "1.53.186.97"
   },
   "31.40.209.216": {
     "status": "success",
@@ -1167,22 +1183,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "92.126.117.232"
   },
-  "38.25.18.6": {
-    "status": "success",
-    "country": "Peru",
-    "countryCode": "PE",
-    "region": "LMA",
-    "regionName": "Lima Province",
-    "city": "Lima",
-    "zip": "",
-    "lat": -12.046,
-    "lon": -77.0305,
-    "timezone": "America/Lima",
-    "isp": "WI-NET Telecom SAC",
-    "org": "WI-NET Telecom SAC",
-    "as": "AS265691 WI-NET TELECOM S.A.C.",
-    "query": "38.25.18.6"
-  },
   "185.15.38.71": {
     "status": "success",
     "country": "Russia",
@@ -1214,6 +1214,22 @@
     "org": "OJSC Rostelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "2.62.30.56"
+  },
+  "38.25.18.6": {
+    "status": "success",
+    "country": "Peru",
+    "countryCode": "PE",
+    "region": "LMA",
+    "regionName": "Lima Province",
+    "city": "Lima",
+    "zip": "",
+    "lat": -12.046,
+    "lon": -77.0305,
+    "timezone": "America/Lima",
+    "isp": "WI-NET Telecom SAC",
+    "org": "WI-NET Telecom SAC",
+    "as": "AS265691 WI-NET TELECOM S.A.C.",
+    "query": "38.25.18.6"
   },
   "46.158.11.123": {
     "status": "success",
@@ -1566,22 +1582,6 @@
     "org": "Toray Industries, Inc.",
     "as": "AS2519 ARTERIA Networks Corporation",
     "query": "133.175.99.151"
-  },
-  "39.115.15.14": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Gwanak-gu",
-    "zip": "087",
-    "lat": 37.4873,
-    "lon": 126.9227,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "39.115.15.14"
   },
   "203.95.223.197": {
     "status": "success",
