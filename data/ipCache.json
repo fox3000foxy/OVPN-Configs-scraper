@@ -207,6 +207,22 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "223.132.208.135"
   },
+  "119.173.41.197": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Komone",
+    "zip": "173-0031",
+    "lat": 35.7458,
+    "lon": 139.6911,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM Co., Ltd.",
+    "org": "JCOM Co., Ltd",
+    "as": "AS9824 JCOM Co., Ltd.",
+    "query": "119.173.41.197"
+  },
   "143.189.43.87": {
     "status": "success",
     "country": "Japan",
@@ -238,22 +254,6 @@
     "org": "Sony Network Communications Inc.",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "118.241.184.72"
-  },
-  "119.173.41.197": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Komone",
-    "zip": "173-0031",
-    "lat": 35.7458,
-    "lon": 139.6911,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM Co., Ltd.",
-    "org": "JCOM Co., Ltd",
-    "as": "AS9824 JCOM Co., Ltd.",
-    "query": "119.173.41.197"
   },
   "59.7.207.18": {
     "status": "success",
