@@ -207,22 +207,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "36.14.133.245"
   },
-  "60.36.150.117": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Miharadai",
-    "zip": "590-0111",
-    "lat": 34.4996,
-    "lon": 135.5485,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "NTT Communications Corporation",
-    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
-    "query": "60.36.150.117"
-  },
   "133.202.180.143": {
     "status": "success",
     "country": "Japan",
@@ -943,22 +927,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "112.164.117.173"
   },
-  "126.114.100.133": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.114.100.133"
-  },
   "180.146.97.71": {
     "status": "success",
     "country": "Japan",
@@ -974,6 +942,22 @@
     "org": "K-Opticom Corporation",
     "as": "AS17511 OPTAGE Inc.",
     "query": "180.146.97.71"
+  },
+  "126.114.100.133": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.114.100.133"
   },
   "115.65.23.149": {
     "status": "success",
@@ -1086,6 +1070,22 @@
     "org": "BIGLOBE",
     "as": "AS2518 BIGLOBE Inc.",
     "query": "221.170.21.130"
+  },
+  "126.114.174.188": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Aoi",
+    "zip": "120-0013",
+    "lat": 35.7743,
+    "lon": 139.817,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.114.174.188"
   },
   "203.56.128.204": {
     "status": "success",
