@@ -1087,22 +1087,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "183.101.76.198"
   },
-  "115.124.252.21": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "44",
-    "regionName": "Oita",
-    "city": "Ōita",
-    "zip": "870-0831",
-    "lat": 33.229,
-    "lon": 131.6039,
-    "timezone": "Asia/Tokyo",
-    "isp": "QTnet, Inc.",
-    "org": "QTnet, Inc.",
-    "as": "AS7679 QTnet,Inc.",
-    "query": "115.124.252.21"
-  },
   "175.206.37.185": {
     "status": "success",
     "country": "South Korea",
@@ -1118,6 +1102,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "175.206.37.185"
+  },
+  "115.124.252.21": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "44",
+    "regionName": "Oita",
+    "city": "Ōita",
+    "zip": "870-0831",
+    "lat": 33.229,
+    "lon": 131.6039,
+    "timezone": "Asia/Tokyo",
+    "isp": "QTnet, Inc.",
+    "org": "QTnet, Inc.",
+    "as": "AS7679 QTnet,Inc.",
+    "query": "115.124.252.21"
   },
   "175.210.79.104": {
     "status": "success",
@@ -1199,6 +1199,22 @@
     "as": "AS133481 AIS Fibre",
     "query": "49.228.247.137"
   },
+  "95.26.181.158": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "ARK",
+    "regionName": "Arkhangelskaya",
+    "city": "Arkhangelsk",
+    "zip": "163000",
+    "lat": 64.543,
+    "lon": 40.5371,
+    "timezone": "Europe/Moscow",
+    "isp": "CORBINA-BROADBAND",
+    "org": "",
+    "as": "AS3216 PJSC \"Vimpelcom\"",
+    "query": "95.26.181.158"
+  },
   "175.196.129.126": {
     "status": "success",
     "country": "South Korea",
@@ -1246,22 +1262,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "221.147.224.183"
-  },
-  "95.26.181.158": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "ARK",
-    "regionName": "Arkhangelskaya",
-    "city": "Arkhangelsk",
-    "zip": "163000",
-    "lat": 64.543,
-    "lon": 40.5371,
-    "timezone": "Europe/Moscow",
-    "isp": "CORBINA-BROADBAND",
-    "org": "",
-    "as": "AS3216 PJSC \"Vimpelcom\"",
-    "query": "95.26.181.158"
   },
   "83.139.129.87": {
     "status": "success",
