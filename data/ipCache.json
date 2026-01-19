@@ -143,22 +143,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.208"
   },
-  "107.137.157.44": {
-    "status": "success",
-    "country": "United States",
-    "countryCode": "US",
-    "region": "NC",
-    "regionName": "North Carolina",
-    "city": "Charlotte",
-    "zip": "28211",
-    "lat": 35.1712,
-    "lon": -80.7939,
-    "timezone": "America/New_York",
-    "isp": "AT&T Enterprises, LLC",
-    "org": "AT&T Corp",
-    "as": "AS7018 AT&T Enterprises, LLC",
-    "query": "107.137.157.44"
-  },
   "98.32.18.198": {
     "status": "success",
     "country": "United States",
@@ -175,21 +159,21 @@
     "as": "AS7922 Comcast Cable Communications, LLC",
     "query": "98.32.18.198"
   },
-  "219.100.37.109": {
+  "107.137.157.44": {
     "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftEther",
-    "org": "SoftEther Corporation",
-    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.109"
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NC",
+    "regionName": "North Carolina",
+    "city": "Charlotte",
+    "zip": "28211",
+    "lat": 35.1712,
+    "lon": -80.7939,
+    "timezone": "America/New_York",
+    "isp": "AT&T Enterprises, LLC",
+    "org": "AT&T Corp",
+    "as": "AS7018 AT&T Enterprises, LLC",
+    "query": "107.137.157.44"
   },
   "68.8.191.131": {
     "status": "success",
@@ -206,6 +190,22 @@
     "org": "Cox Communications Inc.",
     "as": "AS22773 Cox Communications Inc.",
     "query": "68.8.191.131"
+  },
+  "219.100.37.109": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftEther",
+    "org": "SoftEther Corporation",
+    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
+    "query": "219.100.37.109"
   },
   "219.100.37.204": {
     "status": "success",
@@ -671,22 +671,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "221.45.33.197"
   },
-  "103.152.178.62": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-0001",
-    "lat": 35.694,
-    "lon": 139.754,
-    "timezone": "Asia/Tokyo",
-    "isp": "Ayao Takata",
-    "org": "SDCC-East01",
-    "as": "AS38074 SDCC Japan-West Area",
-    "query": "103.152.178.62"
-  },
   "153.210.10.148": {
     "status": "success",
     "country": "Japan",
@@ -718,6 +702,22 @@
     "org": "SOFTBANK Corp",
     "as": "AS17676 SoftBank Corp.",
     "query": "126.117.57.254"
+  },
+  "103.152.178.62": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-0001",
+    "lat": 35.694,
+    "lon": 139.754,
+    "timezone": "Asia/Tokyo",
+    "isp": "Ayao Takata",
+    "org": "SDCC-East01",
+    "as": "AS38074 SDCC Japan-West Area",
+    "query": "103.152.178.62"
   },
   "1.52.78.74": {
     "status": "success",
@@ -895,6 +895,22 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "118.0.154.38"
   },
+  "59.99.202.225": {
+    "status": "success",
+    "country": "India",
+    "countryCode": "IN",
+    "region": "PB",
+    "regionName": "Punjab",
+    "city": "Ahmedgarh",
+    "zip": "148021",
+    "lat": 30.6773,
+    "lon": 75.8263,
+    "timezone": "Asia/Kolkata",
+    "isp": "BSNL Internet",
+    "org": "",
+    "as": "AS9829 National Internet Backbone",
+    "query": "59.99.202.225"
+  },
   "92.202.199.250": {
     "status": "success",
     "country": "Japan",
@@ -942,6 +958,22 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "106.136.145.112"
+  },
+  "58.136.218.184": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "10",
+    "regionName": "Bangkok",
+    "city": "Bangkok",
+    "zip": "10250",
+    "lat": 13.8582,
+    "lon": 100.478,
+    "timezone": "Asia/Bangkok",
+    "isp": "AIS-Fibre",
+    "org": "",
+    "as": "AS133481 AIS Fibre",
+    "query": "58.136.218.184"
   },
   "119.76.173.102": {
     "status": "success",
@@ -1518,38 +1550,6 @@
     "org": "Ziply Fiber",
     "as": "AS20055 Wholesail networks LLC",
     "query": "50.53.78.95"
-  },
-  "70.187.167.138": {
-    "status": "success",
-    "country": "United States",
-    "countryCode": "US",
-    "region": "CA",
-    "regionName": "California",
-    "city": "Santa Ana",
-    "zip": "92705",
-    "lat": 33.7568,
-    "lon": -117.7938,
-    "timezone": "America/Los_Angeles",
-    "isp": "Cox Communications Inc.",
-    "org": "Cox Communications",
-    "as": "AS22773 Cox Communications Inc.",
-    "query": "70.187.167.138"
-  },
-  "69.245.179.46": {
-    "status": "success",
-    "country": "United States",
-    "countryCode": "US",
-    "region": "IL",
-    "regionName": "Illinois",
-    "city": "Chicago",
-    "zip": "60611",
-    "lat": 41.8972,
-    "lon": -87.6196,
-    "timezone": "America/Chicago",
-    "isp": "Comcast Cable Communications, LLC",
-    "org": "Comcast Cable Communications, Inc",
-    "as": "AS7922 Comcast Cable Communications, LLC",
-    "query": "69.245.179.46"
   },
   "186.13.209.137": {
     "status": "success",
