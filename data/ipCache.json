@@ -1519,6 +1519,22 @@
     "as": "AS17511 OPTAGE Inc.",
     "query": "101.140.108.71"
   },
+  "121.145.217.199": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Dong-gu",
+    "zip": "488",
+    "lat": 35.1266,
+    "lon": 129.0299,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "KT Corporation",
+    "as": "AS4766 Korea Telecom",
+    "query": "121.145.217.199"
+  },
   "112.165.89.234": {
     "status": "success",
     "country": "South Korea",
@@ -1566,22 +1582,6 @@
     "org": "Toray Industries, Inc.",
     "as": "AS2519 ARTERIA Networks Corporation",
     "query": "133.175.99.151"
-  },
-  "39.115.15.14": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Gwanak-gu",
-    "zip": "087",
-    "lat": 37.4873,
-    "lon": 126.9227,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "39.115.15.14"
   },
   "203.95.223.197": {
     "status": "success",
