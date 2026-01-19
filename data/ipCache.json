@@ -543,22 +543,6 @@
     "as": "AS18126 Chubu Telecommunications Company, Inc.",
     "query": "124.18.97.154"
   },
-  "158.199.108.129": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "21",
-    "regionName": "Gifu",
-    "city": "Takayama",
-    "zip": "506-0021",
-    "lat": 36.1327,
-    "lon": 137.2563,
-    "timezone": "Asia/Tokyo",
-    "isp": "Community Network Center Incorporated.",
-    "org": "",
-    "as": "AS17698 COMMUNITY NETWORK CENTER INCORPORATED.",
-    "query": "158.199.108.129"
-  },
   "68.149.154.94": {
     "status": "success",
     "country": "Canada",
@@ -1534,6 +1518,22 @@
     "org": "OJSC Rostelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "95.188.88.132"
+  },
+  "126.220.90.7": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.220.90.7"
   },
   "24.224.168.13": {
     "status": "success",
