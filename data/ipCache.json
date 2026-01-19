@@ -159,22 +159,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.204"
   },
-  "104.28.244.75": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "NVS",
-    "regionName": "Novosibirsk Oblast",
-    "city": "Novosibirsk",
-    "zip": "630000",
-    "lat": 55.0386,
-    "lon": 82.9425,
-    "timezone": "Asia/Novosibirsk",
-    "isp": "Cloudflare, Inc.",
-    "org": "Cloudflare WARP",
-    "as": "AS13335 Cloudflare, Inc.",
-    "query": "104.28.244.75"
-  },
   "107.137.157.44": {
     "status": "success",
     "country": "United States",
@@ -190,6 +174,22 @@
     "org": "AT&T Corp",
     "as": "AS7018 AT&T Enterprises, LLC",
     "query": "107.137.157.44"
+  },
+  "104.28.244.75": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "NVS",
+    "regionName": "Novosibirsk Oblast",
+    "city": "Novosibirsk",
+    "zip": "630000",
+    "lat": 55.0386,
+    "lon": 82.9425,
+    "timezone": "Asia/Novosibirsk",
+    "isp": "Cloudflare, Inc.",
+    "org": "Cloudflare WARP",
+    "as": "AS13335 Cloudflare, Inc.",
+    "query": "104.28.244.75"
   },
   "126.88.128.168": {
     "status": "success",
@@ -239,22 +239,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.122.102.169"
   },
-  "220.150.148.16": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "08",
-    "regionName": "Ibaraki",
-    "city": "Tsukuba",
-    "zip": "305-0021",
-    "lat": 36.096,
-    "lon": 140.1503,
-    "timezone": "Asia/Tokyo",
-    "isp": "ASAHI Net, Inc.",
-    "org": "ASAHI",
-    "as": "AS4685 Asahi Net",
-    "query": "220.150.148.16"
-  },
   "68.68.175.138": {
     "status": "success",
     "country": "United States",
@@ -270,6 +254,22 @@
     "org": "K Powernet LLC",
     "as": "AS27258 KAMO Electric Cooperative, Inc.",
     "query": "68.68.175.138"
+  },
+  "220.150.148.16": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "08",
+    "regionName": "Ibaraki",
+    "city": "Tsukuba",
+    "zip": "305-0021",
+    "lat": 36.096,
+    "lon": 140.1503,
+    "timezone": "Asia/Tokyo",
+    "isp": "ASAHI Net, Inc.",
+    "org": "ASAHI",
+    "as": "AS4685 Asahi Net",
+    "query": "220.150.148.16"
   },
   "126.235.87.202": {
     "status": "success",
@@ -655,22 +655,6 @@
     "as": "AS18126 Chubu Telecommunications Company, Inc.",
     "query": "123.48.136.169"
   },
-  "218.115.121.212": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "218.115.121.212"
-  },
   "106.179.185.236": {
     "status": "success",
     "country": "Japan",
@@ -686,6 +670,22 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "106.179.185.236"
+  },
+  "218.115.121.212": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "218.115.121.212"
   },
   "220.100.124.178": {
     "status": "success",
@@ -750,6 +750,22 @@
     "org": "Japan Nation-wide Network of Softbank Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "60.145.145.27"
+  },
+  "14.33.171.227": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Suwon",
+    "zip": "165",
+    "lat": 37.2677,
+    "lon": 127.0457,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "14.33.171.227"
   },
   "49.48.241.51": {
     "status": "success",
@@ -879,22 +895,6 @@
     "as": "AS18403 FPT Telecom Company",
     "query": "1.52.69.237"
   },
-  "121.107.70.142": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0071",
-    "lat": 35.6837,
-    "lon": 139.6805,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "121.107.70.142"
-  },
   "113.148.186.91": {
     "status": "success",
     "country": "Japan",
@@ -910,6 +910,22 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "113.148.186.91"
+  },
+  "121.107.70.142": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tokyo",
+    "zip": "151-0071",
+    "lat": 35.6837,
+    "lon": 139.6805,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "121.107.70.142"
   },
   "60.93.114.201": {
     "status": "success",
@@ -991,22 +1007,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "59.134.57.76"
   },
-  "121.188.176.14": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "43",
-    "regionName": "North Chungcheong",
-    "city": "Jecheon",
-    "zip": "271",
-    "lat": 37.14,
-    "lon": 128.2106,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Korea Telecom",
-    "as": "AS4766 Korea Telecom",
-    "query": "121.188.176.14"
-  },
   "211.10.52.110": {
     "status": "success",
     "country": "Japan",
@@ -1022,6 +1022,22 @@
     "org": "SO-Net Service",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "211.10.52.110"
+  },
+  "121.188.176.14": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "43",
+    "regionName": "North Chungcheong",
+    "city": "Jecheon",
+    "zip": "271",
+    "lat": 37.14,
+    "lon": 128.2106,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Korea Telecom",
+    "as": "AS4766 Korea Telecom",
+    "query": "121.188.176.14"
   },
   "122.222.96.63": {
     "status": "success",
@@ -1215,21 +1231,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "211.224.254.164"
   },
-  "186.122.11.104": {
+  "86.102.205.225": {
     "status": "success",
-    "country": "Argentina",
-    "countryCode": "AR",
-    "region": "T",
-    "regionName": "Tucuman",
-    "city": "San Miguel de Tucumán",
-    "zip": "4000",
-    "lat": -26.816,
-    "lon": -65.2154,
-    "timezone": "America/Argentina/Tucuman",
-    "isp": "Techtel LMDS Comunicaciones Interactivas S.A.",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Vladivostok",
+    "zip": "690001",
+    "lat": 43.1068,
+    "lon": 131.8692,
+    "timezone": "Asia/Vladivostok",
+    "isp": "Rostelecom networks",
     "org": "",
-    "as": "AS11664 Techtel LMDS Comunicaciones Interactivas S.A.",
-    "query": "186.122.11.104"
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "86.102.205.225"
   },
   "126.224.84.232": {
     "status": "success",
@@ -1246,22 +1262,6 @@
     "org": "SOFTBANK Corp",
     "as": "AS17676 SoftBank Corp.",
     "query": "126.224.84.232"
-  },
-  "86.102.205.225": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PRI",
-    "regionName": "Primorye",
-    "city": "Vladivostok",
-    "zip": "690001",
-    "lat": 43.1068,
-    "lon": 131.8692,
-    "timezone": "Asia/Vladivostok",
-    "isp": "Rostelecom networks",
-    "org": "",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "86.102.205.225"
   },
   "49.228.81.127": {
     "status": "success",
@@ -1310,22 +1310,6 @@
     "org": "Vmcbbuk",
     "as": "AS5089 Virgin Media Limited",
     "query": "86.14.20.9"
-  },
-  "125.133.161.106": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "28",
-    "regionName": "Incheon",
-    "city": "Incheon",
-    "zip": "220",
-    "lat": 37.4585,
-    "lon": 126.7015,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Korea Telecom",
-    "as": "AS4766 Korea Telecom",
-    "query": "125.133.161.106"
   },
   "211.223.180.248": {
     "status": "success",
@@ -1471,22 +1455,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "59.9.167.108"
   },
-  "180.57.59.204": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "01",
-    "regionName": "Hokkaido",
-    "city": "Sapporo",
-    "zip": "062-0901",
-    "lat": 43.048,
-    "lon": 141.3673,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "NTT Communications Corporation",
-    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
-    "query": "180.57.59.204"
-  },
   "49.175.89.36": {
     "status": "success",
     "country": "South Korea",
@@ -1550,6 +1518,38 @@
     "org": "HCN",
     "as": "AS9319 HCN CHUNGBUK CABLE TV SYSTEMS",
     "query": "27.35.83.200"
+  },
+  "125.191.211.66": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "50",
+    "regionName": "Sejong-si",
+    "city": "Sejong",
+    "zip": "301",
+    "lat": 36.5916,
+    "lon": 127.2916,
+    "timezone": "Asia/Seoul",
+    "isp": "LG POWERCOMM",
+    "org": "LG POWERCOMM",
+    "as": "AS17858 LG POWERCOMM",
+    "query": "125.191.211.66"
+  },
+  "118.235.74.192": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Gwanak-gu",
+    "zip": "087",
+    "lat": 37.4873,
+    "lon": 126.9227,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "118.235.74.192"
   },
   "186.13.209.137": {
     "status": "success",
