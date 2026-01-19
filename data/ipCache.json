@@ -175,6 +175,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "183.99.115.65"
   },
+  "143.189.43.87": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "08",
+    "regionName": "Ibaraki",
+    "city": "Mito",
+    "zip": "310-0911",
+    "lat": 36.3502,
+    "lon": 140.4258,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc.",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "143.189.43.87"
+  },
   "118.241.184.72": {
     "status": "success",
     "country": "Japan",
@@ -543,6 +559,22 @@
     "as": "AS4760 HKT Limited",
     "query": "42.200.252.158"
   },
+  "49.228.107.84": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "10",
+    "regionName": "Bangkok",
+    "city": "Bangkok",
+    "zip": "10110",
+    "lat": 13.7101,
+    "lon": 100.4543,
+    "timezone": "Asia/Bangkok",
+    "isp": "Advanced Wireless Network Company Limited",
+    "org": "AIS Fibre",
+    "as": "AS133481 AIS Fibre",
+    "query": "49.228.107.84"
+  },
   "112.171.81.250": {
     "status": "success",
     "country": "South Korea",
@@ -574,22 +606,6 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "119.106.76.185"
-  },
-  "49.228.107.84": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "10",
-    "regionName": "Bangkok",
-    "city": "Bangkok",
-    "zip": "10110",
-    "lat": 13.7101,
-    "lon": 100.4543,
-    "timezone": "Asia/Bangkok",
-    "isp": "Advanced Wireless Network Company Limited",
-    "org": "AIS Fibre",
-    "as": "AS133481 AIS Fibre",
-    "query": "49.228.107.84"
   },
   "195.93.253.122": {
     "status": "success",
@@ -1231,22 +1247,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "183.103.239.233"
   },
-  "59.26.98.6": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "30",
-    "regionName": "Daejeon",
-    "city": "Dong-gu",
-    "zip": "345",
-    "lat": 36.3454,
-    "lon": 127.4458,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "59.26.98.6"
-  },
   "221.155.179.152": {
     "status": "success",
     "country": "South Korea",
@@ -1262,6 +1262,22 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "221.155.179.152"
+  },
+  "59.26.98.6": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "30",
+    "regionName": "Daejeon",
+    "city": "Dong-gu",
+    "zip": "345",
+    "lat": 36.3454,
+    "lon": 127.4458,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "59.26.98.6"
   },
   "39.125.225.66": {
     "status": "success",
@@ -1407,6 +1423,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "14.51.87.179"
   },
+  "211.198.154.15": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Hwaseong-si",
+    "zip": "182",
+    "lat": 37.2072,
+    "lon": 126.8168,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Korea Telecom",
+    "as": "AS4766 Korea Telecom",
+    "query": "211.198.154.15"
+  },
   "123.109.218.207": {
     "status": "success",
     "country": "South Korea",
@@ -1534,38 +1566,6 @@
     "org": "TOKAI Communications Corporation",
     "as": "AS10010 TOKAI Communications Corporation",
     "query": "219.117.118.83"
-  },
-  "5.143.98.209": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PRI",
-    "regionName": "Primorye",
-    "city": "Vladivostok",
-    "zip": "690001",
-    "lat": 43.1068,
-    "lon": 131.8692,
-    "timezone": "Asia/Vladivostok",
-    "isp": "PJSC Rostelecom",
-    "org": "PJSC Rostelecom Far East Region",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "5.143.98.209"
-  },
-  "1.52.9.67": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "",
-    "regionName": "Ho Chi Minh City (HCMC)",
-    "city": "Ho Chi Minh City",
-    "zip": "",
-    "lat": 10.8231,
-    "lon": 106.63,
-    "timezone": "Asia/Ho_Chi_Minh",
-    "isp": "FPT Telecom Company",
-    "org": "FPTDYNAMICIP",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "1.52.9.67"
   },
   "93.125.107.128": {
     "status": "success",
