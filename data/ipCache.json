@@ -831,6 +831,22 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "153.185.74.64"
   },
+  "114.180.103.113": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "10",
+    "regionName": "Gunma",
+    "city": "Takasaki",
+    "zip": "370-0061",
+    "lat": 36.3369,
+    "lon": 139.0189,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "NTT Communications Corporation",
+    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
+    "query": "114.180.103.113"
+  },
   "61.76.11.83": {
     "status": "success",
     "country": "South Korea",
@@ -862,22 +878,6 @@
     "org": "Chubu Telecommunications Co., Inc.",
     "as": "AS18126 Chubu Telecommunications Company, Inc.",
     "query": "222.9.173.113"
-  },
-  "114.180.103.113": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "10",
-    "regionName": "Gunma",
-    "city": "Takasaki",
-    "zip": "370-0061",
-    "lat": 36.3369,
-    "lon": 139.0189,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "NTT Communications Corporation",
-    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
-    "query": "114.180.103.113"
   },
   "106.159.145.248": {
     "status": "success",
@@ -1071,22 +1071,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "169.212.0.150"
   },
-  "42.116.142.229": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "HN",
-    "regionName": "Hanoi",
-    "city": "Hanoi",
-    "zip": "100000",
-    "lat": 21.0184,
-    "lon": 105.8461,
-    "timezone": "Asia/Bangkok",
-    "isp": "FPT Telecom Company",
-    "org": "FPT-STATICIP",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "42.116.142.229"
-  },
   "184.22.231.187": {
     "status": "success",
     "country": "Thailand",
@@ -1166,6 +1150,22 @@
     "org": "VIETEL",
     "as": "AS7552 Viettel Group",
     "query": "171.246.86.141"
+  },
+  "42.116.142.229": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "HN",
+    "regionName": "Hanoi",
+    "city": "Hanoi",
+    "zip": "100000",
+    "lat": 21.0184,
+    "lon": 105.8461,
+    "timezone": "Asia/Bangkok",
+    "isp": "FPT Telecom Company",
+    "org": "FPT-STATICIP",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "42.116.142.229"
   },
   "210.222.234.216": {
     "status": "success",
