@@ -127,6 +127,38 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.16"
   },
+  "66.42.62.241": {
+    "status": "success",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "region": "05",
+    "regionName": "South West",
+    "city": "Singapore",
+    "zip": "627753",
+    "lat": 1.32123,
+    "lon": 103.695,
+    "timezone": "Asia/Singapore",
+    "isp": "SGP VULTR",
+    "org": "",
+    "as": "AS20473 The Constant Company, LLC",
+    "query": "66.42.62.241"
+  },
+  "50.53.78.95": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OR",
+    "regionName": "Oregon",
+    "city": "Hillsboro",
+    "zip": "97123",
+    "lat": 45.4998,
+    "lon": -122.9586,
+    "timezone": "America/Los_Angeles",
+    "isp": "Wholesail networks LLC",
+    "org": "Ziply Fiber",
+    "as": "AS20055 Wholesail networks LLC",
+    "query": "50.53.78.95"
+  },
   "107.137.157.44": {
     "status": "success",
     "country": "United States",
@@ -158,6 +190,22 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.208"
+  },
+  "68.8.191.131": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA",
+    "regionName": "California",
+    "city": "San Diego",
+    "zip": "92115",
+    "lat": 32.7638,
+    "lon": -117.07,
+    "timezone": "America/Los_Angeles",
+    "isp": "Cox Communications Inc.",
+    "org": "Cox Communications Inc.",
+    "as": "AS22773 Cox Communications Inc.",
+    "query": "68.8.191.131"
   },
   "98.32.18.198": {
     "status": "success",
@@ -191,22 +239,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.109"
   },
-  "68.8.191.131": {
-    "status": "success",
-    "country": "United States",
-    "countryCode": "US",
-    "region": "CA",
-    "regionName": "California",
-    "city": "San Diego",
-    "zip": "92115",
-    "lat": 32.7638,
-    "lon": -117.07,
-    "timezone": "America/Los_Angeles",
-    "isp": "Cox Communications Inc.",
-    "org": "Cox Communications Inc.",
-    "as": "AS22773 Cox Communications Inc.",
-    "query": "68.8.191.131"
-  },
   "219.100.37.204": {
     "status": "success",
     "country": "Japan",
@@ -222,22 +254,6 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.204"
-  },
-  "118.104.168.55": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "24",
-    "regionName": "Mie",
-    "city": "Tsu",
-    "zip": "514-0011",
-    "lat": 34.7361,
-    "lon": 136.522,
-    "timezone": "Asia/Tokyo",
-    "isp": "Chubu Telecommunications Company, Inc.",
-    "org": "Chubu Telecommunications Co., Inc.",
-    "as": "AS18126 Chubu Telecommunications Company, Inc.",
-    "query": "118.104.168.55"
   },
   "182.171.116.240": {
     "status": "success",
@@ -511,22 +527,6 @@
     "as": "AS8416 InfoLada Ltd",
     "query": "178.163.69.1"
   },
-  "220.102.233.254": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "12",
-    "regionName": "Chiba",
-    "city": "Nagareyama",
-    "zip": "270-0151",
-    "lat": 35.8566,
-    "lon": 139.9185,
-    "timezone": "Asia/Tokyo",
-    "isp": "NEC BIGLOBE Ltd.",
-    "org": "BIGLOBE",
-    "as": "AS2518 BIGLOBE Inc.",
-    "query": "220.102.233.254"
-  },
   "126.219.0.177": {
     "status": "success",
     "country": "Japan",
@@ -542,6 +542,22 @@
     "org": "SOFTBANK Corp",
     "as": "AS17676 SoftBank Corp.",
     "query": "126.219.0.177"
+  },
+  "220.102.233.254": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "12",
+    "regionName": "Chiba",
+    "city": "Nagareyama",
+    "zip": "270-0151",
+    "lat": 35.8566,
+    "lon": 139.9185,
+    "timezone": "Asia/Tokyo",
+    "isp": "NEC BIGLOBE Ltd.",
+    "org": "BIGLOBE",
+    "as": "AS2518 BIGLOBE Inc.",
+    "query": "220.102.233.254"
   },
   "60.125.6.93": {
     "status": "success",
@@ -687,22 +703,6 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "153.210.10.148"
   },
-  "126.117.57.254": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.117.57.254"
-  },
   "103.152.178.62": {
     "status": "success",
     "country": "Japan",
@@ -718,6 +718,22 @@
     "org": "SDCC-East01",
     "as": "AS38074 SDCC Japan-West Area",
     "query": "103.152.178.62"
+  },
+  "126.117.57.254": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.117.57.254"
   },
   "220.70.225.34": {
     "status": "success",
@@ -735,6 +751,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "220.70.225.34"
   },
+  "1.52.78.74": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "HN",
+    "regionName": "Hanoi",
+    "city": "Bạch Mai",
+    "zip": "",
+    "lat": 20.9833,
+    "lon": 105.833,
+    "timezone": "Asia/Bangkok",
+    "isp": "Vietnam Internet Network Information Center",
+    "org": "",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "1.52.78.74"
+  },
   "110.137.102.35": {
     "status": "success",
     "country": "Indonesia",
@@ -750,22 +782,6 @@
     "org": "",
     "as": "AS7713 PT Telekomunikasi Indonesia",
     "query": "110.137.102.35"
-  },
-  "218.115.121.212": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "218.115.121.212"
   },
   "37.110.83.193": {
     "status": "success",
@@ -879,22 +895,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "90.189.196.154"
   },
-  "210.165.237.222": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "11",
-    "regionName": "Saitama",
-    "city": "Kawaguchi",
-    "zip": "332-0011",
-    "lat": 35.7949,
-    "lon": 139.7334,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT PC Communications, Inc.",
-    "org": "InfoSphere",
-    "as": "AS2514 NTT PC Communications, Inc.",
-    "query": "210.165.237.222"
-  },
   "92.202.199.250": {
     "status": "success",
     "country": "Japan",
@@ -910,6 +910,38 @@
     "org": "Sony Network Communications Inc.",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "92.202.199.250"
+  },
+  "58.136.218.184": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "10",
+    "regionName": "Bangkok",
+    "city": "Bangkok",
+    "zip": "10250",
+    "lat": 13.8582,
+    "lon": 100.478,
+    "timezone": "Asia/Bangkok",
+    "isp": "AIS-Fibre",
+    "org": "",
+    "as": "AS133481 AIS Fibre",
+    "query": "58.136.218.184"
+  },
+  "210.165.237.222": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "11",
+    "regionName": "Saitama",
+    "city": "Kawaguchi",
+    "zip": "332-0011",
+    "lat": 35.7949,
+    "lon": 139.7334,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT PC Communications, Inc.",
+    "org": "InfoSphere",
+    "as": "AS2514 NTT PC Communications, Inc.",
+    "query": "210.165.237.222"
   },
   "106.136.145.112": {
     "status": "success",
@@ -942,22 +974,6 @@
     "org": "",
     "as": "AS9829 National Internet Backbone",
     "query": "59.99.202.225"
-  },
-  "58.136.218.184": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "10",
-    "regionName": "Bangkok",
-    "city": "Bangkok",
-    "zip": "10250",
-    "lat": 13.8582,
-    "lon": 100.478,
-    "timezone": "Asia/Bangkok",
-    "isp": "AIS-Fibre",
-    "org": "",
-    "as": "AS133481 AIS Fibre",
-    "query": "58.136.218.184"
   },
   "106.176.30.209": {
     "status": "success",
@@ -1087,6 +1103,22 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "115.162.102.202"
   },
+  "101.235.81.130": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Yangju",
+    "zip": "114",
+    "lat": 37.8119,
+    "lon": 127.08,
+    "timezone": "Asia/Seoul",
+    "isp": "DLIVE",
+    "org": "DLIVE Jungrang Cable TV",
+    "as": "AS10036 DLIVE",
+    "query": "101.235.81.130"
+  },
   "193.114.24.200": {
     "status": "success",
     "country": "Japan",
@@ -1183,21 +1215,21 @@
     "as": "AS17511 OPTAGE Inc.",
     "query": "182.165.177.131"
   },
-  "184.22.13.8": {
+  "49.228.233.186": {
     "status": "success",
     "country": "Thailand",
     "countryCode": "TH",
     "region": "10",
     "regionName": "Bangkok",
     "city": "Bangkok",
-    "zip": "10120",
+    "zip": "10110",
     "lat": 13.7101,
     "lon": 100.4543,
     "timezone": "Asia/Bangkok",
-    "isp": "AIS-Fibre",
-    "org": "",
+    "isp": "Advanced Wireless Network Company Limited",
+    "org": "AIS Fibre",
     "as": "AS133481 AIS Fibre",
-    "query": "184.22.13.8"
+    "query": "49.228.233.186"
   },
   "222.144.35.76": {
     "status": "success",
@@ -1518,22 +1550,6 @@
     "org": "3Z.net",
     "as": "AS6181 Cincinnati Bell Telephone Company LLC",
     "query": "216.68.110.83"
-  },
-  "50.53.78.95": {
-    "status": "success",
-    "country": "United States",
-    "countryCode": "US",
-    "region": "OR",
-    "regionName": "Oregon",
-    "city": "Hillsboro",
-    "zip": "97123",
-    "lat": 45.4998,
-    "lon": -122.9586,
-    "timezone": "America/Los_Angeles",
-    "isp": "Wholesail networks LLC",
-    "org": "Ziply Fiber",
-    "as": "AS20055 Wholesail networks LLC",
-    "query": "50.53.78.95"
   },
   "70.187.167.138": {
     "status": "success",
