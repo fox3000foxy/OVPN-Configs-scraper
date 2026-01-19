@@ -719,22 +719,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.145.145.27"
   },
-  "14.33.171.227": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Suwon",
-    "zip": "165",
-    "lat": 37.2677,
-    "lon": 127.0457,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "14.33.171.227"
-  },
   "49.48.241.51": {
     "status": "success",
     "country": "Thailand",
@@ -831,22 +815,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "92.202.199.250"
   },
-  "106.136.145.112": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Hasune",
-    "zip": "174-0041",
-    "lat": 35.7927,
-    "lon": 139.6933,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "106.136.145.112"
-  },
   "210.165.237.222": {
     "status": "success",
     "country": "Japan",
@@ -862,6 +830,22 @@
     "org": "InfoSphere",
     "as": "AS2514 NTT PC Communications, Inc.",
     "query": "210.165.237.222"
+  },
+  "106.136.145.112": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Hasune",
+    "zip": "174-0041",
+    "lat": 35.7927,
+    "lon": 139.6933,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "106.136.145.112"
   },
   "59.99.202.225": {
     "status": "success",
@@ -1183,22 +1167,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "175.133.128.210"
   },
-  "116.254.38.69": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "22",
-    "regionName": "Shizuoka",
-    "city": "Yaizu",
-    "zip": "425-8555",
-    "lat": 34.8564,
-    "lon": 138.279,
-    "timezone": "Asia/Tokyo",
-    "isp": "TOKAI Communications Corporation",
-    "org": "TOKAI",
-    "as": "AS10010 TOKAI Communications Corporation",
-    "query": "116.254.38.69"
-  },
   "45.14.245.64": {
     "status": "success",
     "country": "The Netherlands",
@@ -1214,6 +1182,22 @@
     "org": "WorkTitans B.V",
     "as": "AS209847 WorkTitans B.V.",
     "query": "45.14.245.64"
+  },
+  "116.254.38.69": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "22",
+    "regionName": "Shizuoka",
+    "city": "Yaizu",
+    "zip": "425-8555",
+    "lat": 34.8564,
+    "lon": 138.279,
+    "timezone": "Asia/Tokyo",
+    "isp": "TOKAI Communications Corporation",
+    "org": "TOKAI",
+    "as": "AS10010 TOKAI Communications Corporation",
+    "query": "116.254.38.69"
   },
   "138.64.114.41": {
     "status": "success",
@@ -1550,6 +1534,22 @@
     "org": "HVGangwon",
     "as": "AS38120 LG HelloVision Corp.",
     "query": "115.31.100.14"
+  },
+  "210.182.153.244": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "43",
+    "regionName": "North Chungcheong",
+    "city": "Cheongju-si",
+    "zip": "28515",
+    "lat": 36.6378,
+    "lon": 127.4838,
+    "timezone": "Asia/Seoul",
+    "isp": "HCN CHUNGBUK CABLE TV SYSTEMS",
+    "org": "Boranet",
+    "as": "AS9319 HCN CHUNGBUK CABLE TV SYSTEMS",
+    "query": "210.182.153.244"
   },
   "186.13.209.137": {
     "status": "success",
