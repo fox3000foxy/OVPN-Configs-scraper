@@ -831,22 +831,6 @@
     "as": "AS133481 AIS Fibre",
     "query": "49.228.81.227"
   },
-  "60.145.145.27": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan Nation-wide Network of Softbank Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "60.145.145.27"
-  },
   "14.33.171.227": {
     "status": "success",
     "country": "South Korea",
@@ -862,6 +846,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "14.33.171.227"
+  },
+  "60.145.145.27": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.145.145.27"
   },
   "126.78.200.3": {
     "status": "success",
@@ -1423,6 +1423,22 @@
     "as": "AS7679 QTnet,Inc.",
     "query": "124.150.247.195"
   },
+  "222.120.78.59": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Goyang-si",
+    "zip": "103",
+    "lat": 37.6792,
+    "lon": 126.8183,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "222.120.78.59"
+  },
   "1.226.8.88": {
     "status": "success",
     "country": "South Korea",
@@ -1534,22 +1550,6 @@
     "org": "3Z.net",
     "as": "AS6181 Cincinnati Bell Telephone Company LLC",
     "query": "216.68.110.83"
-  },
-  "50.53.78.95": {
-    "status": "success",
-    "country": "United States",
-    "countryCode": "US",
-    "region": "OR",
-    "regionName": "Oregon",
-    "city": "Hillsboro",
-    "zip": "97123",
-    "lat": 45.4998,
-    "lon": -122.9586,
-    "timezone": "America/Los_Angeles",
-    "isp": "Wholesail networks LLC",
-    "org": "Ziply Fiber",
-    "as": "AS20055 Wholesail networks LLC",
-    "query": "50.53.78.95"
   },
   "186.13.209.137": {
     "status": "success",
