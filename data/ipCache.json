@@ -191,6 +191,22 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "111.238.189.171"
   },
+  "131.147.142.132": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Wada",
+    "zip": "166-0011",
+    "lat": 35.6945,
+    "lon": 139.6524,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "131.147.142.132"
+  },
   "104.28.194.152": {
     "status": "success",
     "country": "South Korea",
@@ -1055,22 +1071,6 @@
     "as": "AS2519 ARTERIA Networks Corporation",
     "query": "133.32.180.103"
   },
-  "223.132.144.100": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Hachiōji",
-    "zip": "193-0931",
-    "lat": 35.6525,
-    "lon": 139.3227,
-    "timezone": "Asia/Tokyo",
-    "isp": "So-net Entertainment Corporation",
-    "org": "So-net Entertainment Corporation",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "223.132.144.100"
-  },
   "60.119.129.138": {
     "status": "success",
     "country": "Japan",
@@ -1086,6 +1086,22 @@
     "org": "Japan Nation-wide Network of Softbank Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "60.119.129.138"
+  },
+  "223.132.144.100": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Hachiōji",
+    "zip": "193-0931",
+    "lat": 35.6525,
+    "lon": 139.3227,
+    "timezone": "Asia/Tokyo",
+    "isp": "So-net Entertainment Corporation",
+    "org": "So-net Entertainment Corporation",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "223.132.144.100"
   },
   "180.57.87.28": {
     "status": "success",
@@ -1534,22 +1550,6 @@
     "org": "Boranet",
     "as": "AS3786 LG DACOM Corporation",
     "query": "58.150.189.252"
-  },
-  "217.151.226.251": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "SVE",
-    "regionName": "Sverdlovsk Oblast",
-    "city": "Yekaterinburg",
-    "zip": "620028",
-    "lat": 56.8577,
-    "lon": 60.6113,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "ru-svyazinform",
-    "org": "",
-    "as": "AS48642 Joint stock company \"For\"",
-    "query": "217.151.226.251"
   },
   "174.7.33.45": {
     "status": "success",
