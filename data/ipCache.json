@@ -591,22 +591,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "160.86.46.9"
   },
-  "60.95.76.42": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan Nation-wide Network of Softbank Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "60.95.76.42"
-  },
   "106.168.67.207": {
     "status": "success",
     "country": "Japan",
@@ -1231,6 +1215,22 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "27.95.189.102"
   },
+  "150.9.154.11": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "23",
+    "regionName": "Aichi",
+    "city": "Nagoya",
+    "zip": "461-0001",
+    "lat": 35.1796,
+    "lon": 136.9166,
+    "timezone": "Asia/Tokyo",
+    "isp": "Internet Numbers Authority",
+    "org": "Internet Numbers Authority",
+    "as": "AS4685 Asahi Net",
+    "query": "150.9.154.11"
+  },
   "182.165.177.131": {
     "status": "success",
     "country": "Japan",
@@ -1278,22 +1278,6 @@
     "org": "Open Computer Network",
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "222.144.35.76"
-  },
-  "219.99.243.172": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "23",
-    "regionName": "Aichi",
-    "city": "Anjo",
-    "zip": "446-0041",
-    "lat": 34.9596,
-    "lon": 137.0783,
-    "timezone": "Asia/Tokyo",
-    "isp": "KATCH Network Inc.",
-    "org": "KATCH",
-    "as": "AS59108 KATCH NETWORK INC.",
-    "query": "219.99.243.172"
   },
   "153.209.98.170": {
     "status": "success",
@@ -1550,6 +1534,22 @@
     "org": "2COM Co ltd.",
     "as": "AS8334 LLC SETEL",
     "query": "46.188.100.140"
+  },
+  "216.68.110.83": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OH",
+    "regionName": "Ohio",
+    "city": "Cincinnati",
+    "zip": "45220",
+    "lat": 39.1417,
+    "lon": -84.5172,
+    "timezone": "America/New_York",
+    "isp": "Fuse Internet Access",
+    "org": "3Z.net",
+    "as": "AS6181 Cincinnati Bell Telephone Company LLC",
+    "query": "216.68.110.83"
   },
   "186.13.209.137": {
     "status": "success",
