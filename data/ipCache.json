@@ -511,6 +511,22 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "110.14.252.60"
   },
+  "133.32.235.215": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tokyo",
+    "zip": "151-0071",
+    "lat": 35.6837,
+    "lon": 139.6805,
+    "timezone": "Asia/Tokyo",
+    "isp": "ARTERIA Networks Corporation",
+    "org": "",
+    "as": "AS2519 ARTERIA Networks Corporation",
+    "query": "133.32.235.215"
+  },
   "222.14.54.111": {
     "status": "success",
     "country": "Japan",
@@ -799,22 +815,6 @@
     "as": "AS2519 ARTERIA Networks Corporation",
     "query": "122.223.24.93"
   },
-  "124.213.91.46": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0071",
-    "lat": 35.6837,
-    "lon": 139.6805,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "124.213.91.46"
-  },
   "46.242.9.163": {
     "status": "success",
     "country": "Russia",
@@ -911,22 +911,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "112.185.246.157"
   },
-  "223.217.85.99": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Nakano City",
-    "zip": "164-0001",
-    "lat": 35.704,
-    "lon": 139.6713,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "NTT Communications Corporation",
-    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
-    "query": "223.217.85.99"
-  },
   "218.145.107.33": {
     "status": "success",
     "country": "South Korea",
@@ -942,6 +926,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "218.145.107.33"
+  },
+  "223.217.85.99": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Nakano City",
+    "zip": "164-0001",
+    "lat": 35.704,
+    "lon": 139.6713,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "NTT Communications Corporation",
+    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
+    "query": "223.217.85.99"
   },
   "153.210.230.54": {
     "status": "success",
@@ -1183,22 +1183,6 @@
     "as": "AS3216 PJSC \"Vimpelcom\"",
     "query": "95.26.181.158"
   },
-  "175.196.129.126": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Anyang-si",
-    "zip": "139",
-    "lat": 37.4027,
-    "lon": 126.9257,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "175.196.129.126"
-  },
   "220.76.63.6": {
     "status": "success",
     "country": "South Korea",
@@ -1230,6 +1214,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "221.147.224.183"
+  },
+  "211.195.19.58": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Seongnam-si",
+    "zip": "135",
+    "lat": 37.377,
+    "lon": 127.1091,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "211.195.19.58"
   },
   "121.130.232.211": {
     "status": "success",
@@ -1263,21 +1263,21 @@
     "as": "AS6856 AO IK \"Informsvyaz-Chernozemye\"",
     "query": "83.139.129.87"
   },
-  "211.195.19.58": {
+  "175.196.129.126": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
     "region": "41",
     "regionName": "Gyeonggi-do",
-    "city": "Seongnam-si",
-    "zip": "135",
-    "lat": 37.377,
-    "lon": 127.1091,
+    "city": "Anyang-si",
+    "zip": "139",
+    "lat": 37.4027,
+    "lon": 126.9257,
     "timezone": "Asia/Seoul",
     "isp": "Korea Telecom",
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
-    "query": "211.195.19.58"
+    "query": "175.196.129.126"
   },
   "121.168.220.53": {
     "status": "success",
@@ -1295,22 +1295,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.168.220.53"
   },
-  "61.44.175.142": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "01",
-    "regionName": "Hokkaido",
-    "city": "Hakodate",
-    "zip": "040-0071",
-    "lat": 41.7974,
-    "lon": 140.7298,
-    "timezone": "Asia/Tokyo",
-    "isp": "NCV",
-    "org": "New Media Co., Ltd",
-    "as": "AS59127 Newmedia Corporation",
-    "query": "61.44.175.142"
-  },
   "121.130.34.48": {
     "status": "success",
     "country": "South Korea",
@@ -1327,6 +1311,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.130.34.48"
   },
+  "61.44.175.142": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "01",
+    "regionName": "Hokkaido",
+    "city": "Hakodate",
+    "zip": "040-0071",
+    "lat": 41.7974,
+    "lon": 140.7298,
+    "timezone": "Asia/Tokyo",
+    "isp": "NCV",
+    "org": "New Media Co., Ltd",
+    "as": "AS59127 Newmedia Corporation",
+    "query": "61.44.175.142"
+  },
   "125.143.53.182": {
     "status": "success",
     "country": "South Korea",
@@ -1342,22 +1342,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "125.143.53.182"
-  },
-  "136.169.211.197": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "ME",
-    "regionName": "Mariy-El Republic",
-    "city": "Yoshkar-Ola",
-    "zip": "424000",
-    "lat": 56.6376,
-    "lon": 47.905,
-    "timezone": "Europe/Moscow",
-    "isp": "JSC \"Ufanet\"",
-    "org": "JSC Ufanet",
-    "as": "AS39593 JSC Ufanet",
-    "query": "136.169.211.197"
   },
   "123.109.218.207": {
     "status": "success",
@@ -1390,6 +1374,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "14.51.87.179"
+  },
+  "136.169.211.197": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "ME",
+    "regionName": "Mariy-El Republic",
+    "city": "Yoshkar-Ola",
+    "zip": "424000",
+    "lat": 56.6376,
+    "lon": 47.905,
+    "timezone": "Europe/Moscow",
+    "isp": "JSC \"Ufanet\"",
+    "org": "JSC Ufanet",
+    "as": "AS39593 JSC Ufanet",
+    "query": "136.169.211.197"
   },
   "121.132.80.53": {
     "status": "success",
