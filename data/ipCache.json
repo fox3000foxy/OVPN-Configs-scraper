@@ -1119,22 +1119,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "175.206.37.185"
   },
-  "61.74.29.118": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Seongdong-gu",
-    "zip": "047",
-    "lat": 37.5511,
-    "lon": 127.0387,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "61.74.29.118"
-  },
   "175.210.79.104": {
     "status": "success",
     "country": "South Korea",
@@ -1582,6 +1566,22 @@
     "org": "JSC Ufanet",
     "as": "AS24955 JSC Ufanet",
     "query": "77.79.169.41"
+  },
+  "213.129.50.201": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "SA",
+    "regionName": "Sakha",
+    "city": "Yakutsk",
+    "zip": "677000",
+    "lat": 62.0313,
+    "lon": 129.7325,
+    "timezone": "Asia/Yakutsk",
+    "isp": "Sakhatelecom",
+    "org": "Set Stolica, ltd.",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "213.129.50.201"
   },
   "182.8.211.33": {
     "status": "success",
