@@ -31,22 +31,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.128"
   },
-  "219.100.37.82": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftEther",
-    "org": "SoftEther Corporation",
-    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.82"
-  },
   "219.100.37.4": {
     "status": "success",
     "country": "Japan",
@@ -207,22 +191,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "223.132.208.135"
   },
-  "119.173.41.197": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Komone",
-    "zip": "173-0031",
-    "lat": 35.7458,
-    "lon": 139.6911,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM Co., Ltd.",
-    "org": "JCOM Co., Ltd",
-    "as": "AS9824 JCOM Co., Ltd.",
-    "query": "119.173.41.197"
-  },
   "143.189.43.87": {
     "status": "success",
     "country": "Japan",
@@ -238,6 +206,22 @@
     "org": "Sony Network Communications Inc.",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "143.189.43.87"
+  },
+  "119.173.41.197": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Komone",
+    "zip": "173-0031",
+    "lat": 35.7458,
+    "lon": 139.6911,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM Co., Ltd.",
+    "org": "JCOM Co., Ltd",
+    "as": "AS9824 JCOM Co., Ltd.",
+    "query": "119.173.41.197"
   },
   "118.241.184.72": {
     "status": "success",
@@ -975,22 +959,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "221.164.117.21"
   },
-  "89.189.103.43": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "MOW",
-    "regionName": "Moscow",
-    "city": "Moscow",
-    "zip": "143441",
-    "lat": 55.8474,
-    "lon": 37.4503,
-    "timezone": "Europe/Moscow",
-    "isp": "Limited Liability Company",
-    "org": "LLC MVM Technology 3",
-    "as": "AS41349 Limited Liability Company MVM Technology",
-    "query": "89.189.103.43"
-  },
   "126.19.190.23": {
     "status": "success",
     "country": "Japan",
@@ -1215,6 +1183,22 @@
     "as": "AS7679 QTnet,Inc.",
     "query": "115.124.252.21"
   },
+  "175.195.154.183": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Bundang-gu",
+    "zip": "13570",
+    "lat": 37.377,
+    "lon": 127.1091,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "175.195.154.183"
+  },
   "49.228.247.137": {
     "status": "success",
     "country": "Thailand",
@@ -1262,22 +1246,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "175.210.79.104"
-  },
-  "175.195.154.183": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Bundang-gu",
-    "zip": "13570",
-    "lat": 37.377,
-    "lon": 127.1091,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "175.195.154.183"
   },
   "153.191.38.133": {
     "status": "success",
@@ -1582,6 +1550,38 @@
     "org": "Korea Telecom",
     "as": "AS4766 Korea Telecom",
     "query": "218.147.249.160"
+  },
+  "27.83.100.254": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "01",
+    "regionName": "Hokkaido",
+    "city": "Sapporo",
+    "zip": "065-0011",
+    "lat": 43.0763,
+    "lon": 141.3654,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "27.83.100.254"
+  },
+  "176.115.147.117": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "NIZ",
+    "regionName": "Nizhny Novgorod Oblast",
+    "city": "Nizhniy Novgorod",
+    "zip": "603000",
+    "lat": 56.3327,
+    "lon": 44.0012,
+    "timezone": "Europe/Moscow",
+    "isp": "Link Telecom NN Ltd",
+    "org": "LinkTelecom NN",
+    "as": "AS197275 Link Telecom NN Ltd.",
+    "query": "176.115.147.117"
   },
   "219.100.37.176": {
     "status": "success",
