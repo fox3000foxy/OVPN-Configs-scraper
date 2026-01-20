@@ -639,6 +639,22 @@
     "as": "AS42610 PJSC Rostelecom",
     "query": "46.242.9.163"
   },
+  "60.141.171.131": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.141.171.131"
+  },
   "126.19.190.23": {
     "status": "success",
     "country": "Japan",
@@ -1311,22 +1327,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "211.106.204.156"
   },
-  "175.195.154.183": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Bundang-gu",
-    "zip": "13570",
-    "lat": 37.377,
-    "lon": 127.1091,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "175.195.154.183"
-  },
   "121.169.208.77": {
     "status": "success",
     "country": "South Korea",
@@ -1358,6 +1358,22 @@
     "org": "Jeonnambonbujang",
     "as": "AS4766 Korea Telecom",
     "query": "119.200.8.173"
+  },
+  "175.195.154.183": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Bundang-gu",
+    "zip": "13570",
+    "lat": 37.377,
+    "lon": 127.1091,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "175.195.154.183"
   },
   "175.210.79.104": {
     "status": "success",
@@ -1550,22 +1566,6 @@
     "org": "Chungbukbonbujang",
     "as": "AS4766 Korea Telecom",
     "query": "112.167.199.210"
-  },
-  "59.8.251.187": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Anseong",
-    "zip": "175",
-    "lat": 37.0138,
-    "lon": 127.2698,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "59.8.251.187"
   },
   "219.100.37.176": {
     "status": "success",
