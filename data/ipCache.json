@@ -655,22 +655,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.149.221.10"
   },
-  "133.32.235.217": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0071",
-    "lat": 35.6837,
-    "lon": 139.6805,
-    "timezone": "Asia/Tokyo",
-    "isp": "ARTERIA Networks Corporation",
-    "org": "",
-    "as": "AS2519 ARTERIA Networks Corporation",
-    "query": "133.32.235.217"
-  },
   "121.86.63.126": {
     "status": "success",
     "country": "Japan",
@@ -686,6 +670,22 @@
     "org": "K-Opticom Corporation",
     "as": "AS17511 OPTAGE Inc.",
     "query": "121.86.63.126"
+  },
+  "133.32.235.217": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tokyo",
+    "zip": "151-0071",
+    "lat": 35.6837,
+    "lon": 139.6805,
+    "timezone": "Asia/Tokyo",
+    "isp": "ARTERIA Networks Corporation",
+    "org": "",
+    "as": "AS2519 ARTERIA Networks Corporation",
+    "query": "133.32.235.217"
   },
   "221.121.219.188": {
     "status": "success",
@@ -751,22 +751,6 @@
     "as": "AS2519 ARTERIA Networks Corporation",
     "query": "133.32.218.29"
   },
-  "184.22.52.131": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "73",
-    "regionName": "Nakhon Pathom",
-    "city": "Nakhon Pathom",
-    "zip": "73000",
-    "lat": 13.8179,
-    "lon": 100.0416,
-    "timezone": "Asia/Bangkok",
-    "isp": "AIS-Fibre",
-    "org": "",
-    "as": "AS133481 AIS Fibre",
-    "query": "184.22.52.131"
-  },
   "115.65.23.149": {
     "status": "success",
     "country": "Japan",
@@ -782,6 +766,22 @@
     "org": "NTT-ME Corporation",
     "as": "AS9595 NTT-ME Corporation",
     "query": "115.65.23.149"
+  },
+  "184.22.52.131": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "73",
+    "regionName": "Nakhon Pathom",
+    "city": "Nakhon Pathom",
+    "zip": "73000",
+    "lat": 13.8179,
+    "lon": 100.0416,
+    "timezone": "Asia/Bangkok",
+    "isp": "AIS-Fibre",
+    "org": "",
+    "as": "AS133481 AIS Fibre",
+    "query": "184.22.52.131"
   },
   "184.22.100.177": {
     "status": "success",
@@ -1279,22 +1279,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "118.38.132.198"
   },
-  "58.94.26.42": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "16",
-    "regionName": "Toyama",
-    "city": "Mikkaichi",
-    "zip": "938-0031",
-    "lat": 36.8787,
-    "lon": 137.4489,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "NTT Communications Corporation",
-    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
-    "query": "58.94.26.42"
-  },
   "180.63.64.56": {
     "status": "success",
     "country": "Japan",
@@ -1487,21 +1471,37 @@
     "as": "AS4766 Korea Telecom",
     "query": "222.119.110.168"
   },
-  "183.98.39.143": {
+  "58.121.28.21": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Dongjak-gu",
-    "zip": "069",
-    "lat": 37.5003,
-    "lon": 126.9565,
+    "region": "28",
+    "regionName": "Incheon",
+    "city": "Gyeyang-gu",
+    "zip": "211",
+    "lat": 37.5249,
+    "lon": 126.7409,
     "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "jusighwyeusa keiti",
-    "as": "AS4766 Korea Telecom",
-    "query": "183.98.39.143"
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "58.121.28.21"
+  },
+  "92.126.117.232": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KYA",
+    "regionName": "Krasnoyarsk Krai",
+    "city": "Krasnoyarsk",
+    "zip": "660049",
+    "lat": 56.0374,
+    "lon": 92.9314,
+    "timezone": "Asia/Krasnoyarsk",
+    "isp": "OJSC \"Sibirtelecom\"",
+    "org": "OJSC Sibirtelecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "92.126.117.232"
   },
   "58.152.29.42": {
     "status": "success",
