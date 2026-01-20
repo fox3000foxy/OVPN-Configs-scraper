@@ -543,22 +543,6 @@
     "as": "AS38074 SDCC Japan-West Area",
     "query": "103.152.178.62"
   },
-  "39.110.119.41": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "11",
-    "regionName": "Saitama",
-    "city": "Kawagoe",
-    "zip": "350-1121",
-    "lat": 35.9165,
-    "lon": 139.4823,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "39.110.119.41"
-  },
   "110.137.102.35": {
     "status": "success",
     "country": "Indonesia",
@@ -574,6 +558,22 @@
     "org": "",
     "as": "AS7713 PT Telekomunikasi Indonesia",
     "query": "110.137.102.35"
+  },
+  "39.110.119.41": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "11",
+    "regionName": "Saitama",
+    "city": "Kawagoe",
+    "zip": "350-1121",
+    "lat": 35.9165,
+    "lon": 139.4823,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "39.110.119.41"
   },
   "60.145.145.27": {
     "status": "success",
@@ -1119,6 +1119,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "59.29.249.172"
   },
+  "31.130.57.70": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "MOW",
+    "regionName": "Moscow",
+    "city": "Moscow",
+    "zip": "127474",
+    "lat": 55.7487,
+    "lon": 37.6187,
+    "timezone": "Europe/Moscow",
+    "isp": "Kom lan Ltd",
+    "org": "Kom lan Ltd",
+    "as": "AS49583 Kom lan Ltd",
+    "query": "31.130.57.70"
+  },
   "115.65.194.181": {
     "status": "success",
     "country": "Japan",
@@ -1550,22 +1566,6 @@
     "org": "LG POWERCOMM",
     "as": "AS17858 LG POWERCOMM",
     "query": "112.149.208.200"
-  },
-  "5.143.5.248": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PRI",
-    "regionName": "Primorye",
-    "city": "Vladivostok",
-    "zip": "690001",
-    "lat": 43.1068,
-    "lon": 131.8692,
-    "timezone": "Asia/Vladivostok",
-    "isp": "Rostelecom networks",
-    "org": "OJSC Rostelecom Far-East Region",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "5.143.5.248"
   },
   "186.13.209.137": {
     "status": "success",
