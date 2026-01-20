@@ -335,22 +335,6 @@
     "as": "AS12737 KrasPromStroy, LLC",
     "query": "185.124.155.182"
   },
-  "202.148.240.143": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "12",
-    "regionName": "Chiba",
-    "city": "Ichikawa",
-    "zip": "272-0031",
-    "lat": 35.7233,
-    "lon": 139.9132,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM",
-    "org": "Jupiter Telecommunications Co., Ltd.",
-    "as": "AS23788 JCOM Co., Ltd.",
-    "query": "202.148.240.143"
-  },
   "219.100.37.102": {
     "status": "success",
     "country": "Japan",
@@ -366,6 +350,22 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.102"
+  },
+  "202.148.240.143": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "12",
+    "regionName": "Chiba",
+    "city": "Ichikawa",
+    "zip": "272-0031",
+    "lat": 35.7233,
+    "lon": 139.9132,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM",
+    "org": "Jupiter Telecommunications Co., Ltd.",
+    "as": "AS23788 JCOM Co., Ltd.",
+    "query": "202.148.240.143"
   },
   "219.100.37.50": {
     "status": "success",
@@ -606,6 +606,22 @@
     "org": "Internet Initiative Japan Inc.",
     "as": "AS2497 Internet Initiative Japan Inc.",
     "query": "220.100.45.229"
+  },
+  "122.223.24.93": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tokyo",
+    "zip": "151-0071",
+    "lat": 35.6837,
+    "lon": 139.6805,
+    "timezone": "Asia/Tokyo",
+    "isp": "ARTERIA Networks Corporation",
+    "org": "ARTERIA Networks Corporation",
+    "as": "AS2519 ARTERIA Networks Corporation",
+    "query": "122.223.24.93"
   },
   "182.172.122.57": {
     "status": "success",
@@ -862,22 +878,6 @@
     "org": "Japan Nation-wide Network of Softbank Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "60.149.126.189"
-  },
-  "122.223.24.93": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0071",
-    "lat": 35.6837,
-    "lon": 139.6805,
-    "timezone": "Asia/Tokyo",
-    "isp": "ARTERIA Networks Corporation",
-    "org": "ARTERIA Networks Corporation",
-    "as": "AS2519 ARTERIA Networks Corporation",
-    "query": "122.223.24.93"
   },
   "110.135.102.73": {
     "status": "success",
