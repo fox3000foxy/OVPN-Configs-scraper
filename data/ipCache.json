@@ -1007,6 +1007,22 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "222.144.35.76"
   },
+  "175.131.94.111": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "26",
+    "regionName": "Kyoto",
+    "city": "Kyoto",
+    "zip": "602-8051",
+    "lat": 35.0231,
+    "lon": 135.752,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "175.131.94.111"
+  },
   "59.8.84.239": {
     "status": "success",
     "country": "South Korea",
@@ -1166,6 +1182,22 @@
     "org": "",
     "as": "AS11664 Techtel LMDS Comunicaciones Interactivas S.A.",
     "query": "186.122.11.104"
+  },
+  "42.115.249.136": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "HN",
+    "regionName": "Hanoi",
+    "city": "Hanoi",
+    "zip": "100000",
+    "lat": 21.0184,
+    "lon": 105.8461,
+    "timezone": "Asia/Bangkok",
+    "isp": "FPT Telecom Company",
+    "org": "Vietnam Internet Network Information Center",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "42.115.249.136"
   },
   "49.228.33.44": {
     "status": "success",
@@ -1518,38 +1550,6 @@
     "org": "SOFTBANK Corp",
     "as": "AS17676 SoftBank Corp.",
     "query": "126.38.146.200"
-  },
-  "120.142.94.230": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Mapo-gu",
-    "zip": "040",
-    "lat": 37.5479,
-    "lon": 126.9086,
-    "timezone": "Asia/Seoul",
-    "isp": "DLIVE",
-    "org": "DLIVE Woori Cable TV",
-    "as": "AS10036 DLIVE",
-    "query": "120.142.94.230"
-  },
-  "176.118.241.115": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "ROS",
-    "regionName": "Rostov Oblast",
-    "city": "Aksay",
-    "zip": "346720",
-    "lat": 47.2631,
-    "lon": 39.8628,
-    "timezone": "Europe/Moscow",
-    "isp": "Prime-Service LLC",
-    "org": "Prime-Service LLC",
-    "as": "AS47626 Timer, LLC",
-    "query": "176.118.241.115"
   },
   "58.152.29.42": {
     "status": "success",
