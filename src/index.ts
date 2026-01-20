@@ -3,7 +3,6 @@ import fetch from 'node-fetch';
 import path from 'path';
 import simpleGit from 'simple-git';
 import { getVpnList as IPSpeed } from './api/IPSpeed-getVpnList';
-import { getVpnList as OPL } from './api/OPL-getVpnList';
 import { getVpnList as VPNGate } from './api/VPNGATE-getVpnList';
 import { bulkIpLookup } from './api/getIPInfo';
 
@@ -62,12 +61,9 @@ async function main() {
   await ensureDir(configsDir);
 
   simpleGit().pull();
-
-
-  const [opl, vpngate, ipspeed] = await Promise.all([OPL(), VPNGate(), IPSpeed()]);
+  const [vpngate, ipspeed] = await Promise.all([VPNGate(), IPSpeed()]);
   // On fusionne toutes les sources, puis on retire les doublons d'IP
   const mergedServers = [
-    ...opl.servers.map((s: any) => ({ ...s, provider: 'OPL', url: s.download_url || "data:text/opvn;base64," + s.openvpn_configdata_base64 })),
     ...vpngate.servers.map((s: any) => ({ ...s, provider: 'VPNGate', url: s.download_url || "data:text/opvn;base64," + s.openvpn_configdata_base64 })),
     ...ipspeed.map((s: any) => ({ ...s, provider: 'IPSpeed', url: s.download_url }))
   ];

@@ -8,7 +8,6 @@ const node_fetch_1 = __importDefault(require("node-fetch"));
 const path_1 = __importDefault(require("path"));
 const simple_git_1 = __importDefault(require("simple-git"));
 const IPSpeed_getVpnList_1 = require("./api/IPSpeed-getVpnList");
-const OPL_getVpnList_1 = require("./api/OPL-getVpnList");
 const VPNGATE_getVpnList_1 = require("./api/VPNGATE-getVpnList");
 const getIPInfo_1 = require("./api/getIPInfo");
 // --- Ajout de la fonction convertOvpnConfig ---
@@ -56,10 +55,9 @@ async function main() {
     await ensureDir(dataDir);
     await ensureDir(configsDir);
     (0, simple_git_1.default)().pull();
-    const [opl, vpngate, ipspeed] = await Promise.all([(0, OPL_getVpnList_1.getVpnList)(), (0, VPNGATE_getVpnList_1.getVpnList)(), (0, IPSpeed_getVpnList_1.getVpnList)()]);
+    const [vpngate, ipspeed] = await Promise.all([(0, VPNGATE_getVpnList_1.getVpnList)(), (0, IPSpeed_getVpnList_1.getVpnList)()]);
     // On fusionne toutes les sources, puis on retire les doublons d'IP
     const mergedServers = [
-        ...opl.servers.map((s) => ({ ...s, provider: 'OPL', url: s.download_url || "data:text/opvn;base64," + s.openvpn_configdata_base64 })),
         ...vpngate.servers.map((s) => ({ ...s, provider: 'VPNGate', url: s.download_url || "data:text/opvn;base64," + s.openvpn_configdata_base64 })),
         ...ipspeed.map((s) => ({ ...s, provider: 'IPSpeed', url: s.download_url }))
     ];
