@@ -463,38 +463,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "210.100.238.121"
   },
-  "60.127.243.95": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan Nation-wide Network of Softbank Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "60.127.243.95"
-  },
-  "59.138.182.93": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "11",
-    "regionName": "Saitama",
-    "city": "Tokorozawa",
-    "zip": "359-1161",
-    "lat": 35.7904,
-    "lon": 139.4636,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "59.138.182.93"
-  },
   "116.121.181.6": {
     "status": "success",
     "country": "South Korea",
@@ -782,6 +750,22 @@
     "org": "JCOM Co., Ltd",
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "119.173.41.25"
+  },
+  "5.143.108.24": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Vladivostok",
+    "zip": "690001",
+    "lat": 43.1068,
+    "lon": 131.8692,
+    "timezone": "Asia/Vladivostok",
+    "isp": "PJSC Rostelecom Far East Region",
+    "org": "Rostelecom Nets",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "5.143.108.24"
   },
   "14.132.22.67": {
     "status": "success",
@@ -1550,6 +1534,22 @@
     "org": "Intersvyaz-2 JSC",
     "as": "AS8369 Intersvyaz-2 JSC",
     "query": "78.29.43.182"
+  },
+  "171.229.44.220": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "HN",
+    "regionName": "Hanoi",
+    "city": "Hanoi",
+    "zip": "100000",
+    "lat": 21.0184,
+    "lon": 105.8461,
+    "timezone": "Asia/Bangkok",
+    "isp": "Viettel Corporation",
+    "org": "VIETEL",
+    "as": "AS7552 Viettel Group",
+    "query": "171.229.44.220"
   },
   "111.94.6.32": {
     "status": "success",
@@ -2958,22 +2958,6 @@
     "org": "Spectrum",
     "as": "AS12271 Charter Communications Inc",
     "query": "68.173.74.87"
-  },
-  "171.229.44.220": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "HN",
-    "regionName": "Hanoi",
-    "city": "Hanoi",
-    "zip": "100000",
-    "lat": 21.0184,
-    "lon": 105.8461,
-    "timezone": "Asia/Bangkok",
-    "isp": "Viettel Corporation",
-    "org": "VIETEL",
-    "as": "AS7552 Viettel Group",
-    "query": "171.229.44.220"
   },
   "42.118.92.161": {
     "status": "success",
