@@ -543,22 +543,6 @@
     "as": "AS38074 SDCC Japan-West Area",
     "query": "103.152.178.62"
   },
-  "110.137.102.35": {
-    "status": "success",
-    "country": "Indonesia",
-    "countryCode": "ID",
-    "region": "JI",
-    "regionName": "East Java",
-    "city": "Pasuruan",
-    "zip": "67184",
-    "lat": -7.7388,
-    "lon": 112.9944,
-    "timezone": "Asia/Jakarta",
-    "isp": "PT. TELKOM INDONESIA",
-    "org": "",
-    "as": "AS7713 PT Telekomunikasi Indonesia",
-    "query": "110.137.102.35"
-  },
   "39.110.119.41": {
     "status": "success",
     "country": "Japan",
@@ -574,6 +558,22 @@
     "org": "Sony Network Communications Inc.",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "39.110.119.41"
+  },
+  "110.137.102.35": {
+    "status": "success",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "region": "JI",
+    "regionName": "East Java",
+    "city": "Pasuruan",
+    "zip": "67184",
+    "lat": -7.7388,
+    "lon": 112.9944,
+    "timezone": "Asia/Jakarta",
+    "isp": "PT. TELKOM INDONESIA",
+    "org": "",
+    "as": "AS7713 PT Telekomunikasi Indonesia",
+    "query": "110.137.102.35"
   },
   "60.145.145.27": {
     "status": "success",
@@ -831,22 +831,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.224.84.232"
   },
-  "172.103.241.126": {
-    "status": "success",
-    "country": "Canada",
-    "countryCode": "CA",
-    "region": "BC",
-    "regionName": "British Columbia",
-    "city": "Burnaby",
-    "zip": "V5H",
-    "lat": 49.2292,
-    "lon": -122.9932,
-    "timezone": "America/Vancouver",
-    "isp": "Cipherkey Exchange Corp.",
-    "org": "Cipherkey Exchange Corp",
-    "as": "AS25668 Cipherkey Exchange Corp.",
-    "query": "172.103.241.126"
-  },
   "118.42.137.43": {
     "status": "success",
     "country": "South Korea",
@@ -863,22 +847,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "118.42.137.43"
   },
-  "218.216.32.95": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "45",
-    "regionName": "Miyazaki",
-    "city": "Miyazaki",
-    "zip": "880-0031",
-    "lat": 31.9172,
-    "lon": 131.4104,
-    "timezone": "Asia/Tokyo",
-    "isp": "miyazaki cabletelevision network Co., LTD",
-    "org": "miyazaki cabletelevision network Co., LTD",
-    "as": "AS17939 miyazaki cabletelevision network Co.,LTD",
-    "query": "218.216.32.95"
-  },
   "211.227.46.160": {
     "status": "success",
     "country": "South Korea",
@@ -894,6 +862,22 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "211.227.46.160"
+  },
+  "218.216.32.95": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "45",
+    "regionName": "Miyazaki",
+    "city": "Miyazaki",
+    "zip": "880-0031",
+    "lat": 31.9172,
+    "lon": 131.4104,
+    "timezone": "Asia/Tokyo",
+    "isp": "miyazaki cabletelevision network Co., LTD",
+    "org": "miyazaki cabletelevision network Co., LTD",
+    "as": "AS17939 miyazaki cabletelevision network Co.,LTD",
+    "query": "218.216.32.95"
   },
   "184.22.37.38": {
     "status": "success",
@@ -1039,22 +1023,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "59.8.84.239"
   },
-  "175.133.128.210": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Zama",
-    "zip": "252-0021",
-    "lat": 35.49,
-    "lon": 139.4118,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "175.133.128.210"
-  },
   "219.99.243.172": {
     "status": "success",
     "country": "Japan",
@@ -1070,6 +1038,22 @@
     "org": "KATCH",
     "as": "AS59108 KATCH NETWORK INC.",
     "query": "219.99.243.172"
+  },
+  "175.133.128.210": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Zama",
+    "zip": "252-0021",
+    "lat": 35.49,
+    "lon": 139.4118,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "175.133.128.210"
   },
   "14.37.15.88": {
     "status": "success",
@@ -1087,22 +1071,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "14.37.15.88"
   },
-  "180.57.59.204": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "01",
-    "regionName": "Hokkaido",
-    "city": "Sapporo",
-    "zip": "062-0901",
-    "lat": 43.048,
-    "lon": 141.3673,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "NTT Communications Corporation",
-    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
-    "query": "180.57.59.204"
-  },
   "59.29.249.172": {
     "status": "success",
     "country": "South Korea",
@@ -1118,22 +1086,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "59.29.249.172"
-  },
-  "31.130.57.70": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "MOW",
-    "regionName": "Moscow",
-    "city": "Moscow",
-    "zip": "127474",
-    "lat": 55.7487,
-    "lon": 37.6187,
-    "timezone": "Europe/Moscow",
-    "isp": "Kom lan Ltd",
-    "org": "Kom lan Ltd",
-    "as": "AS49583 Kom lan Ltd",
-    "query": "31.130.57.70"
   },
   "115.65.194.181": {
     "status": "success",
@@ -1279,6 +1231,22 @@
     "as": "AS17858 LG POWERCOMM",
     "query": "180.224.138.7"
   },
+  "180.57.59.204": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "01",
+    "regionName": "Hokkaido",
+    "city": "Sapporo",
+    "zip": "062-0901",
+    "lat": 43.048,
+    "lon": 141.3673,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "NTT Communications Corporation",
+    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
+    "query": "180.57.59.204"
+  },
   "222.6.120.76": {
     "status": "success",
     "country": "Japan",
@@ -1406,6 +1374,22 @@
     "org": "KT",
     "as": "AS4766 Korea Telecom",
     "query": "222.111.239.117"
+  },
+  "172.103.241.126": {
+    "status": "success",
+    "country": "Canada",
+    "countryCode": "CA",
+    "region": "BC",
+    "regionName": "British Columbia",
+    "city": "Burnaby",
+    "zip": "V5H",
+    "lat": 49.2292,
+    "lon": -122.9932,
+    "timezone": "America/Vancouver",
+    "isp": "Cipherkey Exchange Corp.",
+    "org": "Cipherkey Exchange Corp",
+    "as": "AS25668 Cipherkey Exchange Corp.",
+    "query": "172.103.241.126"
   },
   "222.97.47.58": {
     "status": "success",
@@ -1566,6 +1550,22 @@
     "org": "LG POWERCOMM",
     "as": "AS17858 LG POWERCOMM",
     "query": "112.149.208.200"
+  },
+  "70.187.167.138": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA",
+    "regionName": "California",
+    "city": "Santa Ana",
+    "zip": "92705",
+    "lat": 33.7568,
+    "lon": -117.7938,
+    "timezone": "America/Los_Angeles",
+    "isp": "Cox Communications Inc.",
+    "org": "Cox Communications",
+    "as": "AS22773 Cox Communications Inc.",
+    "query": "70.187.167.138"
   },
   "186.13.209.137": {
     "status": "success",
