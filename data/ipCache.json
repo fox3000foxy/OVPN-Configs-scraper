@@ -687,22 +687,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.155.235.197"
   },
-  "61.47.212.110": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "28",
-    "regionName": "Incheon",
-    "city": "Incheon",
-    "zip": "223",
-    "lat": 37.4667,
-    "lon": 126.622,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "TBROAD SaeromNamdongSeohae",
-    "as": "AS17597 SK Broadband Co Ltd",
-    "query": "61.47.212.110"
-  },
   "126.206.11.243": {
     "status": "success",
     "country": "Japan",
@@ -718,6 +702,22 @@
     "org": "SOFTBANK Corp",
     "as": "AS17676 SoftBank Corp.",
     "query": "126.206.11.243"
+  },
+  "61.47.212.110": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "28",
+    "regionName": "Incheon",
+    "city": "Incheon",
+    "zip": "223",
+    "lat": 37.4667,
+    "lon": 126.622,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "TBROAD SaeromNamdongSeohae",
+    "as": "AS17597 SK Broadband Co Ltd",
+    "query": "61.47.212.110"
   },
   "126.224.84.232": {
     "status": "success",
@@ -783,22 +783,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "114.19.179.196"
   },
-  "106.168.67.207": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Yokohama",
-    "zip": "231-0841",
-    "lat": 35.4337,
-    "lon": 139.6499,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "106.168.67.207"
-  },
   "184.22.37.38": {
     "status": "success",
     "country": "Thailand",
@@ -814,6 +798,22 @@
     "org": "",
     "as": "AS133481 AIS Fibre",
     "query": "184.22.37.38"
+  },
+  "106.168.67.207": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Yokohama",
+    "zip": "231-0841",
+    "lat": 35.4337,
+    "lon": 139.6499,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "106.168.67.207"
   },
   "125.11.100.23": {
     "status": "success",
@@ -831,22 +831,6 @@
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "125.11.100.23"
   },
-  "153.209.98.170": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Fujisawa",
-    "zip": "251-0051",
-    "lat": 35.3553,
-    "lon": 139.4824,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "Open Computer Network",
-    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
-    "query": "153.209.98.170"
-  },
   "218.115.121.212": {
     "status": "success",
     "country": "Japan",
@@ -862,6 +846,22 @@
     "org": "SOFTBANK Corp",
     "as": "AS17676 SoftBank Corp.",
     "query": "218.115.121.212"
+  },
+  "153.209.98.170": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Fujisawa",
+    "zip": "251-0051",
+    "lat": 35.3553,
+    "lon": 139.4824,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "Open Computer Network",
+    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
+    "query": "153.209.98.170"
   },
   "114.158.242.125": {
     "status": "success",
@@ -990,6 +990,22 @@
     "org": "CHUBU CABLE NETWORK COMPANY, INCORPORATED",
     "as": "AS17698 COMMUNITY NETWORK CENTER INCORPORATED.",
     "query": "218.216.222.52"
+  },
+  "150.9.154.11": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "23",
+    "regionName": "Aichi",
+    "city": "Nagoya",
+    "zip": "461-0001",
+    "lat": 35.1796,
+    "lon": 136.9166,
+    "timezone": "Asia/Tokyo",
+    "isp": "Internet Numbers Authority",
+    "org": "Internet Numbers Authority",
+    "as": "AS4685 Asahi Net",
+    "query": "150.9.154.11"
   },
   "175.131.94.111": {
     "status": "success",
@@ -1134,22 +1150,6 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "61.254.116.94"
-  },
-  "118.137.3.34": {
-    "status": "success",
-    "country": "Indonesia",
-    "countryCode": "ID",
-    "region": "JK",
-    "regionName": "Jakarta",
-    "city": "Jakarta",
-    "zip": "10330",
-    "lat": -6.1898,
-    "lon": 106.8415,
-    "timezone": "Asia/Jakarta",
-    "isp": "Linknet-Fastnet ASN",
-    "org": "FastNet768",
-    "as": "AS23700 Linknet-Fastnet ASN",
-    "query": "118.137.3.34"
   },
   "186.122.11.104": {
     "status": "success",
