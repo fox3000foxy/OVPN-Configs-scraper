@@ -463,38 +463,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.137.217.108"
   },
-  "220.72.39.177": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Dobong-gu",
-    "zip": "013",
-    "lat": 37.675,
-    "lon": 127.0496,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Korea Telecom",
-    "as": "AS4766 Korea Telecom",
-    "query": "220.72.39.177"
-  },
-  "221.151.151.230": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Guro-gu",
-    "zip": "082",
-    "lat": 37.504,
-    "lon": 126.8717,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "221.151.151.230"
-  },
   "14.132.22.67": {
     "status": "success",
     "country": "Japan",
@@ -1039,22 +1007,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "90.189.249.23"
   },
-  "184.22.104.32": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "10",
-    "regionName": "Bangkok",
-    "city": "Bangkok",
-    "zip": "10160",
-    "lat": 13.7159,
-    "lon": 100.417,
-    "timezone": "Asia/Bangkok",
-    "isp": "AIS-Fibre",
-    "org": "",
-    "as": "AS133481 AIS Fibre",
-    "query": "184.22.104.32"
-  },
   "121.182.181.33": {
     "status": "success",
     "country": "South Korea",
@@ -1119,22 +1071,6 @@
     "as": "AS4685 Asahi Net",
     "query": "138.64.70.87"
   },
-  "211.224.22.158": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "47",
-    "regionName": "Gyeongsangbuk-do",
-    "city": "Andong",
-    "zip": "366",
-    "lat": 36.5742,
-    "lon": 128.7133,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Korea Telecom",
-    "as": "AS4766 Korea Telecom",
-    "query": "211.224.22.158"
-  },
   "49.228.99.52": {
     "status": "success",
     "country": "Thailand",
@@ -1150,6 +1086,22 @@
     "org": "AIS Fibre",
     "as": "AS133481 AIS Fibre",
     "query": "49.228.99.52"
+  },
+  "211.224.22.158": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "47",
+    "regionName": "Gyeongsangbuk-do",
+    "city": "Andong",
+    "zip": "366",
+    "lat": 36.5742,
+    "lon": 128.7133,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Korea Telecom",
+    "as": "AS4766 Korea Telecom",
+    "query": "211.224.22.158"
   },
   "211.252.8.160": {
     "status": "success",
@@ -1343,21 +1295,21 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "39.120.151.202"
   },
-  "5.166.164.92": {
+  "221.151.151.230": {
     "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PER",
-    "regionName": "Perm Krai",
-    "city": "Perm",
-    "zip": "614000",
-    "lat": 58.0047,
-    "lon": 56.2514,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "OJSC \"ER-Telecom\" Perm'",
-    "org": "JSC \"ER-Telecom Holding\"",
-    "as": "AS12768 JSC ER-Telecom Holding",
-    "query": "5.166.164.92"
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Guro-gu",
+    "zip": "082",
+    "lat": 37.504,
+    "lon": 126.8717,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "221.151.151.230"
   },
   "119.173.41.182": {
     "status": "success",
@@ -1391,22 +1343,6 @@
     "as": "AS49223 EVEREST TV AND RADIO COMPANY LLC",
     "query": "109.108.248.110"
   },
-  "1.220.0.57": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Areannamkwaengi",
-    "zip": "129",
-    "lat": 37.0745,
-    "lon": 127.3264,
-    "timezone": "Asia/Seoul",
-    "isp": "LG DACOM Corporation",
-    "org": "LG Uplus",
-    "as": "AS3786 LG DACOM Corporation",
-    "query": "1.220.0.57"
-  },
   "175.192.49.144": {
     "status": "success",
     "country": "South Korea",
@@ -1422,6 +1358,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "175.192.49.144"
+  },
+  "1.220.0.57": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Areannamkwaengi",
+    "zip": "129",
+    "lat": 37.0745,
+    "lon": 127.3264,
+    "timezone": "Asia/Seoul",
+    "isp": "LG DACOM Corporation",
+    "org": "LG Uplus",
+    "as": "AS3786 LG DACOM Corporation",
+    "query": "1.220.0.57"
   },
   "222.111.19.158": {
     "status": "success",
@@ -1503,6 +1455,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "175.210.31.184"
   },
+  "221.145.8.220": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Nowon-gu",
+    "zip": "016",
+    "lat": 37.6576,
+    "lon": 127.072,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "221.145.8.220"
+  },
   "109.124.244.66": {
     "status": "success",
     "country": "Russia",
@@ -1519,21 +1487,53 @@
     "as": "AS35032 LLC SIP NIS",
     "query": "109.124.244.66"
   },
-  "221.145.8.220": {
+  "87.248.239.213": {
     "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Nowon-gu",
-    "zip": "016",
-    "lat": 37.6576,
-    "lon": 127.072,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "221.145.8.220"
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "SPE",
+    "regionName": "St.-Petersburg",
+    "city": "St Petersburg",
+    "zip": "190990",
+    "lat": 59.8983,
+    "lon": 30.2618,
+    "timezone": "Europe/Moscow",
+    "isp": "SkyNet Ltd.",
+    "org": "SkyNet",
+    "as": "AS35807 SkyNet Ltd.",
+    "query": "87.248.239.213"
+  },
+  "24.85.176.222": {
+    "status": "success",
+    "country": "Canada",
+    "countryCode": "CA",
+    "region": "BC",
+    "regionName": "British Columbia",
+    "city": "Squamish",
+    "zip": "V8B",
+    "lat": 49.6979,
+    "lon": -123.1552,
+    "timezone": "America/Vancouver",
+    "isp": "Shaw Communications",
+    "org": "Shaw Communications Inc.",
+    "as": "AS6327 Shaw Communications",
+    "query": "24.85.176.222"
+  },
+  "5.143.104.220": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Vladivostok",
+    "zip": "690001",
+    "lat": 43.1068,
+    "lon": 131.8692,
+    "timezone": "Asia/Vladivostok",
+    "isp": "PJSC Rostelecom Far East Region",
+    "org": "Rostelecom Nets",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "5.143.104.220"
   },
   "58.152.29.42": {
     "status": "success",
@@ -2894,6 +2894,22 @@
     "org": "",
     "as": "AS133481 AIS Fibre",
     "query": "184.82.15.187"
+  },
+  "184.22.104.32": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "10",
+    "regionName": "Bangkok",
+    "city": "Bangkok",
+    "zip": "10160",
+    "lat": 13.7159,
+    "lon": 100.417,
+    "timezone": "Asia/Bangkok",
+    "isp": "AIS-Fibre",
+    "org": "",
+    "as": "AS133481 AIS Fibre",
+    "query": "184.22.104.32"
   },
   "185.140.163.212": {
     "status": "success",
