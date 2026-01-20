@@ -271,22 +271,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "118.241.184.72"
   },
-  "1.66.34.134": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Osaka",
-    "zip": "530-0041",
-    "lat": 34.6967,
-    "lon": 135.5154,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Docomo, inc.",
-    "org": "NTTDoCoMo",
-    "as": "AS9605 NTT DOCOMO, INC.",
-    "query": "1.66.34.134"
-  },
   "104.28.245.130": {
     "status": "success",
     "country": "Indonesia",
@@ -495,6 +479,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "222.104.32.155"
   },
+  "1.66.34.134": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Osaka",
+    "zip": "530-0041",
+    "lat": 34.6967,
+    "lon": 135.5154,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Docomo, inc.",
+    "org": "NTTDoCoMo",
+    "as": "AS9605 NTT DOCOMO, INC.",
+    "query": "1.66.34.134"
+  },
   "171.4.241.7": {
     "status": "success",
     "country": "Thailand",
@@ -574,6 +574,22 @@
     "org": "Sudogwonseobubonbu",
     "as": "AS4766 Korea Telecom",
     "query": "119.196.49.82"
+  },
+  "27.83.27.9": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Meguro City",
+    "zip": "153-0063",
+    "lat": 35.6331,
+    "lon": 139.702,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "27.83.27.9"
   },
   "42.200.252.158": {
     "status": "success",
@@ -1295,6 +1311,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "211.184.24.38"
   },
+  "59.21.238.218": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "48",
+    "regionName": "Gyeongsangnam-do",
+    "city": "Gimhae",
+    "zip": "509",
+    "lat": 35.2342,
+    "lon": 128.8777,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "59.21.238.218"
+  },
   "220.76.218.185": {
     "status": "success",
     "country": "South Korea",
@@ -1471,6 +1503,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "125.143.226.162"
   },
+  "203.175.32.228": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Seo-gu",
+    "zip": "492",
+    "lat": 35.1231,
+    "lon": 129.0184,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS17573 SK Broadband Co Ltd",
+    "query": "203.175.32.228"
+  },
   "222.236.114.192": {
     "status": "success",
     "country": "South Korea",
@@ -1518,54 +1566,6 @@
     "org": "Korea Telecom",
     "as": "AS4766 Korea Telecom",
     "query": "220.80.217.185"
-  },
-  "58.186.61.243": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "HN",
-    "regionName": "Hanoi",
-    "city": "Hanoi",
-    "zip": "",
-    "lat": 21.0278,
-    "lon": 105.834,
-    "timezone": "Asia/Bangkok",
-    "isp": "FPT Telecom Company",
-    "org": "Vietnam Internet Network Information Center",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "58.186.61.243"
-  },
-  "221.158.101.106": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "30",
-    "regionName": "Daejeon",
-    "city": "Daedeok-gu",
-    "zip": "343",
-    "lat": 36.4509,
-    "lon": 127.4172,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "221.158.101.106"
-  },
-  "94.181.137.204": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PNZ",
-    "regionName": "Penza Oblast",
-    "city": "Penza",
-    "zip": "440960",
-    "lat": 53.1952,
-    "lon": 44.9949,
-    "timezone": "Europe/Moscow",
-    "isp": "CJSC \"ER-Telecom Holding\" Penza branch",
-    "org": "JSC \"ER-Telecom Holding\" Penza Branch",
-    "as": "AS41754 JSC ER-Telecom Holding",
-    "query": "94.181.137.204"
   },
   "219.100.37.176": {
     "status": "success",
