@@ -287,6 +287,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.50"
   },
+  "1.240.128.118": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Dobong-gu",
+    "zip": "014",
+    "lat": 37.639,
+    "lon": 127.034,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "1.240.128.118"
+  },
   "103.152.178.62": {
     "status": "success",
     "country": "Japan",
@@ -767,22 +783,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "218.157.88.247"
   },
-  "59.16.219.106": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "28",
-    "regionName": "Incheon",
-    "city": "Bupyeong-gu",
-    "zip": "214",
-    "lat": 37.4902,
-    "lon": 126.7151,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "59.16.219.106"
-  },
   "49.49.63.12": {
     "status": "success",
     "country": "Thailand",
@@ -798,6 +798,22 @@
     "org": "Triple T Broadband Public Company Limited",
     "as": "AS45758 Triple T Broadband Public Company Limited",
     "query": "49.49.63.12"
+  },
+  "59.16.219.106": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "28",
+    "regionName": "Incheon",
+    "city": "Bupyeong-gu",
+    "zip": "214",
+    "lat": 37.4902,
+    "lon": 126.7151,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "59.16.219.106"
   },
   "210.148.238.80": {
     "status": "success",
@@ -1407,6 +1423,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "119.207.156.114"
   },
+  "211.206.8.149": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Jongno-gu",
+    "zip": "031",
+    "lat": 37.5692,
+    "lon": 126.9775,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "211.206.8.149"
+  },
   "92.37.148.21": {
     "status": "success",
     "country": "Russia",
@@ -1438,22 +1470,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "175.246.150.150"
-  },
-  "211.206.8.149": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Jongno-gu",
-    "zip": "031",
-    "lat": 37.5692,
-    "lon": 126.9775,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "211.206.8.149"
   },
   "175.206.43.179": {
     "status": "success",
@@ -1534,22 +1550,6 @@
     "org": "Comcast Cable Communications, LLC",
     "as": "AS7922 Comcast Cable Communications, LLC",
     "query": "98.42.235.77"
-  },
-  "151.0.35.182": {
-    "status": "success",
-    "country": "Ukraine",
-    "countryCode": "UA",
-    "region": "14",
-    "regionName": "Donetsk",
-    "city": "Makiivka",
-    "zip": "20754",
-    "lat": 48.0536,
-    "lon": 37.9408,
-    "timezone": "Europe/Kyiv",
-    "isp": "Viacheslav Fitiunin",
-    "org": "",
-    "as": "AS57164 Viacheslav Fitiunin",
-    "query": "151.0.35.182"
   },
   "111.94.6.32": {
     "status": "success",
