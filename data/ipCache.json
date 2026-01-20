@@ -239,22 +239,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "131.147.142.132"
   },
-  "1.66.34.134": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Osaka",
-    "zip": "530-0041",
-    "lat": 34.6967,
-    "lon": 135.5154,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Docomo, inc.",
-    "org": "NTTDoCoMo",
-    "as": "AS9605 NTT DOCOMO, INC.",
-    "query": "1.66.34.134"
-  },
   "211.104.232.96": {
     "status": "success",
     "country": "South Korea",
@@ -302,6 +286,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "115.22.171.164"
+  },
+  "1.66.34.134": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Osaka",
+    "zip": "530-0041",
+    "lat": 34.6967,
+    "lon": 135.5154,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Docomo, inc.",
+    "org": "NTTDoCoMo",
+    "as": "AS9605 NTT DOCOMO, INC.",
+    "query": "1.66.34.134"
   },
   "219.100.37.102": {
     "status": "success",
@@ -430,6 +430,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "221.168.161.213"
+  },
+  "49.48.148.44": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "40",
+    "regionName": "Khon Kaen",
+    "city": "Khon Kaen",
+    "zip": "40000",
+    "lat": 16.2916,
+    "lon": 102.6161,
+    "timezone": "Asia/Bangkok",
+    "isp": "Triple T Broadband Public Company Limited",
+    "org": "Triple T Broadband Public Company Limited",
+    "as": "AS45758 Triple T Broadband Public Company Limited",
+    "query": "49.48.148.44"
   },
   "219.75.211.89": {
     "status": "success",
@@ -703,38 +719,6 @@
     "as": "AS262462 Aranet Play",
     "query": "181.224.85.249"
   },
-  "183.177.226.3": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6906,
-    "lon": 139.77,
-    "timezone": "Asia/Tokyo",
-    "isp": "ARTERIA Networks Corporation",
-    "org": "Marubeni Access Solutions Inc.",
-    "as": "AS2519 ARTERIA Networks Corporation",
-    "query": "183.177.226.3"
-  },
-  "42.98.155.113": {
-    "status": "success",
-    "country": "Hong Kong",
-    "countryCode": "HK",
-    "region": "KWT",
-    "regionName": "Wong Tai Sin District",
-    "city": "Lung Poon Court",
-    "zip": "",
-    "lat": 22.3424,
-    "lon": 114.2,
-    "timezone": "Asia/Hong_Kong",
-    "isp": "PCCW IMS Limited",
-    "org": "Hong Kong Telecommunications (HKT) Limited",
-    "as": "AS4760 HKT Limited",
-    "query": "42.98.155.113"
-  },
   "185.130.83.204": {
     "status": "success",
     "country": "Russia",
@@ -751,21 +735,21 @@
     "as": "AS56981 JSC ER-Telecom Holding",
     "query": "185.130.83.204"
   },
-  "151.241.227.248": {
+  "183.177.226.3": {
     "status": "success",
-    "country": "Poland",
-    "countryCode": "PL",
-    "region": "14",
-    "regionName": "Mazovia",
-    "city": "Warsaw",
-    "zip": "00-510",
-    "lat": 52.2299,
-    "lon": 21.0093,
-    "timezone": "Europe/Warsaw",
-    "isp": "Hostkey B.V.",
-    "org": "Hostkey B.V",
-    "as": "AS57043 HOSTKEY B.V.",
-    "query": "151.241.227.248"
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6906,
+    "lon": 139.77,
+    "timezone": "Asia/Tokyo",
+    "isp": "ARTERIA Networks Corporation",
+    "org": "Marubeni Access Solutions Inc.",
+    "as": "AS2519 ARTERIA Networks Corporation",
+    "query": "183.177.226.3"
   },
   "119.175.224.182": {
     "status": "success",
@@ -782,6 +766,22 @@
     "org": "JCOM Co., Ltd",
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "119.175.224.182"
+  },
+  "151.241.227.248": {
+    "status": "success",
+    "country": "Poland",
+    "countryCode": "PL",
+    "region": "14",
+    "regionName": "Mazovia",
+    "city": "Warsaw",
+    "zip": "00-510",
+    "lat": 52.2299,
+    "lon": 21.0093,
+    "timezone": "Europe/Warsaw",
+    "isp": "Hostkey B.V.",
+    "org": "Hostkey B.V",
+    "as": "AS57043 HOSTKEY B.V.",
+    "query": "151.241.227.248"
   },
   "112.139.171.64": {
     "status": "success",
@@ -814,6 +814,22 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "119.105.81.230"
+  },
+  "39.111.161.168": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Kawasaki",
+    "zip": "210-0831",
+    "lat": 35.5315,
+    "lon": 139.7259,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc.",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "39.111.161.168"
   },
   "126.207.197.143": {
     "status": "success",
@@ -959,6 +975,22 @@
     "as": "AS17698 COMMUNITY NETWORK CENTER INCORPORATED.",
     "query": "218.40.64.155"
   },
+  "218.183.6.85": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank BB Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "218.183.6.85"
+  },
   "115.84.114.67": {
     "status": "success",
     "country": "Laos",
@@ -1022,22 +1054,6 @@
     "org": "NTT Communications Corporation",
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "223.216.247.199"
-  },
-  "218.183.6.85": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan Nation-wide Network of Softbank BB Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "218.183.6.85"
   },
   "42.113.131.171": {
     "status": "success",
@@ -1263,22 +1279,6 @@
     "as": "AS133481 AIS Fibre",
     "query": "184.22.232.179"
   },
-  "112.168.116.143": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Pyeongtaek-si",
-    "zip": "179",
-    "lat": 36.9871,
-    "lon": 126.9339,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "112.168.116.143"
-  },
   "121.161.243.192": {
     "status": "success",
     "country": "South Korea",
@@ -1294,6 +1294,22 @@
     "org": "Korea Telecom",
     "as": "AS4766 Korea Telecom",
     "query": "121.161.243.192"
+  },
+  "112.168.116.143": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Pyeongtaek-si",
+    "zip": "179",
+    "lat": 36.9871,
+    "lon": 126.9339,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "112.168.116.143"
   },
   "60.140.179.12": {
     "status": "success",
@@ -1326,22 +1342,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "14.41.72.173"
-  },
-  "110.135.220.7": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "43",
-    "regionName": "Kumamoto",
-    "city": "Kumamoto",
-    "zip": "860-0011",
-    "lat": 32.7959,
-    "lon": 130.7065,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM Co., Ltd.",
-    "org": "JCOM Co., Ltd",
-    "as": "AS9824 JCOM Co., Ltd.",
-    "query": "110.135.220.7"
   },
   "218.235.89.115": {
     "status": "success",
@@ -1550,6 +1550,22 @@
     "org": "Hong Kong Telecommunications (HKT) Limited",
     "as": "AS4760 HKT Limited",
     "query": "58.152.29.42"
+  },
+  "42.98.155.113": {
+    "status": "success",
+    "country": "Hong Kong",
+    "countryCode": "HK",
+    "region": "KWT",
+    "regionName": "Wong Tai Sin District",
+    "city": "Lung Poon Court",
+    "zip": "",
+    "lat": 22.3424,
+    "lon": 114.2,
+    "timezone": "Asia/Hong_Kong",
+    "isp": "PCCW IMS Limited",
+    "org": "Hong Kong Telecommunications (HKT) Limited",
+    "as": "AS4760 HKT Limited",
+    "query": "42.98.155.113"
   },
   "183.82.30.2": {
     "status": "success",
