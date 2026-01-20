@@ -1119,22 +1119,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "59.29.249.172"
   },
-  "121.182.18.238": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "27",
-    "regionName": "Daegu",
-    "city": "Seo-gu",
-    "zip": "417",
-    "lat": 35.8731,
-    "lon": 128.5435,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "121.182.18.238"
-  },
   "115.65.194.181": {
     "status": "success",
     "country": "Japan",
@@ -1278,6 +1262,22 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "222.6.120.76"
+  },
+  "211.227.46.160": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Goyang-si",
+    "zip": "103",
+    "lat": 37.6792,
+    "lon": 126.8183,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "211.227.46.160"
   },
   "220.88.141.12": {
     "status": "success",
@@ -1535,6 +1535,22 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "87.225.105.22"
   },
+  "77.35.108.88": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Vladivostok",
+    "zip": "690014",
+    "lat": 43.1236,
+    "lon": 131.888,
+    "timezone": "Asia/Vladivostok",
+    "isp": "Eastern Economic Forum - 2022",
+    "org": "",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "77.35.108.88"
+  },
   "210.84.11.216": {
     "status": "success",
     "country": "Australia",
@@ -1550,22 +1566,6 @@
     "org": "iiNet Limited",
     "as": "AS7545 TPG Telecom Limited",
     "query": "210.84.11.216"
-  },
-  "78.157.232.131": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KAM",
-    "regionName": "Kamchatka",
-    "city": "Petropavlovsk-Kamchatsky",
-    "zip": "683902",
-    "lat": 53.0716,
-    "lon": 158.627,
-    "timezone": "Asia/Kamchatka",
-    "isp": "KAMTV",
-    "org": "",
-    "as": "AS42742 InterkamService LLC",
-    "query": "78.157.232.131"
   },
   "186.13.209.137": {
     "status": "success",
