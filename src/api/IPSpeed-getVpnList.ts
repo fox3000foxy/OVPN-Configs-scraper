@@ -35,9 +35,14 @@ export async function getVpnList(): Promise<IPSpeedServer[]> {
     const pages = Array.from({ length: PAGE_NB }, (_, i) => i + 1);
     const htmls = await Promise.all(pages.map(page => scrapPage(page.toString())));
     const allLinks = htmls.flatMap(parsePage);
-    const linksSet = new Set(allLinks);
-    const linksArray = Array.from(linksSet);
-    // linksArray.sort((a, b) => a.country.localeCompare(b.country) || a.ip.localeCompare(b.ip));
-    linksSet.clear();
-    return linksArray;
+    // Remove duplicate IPs
+    const seenIps = new Set<string>();
+    const uniqueLinks: IPSpeedServer[] = [];
+    for (const server of allLinks) {
+        if (!seenIps.has(server.ip)) {
+            seenIps.add(server.ip);
+            uniqueLinks.push(server);
+        }
+    }
+    return uniqueLinks;
 } 
