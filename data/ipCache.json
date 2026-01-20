@@ -31,6 +31,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.128"
   },
+  "219.100.37.82": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftEther",
+    "org": "SoftEther Corporation",
+    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
+    "query": "219.100.37.82"
+  },
   "219.100.37.4": {
     "status": "success",
     "country": "Japan",
@@ -1566,22 +1582,6 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "27.83.100.254"
-  },
-  "176.115.147.117": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "NIZ",
-    "regionName": "Nizhny Novgorod Oblast",
-    "city": "Nizhniy Novgorod",
-    "zip": "603000",
-    "lat": 56.3327,
-    "lon": 44.0012,
-    "timezone": "Europe/Moscow",
-    "isp": "Link Telecom NN Ltd",
-    "org": "LinkTelecom NN",
-    "as": "AS197275 Link Telecom NN Ltd.",
-    "query": "176.115.147.117"
   },
   "219.100.37.176": {
     "status": "success",
