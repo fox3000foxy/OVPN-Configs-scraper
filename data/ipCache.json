@@ -1007,22 +1007,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.79.244.225"
   },
-  "110.135.102.73": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "12",
-    "regionName": "Chiba",
-    "city": "Yachiyo",
-    "zip": "276-0021",
-    "lat": 35.751,
-    "lon": 140.1342,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM Co., Ltd.",
-    "org": "JCOM Co., Ltd",
-    "as": "AS9824 JCOM Co., Ltd.",
-    "query": "110.135.102.73"
-  },
   "124.47.125.245": {
     "status": "success",
     "country": "Japan",
@@ -1119,22 +1103,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "59.19.50.238"
   },
-  "184.22.16.45": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "10",
-    "regionName": "Bangkok",
-    "city": "Bangkok",
-    "zip": "10400",
-    "lat": 13.7618,
-    "lon": 100.5324,
-    "timezone": "Asia/Bangkok",
-    "isp": "AIS-Fibre",
-    "org": "",
-    "as": "AS133481 AIS Fibre",
-    "query": "184.22.16.45"
-  },
   "126.42.52.247": {
     "status": "success",
     "country": "Japan",
@@ -1150,6 +1118,22 @@
     "org": "SOFTBANK Corp",
     "as": "AS17676 SoftBank Corp.",
     "query": "126.42.52.247"
+  },
+  "184.22.16.45": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "10",
+    "regionName": "Bangkok",
+    "city": "Bangkok",
+    "zip": "10400",
+    "lat": 13.7618,
+    "lon": 100.5324,
+    "timezone": "Asia/Bangkok",
+    "isp": "AIS-Fibre",
+    "org": "",
+    "as": "AS133481 AIS Fibre",
+    "query": "184.22.16.45"
   },
   "42.118.167.155": {
     "status": "success",
@@ -1406,6 +1390,22 @@
     "org": "Vietnam Internet Network Information Center",
     "as": "AS18403 FPT Telecom Company",
     "query": "58.186.118.249"
+  },
+  "211.193.2.164": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Gwangmyeong",
+    "zip": "143",
+    "lat": 37.4796,
+    "lon": 126.8746,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "KORNET",
+    "as": "AS4766 Korea Telecom",
+    "query": "211.193.2.164"
   },
   "125.143.226.162": {
     "status": "success",
