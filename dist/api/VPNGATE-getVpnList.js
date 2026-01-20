@@ -32,9 +32,17 @@ function getVpnList() {
                             .split(",")
                             .map((header) => header.trim());
                         lines = lines.slice(2, lines.length - 2);
+                        const seenIps = new Set();
                         lines.forEach((vpn) => {
                             const values = vpn.split(",");
-                            countries[values[6]?.toLowerCase() ?? ""] = values[5] ?? "";
+                            const country = values[5]?.trim();
+                            const ip = values[3]?.trim();
+                            countries[values[6]?.toLowerCase() ?? ""] = country ?? "";
+                            if (country === 'Russia')
+                                return;
+                            if (!ip || seenIps.has(ip))
+                                return;
+                            seenIps.add(ip);
                             const obj = {};
                             for (let j = 0; j < values.length; j++) {
                                 const excludeHeaders = [

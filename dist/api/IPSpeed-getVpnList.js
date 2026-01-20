@@ -31,10 +31,12 @@ async function getVpnList() {
     const pages = Array.from({ length: PAGE_NB }, (_, i) => i + 1);
     const htmls = await Promise.all(pages.map(page => scrapPage(page.toString())));
     const allLinks = htmls.flatMap(parsePage);
-    // Remove duplicate IPs
+    // Remove duplicate IPs and exclude Russia
     const seenIps = new Set();
     const uniqueLinks = [];
     for (const server of allLinks) {
+        if (server.country === 'Russia')
+            continue;
         if (!seenIps.has(server.ip)) {
             seenIps.add(server.ip);
             uniqueLinks.push(server);
