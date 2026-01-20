@@ -63,12 +63,21 @@ async function main() {
 
   simpleGit().pull();
 
+
   const [opl, vpngate, ipspeed] = await Promise.all([OPL(), VPNGate(), IPSpeed()]);
-  const allServers = [
+  // On fusionne toutes les sources, puis on retire les doublons d'IP
+  const mergedServers = [
     ...opl.servers.map((s: any) => ({ ...s, provider: 'OPL', url: s.download_url || "data:text/opvn;base64," + s.openvpn_configdata_base64 })),
     ...vpngate.servers.map((s: any) => ({ ...s, provider: 'VPNGate', url: s.download_url || "data:text/opvn;base64," + s.openvpn_configdata_base64 })),
     ...ipspeed.map((s: any) => ({ ...s, provider: 'IPSpeed', url: s.download_url }))
   ];
+  // Sécurité anti-doublons d'IP
+  const seenIps = new Set();
+  const allServers = mergedServers.filter((s: any) => {
+    if (!s.ip || seenIps.has(s.ip)) return false;
+    seenIps.add(s.ip);
+    return true;
+  });
 
   // Delete old configs
   fs.readdirSync(configsDir).forEach(file => {
@@ -88,6 +97,7 @@ async function main() {
 
   console.log(`Saved ${allServers.length} configs.`);
 
+
   // Lookup ISP info et sauvegarde du cache enrichi
   const allIps = allServers.map((server: any) => server.ip);
   const ipInfos = await bulkIpLookup(allIps);
@@ -99,11 +109,12 @@ async function main() {
   });
   fs.writeFileSync(path.join(dataDir, 'ipCache.json'), JSON.stringify(ipCache, null, 2));
 
-  // Regrouper les serveurs par pays puis trier par ISP
+  // Regrouper les serveurs par pays puis trier par ISP, en excluant la Russie
   const serversByCountry: { [country: string]: any[] } = {};
   allServers.forEach((server: any) => {
     const info = ipCache[server.ip] || {};
     const country = info.country || 'Unknown';
+    if (country === 'Russia') return; // Désactiver la Russie
     if (!serversByCountry[country]) serversByCountry[country] = [];
     serversByCountry[country].push({ ...server, isp: info.isp || 'Unknown', country });
   });
@@ -128,8 +139,12 @@ async function main() {
   const updatedREADME = READMEText.replace('{{ % table % }}', tableContent.trim());
   fs.writeFileSync(path.resolve('README.md'), updatedREADME, 'utf-8');
 
-  // On peut aussi sauvegarder la liste simple des IPs si besoin
-  fs.writeFileSync(path.join(dataDir, 'ips.json'), JSON.stringify(allIps, null, 2));
+  // On peut aussi sauvegarder la liste simple des IPs si besoin (hors Russie)
+  const filteredIps = allServers.filter((server: any) => {
+    const info = ipCache[server.ip] || {};
+    return info.country !== 'Russia';
+  }).map((server: any) => server.ip);
+  fs.writeFileSync(path.join(dataDir, 'ips.json'), JSON.stringify(filteredIps, null, 2));
   console.log('Done!');
 }
 
@@ -151,7 +166,7 @@ async function loop() {
     } catch (e) {
       console.error('Erreur dans main ou git:', e);
     }
-    await new Promise(res => setTimeout(res, 60_000*10)); // 1 minute
+    await new Promise(res => setTimeout(res, 60_000 * 10)); // 1 minute
   }
 }
 

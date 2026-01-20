@@ -57,11 +57,20 @@ async function main() {
     await ensureDir(configsDir);
     (0, simple_git_1.default)().pull();
     const [opl, vpngate, ipspeed] = await Promise.all([(0, OPL_getVpnList_1.getVpnList)(), (0, VPNGATE_getVpnList_1.getVpnList)(), (0, IPSpeed_getVpnList_1.getVpnList)()]);
-    const allServers = [
+    // On fusionne toutes les sources, puis on retire les doublons d'IP
+    const mergedServers = [
         ...opl.servers.map((s) => ({ ...s, provider: 'OPL', url: s.download_url || "data:text/opvn;base64," + s.openvpn_configdata_base64 })),
         ...vpngate.servers.map((s) => ({ ...s, provider: 'VPNGate', url: s.download_url || "data:text/opvn;base64," + s.openvpn_configdata_base64 })),
         ...ipspeed.map((s) => ({ ...s, provider: 'IPSpeed', url: s.download_url }))
     ];
+    // Sécurité anti-doublons d'IP
+    const seenIps = new Set();
+    const allServers = mergedServers.filter((s) => {
+        if (!s.ip || seenIps.has(s.ip))
+            return false;
+        seenIps.add(s.ip);
+        return true;
+    });
     // Delete old configs
     fs_1.default.readdirSync(configsDir).forEach(file => {
         if (file.endsWith('.ovpn')) {
@@ -88,11 +97,13 @@ async function main() {
             ipCache[info.query] = info;
     });
     fs_1.default.writeFileSync(path_1.default.join(dataDir, 'ipCache.json'), JSON.stringify(ipCache, null, 2));
-    // Regrouper les serveurs par pays puis trier par ISP
+    // Regrouper les serveurs par pays puis trier par ISP, en excluant la Russie
     const serversByCountry = {};
     allServers.forEach((server) => {
         const info = ipCache[server.ip] || {};
         const country = info.country || 'Unknown';
+        if (country === 'Russia')
+            return; // Désactiver la Russie
         if (!serversByCountry[country])
             serversByCountry[country] = [];
         serversByCountry[country].push({ ...server, isp: info.isp || 'Unknown', country });
@@ -113,8 +124,12 @@ async function main() {
     }
     const updatedREADME = READMEText.replace('{{ % table % }}', tableContent.trim());
     fs_1.default.writeFileSync(path_1.default.resolve('README.md'), updatedREADME, 'utf-8');
-    // On peut aussi sauvegarder la liste simple des IPs si besoin
-    fs_1.default.writeFileSync(path_1.default.join(dataDir, 'ips.json'), JSON.stringify(allIps, null, 2));
+    // On peut aussi sauvegarder la liste simple des IPs si besoin (hors Russie)
+    const filteredIps = allServers.filter((server) => {
+        const info = ipCache[server.ip] || {};
+        return info.country !== 'Russia';
+    }).map((server) => server.ip);
+    fs_1.default.writeFileSync(path_1.default.join(dataDir, 'ips.json'), JSON.stringify(filteredIps, null, 2));
     console.log('Done!');
 }
 async function loop() {
