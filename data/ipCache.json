@@ -1007,22 +1007,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "218.156.69.3"
   },
-  "222.144.35.76": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "01",
-    "regionName": "Hokkaido",
-    "city": "Sapporo",
-    "zip": "064-0801",
-    "lat": 43.0456,
-    "lon": 141.3522,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "Open Computer Network",
-    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
-    "query": "222.144.35.76"
-  },
   "59.138.16.13": {
     "status": "success",
     "country": "Japan",
@@ -1038,6 +1022,22 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "59.138.16.13"
+  },
+  "42.125.162.163": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "22",
+    "regionName": "Shizuoka",
+    "city": "Fuji",
+    "zip": "417-0051",
+    "lat": 35.1673,
+    "lon": 138.686,
+    "timezone": "Asia/Tokyo",
+    "isp": "TOKAI Communications Corporation",
+    "org": "TOKAI",
+    "as": "AS10010 TOKAI Communications Corporation",
+    "query": "42.125.162.163"
   },
   "133.238.167.250": {
     "status": "success",
@@ -1311,22 +1311,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "112.185.92.246"
   },
-  "220.88.141.12": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Yangju",
-    "zip": "114",
-    "lat": 37.8119,
-    "lon": 127.08,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "220.88.141.12"
-  },
   "211.224.254.164": {
     "status": "success",
     "country": "South Korea",
@@ -1342,6 +1326,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "211.224.254.164"
+  },
+  "220.88.141.12": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Yangju",
+    "zip": "114",
+    "lat": 37.8119,
+    "lon": 127.08,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "220.88.141.12"
   },
   "58.236.151.188": {
     "status": "success",
@@ -1438,6 +1438,22 @@
     "org": "Netname",
     "as": "AS33991 Igra-Service LLC",
     "query": "91.132.22.148"
+  },
+  "222.144.35.76": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "01",
+    "regionName": "Hokkaido",
+    "city": "Sapporo",
+    "zip": "064-0801",
+    "lat": 43.0456,
+    "lon": 141.3522,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "Open Computer Network",
+    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
+    "query": "222.144.35.76"
   },
   "78.109.130.29": {
     "status": "success",
@@ -1550,22 +1566,6 @@
     "org": "Cox Communications",
     "as": "AS22773 Cox Communications Inc.",
     "query": "70.187.167.138"
-  },
-  "5.143.5.248": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PRI",
-    "regionName": "Primorye",
-    "city": "Vladivostok",
-    "zip": "690001",
-    "lat": 43.1068,
-    "lon": 131.8692,
-    "timezone": "Asia/Vladivostok",
-    "isp": "Rostelecom networks",
-    "org": "OJSC Rostelecom Far-East Region",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "5.143.5.248"
   },
   "186.13.209.137": {
     "status": "success",
