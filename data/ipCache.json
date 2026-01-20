@@ -303,22 +303,6 @@
     "as": "AS12737 KrasPromStroy, LLC",
     "query": "185.124.155.182"
   },
-  "49.167.12.160": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "44",
-    "regionName": "Chungcheongnam-do",
-    "city": "Tangjin",
-    "zip": "317",
-    "lat": 36.8951,
-    "lon": 126.625,
-    "timezone": "Asia/Seoul",
-    "isp": "LG POWERCOMM",
-    "org": "LG POWERCOMM",
-    "as": "AS17858 LG POWERCOMM",
-    "query": "49.167.12.160"
-  },
   "219.100.37.102": {
     "status": "success",
     "country": "Japan",
@@ -334,6 +318,22 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.102"
+  },
+  "49.167.12.160": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "44",
+    "regionName": "Chungcheongnam-do",
+    "city": "Tangjin",
+    "zip": "317",
+    "lat": 36.8951,
+    "lon": 126.625,
+    "timezone": "Asia/Seoul",
+    "isp": "LG POWERCOMM",
+    "org": "LG POWERCOMM",
+    "as": "AS17858 LG POWERCOMM",
+    "query": "49.167.12.160"
   },
   "202.148.240.143": {
     "status": "success",
@@ -719,22 +719,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "221.146.47.131"
   },
-  "61.255.91.50": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "28",
-    "regionName": "Incheon",
-    "city": "Incheon",
-    "zip": "221",
-    "lat": 37.4723,
-    "lon": 126.6594,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "SK Broadband Co Ltd",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "61.255.91.50"
-  },
   "183.101.76.198": {
     "status": "success",
     "country": "South Korea",
@@ -815,21 +799,21 @@
     "as": "AS45758 Triple T Broadband Public Company Limited",
     "query": "171.6.183.132"
   },
-  "221.147.224.183": {
+  "61.255.91.50": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Anyang-si",
-    "zip": "141",
-    "lat": 37.3666,
-    "lon": 126.9512,
+    "region": "28",
+    "regionName": "Incheon",
+    "city": "Incheon",
+    "zip": "221",
+    "lat": 37.4723,
+    "lon": 126.6594,
     "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "221.147.224.183"
+    "isp": "SK Broadband Co Ltd",
+    "org": "SK Broadband Co Ltd",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "61.255.91.50"
   },
   "220.76.63.6": {
     "status": "success",
@@ -846,6 +830,22 @@
     "org": "Korea Telecom",
     "as": "AS4766 Korea Telecom",
     "query": "220.76.63.6"
+  },
+  "221.147.224.183": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Anyang-si",
+    "zip": "141",
+    "lat": 37.3666,
+    "lon": 126.9512,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "221.147.224.183"
   },
   "106.161.60.241": {
     "status": "success",
@@ -975,6 +975,22 @@
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "110.135.102.73"
   },
+  "178.187.96.201": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "ALT",
+    "regionName": "Altai Krai",
+    "city": "Barnaul",
+    "zip": "656002",
+    "lat": 53.362,
+    "lon": 83.7279,
+    "timezone": "Asia/Barnaul",
+    "isp": "OJSC \"Sibirtelecom\"",
+    "org": "Sibirtelecom Co.",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "178.187.96.201"
+  },
   "116.222.29.22": {
     "status": "success",
     "country": "Japan",
@@ -1038,22 +1054,6 @@
     "org": "SOFTBANK Corp",
     "as": "AS17676 SoftBank Corp.",
     "query": "126.206.5.144"
-  },
-  "178.187.96.201": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "ALT",
-    "regionName": "Altai Krai",
-    "city": "Barnaul",
-    "zip": "656002",
-    "lat": 53.362,
-    "lon": 83.7279,
-    "timezone": "Asia/Barnaul",
-    "isp": "OJSC \"Sibirtelecom\"",
-    "org": "Sibirtelecom Co.",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "178.187.96.201"
   },
   "219.104.38.81": {
     "status": "success",
@@ -1151,22 +1151,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.42.52.247"
   },
-  "49.228.230.15": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "10",
-    "regionName": "Bangkok",
-    "city": "Bangkok",
-    "zip": "10110",
-    "lat": 13.7101,
-    "lon": 100.4543,
-    "timezone": "Asia/Bangkok",
-    "isp": "Advanced Wireless Network Company Limited",
-    "org": "AIS Fibre",
-    "as": "AS133481 AIS Fibre",
-    "query": "49.228.230.15"
-  },
   "106.165.84.140": {
     "status": "success",
     "country": "Japan",
@@ -1262,6 +1246,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "175.206.37.185"
+  },
+  "126.110.43.151": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.110.43.151"
   },
   "133.32.132.108": {
     "status": "success",
