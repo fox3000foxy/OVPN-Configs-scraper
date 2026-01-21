@@ -735,22 +735,6 @@
     "as": "AS2518 BIGLOBE Inc.",
     "query": "111.168.74.48"
   },
-  "181.224.85.249": {
-    "status": "success",
-    "country": "Brazil",
-    "countryCode": "BR",
-    "region": "TO",
-    "regionName": "Tocantins",
-    "city": "Araguaína",
-    "zip": "77824",
-    "lat": -7.1873,
-    "lon": -48.2005,
-    "timezone": "America/Araguaina",
-    "isp": "Aranet Comunicacao Ltda",
-    "org": "Aranet Comunicacao Ltda",
-    "as": "AS262462 Aranet Play",
-    "query": "181.224.85.249"
-  },
   "60.153.147.72": {
     "status": "success",
     "country": "Japan",
@@ -766,6 +750,22 @@
     "org": "Japan Nation-wide Network of Softbank Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "60.153.147.72"
+  },
+  "181.224.85.249": {
+    "status": "success",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "region": "TO",
+    "regionName": "Tocantins",
+    "city": "Araguaína",
+    "zip": "77824",
+    "lat": -7.1873,
+    "lon": -48.2005,
+    "timezone": "America/Araguaina",
+    "isp": "Aranet Comunicacao Ltda",
+    "org": "Aranet Comunicacao Ltda",
+    "as": "AS262462 Aranet Play",
+    "query": "181.224.85.249"
   },
   "219.100.165.93": {
     "status": "success",
@@ -1247,22 +1247,6 @@
     "as": "AS35807 SkyNet Ltd.",
     "query": "188.242.244.188"
   },
-  "37.235.146.223": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "TAM",
-    "regionName": "Tambov Oblast",
-    "city": "Tambov",
-    "zip": "392027",
-    "lat": 52.7324,
-    "lon": 41.4313,
-    "timezone": "Europe/Moscow",
-    "isp": "Lanta Networks",
-    "org": "LANTA Ltd",
-    "as": "AS41268 Sesameware FZ-LLC",
-    "query": "37.235.146.223"
-  },
   "36.14.116.113": {
     "status": "success",
     "country": "Japan",
@@ -1278,6 +1262,22 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "36.14.116.113"
+  },
+  "37.235.146.223": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "TAM",
+    "regionName": "Tambov Oblast",
+    "city": "Tambov",
+    "zip": "392027",
+    "lat": 52.7324,
+    "lon": 41.4313,
+    "timezone": "Europe/Moscow",
+    "isp": "Lanta Networks",
+    "org": "LANTA Ltd",
+    "as": "AS41268 Sesameware FZ-LLC",
+    "query": "37.235.146.223"
   },
   "70.77.244.177": {
     "status": "success",
