@@ -255,22 +255,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "218.145.181.197"
   },
-  "211.192.121.212": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "42",
-    "regionName": "Gangwon-do",
-    "city": "Gangneung",
-    "zip": "254",
-    "lat": 37.7567,
-    "lon": 128.8443,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "KORNET",
-    "as": "AS4766 Korea Telecom",
-    "query": "211.192.121.212"
-  },
   "180.39.139.166": {
     "status": "success",
     "country": "Japan",
@@ -1039,6 +1023,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "221.164.120.204"
   },
+  "221.170.21.130": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Noborito",
+    "zip": "214-0011",
+    "lat": 35.6364,
+    "lon": 139.5465,
+    "timezone": "Asia/Tokyo",
+    "isp": "NEC BIGLOBE Ltd.",
+    "org": "BIGLOBE",
+    "as": "AS2518 BIGLOBE Inc.",
+    "query": "221.170.21.130"
+  },
   "95.32.184.90": {
     "status": "success",
     "country": "Russia",
@@ -1087,22 +1087,6 @@
     "as": "AS18403 FPT Telecom Company",
     "query": "118.71.160.208"
   },
-  "222.97.142.229": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "26",
-    "regionName": "Busan",
-    "city": "Yeonje-gu",
-    "zip": "475",
-    "lat": 35.1811,
-    "lon": 129.0928,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "KORNET",
-    "as": "AS4766 Korea Telecom",
-    "query": "222.97.142.229"
-  },
   "49.242.142.155": {
     "status": "success",
     "country": "Japan",
@@ -1118,6 +1102,22 @@
     "org": "Community Network Center Inc.",
     "as": "AS17698 COMMUNITY NETWORK CENTER INCORPORATED.",
     "query": "49.242.142.155"
+  },
+  "222.97.142.229": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Yeonje-gu",
+    "zip": "475",
+    "lat": 35.1811,
+    "lon": 129.0928,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "KORNET",
+    "as": "AS4766 Korea Telecom",
+    "query": "222.97.142.229"
   },
   "119.205.75.134": {
     "status": "success",
