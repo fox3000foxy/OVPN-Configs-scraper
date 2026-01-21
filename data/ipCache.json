@@ -319,22 +319,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "58.123.224.213"
   },
-  "126.219.0.177": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.219.0.177"
-  },
   "160.86.46.9": {
     "status": "success",
     "country": "Japan",
@@ -606,6 +590,22 @@
     "org": "Open Computer Network",
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "153.208.37.44"
+  },
+  "60.155.235.197": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.155.235.197"
   },
   "110.137.102.35": {
     "status": "success",
@@ -1135,22 +1135,6 @@
     "as": "AS209847 WorkTitans B.V.",
     "query": "45.14.245.64"
   },
-  "125.139.49.108": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "45",
-    "regionName": "Jeollabuk-do",
-    "city": "Jeonju",
-    "zip": "548",
-    "lat": 35.8396,
-    "lon": 127.0671,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "125.139.49.108"
-  },
   "82.209.105.49": {
     "status": "success",
     "country": "Russia",
@@ -1166,6 +1150,22 @@
     "org": "MTS Penza",
     "as": "AS35728 MTS PJSC",
     "query": "82.209.105.49"
+  },
+  "125.139.49.108": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "45",
+    "regionName": "Jeollabuk-do",
+    "city": "Jeonju",
+    "zip": "548",
+    "lat": 35.8396,
+    "lon": 127.0671,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "125.139.49.108"
   },
   "61.254.116.94": {
     "status": "success",
@@ -1343,22 +1343,6 @@
     "as": "AS20661 State Company of Electro Communications Turkmentelecom",
     "query": "119.235.113.226"
   },
-  "90.189.196.154": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "NVS",
-    "regionName": "Novosibirsk Oblast",
-    "city": "Novosibirsk",
-    "zip": "630000",
-    "lat": 55.0226,
-    "lon": 82.9317,
-    "timezone": "Asia/Novosibirsk",
-    "isp": "Rostelecom networks",
-    "org": "OJSC Sibirtelecom",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "90.189.196.154"
-  },
   "95.189.200.242": {
     "status": "success",
     "country": "Russia",
@@ -1374,6 +1358,22 @@
     "org": "OJSC Sibirtelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "95.189.200.242"
+  },
+  "90.189.196.154": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "NVS",
+    "regionName": "Novosibirsk Oblast",
+    "city": "Novosibirsk",
+    "zip": "630000",
+    "lat": 55.0226,
+    "lon": 82.9317,
+    "timezone": "Asia/Novosibirsk",
+    "isp": "Rostelecom networks",
+    "org": "OJSC Sibirtelecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "90.189.196.154"
   },
   "169.233.200.187": {
     "status": "success",
@@ -1406,6 +1406,22 @@
     "org": "",
     "as": "AS25106 Mobile TeleSystems JLLC",
     "query": "134.17.177.215"
+  },
+  "210.126.109.3": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "43",
+    "regionName": "North Chungcheong",
+    "city": "Eumseong-gun",
+    "zip": "277",
+    "lat": 36.928,
+    "lon": 127.684,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "210.126.109.3"
   },
   "175.214.23.51": {
     "status": "success",
@@ -1518,22 +1534,6 @@
     "org": "OJSC Rostelecom Macroregional Branch South",
     "as": "AS25490 PJSC Rostelecom",
     "query": "62.183.16.69"
-  },
-  "210.159.189.22": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "37",
-    "regionName": "Kagawa",
-    "city": "Takamatsu",
-    "zip": "760-0061",
-    "lat": 34.3465,
-    "lon": 134.0624,
-    "timezone": "Asia/Tokyo",
-    "isp": "FBDC",
-    "org": "FreeBit Co., Ltd.",
-    "as": "AS7522 STNet, Incorporated",
-    "query": "210.159.189.22"
   },
   "70.79.163.174": {
     "status": "success",
