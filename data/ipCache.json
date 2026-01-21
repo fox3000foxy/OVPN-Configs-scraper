@@ -239,21 +239,21 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "118.157.139.36"
   },
-  "1.66.34.134": {
+  "182.169.54.9": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Osaka",
-    "zip": "530-0041",
-    "lat": 34.6967,
-    "lon": 135.5154,
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tokyo",
+    "zip": "151-0071",
+    "lat": 35.6837,
+    "lon": 139.6805,
     "timezone": "Asia/Tokyo",
-    "isp": "NTT Docomo, inc.",
-    "org": "NTTDoCoMo",
-    "as": "AS9605 NTT DOCOMO, INC.",
-    "query": "1.66.34.134"
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "182.169.54.9"
   },
   "27.85.1.30": {
     "status": "success",
@@ -335,6 +335,22 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "160.86.46.9"
   },
+  "1.66.34.134": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Osaka",
+    "zip": "530-0041",
+    "lat": 34.6967,
+    "lon": 135.5154,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Docomo, inc.",
+    "org": "NTTDoCoMo",
+    "as": "AS9605 NTT DOCOMO, INC.",
+    "query": "1.66.34.134"
+  },
   "60.95.76.42": {
     "status": "success",
     "country": "Japan",
@@ -366,22 +382,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "112.170.21.41"
-  },
-  "182.169.54.9": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0071",
-    "lat": 35.6837,
-    "lon": 139.6805,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "182.169.54.9"
   },
   "112.171.237.202": {
     "status": "success",
@@ -670,6 +670,22 @@
     "org": "SOFTBANK Corp",
     "as": "AS17676 SoftBank Corp.",
     "query": "126.206.11.243"
+  },
+  "14.47.60.103": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Suwon",
+    "zip": "166",
+    "lat": 37.2506,
+    "lon": 127.0668,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "14.47.60.103"
   },
   "222.144.35.76": {
     "status": "success",
@@ -1135,22 +1151,6 @@
     "as": "AS35728 MTS PJSC",
     "query": "82.209.105.49"
   },
-  "61.254.116.94": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Gangseo-gu",
-    "zip": "076",
-    "lat": 37.5438,
-    "lon": 126.8538,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "61.254.116.94"
-  },
   "125.139.49.108": {
     "status": "success",
     "country": "South Korea",
@@ -1166,6 +1166,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "125.139.49.108"
+  },
+  "61.254.116.94": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Gangseo-gu",
+    "zip": "076",
+    "lat": 37.5438,
+    "lon": 126.8538,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "61.254.116.94"
   },
   "220.88.141.12": {
     "status": "success",
@@ -1502,38 +1518,6 @@
     "org": "FreeBit Co., Ltd.",
     "as": "AS7522 STNet, Incorporated",
     "query": "210.159.189.22"
-  },
-  "118.16.164.168": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "24",
-    "regionName": "Mie",
-    "city": "Yokkaichi",
-    "zip": "510-0071",
-    "lat": 34.972,
-    "lon": 136.6182,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "NTT Communications Corporation",
-    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
-    "query": "118.16.164.168"
-  },
-  "164.70.84.149": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "09",
-    "regionName": "Tochigi",
-    "city": "Shimotsuke",
-    "zip": "329-0411",
-    "lat": 36.3703,
-    "lon": 139.8449,
-    "timezone": "Asia/Tokyo",
-    "isp": "InfoSphere",
-    "org": "NTTPC Communications, Inc",
-    "as": "AS2514 NTT PC Communications, Inc.",
-    "query": "164.70.84.149"
   },
   "70.79.163.174": {
     "status": "success",
