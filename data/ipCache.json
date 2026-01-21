@@ -655,6 +655,22 @@
     "as": "AS23969 TOT Public Company Limited",
     "query": "101.108.4.143"
   },
+  "119.194.197.254": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Seongnam-si",
+    "zip": "132",
+    "lat": 37.4541,
+    "lon": 127.1404,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Sudogwongangnambonbu",
+    "as": "AS4766 Korea Telecom",
+    "query": "119.194.197.254"
+  },
   "210.99.65.21": {
     "status": "success",
     "country": "South Korea",
@@ -783,22 +799,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "210.178.110.239"
   },
-  "183.180.154.63": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Osaka",
-    "zip": "550-0001",
-    "lat": 34.6892,
-    "lon": 135.4899,
-    "timezone": "Asia/Tokyo",
-    "isp": "ARTERIA Networks Corporation",
-    "org": "ARTERIA Networks Corporation",
-    "as": "AS2519 ARTERIA Networks Corporation",
-    "query": "183.180.154.63"
-  },
   "121.162.61.42": {
     "status": "success",
     "country": "South Korea",
@@ -814,6 +814,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "121.162.61.42"
+  },
+  "183.180.154.63": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Osaka",
+    "zip": "550-0001",
+    "lat": 34.6892,
+    "lon": 135.4899,
+    "timezone": "Asia/Tokyo",
+    "isp": "ARTERIA Networks Corporation",
+    "org": "ARTERIA Networks Corporation",
+    "as": "AS2519 ARTERIA Networks Corporation",
+    "query": "183.180.154.63"
   },
   "1.232.152.53": {
     "status": "success",
@@ -862,22 +878,6 @@
     "org": "Open Computer Network",
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "153.204.245.87"
-  },
-  "171.97.245.246": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "83",
-    "regionName": "Phuket",
-    "city": "Phuket",
-    "zip": "83000",
-    "lat": 7.95,
-    "lon": 98.3564,
-    "timezone": "Asia/Bangkok",
-    "isp": "True Internet Corporation CO. Ltd.",
-    "org": "Truenet Hisp",
-    "as": "AS17552 True Online",
-    "query": "171.97.245.246"
   },
   "121.84.18.95": {
     "status": "success",
@@ -959,22 +959,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.207.64.178"
   },
-  "126.40.8.130": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.40.8.130"
-  },
   "126.114.100.133": {
     "status": "success",
     "country": "Japan",
@@ -990,6 +974,22 @@
     "org": "SOFTBANK Corp",
     "as": "AS17676 SoftBank Corp.",
     "query": "126.114.100.133"
+  },
+  "126.40.8.130": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.40.8.130"
   },
   "123.215.124.219": {
     "status": "success",
@@ -1039,6 +1039,22 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "216.153.126.191"
   },
+  "221.164.120.204": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Nam-gu",
+    "zip": "485",
+    "lat": 35.1271,
+    "lon": 129.1008,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Korea Telecom",
+    "as": "AS4766 Korea Telecom",
+    "query": "221.164.120.204"
+  },
   "60.117.95.216": {
     "status": "success",
     "country": "Japan",
@@ -1070,22 +1086,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "175.212.255.180"
-  },
-  "221.164.120.204": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "26",
-    "regionName": "Busan",
-    "city": "Nam-gu",
-    "zip": "485",
-    "lat": 35.1271,
-    "lon": 129.1008,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Korea Telecom",
-    "as": "AS4766 Korea Telecom",
-    "query": "221.164.120.204"
   },
   "95.32.184.90": {
     "status": "success",
@@ -1151,22 +1151,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "222.97.142.229"
   },
-  "184.22.103.195": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "10",
-    "regionName": "Bangkok",
-    "city": "Bangkok",
-    "zip": "10600",
-    "lat": 13.733,
-    "lon": 100.4865,
-    "timezone": "Asia/Bangkok",
-    "isp": "AIS-Fibre",
-    "org": "",
-    "as": "AS133481 AIS Fibre",
-    "query": "184.22.103.195"
-  },
   "119.205.75.134": {
     "status": "success",
     "country": "South Korea",
@@ -1182,6 +1166,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "119.205.75.134"
+  },
+  "184.22.103.195": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "10",
+    "regionName": "Bangkok",
+    "city": "Bangkok",
+    "zip": "10600",
+    "lat": 13.733,
+    "lon": 100.4865,
+    "timezone": "Asia/Bangkok",
+    "isp": "AIS-Fibre",
+    "org": "",
+    "as": "AS133481 AIS Fibre",
+    "query": "184.22.103.195"
   },
   "220.76.101.240": {
     "status": "success",
@@ -1247,6 +1247,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "59.5.39.246"
   },
+  "108.63.57.120": {
+    "status": "success",
+    "country": "Canada",
+    "countryCode": "CA",
+    "region": "BC",
+    "regionName": "British Columbia",
+    "city": "Victoria-Fraserview",
+    "zip": "V5P",
+    "lat": 49.2167,
+    "lon": -123.067,
+    "timezone": "America/Vancouver",
+    "isp": "Primus Telecommunications Canada Inc.",
+    "org": "Primus Telecommunications Canada Inc",
+    "as": "AS6407 Primus Telecommunications Canada Inc.",
+    "query": "108.63.57.120"
+  },
   "1.236.146.57": {
     "status": "success",
     "country": "South Korea",
@@ -1295,21 +1311,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "59.9.248.102"
   },
-  "58.121.28.21": {
+  "77.34.167.20": {
     "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "28",
-    "regionName": "Incheon",
-    "city": "Gyeyang-gu",
-    "zip": "211",
-    "lat": 37.5249,
-    "lon": 126.7409,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "58.121.28.21"
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Vladivostok",
+    "zip": "690001",
+    "lat": 43.1068,
+    "lon": 131.8692,
+    "timezone": "Asia/Vladivostok",
+    "isp": "Rostelecom networks",
+    "org": "",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "77.34.167.20"
   },
   "211.49.193.131": {
     "status": "success",
@@ -1342,22 +1358,6 @@
     "org": "OJSC Sibirtelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "178.185.151.117"
-  },
-  "121.149.221.10": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "46",
-    "regionName": "Jeollanam-do",
-    "city": "Yeosu",
-    "zip": "596",
-    "lat": 34.7566,
-    "lon": 127.6626,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "121.149.221.10"
   },
   "125.138.193.208": {
     "status": "success",
@@ -1406,22 +1406,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "183.102.204.6"
-  },
-  "108.63.57.120": {
-    "status": "success",
-    "country": "Canada",
-    "countryCode": "CA",
-    "region": "BC",
-    "regionName": "British Columbia",
-    "city": "Victoria-Fraserview",
-    "zip": "V5P",
-    "lat": 49.2167,
-    "lon": -123.067,
-    "timezone": "America/Vancouver",
-    "isp": "Primus Telecommunications Canada Inc.",
-    "org": "Primus Telecommunications Canada Inc",
-    "as": "AS6407 Primus Telecommunications Canada Inc.",
-    "query": "108.63.57.120"
   },
   "39.112.18.241": {
     "status": "success",
