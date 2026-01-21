@@ -207,6 +207,22 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "182.169.54.9"
   },
+  "121.142.148.62": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "28",
+    "regionName": "Incheon",
+    "city": "Incheon",
+    "zip": "21554",
+    "lat": 37.4585,
+    "lon": 126.7015,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "121.142.148.62"
+  },
   "1.66.34.134": {
     "status": "success",
     "country": "Japan",
@@ -623,6 +639,22 @@
     "as": "AS17597 SK Broadband Co Ltd",
     "query": "61.47.212.110"
   },
+  "101.140.68.208": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Sakai",
+    "zip": "590-0971",
+    "lat": 34.5963,
+    "lon": 135.4868,
+    "timezone": "Asia/Tokyo",
+    "isp": "OPTAGE Inc.",
+    "org": "K-Opticom Corporation",
+    "as": "AS17511 OPTAGE Inc.",
+    "query": "101.140.68.208"
+  },
   "126.206.11.243": {
     "status": "success",
     "country": "Japan",
@@ -638,22 +670,6 @@
     "org": "SOFTBANK Corp",
     "as": "AS17676 SoftBank Corp.",
     "query": "126.206.11.243"
-  },
-  "153.209.98.170": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Fujisawa",
-    "zip": "251-0051",
-    "lat": 35.3553,
-    "lon": 139.4824,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "Open Computer Network",
-    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
-    "query": "153.209.98.170"
   },
   "119.170.133.181": {
     "status": "success",
@@ -1038,22 +1054,6 @@
     "org": "AIS Fibre",
     "as": "AS133481 AIS Fibre",
     "query": "49.228.81.227"
-  },
-  "42.117.16.50": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "HN",
-    "regionName": "Hanoi",
-    "city": "Hanoi",
-    "zip": "100000",
-    "lat": 21.0184,
-    "lon": 105.8461,
-    "timezone": "Asia/Bangkok",
-    "isp": "FPT Telecom Company",
-    "org": "FPTDYNAMICIP",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "42.117.16.50"
   },
   "125.139.49.108": {
     "status": "success",
@@ -1534,22 +1534,6 @@
     "org": "Comcast Cable Communications, Inc",
     "as": "AS7922 Comcast Cable Communications, LLC",
     "query": "69.245.179.46"
-  },
-  "118.40.99.201": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "46",
-    "regionName": "Jeollanam-do",
-    "city": "Naju",
-    "zip": "582",
-    "lat": 35.0223,
-    "lon": 126.7897,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Jeonnambonbujang",
-    "as": "AS4766 Korea Telecom",
-    "query": "118.40.99.201"
   },
   "70.79.163.174": {
     "status": "success",
