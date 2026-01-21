@@ -863,6 +863,22 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "153.204.245.87"
   },
+  "171.97.245.246": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "83",
+    "regionName": "Phuket",
+    "city": "Phuket",
+    "zip": "83000",
+    "lat": 7.95,
+    "lon": 98.3564,
+    "timezone": "Asia/Bangkok",
+    "isp": "True Internet Corporation CO. Ltd.",
+    "org": "Truenet Hisp",
+    "as": "AS17552 True Online",
+    "query": "171.97.245.246"
+  },
   "121.84.18.95": {
     "status": "success",
     "country": "Japan",
@@ -943,22 +959,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.207.64.178"
   },
-  "126.114.100.133": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.114.100.133"
-  },
   "126.40.8.130": {
     "status": "success",
     "country": "Japan",
@@ -974,6 +974,22 @@
     "org": "SOFTBANK Corp",
     "as": "AS17676 SoftBank Corp.",
     "query": "126.40.8.130"
+  },
+  "126.114.100.133": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.114.100.133"
   },
   "123.215.124.219": {
     "status": "success",
@@ -1470,22 +1486,6 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "114.206.223.158"
-  },
-  "1.252.99.217": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "26",
-    "regionName": "Busan",
-    "city": "Busanjin-gu",
-    "zip": "473",
-    "lat": 35.1469,
-    "lon": 129.0381,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "SK Broadband Co Ltd",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "1.252.99.217"
   },
   "186.81.100.17": {
     "status": "success",
