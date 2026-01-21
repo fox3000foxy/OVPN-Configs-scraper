@@ -191,6 +191,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.204"
   },
+  "104.28.226.210": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "29",
+    "regionName": "Gwangju",
+    "city": "Gwangju",
+    "zip": "61426",
+    "lat": 35.1496,
+    "lon": 126.9156,
+    "timezone": "Asia/Seoul",
+    "isp": "Cloudflare, Inc.",
+    "org": "Cloudflare WARP",
+    "as": "AS13335 Cloudflare, Inc.",
+    "query": "104.28.226.210"
+  },
   "118.104.168.55": {
     "status": "success",
     "country": "Japan",
@@ -238,6 +254,22 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "118.157.139.36"
+  },
+  "1.66.34.134": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Osaka",
+    "zip": "530-0041",
+    "lat": 34.6967,
+    "lon": 135.5154,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Docomo, inc.",
+    "org": "NTTDoCoMo",
+    "as": "AS9605 NTT DOCOMO, INC.",
+    "query": "1.66.34.134"
   },
   "27.85.1.30": {
     "status": "success",
@@ -350,22 +382,6 @@
     "org": "Japan Nation-wide Network of Softbank Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "60.95.76.42"
-  },
-  "1.66.34.134": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Osaka",
-    "zip": "530-0041",
-    "lat": 34.6967,
-    "lon": 135.5154,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Docomo, inc.",
-    "org": "NTTDoCoMo",
-    "as": "AS9605 NTT DOCOMO, INC.",
-    "query": "1.66.34.134"
   },
   "112.170.21.41": {
     "status": "success",
@@ -735,22 +751,6 @@
     "as": "AS9770 LG HelloVision Corp.",
     "query": "117.55.152.142"
   },
-  "106.176.30.209": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Edogawa",
-    "zip": "132-0000",
-    "lat": 35.6907,
-    "lon": 139.8767,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "106.176.30.209"
-  },
   "220.100.121.114": {
     "status": "success",
     "country": "Japan",
@@ -783,6 +783,22 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "106.168.67.207"
   },
+  "106.176.30.209": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Edogawa",
+    "zip": "132-0000",
+    "lat": 35.6907,
+    "lon": 139.8767,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "106.176.30.209"
+  },
   "114.19.179.196": {
     "status": "success",
     "country": "Japan",
@@ -799,22 +815,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "114.19.179.196"
   },
-  "126.27.126.95": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.27.126.95"
-  },
   "175.103.224.230": {
     "status": "success",
     "country": "Japan",
@@ -830,6 +830,22 @@
     "org": "STNet, Incorporated",
     "as": "AS7522 STNet, Incorporated",
     "query": "175.103.224.230"
+  },
+  "126.27.126.95": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.27.126.95"
   },
   "218.115.121.212": {
     "status": "success",
@@ -911,6 +927,22 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "27.94.219.251"
   },
+  "37.110.83.193": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "MOW",
+    "regionName": "Moscow",
+    "city": "Moscow",
+    "zip": "127474",
+    "lat": 55.7487,
+    "lon": 37.6187,
+    "timezone": "Europe/Moscow",
+    "isp": "NCNET",
+    "org": "",
+    "as": "AS42610 PJSC Rostelecom",
+    "query": "37.110.83.193"
+  },
   "150.9.154.11": {
     "status": "success",
     "country": "Japan",
@@ -926,22 +958,6 @@
     "org": "Internet Numbers Authority",
     "as": "AS4685 Asahi Net",
     "query": "150.9.154.11"
-  },
-  "152.117.237.139": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "01",
-    "regionName": "Hokkaido",
-    "city": "Sapporo",
-    "zip": "064-0821",
-    "lat": 43.0456,
-    "lon": 141.3522,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "152.117.237.139"
   },
   "219.99.243.172": {
     "status": "success",
@@ -959,22 +975,6 @@
     "as": "AS59108 KATCH NETWORK INC.",
     "query": "219.99.243.172"
   },
-  "78.109.130.29": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "ALT",
-    "regionName": "Altai Krai",
-    "city": "Barnaul",
-    "zip": "656056",
-    "lat": 53.3325,
-    "lon": 83.7758,
-    "timezone": "Asia/Barnaul",
-    "isp": "DIANET address",
-    "org": "",
-    "as": "AS43314 JSC ER-Telecom Holding",
-    "query": "78.109.130.29"
-  },
   "222.97.224.95": {
     "status": "success",
     "country": "South Korea",
@@ -990,6 +990,22 @@
     "org": "KORNET",
     "as": "AS4766 Korea Telecom",
     "query": "222.97.224.95"
+  },
+  "78.109.130.29": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "ALT",
+    "regionName": "Altai Krai",
+    "city": "Barnaul",
+    "zip": "656056",
+    "lat": 53.3325,
+    "lon": 83.7758,
+    "timezone": "Asia/Barnaul",
+    "isp": "DIANET address",
+    "org": "",
+    "as": "AS43314 JSC ER-Telecom Holding",
+    "query": "78.109.130.29"
   },
   "218.156.69.3": {
     "status": "success",
@@ -1231,22 +1247,6 @@
     "as": "AS138384 Rakuten Mobile Network, Inc.",
     "query": "133.106.182.5"
   },
-  "37.110.83.193": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "MOW",
-    "regionName": "Moscow",
-    "city": "Moscow",
-    "zip": "127474",
-    "lat": 55.7487,
-    "lon": 37.6187,
-    "timezone": "Europe/Moscow",
-    "isp": "NCNET",
-    "org": "",
-    "as": "AS42610 PJSC Rostelecom",
-    "query": "37.110.83.193"
-  },
   "175.215.19.145": {
     "status": "success",
     "country": "South Korea",
@@ -1375,6 +1375,22 @@
     "as": "AS25668 Cipherkey Exchange Corp.",
     "query": "172.103.241.126"
   },
+  "213.109.48.34": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "SVE",
+    "regionName": "Sverdlovsk Oblast",
+    "city": "Istok",
+    "zip": "",
+    "lat": 56.7909,
+    "lon": 60.7789,
+    "timezone": "Asia/Yekaterinburg",
+    "isp": "Mediacom.spec1-KT",
+    "org": "MediaCom Ltd",
+    "as": "AS48642 Joint stock company \"For\"",
+    "query": "213.109.48.34"
+  },
   "93.100.44.84": {
     "status": "success",
     "country": "Russia",
@@ -1454,22 +1470,6 @@
     "org": "NTT Communications Corporation",
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "118.16.164.168"
-  },
-  "126.16.107.81": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.16.107.81"
   },
   "164.70.84.149": {
     "status": "success",
