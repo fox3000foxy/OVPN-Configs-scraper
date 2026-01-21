@@ -348,7 +348,6 @@ Or download individually:
 | 31.200.228.210 | Russia | ISP Podryad Nets | IPSpeed | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/31.200.228.210.ovpn) |
 | 37.235.146.223 | Russia | Lanta Networks | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/37.235.146.223.ovpn) |
 | 31.129.4.226 | Russia | LLC Teledyne Systems Limited | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/31.129.4.226.ovpn) |
-| 31.40.209.216 | Russia | Miranda-Media Ltd | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/31.40.209.216.ovpn) |
 | 95.154.67.85 | Russia | OCTOPUSNET-NAT | IPSpeed | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/95.154.67.85.ovpn) |
 | 95.154.67.85 | Russia | OCTOPUSNET-NAT | IPSpeed | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/95.154.67.85.ovpn) |
 | 95.154.67.85 | Russia | OCTOPUSNET-NAT | IPSpeed | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/95.154.67.85.ovpn) |
@@ -584,6 +583,7 @@ Or download individually:
 | 58.187.121.24 | Vietnam | FPT Telecom Company | IPSpeed | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/58.187.121.24.ovpn) |
 | 118.68.185.28 | Vietnam | FPT Telecom Company | IPSpeed | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/118.68.185.28.ovpn) |
 | 183.80.101.184 | Vietnam | Vietnam Internet Network Information Center | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/183.80.101.184.ovpn) |
+| 183.80.113.248 | Vietnam | Vietnam Internet Network Information Center | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/183.80.113.248.ovpn) |
 
 > **Tip**: For the full list, check the `data/configs/` folder after running the scraper.
 

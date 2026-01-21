@@ -735,22 +735,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "111.238.218.220"
   },
-  "31.40.209.216": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KDA",
-    "regionName": "Krasnodar Krai",
-    "city": "Taman'",
-    "zip": "353555",
-    "lat": 45.212,
-    "lon": 36.7103,
-    "timezone": "Europe/Moscow",
-    "isp": "Miranda-Media Ltd",
-    "org": "Miranda-Media Ltd",
-    "as": "AS201776 Miranda-Media Ltd",
-    "query": "31.40.209.216"
-  },
   "118.104.246.196": {
     "status": "success",
     "country": "Japan",
@@ -1582,6 +1566,22 @@
     "org": "SK Broadband Co Ltd",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "211.209.102.109"
+  },
+  "183.80.113.248": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "SG",
+    "regionName": "Ho Chi Minh",
+    "city": "Ho Chi Minh City",
+    "zip": "700000",
+    "lat": 10.822,
+    "lon": 106.6257,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "isp": "Vietnam Internet Network Information Center",
+    "org": "",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "183.80.113.248"
   },
   "108.63.57.120": {
     "status": "success",
