@@ -623,22 +623,6 @@
     "as": "AS17597 SK Broadband Co Ltd",
     "query": "61.47.212.110"
   },
-  "126.206.11.243": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.206.11.243"
-  },
   "218.216.32.95": {
     "status": "success",
     "country": "Japan",
@@ -654,6 +638,22 @@
     "org": "miyazaki cabletelevision network Co., LTD",
     "as": "AS17939 miyazaki cabletelevision network Co.,LTD",
     "query": "218.216.32.95"
+  },
+  "126.206.11.243": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.206.11.243"
   },
   "153.209.98.170": {
     "status": "success",
@@ -863,22 +863,6 @@
     "as": "AS2497 Internet Initiative Japan Inc.",
     "query": "220.100.121.114"
   },
-  "118.83.245.23": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Kamata",
-    "zip": "157-0077",
-    "lat": 35.6229,
-    "lon": 139.6131,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM",
-    "org": "Jupiter Telecommunications Co., Ltd.",
-    "as": "AS4721 JCOM Co., Ltd.",
-    "query": "118.83.245.23"
-  },
   "175.103.224.230": {
     "status": "success",
     "country": "Japan",
@@ -895,6 +879,22 @@
     "as": "AS7522 STNet, Incorporated",
     "query": "175.103.224.230"
   },
+  "118.83.245.23": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Kamata",
+    "zip": "157-0077",
+    "lat": 35.6229,
+    "lon": 139.6131,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM",
+    "org": "Jupiter Telecommunications Co., Ltd.",
+    "as": "AS4721 JCOM Co., Ltd.",
+    "query": "118.83.245.23"
+  },
   "126.27.126.95": {
     "status": "success",
     "country": "Japan",
@@ -910,22 +910,6 @@
     "org": "SOFTBANK Corp",
     "as": "AS17676 SoftBank Corp.",
     "query": "126.27.126.95"
-  },
-  "27.127.142.144": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "28",
-    "regionName": "Hyōgo",
-    "city": "Amagasaki",
-    "zip": "660-0881",
-    "lat": 34.7225,
-    "lon": 135.4264,
-    "timezone": "Asia/Tokyo",
-    "isp": "ITEC HANKYU HANSHIN CO., LTD.",
-    "org": "ITEC Hankyu Hanshin Co., Ltd.",
-    "as": "AS7524 ITEC HANKYU HANSHIN CO.,LTD.",
-    "query": "27.127.142.144"
   },
   "37.110.83.193": {
     "status": "success",
@@ -1550,6 +1534,22 @@
     "org": "NTTDoCoMo",
     "as": "AS9605 NTT DOCOMO, INC.",
     "query": "49.106.108.124"
+  },
+  "69.245.179.46": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IL",
+    "regionName": "Illinois",
+    "city": "Chicago",
+    "zip": "60611",
+    "lat": 41.8972,
+    "lon": -87.6196,
+    "timezone": "America/Chicago",
+    "isp": "Comcast Cable Communications, LLC",
+    "org": "Comcast Cable Communications, Inc",
+    "as": "AS7922 Comcast Cable Communications, LLC",
+    "query": "69.245.179.46"
   },
   "186.13.209.137": {
     "status": "success",
