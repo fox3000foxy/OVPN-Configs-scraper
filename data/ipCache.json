@@ -623,22 +623,6 @@
     "as": "AS17597 SK Broadband Co Ltd",
     "query": "61.47.212.110"
   },
-  "218.216.32.95": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "45",
-    "regionName": "Miyazaki",
-    "city": "Miyazaki",
-    "zip": "880-0031",
-    "lat": 31.9172,
-    "lon": 131.4104,
-    "timezone": "Asia/Tokyo",
-    "isp": "miyazaki cabletelevision network Co., LTD",
-    "org": "miyazaki cabletelevision network Co., LTD",
-    "as": "AS17939 miyazaki cabletelevision network Co.,LTD",
-    "query": "218.216.32.95"
-  },
   "126.206.11.243": {
     "status": "success",
     "country": "Japan",
@@ -654,6 +638,22 @@
     "org": "SOFTBANK Corp",
     "as": "AS17676 SoftBank Corp.",
     "query": "126.206.11.243"
+  },
+  "218.216.32.95": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "45",
+    "regionName": "Miyazaki",
+    "city": "Miyazaki",
+    "zip": "880-0031",
+    "lat": 31.9172,
+    "lon": 131.4104,
+    "timezone": "Asia/Tokyo",
+    "isp": "miyazaki cabletelevision network Co., LTD",
+    "org": "miyazaki cabletelevision network Co., LTD",
+    "as": "AS17939 miyazaki cabletelevision network Co.,LTD",
+    "query": "218.216.32.95"
   },
   "153.209.98.170": {
     "status": "success",
@@ -975,22 +975,6 @@
     "as": "AS25668 Cipherkey Exchange Corp.",
     "query": "172.103.241.126"
   },
-  "201.188.213.43": {
-    "status": "success",
-    "country": "Chile",
-    "countryCode": "CL",
-    "region": "CO",
-    "regionName": "Coquimbo Region",
-    "city": "Recoleta",
-    "zip": "",
-    "lat": -30.5023,
-    "lon": -71.1545,
-    "timezone": "America/Santiago",
-    "isp": "TELEFÓNICA CHILE S.A.",
-    "org": "Telefonica Movil De Chile S.A",
-    "as": "AS7418 TELEFÓNICA CHILE S.A.",
-    "query": "201.188.213.43"
-  },
   "218.156.69.3": {
     "status": "success",
     "country": "South Korea",
@@ -1006,6 +990,22 @@
     "org": "KORNET",
     "as": "AS4766 Korea Telecom",
     "query": "218.156.69.3"
+  },
+  "201.188.213.43": {
+    "status": "success",
+    "country": "Chile",
+    "countryCode": "CL",
+    "region": "CO",
+    "regionName": "Coquimbo Region",
+    "city": "Recoleta",
+    "zip": "",
+    "lat": -30.5023,
+    "lon": -71.1545,
+    "timezone": "America/Santiago",
+    "isp": "TELEFÓNICA CHILE S.A.",
+    "org": "Telefonica Movil De Chile S.A",
+    "as": "AS7418 TELEFÓNICA CHILE S.A.",
+    "query": "201.188.213.43"
   },
   "222.97.224.95": {
     "status": "success",
@@ -1119,22 +1119,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "125.139.49.108"
   },
-  "117.110.186.98": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "28",
-    "regionName": "Incheon",
-    "city": "Incheon",
-    "zip": "221",
-    "lat": 37.4723,
-    "lon": 126.6594,
-    "timezone": "Asia/Seoul",
-    "isp": "DACOM-PUBNETPLUS",
-    "org": "Pubnetplus",
-    "as": "AS9316 DACOM-PUBNETPLUS",
-    "query": "117.110.186.98"
-  },
   "116.254.38.69": {
     "status": "success",
     "country": "Japan",
@@ -1150,6 +1134,22 @@
     "org": "TOKAI",
     "as": "AS10010 TOKAI Communications Corporation",
     "query": "116.254.38.69"
+  },
+  "117.110.186.98": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "28",
+    "regionName": "Incheon",
+    "city": "Incheon",
+    "zip": "221",
+    "lat": 37.4723,
+    "lon": 126.6594,
+    "timezone": "Asia/Seoul",
+    "isp": "DACOM-PUBNETPLUS",
+    "org": "Pubnetplus",
+    "as": "AS9316 DACOM-PUBNETPLUS",
+    "query": "117.110.186.98"
   },
   "183.104.248.148": {
     "status": "success",
