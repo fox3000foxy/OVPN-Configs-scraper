@@ -255,22 +255,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "218.145.181.197"
   },
-  "211.192.121.212": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "42",
-    "regionName": "Gangwon-do",
-    "city": "Gangneung",
-    "zip": "254",
-    "lat": 37.7567,
-    "lon": 128.8443,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "KORNET",
-    "as": "AS4766 Korea Telecom",
-    "query": "211.192.121.212"
-  },
   "180.39.139.166": {
     "status": "success",
     "country": "Japan",
@@ -286,6 +270,22 @@
     "org": "NTT Communications Corporation",
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "180.39.139.166"
+  },
+  "211.192.121.212": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "42",
+    "regionName": "Gangwon-do",
+    "city": "Gangneung",
+    "zip": "254",
+    "lat": 37.7567,
+    "lon": 128.8443,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "KORNET",
+    "as": "AS4766 Korea Telecom",
+    "query": "211.192.121.212"
   },
   "125.55.110.221": {
     "status": "success",
@@ -735,22 +735,6 @@
     "as": "AS10010 TOKAI Communications Corporation",
     "query": "42.125.132.145"
   },
-  "184.82.15.187": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "20",
-    "regionName": "Chon Buri",
-    "city": "Chon Buri",
-    "zip": "20000",
-    "lat": 13.1604,
-    "lon": 101.1083,
-    "timezone": "Asia/Bangkok",
-    "isp": "AIS-Fibre",
-    "org": "",
-    "as": "AS133481 AIS Fibre",
-    "query": "184.82.15.187"
-  },
   "60.133.204.57": {
     "status": "success",
     "country": "Japan",
@@ -766,6 +750,22 @@
     "org": "Japan Nation-wide Network of Softbank Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "60.133.204.57"
+  },
+  "184.82.15.187": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "20",
+    "regionName": "Chon Buri",
+    "city": "Chon Buri",
+    "zip": "20000",
+    "lat": 13.1604,
+    "lon": 101.1083,
+    "timezone": "Asia/Bangkok",
+    "isp": "AIS-Fibre",
+    "org": "",
+    "as": "AS133481 AIS Fibre",
+    "query": "184.82.15.187"
   },
   "118.68.78.122": {
     "status": "success",
@@ -1071,6 +1071,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "175.212.255.180"
   },
+  "49.228.238.30": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "10",
+    "regionName": "Bangkok",
+    "city": "Bangkok",
+    "zip": "10110",
+    "lat": 13.7101,
+    "lon": 100.4543,
+    "timezone": "Asia/Bangkok",
+    "isp": "Advanced Wireless Network Company Limited",
+    "org": "",
+    "as": "AS133481 AIS Fibre",
+    "query": "49.228.238.30"
+  },
   "95.32.184.90": {
     "status": "success",
     "country": "Russia",
@@ -1247,22 +1263,6 @@
     "as": "AS6407 Primus Telecommunications Canada Inc.",
     "query": "108.63.57.120"
   },
-  "1.236.146.57": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Goyang-si",
-    "zip": "10461",
-    "lat": 37.661,
-    "lon": 126.8324,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "1.236.146.57"
-  },
   "125.139.168.149": {
     "status": "success",
     "country": "South Korea",
@@ -1278,6 +1278,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "125.139.168.149"
+  },
+  "1.236.146.57": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Goyang-si",
+    "zip": "10461",
+    "lat": 37.661,
+    "lon": 126.8324,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "1.236.146.57"
   },
   "77.34.167.20": {
     "status": "success",
@@ -1454,22 +1470,6 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "114.206.223.158"
-  },
-  "1.252.99.217": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "26",
-    "regionName": "Busan",
-    "city": "Busanjin-gu",
-    "zip": "473",
-    "lat": 35.1469,
-    "lon": 129.0381,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "SK Broadband Co Ltd",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "1.252.99.217"
   },
   "186.81.100.17": {
     "status": "success",
