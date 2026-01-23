@@ -399,22 +399,6 @@
     "as": "AS18126 Chubu Telecommunications Company, Inc.",
     "query": "14.132.22.67"
   },
-  "1.66.34.134": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Osaka",
-    "zip": "530-0041",
-    "lat": 34.6967,
-    "lon": 135.5154,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Docomo, inc.",
-    "org": "NTTDoCoMo",
-    "as": "AS9605 NTT DOCOMO, INC.",
-    "query": "1.66.34.134"
-  },
   "211.184.24.38": {
     "status": "success",
     "country": "South Korea",
@@ -526,22 +510,6 @@
     "org": "",
     "as": "AS8369 Intersvyaz-2 JSC",
     "query": "37.140.24.30"
-  },
-  "5.143.104.42": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PRI",
-    "regionName": "Primorye",
-    "city": "Vladivostok",
-    "zip": "690001",
-    "lat": 43.1068,
-    "lon": 131.8692,
-    "timezone": "Asia/Vladivostok",
-    "isp": "PJSC Rostelecom Far East Region",
-    "org": "Rostelecom Nets",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "5.143.104.42"
   },
   "171.4.65.18": {
     "status": "success",
@@ -782,5 +750,21 @@
     "org": "OJSC Sibirtelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "90.189.56.118"
+  },
+  "37.21.215.165": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "TOM",
+    "regionName": "Tomsk Oblast",
+    "city": "Tomsk",
+    "zip": "634009",
+    "lat": 56.4957,
+    "lon": 84.9636,
+    "timezone": "Asia/Tomsk",
+    "isp": "JSC Rostelecom regional branch \"Siberia\"",
+    "org": "JSC Rostelecom regional branch Siberia",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "37.21.215.165"
   }
 }
