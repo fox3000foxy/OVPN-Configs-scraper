@@ -159,22 +159,6 @@
     "as": "AS45758 Triple T Broadband Public Company Limited",
     "query": "223.207.218.246"
   },
-  "115.78.10.208": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "SG",
-    "regionName": "Ho Chi Minh",
-    "city": "Ho Chi Minh City",
-    "zip": "700000",
-    "lat": 10.822,
-    "lon": 106.6257,
-    "timezone": "Asia/Ho_Chi_Minh",
-    "isp": "VIETELftth",
-    "org": "",
-    "as": "AS7552 Viettel Group",
-    "query": "115.78.10.208"
-  },
   "211.104.232.96": {
     "status": "success",
     "country": "South Korea",
@@ -447,22 +431,6 @@
     "as": "AS48642 Joint stock company \"For\"",
     "query": "217.151.226.251"
   },
-  "14.7.11.249": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "45",
-    "regionName": "Jeollabuk-do",
-    "city": "Gunsan",
-    "zip": "541",
-    "lat": 35.9812,
-    "lon": 126.712,
-    "timezone": "Asia/Seoul",
-    "isp": "LG POWERCOMM",
-    "org": "DACOM-PUBNETPLUS",
-    "as": "AS17858 LG POWERCOMM",
-    "query": "14.7.11.249"
-  },
   "211.244.223.85": {
     "status": "success",
     "country": "South Korea",
@@ -558,6 +526,22 @@
     "org": "Sudogwonseobubonbu",
     "as": "AS4766 Korea Telecom",
     "query": "118.36.15.104"
+  },
+  "112.169.150.39": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Gangnam-gu",
+    "zip": "062",
+    "lat": 37.4909,
+    "lon": 127.0452,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "112.169.150.39"
   },
   "138.64.212.183": {
     "status": "success",
@@ -687,22 +671,6 @@
     "as": "AS29190 MTS PJSC",
     "query": "95.104.173.104"
   },
-  "45.147.121.0": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KYA",
-    "regionName": "Krasnoyarsk Krai",
-    "city": "Krasnoyarsk",
-    "zip": "660130",
-    "lat": 56.0374,
-    "lon": 92.9314,
-    "timezone": "Asia/Krasnoyarsk",
-    "isp": "Igra-Service LLC",
-    "org": "Igra-Service LLC",
-    "as": "AS33991 Igra-Service LLC",
-    "query": "45.147.121.0"
-  },
   "178.187.150.146": {
     "status": "success",
     "country": "Russia",
@@ -719,6 +687,22 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "178.187.150.146"
   },
+  "45.147.121.0": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KYA",
+    "regionName": "Krasnoyarsk Krai",
+    "city": "Krasnoyarsk",
+    "zip": "660130",
+    "lat": 56.0374,
+    "lon": 92.9314,
+    "timezone": "Asia/Krasnoyarsk",
+    "isp": "Igra-Service LLC",
+    "org": "Igra-Service LLC",
+    "as": "AS33991 Igra-Service LLC",
+    "query": "45.147.121.0"
+  },
   "124.110.21.97": {
     "status": "success",
     "country": "Japan",
@@ -734,6 +718,22 @@
     "org": "ARTERIA Networks Corporation",
     "as": "AS2519 ARTERIA Networks Corporation",
     "query": "124.110.21.97"
+  },
+  "178.155.48.73": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "AMU",
+    "regionName": "Amur Oblast",
+    "city": "Blagoveshchensk",
+    "zip": "675000",
+    "lat": 50.2828,
+    "lon": 127.5299,
+    "timezone": "Asia/Yakutsk",
+    "isp": "MTS PJSC",
+    "org": "MTS Broadband",
+    "as": "AS8359 MTS PJSC",
+    "query": "178.155.48.73"
   },
   "91.132.20.231": {
     "status": "success",
