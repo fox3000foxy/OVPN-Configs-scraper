@@ -207,21 +207,21 @@
     "as": "AS17858 LG POWERCOMM",
     "query": "49.167.12.160"
   },
-  "143.189.43.87": {
+  "119.173.41.197": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "08",
-    "regionName": "Ibaraki",
-    "city": "Mito",
-    "zip": "310-0911",
-    "lat": 36.3502,
-    "lon": 140.4258,
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Komone",
+    "zip": "173-0031",
+    "lat": 35.7458,
+    "lon": 139.6911,
     "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc.",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "143.189.43.87"
+    "isp": "JCOM Co., Ltd.",
+    "org": "JCOM Co., Ltd",
+    "as": "AS9824 JCOM Co., Ltd.",
+    "query": "119.173.41.197"
   },
   "211.112.158.69": {
     "status": "success",
@@ -238,22 +238,6 @@
     "org": "Pubnetplus",
     "as": "AS9770 LG HelloVision Corp.",
     "query": "211.112.158.69"
-  },
-  "119.173.41.197": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Komone",
-    "zip": "173-0031",
-    "lat": 35.7458,
-    "lon": 139.6911,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM Co., Ltd.",
-    "org": "JCOM Co., Ltd",
-    "as": "AS9824 JCOM Co., Ltd.",
-    "query": "119.173.41.197"
   },
   "211.198.67.197": {
     "status": "success",
@@ -463,6 +447,22 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "90.149.251.147"
   },
+  "121.169.172.114": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Seongnam-si",
+    "zip": "135",
+    "lat": 37.377,
+    "lon": 127.1091,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "121.169.172.114"
+  },
   "85.15.105.74": {
     "status": "success",
     "country": "Russia",
@@ -607,21 +607,21 @@
     "as": "AS138384 Rakuten Mobile Network, Inc.",
     "query": "210.157.192.222"
   },
-  "125.137.135.215": {
+  "133.32.132.108": {
     "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "47",
-    "regionName": "Gyeongsangbuk-do",
-    "city": "Sangju",
-    "zip": "372",
-    "lat": 36.4169,
-    "lon": 128.1618,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Korea Telecom",
-    "as": "AS4766 Korea Telecom",
-    "query": "125.137.135.215"
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tokyo",
+    "zip": "151-0071",
+    "lat": 35.6837,
+    "lon": 139.6805,
+    "timezone": "Asia/Tokyo",
+    "isp": "ARTERIA Networks Corporation",
+    "org": "",
+    "as": "AS2519 ARTERIA Networks Corporation",
+    "query": "133.32.132.108"
   },
   "121.190.121.225": {
     "status": "success",
