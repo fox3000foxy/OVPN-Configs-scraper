@@ -143,22 +143,6 @@
     "as": "AS17858 LG POWERCOMM",
     "query": "49.174.10.156"
   },
-  "1.66.34.134": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Osaka",
-    "zip": "530-0041",
-    "lat": 34.6967,
-    "lon": 135.5154,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Docomo, inc.",
-    "org": "NTTDoCoMo",
-    "as": "AS9605 NTT DOCOMO, INC.",
-    "query": "1.66.34.134"
-  },
   "124.212.183.144": {
     "status": "success",
     "country": "Japan",
@@ -175,6 +159,22 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "124.212.183.144"
   },
+  "119.196.49.82": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Gwanak-gu",
+    "zip": "087",
+    "lat": 37.4873,
+    "lon": 126.9227,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Sudogwonseobubonbu",
+    "as": "AS4766 Korea Telecom",
+    "query": "119.196.49.82"
+  },
   "219.100.37.50": {
     "status": "success",
     "country": "Japan",
@@ -190,6 +190,22 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.50"
+  },
+  "1.66.34.134": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Osaka",
+    "zip": "530-0041",
+    "lat": 34.6967,
+    "lon": 135.5154,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Docomo, inc.",
+    "org": "NTTDoCoMo",
+    "as": "AS9605 NTT DOCOMO, INC.",
+    "query": "1.66.34.134"
   },
   "60.141.171.131": {
     "status": "success",
@@ -238,22 +254,6 @@
     "org": "ARTERIA Networks Corporation",
     "as": "AS2519 ARTERIA Networks Corporation",
     "query": "133.32.218.228"
-  },
-  "36.12.239.250": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "11",
-    "regionName": "Saitama",
-    "city": "Nishimachi",
-    "zip": "339-0061",
-    "lat": 35.9597,
-    "lon": 139.6956,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "36.12.239.250"
   },
   "90.189.217.65": {
     "status": "success",
@@ -351,37 +351,37 @@
     "as": "AS4766 Korea Telecom",
     "query": "220.76.63.6"
   },
-  "113.155.82.28": {
+  "49.206.100.95": {
     "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "23",
-    "regionName": "Aichi",
-    "city": "Inazawa",
-    "zip": "495-0021",
-    "lat": 35.2497,
-    "lon": 136.7857,
-    "timezone": "Asia/Tokyo",
-    "isp": "KDDI",
-    "org": "DION (KDDI CORPORATION)",
-    "as": "AS18126 Chubu Telecommunications Company, Inc.",
-    "query": "113.155.82.28"
+    "country": "India",
+    "countryCode": "IN",
+    "region": "TN",
+    "regionName": "Tamil Nadu",
+    "city": "Chennai",
+    "zip": "600017",
+    "lat": 13.0895,
+    "lon": 80.2739,
+    "timezone": "Asia/Kolkata",
+    "isp": "ACT Fibernet",
+    "org": "Beam Telecom Pvt Ltd",
+    "as": "AS24309 Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA",
+    "query": "49.206.100.95"
   },
-  "118.156.120.153": {
+  "59.136.2.10": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Adachi",
-    "zip": "120-0000",
-    "lat": 35.7747,
-    "lon": 139.7989,
+    "region": "11",
+    "regionName": "Saitama",
+    "city": "Negishi",
+    "zip": "336-0021",
+    "lat": 35.8553,
+    "lon": 139.6416,
     "timezone": "Asia/Tokyo",
     "isp": "Kddi Corporation",
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
-    "query": "118.156.120.153"
+    "query": "59.136.2.10"
   },
   "219.63.88.146": {
     "status": "success",
