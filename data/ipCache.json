@@ -463,22 +463,6 @@
     "as": "AS17858 LG POWERCOMM",
     "query": "14.7.11.249"
   },
-  "116.124.32.221": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "45",
-    "regionName": "Jeollabuk-do",
-    "city": "Wanju",
-    "zip": "553",
-    "lat": 35.8343,
-    "lon": 127.0419,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "116.124.32.221"
-  },
   "118.71.57.250": {
     "status": "success",
     "country": "Vietnam",
@@ -494,6 +478,22 @@
     "org": "",
     "as": "AS18403 FPT Telecom Company",
     "query": "118.71.57.250"
+  },
+  "116.124.32.221": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "45",
+    "regionName": "Jeollabuk-do",
+    "city": "Wanju",
+    "zip": "553",
+    "lat": 35.8343,
+    "lon": 127.0419,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "116.124.32.221"
   },
   "219.103.4.84": {
     "status": "success",
@@ -798,5 +798,21 @@
     "org": "Vietnam Internet Network Information Center",
     "as": "AS18403 FPT Telecom Company",
     "query": "1.52.244.85"
+  },
+  "73.11.130.21": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WA",
+    "regionName": "Washington",
+    "city": "Sammamish",
+    "zip": "98074",
+    "lat": 47.626,
+    "lon": -122.0404,
+    "timezone": "America/Los_Angeles",
+    "isp": "Comcast Cable Communications, LLC",
+    "org": "Comcast Cable Communications, LLC",
+    "as": "AS7922 Comcast Cable Communications, LLC",
+    "query": "73.11.130.21"
   }
 }
