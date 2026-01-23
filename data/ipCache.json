@@ -191,22 +191,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "111.238.189.171"
   },
-  "1.66.34.134": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Osaka",
-    "zip": "530-0041",
-    "lat": 34.6967,
-    "lon": 135.5154,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Docomo, inc.",
-    "org": "NTTDoCoMo",
-    "as": "AS9605 NTT DOCOMO, INC.",
-    "query": "1.66.34.134"
-  },
   "220.212.128.195": {
     "status": "success",
     "country": "Japan",
@@ -303,6 +287,22 @@
     "as": "AS20001 Charter Communications Inc",
     "query": "98.149.213.29"
   },
+  "1.66.34.134": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Osaka",
+    "zip": "530-0041",
+    "lat": 34.6967,
+    "lon": 135.5154,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Docomo, inc.",
+    "org": "NTTDoCoMo",
+    "as": "AS9605 NTT DOCOMO, INC.",
+    "query": "1.66.34.134"
+  },
   "92.203.159.128": {
     "status": "success",
     "country": "Japan",
@@ -334,6 +334,22 @@
     "org": "Rostelecom Nets",
     "as": "AS12389 PJSC Rostelecom",
     "query": "5.143.108.24"
+  },
+  "222.101.121.196": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Goyang-si",
+    "zip": "10461",
+    "lat": 37.661,
+    "lon": 126.8324,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "222.101.121.196"
   },
   "91.142.150.3": {
     "status": "success",
@@ -398,22 +414,6 @@
     "org": "Jupiter Telecommunications Co., Ltd.",
     "as": "AS9617 JCOM Co., Ltd.",
     "query": "119.24.254.96"
-  },
-  "59.29.151.252": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "42",
-    "regionName": "Gangwon-do",
-    "city": "Chuncheon",
-    "zip": "242",
-    "lat": 37.8897,
-    "lon": 127.736,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "59.29.151.252"
   },
   "121.169.188.49": {
     "status": "success",
@@ -559,22 +559,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "61.76.11.83"
   },
-  "180.63.225.222": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "35",
-    "regionName": "Yamaguchi",
-    "city": "Yamaguchi",
-    "zip": "753-0061",
-    "lat": 34.1791,
-    "lon": 131.444,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "NTT Communications Corporation",
-    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
-    "query": "180.63.225.222"
-  },
   "221.164.120.204": {
     "status": "success",
     "country": "South Korea",
@@ -590,6 +574,22 @@
     "org": "Korea Telecom",
     "as": "AS4766 Korea Telecom",
     "query": "221.164.120.204"
+  },
+  "180.63.225.222": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "35",
+    "regionName": "Yamaguchi",
+    "city": "Yamaguchi",
+    "zip": "753-0061",
+    "lat": 34.1791,
+    "lon": 131.444,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "NTT Communications Corporation",
+    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
+    "query": "180.63.225.222"
   },
   "211.204.251.153": {
     "status": "success",
@@ -670,22 +670,6 @@
     "org": "Axioma, LLC",
     "as": "AS39785 Axioma, LLC",
     "query": "95.170.177.6"
-  },
-  "176.116.186.64": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KK",
-    "regionName": "Khakasiya Republic",
-    "city": "Abakan",
-    "zip": "655017",
-    "lat": 53.72,
-    "lon": 91.4324,
-    "timezone": "Asia/Krasnoyarsk",
-    "isp": "Orion telecom",
-    "org": "Kristelecom Ltd",
-    "as": "AS50427 Orion Telecom LLC",
-    "query": "176.116.186.64"
   },
   "221.143.113.9": {
     "status": "success",
