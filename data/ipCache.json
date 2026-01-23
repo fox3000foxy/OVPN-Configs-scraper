@@ -575,6 +575,22 @@
     "as": "AS210976 Timeweb, LLP",
     "query": "89.19.216.121"
   },
+  "217.29.181.61": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "UD",
+    "regionName": "Udmurtiya Republic",
+    "city": "Izhevsk",
+    "zip": "426006",
+    "lat": 56.85,
+    "lon": 53.2025,
+    "timezone": "Europe/Samara",
+    "isp": "MARK-ITT",
+    "org": "",
+    "as": "AS3226 OOO \"NI\"",
+    "query": "217.29.181.61"
+  },
   "113.22.160.90": {
     "status": "success",
     "country": "Vietnam",
@@ -590,22 +606,6 @@
     "org": "Vietnam Internet Network Information Center",
     "as": "AS18403 FPT Telecom Company",
     "query": "113.22.160.90"
-  },
-  "112.220.30.58": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Nowon-gu",
-    "zip": "017",
-    "lat": 37.6537,
-    "lon": 127.0717,
-    "timezone": "Asia/Seoul",
-    "isp": "LG DACOM Corporation",
-    "org": "Boranet",
-    "as": "AS3786 LG DACOM Corporation",
-    "query": "112.220.30.58"
   },
   "37.140.60.106": {
     "status": "success",
@@ -654,22 +654,6 @@
     "org": "Dynamic distribution IPs for broadband services",
     "as": "AS12389 PJSC Rostelecom",
     "query": "212.220.228.165"
-  },
-  "95.104.173.104": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "SAR",
-    "regionName": "Saratov Oblast",
-    "city": "Saratov",
-    "zip": "410960",
-    "lat": 51.5391,
-    "lon": 45.9985,
-    "timezone": "Europe/Saratov",
-    "isp": "MTS PJSC",
-    "org": "",
-    "as": "AS29190 MTS PJSC",
-    "query": "95.104.173.104"
   },
   "87.103.208.169": {
     "status": "success",
