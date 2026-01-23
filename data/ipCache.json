@@ -111,22 +111,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "111.238.189.171"
   },
-  "160.13.103.69": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0071",
-    "lat": 35.6837,
-    "lon": 139.6805,
-    "timezone": "Asia/Tokyo",
-    "isp": "Internet Initiative Japan Inc.",
-    "org": "Internet Initiative Japan Inc.",
-    "as": "AS2497 Internet Initiative Japan Inc.",
-    "query": "160.13.103.69"
-  },
   "131.147.142.132": {
     "status": "success",
     "country": "Japan",
@@ -142,6 +126,22 @@
     "org": "Sony Network Communications Inc.",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "131.147.142.132"
+  },
+  "160.13.103.69": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tokyo",
+    "zip": "151-0071",
+    "lat": 35.6837,
+    "lon": 139.6805,
+    "timezone": "Asia/Tokyo",
+    "isp": "Internet Initiative Japan Inc.",
+    "org": "Internet Initiative Japan Inc.",
+    "as": "AS2497 Internet Initiative Japan Inc.",
+    "query": "160.13.103.69"
   },
   "223.207.218.246": {
     "status": "success",
@@ -463,22 +463,6 @@
     "as": "AS17858 LG POWERCOMM",
     "query": "14.7.11.249"
   },
-  "121.106.148.235": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "01",
-    "regionName": "Hokkaido",
-    "city": "Sapporo",
-    "zip": "065-0011",
-    "lat": 43.0763,
-    "lon": 141.3654,
-    "timezone": "Asia/Tokyo",
-    "isp": "DION (KDDI CORPORATION)",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "121.106.148.235"
-  },
   "211.244.223.85": {
     "status": "success",
     "country": "South Korea",
@@ -607,21 +591,21 @@
     "as": "AS210976 Timeweb, LLP",
     "query": "89.19.216.121"
   },
-  "112.220.30.58": {
+  "113.22.160.90": {
     "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Nowon-gu",
-    "zip": "017",
-    "lat": 37.6537,
-    "lon": 127.0717,
-    "timezone": "Asia/Seoul",
-    "isp": "LG DACOM Corporation",
-    "org": "Boranet",
-    "as": "AS3786 LG DACOM Corporation",
-    "query": "112.220.30.58"
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "SG",
+    "regionName": "Ho Chi Minh",
+    "city": "Ho Chi Minh City",
+    "zip": "700000",
+    "lat": 10.822,
+    "lon": 106.6257,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "isp": "FPT Telecom Company",
+    "org": "Vietnam Internet Network Information Center",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "113.22.160.90"
   },
   "37.140.60.106": {
     "status": "success",
@@ -703,22 +687,6 @@
     "as": "AS29190 MTS PJSC",
     "query": "95.104.173.104"
   },
-  "178.187.150.146": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "ALT",
-    "regionName": "Altai Krai",
-    "city": "Novyye Zori",
-    "zip": "659010",
-    "lat": 53.2489,
-    "lon": 83.4185,
-    "timezone": "Asia/Barnaul",
-    "isp": "JSC Rostelecom regional branch \"Siberia\"",
-    "org": "Sibirtelecom Co.",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "178.187.150.146"
-  },
   "45.147.121.0": {
     "status": "success",
     "country": "Russia",
@@ -734,6 +702,22 @@
     "org": "Igra-Service LLC",
     "as": "AS33991 Igra-Service LLC",
     "query": "45.147.121.0"
+  },
+  "178.187.150.146": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "ALT",
+    "regionName": "Altai Krai",
+    "city": "Novyye Zori",
+    "zip": "659010",
+    "lat": 53.2489,
+    "lon": 83.4185,
+    "timezone": "Asia/Barnaul",
+    "isp": "JSC Rostelecom regional branch \"Siberia\"",
+    "org": "Sibirtelecom Co.",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "178.187.150.146"
   },
   "124.110.21.97": {
     "status": "success",
