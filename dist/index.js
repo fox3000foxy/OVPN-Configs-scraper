@@ -55,11 +55,11 @@ async function main() {
     await ensureDir(dataDir);
     await ensureDir(configsDir);
     (0, simple_git_1.default)().pull();
-    const [vpngate, ipspeed] = await Promise.all([(0, VPNGATE_getVpnList_1.getVpnList)(), (0, IPSpeed_getVpnList_1.getVpnList)()]);
+    const [vpngate] = await Promise.all([(0, VPNGATE_getVpnList_1.getVpnList)()]);
     // On fusionne toutes les sources, puis on retire les doublons d'IP
     const mergedServers = [
         ...vpngate.servers.map((s) => ({ ...s, provider: 'VPNGate', url: s.download_url || "data:text/opvn;base64," + s.openvpn_configdata_base64 })),
-        ...ipspeed.map((s) => ({ ...s, provider: 'IPSpeed', url: s.download_url }))
+        //...ipspeed.map((s) => ({ ...s, provider: 'IPSpeed', url: s.download_url }))
     ];
     // Sécurité anti-doublons d'IP
     const seenIps = new Set();
