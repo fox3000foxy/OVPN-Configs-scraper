@@ -223,6 +223,22 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "153.165.156.176"
   },
+  "1.66.34.134": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Osaka",
+    "zip": "530-0041",
+    "lat": 34.6967,
+    "lon": 135.5154,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Docomo, inc.",
+    "org": "NTTDoCoMo",
+    "as": "AS9605 NTT DOCOMO, INC.",
+    "query": "1.66.34.134"
+  },
   "115.22.171.164": {
     "status": "success",
     "country": "South Korea",
@@ -254,22 +270,6 @@
     "org": "",
     "as": "AS12389 PJSC Rostelecom",
     "query": "94.245.172.40"
-  },
-  "1.66.34.134": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Osaka",
-    "zip": "530-0041",
-    "lat": 34.6967,
-    "lon": 135.5154,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Docomo, inc.",
-    "org": "NTTDoCoMo",
-    "as": "AS9605 NTT DOCOMO, INC.",
-    "query": "1.66.34.134"
   },
   "219.100.37.102": {
     "status": "success",
@@ -670,22 +670,6 @@
     "org": "",
     "as": "AS29190 MTS PJSC",
     "query": "95.104.173.104"
-  },
-  "178.187.150.146": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "ALT",
-    "regionName": "Altai Krai",
-    "city": "Novyye Zori",
-    "zip": "659010",
-    "lat": 53.2489,
-    "lon": 83.4185,
-    "timezone": "Asia/Barnaul",
-    "isp": "JSC Rostelecom regional branch \"Siberia\"",
-    "org": "Sibirtelecom Co.",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "178.187.150.146"
   },
   "45.147.121.0": {
     "status": "success",
