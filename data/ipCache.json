@@ -511,6 +511,22 @@
     "as": "AS18135 BTV CO.,LTD.",
     "query": "219.103.4.84"
   },
+  "126.121.99.118": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.121.99.118"
+  },
   "78.100.168.48": {
     "status": "success",
     "country": "Qatar",
@@ -751,20 +767,20 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "77.35.236.24"
   },
-  "92.37.143.59": {
+  "46.37.129.89": {
     "status": "success",
     "country": "Russia",
     "countryCode": "RU",
-    "region": "KHA",
-    "regionName": "Khabarovsk",
-    "city": "Khabarovsk",
-    "zip": "680000",
-    "lat": 48.4817,
-    "lon": 135.083,
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Vladivostok",
+    "zip": "690001",
+    "lat": 43.1068,
+    "lon": 131.8692,
     "timezone": "Asia/Vladivostok",
-    "isp": "Rostelecom networks",
-    "org": "",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "92.37.143.59"
+    "isp": "Krivets Sergey Sergeevich",
+    "org": "Vladlink LLC",
+    "as": "AS42038 Krivets Sergey Sergeevich",
+    "query": "46.37.129.89"
   }
 }
