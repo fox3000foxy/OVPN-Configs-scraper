@@ -799,6 +799,22 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "90.189.56.118"
   },
+  "82.162.3.201": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Spassk-Dalny District",
+    "zip": "692239",
+    "lat": 44.5938,
+    "lon": 132.799,
+    "timezone": "Asia/Vladivostok",
+    "isp": "PRIMORYE",
+    "org": "",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "82.162.3.201"
+  },
   "37.21.215.165": {
     "status": "success",
     "country": "Russia",
