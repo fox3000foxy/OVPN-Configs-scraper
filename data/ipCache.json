@@ -575,22 +575,6 @@
     "as": "AS25591 BCLan LLC",
     "query": "217.175.14.88"
   },
-  "176.109.10.36": {
-    "status": "success",
-    "country": "Ukraine",
-    "countryCode": "UA",
-    "region": "43",
-    "regionName": "Crimea",
-    "city": "Yalta",
-    "zip": "",
-    "lat": 44.5014,
-    "lon": 34.1614,
-    "timezone": "Europe/Simferopol",
-    "isp": "CHAIKOF Ltd.",
-    "org": "PE ChAYKOF",
-    "as": "AS57847 CHAIKOF Ltd.",
-    "query": "176.109.10.36"
-  },
   "91.220.87.58": {
     "status": "success",
     "country": "Russia",
