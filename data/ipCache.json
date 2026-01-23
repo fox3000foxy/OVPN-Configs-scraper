@@ -303,21 +303,21 @@
     "as": "AS10013 FreeBit Co.,Ltd.",
     "query": "124.255.80.220"
   },
-  "92.203.159.128": {
+  "14.132.22.67": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "12",
-    "regionName": "Chiba",
-    "city": "Ichikawa",
-    "zip": "272-0031",
-    "lat": 35.7233,
-    "lon": 139.9132,
+    "region": "23",
+    "regionName": "Aichi",
+    "city": "Komaki",
+    "zip": "485-0041",
+    "lat": 35.2853,
+    "lon": 136.9125,
     "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "92.203.159.128"
+    "isp": "Chubu Telecommunications Company, Inc.",
+    "org": "Chubu Telecommunications Co., Inc.",
+    "as": "AS18126 Chubu Telecommunications Company, Inc.",
+    "query": "14.132.22.67"
   },
   "222.101.121.196": {
     "status": "success",
@@ -463,22 +463,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "106.159.95.188"
   },
-  "133.123.153.65": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "38",
-    "regionName": "Ehime",
-    "city": "Uwajima",
-    "zip": "798-0031",
-    "lat": 33.2225,
-    "lon": 132.5629,
-    "timezone": "Asia/Tokyo",
-    "isp": "STNet, Incorporated",
-    "org": "Foretune Co., Ltd.",
-    "as": "AS7522 STNet, Incorporated",
-    "query": "133.123.153.65"
-  },
   "106.159.145.248": {
     "status": "success",
     "country": "Japan",
@@ -542,6 +526,22 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "116.124.32.221"
+  },
+  "58.70.127.223": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Osaka",
+    "zip": "530-0041",
+    "lat": 34.6967,
+    "lon": 135.5154,
+    "timezone": "Asia/Tokyo",
+    "isp": "OPTAGE Inc.",
+    "org": "OPTAGE Inc.",
+    "as": "AS17511 OPTAGE Inc.",
+    "query": "58.70.127.223"
   },
   "126.121.99.118": {
     "status": "success",
@@ -687,22 +687,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "221.143.113.9"
   },
-  "114.201.13.246": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Dongjak-gu",
-    "zip": "069",
-    "lat": 37.5003,
-    "lon": 126.9565,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "114.201.13.246"
-  },
   "95.191.23.109": {
     "status": "success",
     "country": "Russia",
@@ -734,6 +718,22 @@
     "org": "Dynamic distribution IPs for broadband services",
     "as": "AS12389 PJSC Rostelecom",
     "query": "31.163.35.222"
+  },
+  "46.42.148.96": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Vladivostok",
+    "zip": "690001",
+    "lat": 43.1068,
+    "lon": 131.8692,
+    "timezone": "Asia/Vladivostok",
+    "isp": "JSC \"VimpelCom\"",
+    "org": "",
+    "as": "AS16345 PJSC \"Vimpelcom\"",
+    "query": "46.42.148.96"
   },
   "73.11.130.21": {
     "status": "success",
@@ -830,5 +830,21 @@
     "org": "Rostelecom networks",
     "as": "AS12389 PJSC Rostelecom",
     "query": "109.236.237.143"
+  },
+  "178.34.137.197": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KYA",
+    "regionName": "Krasnoyarsk Krai",
+    "city": "Krasnoyarsk",
+    "zip": "660049",
+    "lat": 56.0374,
+    "lon": 92.9314,
+    "timezone": "Asia/Krasnoyarsk",
+    "isp": "Rostelecom Nets",
+    "org": "JSC Rostelecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "178.34.137.197"
   }
 }
