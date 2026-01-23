@@ -495,22 +495,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "106.159.145.248"
   },
-  "217.151.226.251": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "SVE",
-    "regionName": "Sverdlovsk Oblast",
-    "city": "Yekaterinburg",
-    "zip": "620028",
-    "lat": 56.8577,
-    "lon": 60.6113,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "ru-svyazinform",
-    "org": "",
-    "as": "AS48642 Joint stock company \"For\"",
-    "query": "217.151.226.251"
-  },
   "14.7.11.249": {
     "status": "success",
     "country": "South Korea",
@@ -526,6 +510,22 @@
     "org": "DACOM-PUBNETPLUS",
     "as": "AS17858 LG POWERCOMM",
     "query": "14.7.11.249"
+  },
+  "217.151.226.251": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "SVE",
+    "regionName": "Sverdlovsk Oblast",
+    "city": "Yekaterinburg",
+    "zip": "620028",
+    "lat": 56.8577,
+    "lon": 60.6113,
+    "timezone": "Asia/Yekaterinburg",
+    "isp": "ru-svyazinform",
+    "org": "",
+    "as": "AS48642 Joint stock company \"For\"",
+    "query": "217.151.226.251"
   },
   "116.124.32.221": {
     "status": "success",
