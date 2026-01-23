@@ -463,6 +463,22 @@
     "as": "AS7522 STNet, Incorporated",
     "query": "133.123.153.65"
   },
+  "106.159.145.248": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "40",
+    "regionName": "Fukuoka",
+    "city": "Tenjin",
+    "zip": "810-0001",
+    "lat": 33.5959,
+    "lon": 130.4008,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "106.159.145.248"
+  },
   "14.7.11.249": {
     "status": "success",
     "country": "South Korea",
@@ -510,22 +526,6 @@
     "org": "SOFTBANK Corp",
     "as": "AS17676 SoftBank Corp.",
     "query": "126.121.99.118"
-  },
-  "78.100.168.48": {
-    "status": "success",
-    "country": "Qatar",
-    "countryCode": "QA",
-    "region": "DA",
-    "regionName": "Baladīyat ad Dawḩah",
-    "city": "Doha",
-    "zip": "",
-    "lat": 25.2925,
-    "lon": 51.5321,
-    "timezone": "Asia/Qatar",
-    "isp": "Ooredoo-MBB",
-    "org": "",
-    "as": "AS8781 Ooredoo Q.S.C.",
-    "query": "78.100.168.48"
   },
   "103.152.178.62": {
     "status": "success",
@@ -655,22 +655,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "59.4.220.59"
   },
-  "114.201.13.246": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Dongjak-gu",
-    "zip": "069",
-    "lat": 37.5003,
-    "lon": 126.9565,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "114.201.13.246"
-  },
   "221.143.113.9": {
     "status": "success",
     "country": "South Korea",
@@ -686,6 +670,22 @@
     "org": "SK Broadband Co Ltd",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "221.143.113.9"
+  },
+  "114.201.13.246": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Dongjak-gu",
+    "zip": "069",
+    "lat": 37.5003,
+    "lon": 126.9565,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "114.201.13.246"
   },
   "95.191.23.109": {
     "status": "success",
@@ -767,6 +767,22 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "77.35.236.24"
   },
+  "95.189.74.247": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "ZAB",
+    "regionName": "Transbaikal Territory",
+    "city": "Chita",
+    "zip": "672000",
+    "lat": 52.0339,
+    "lon": 113.5014,
+    "timezone": "Asia/Chita",
+    "isp": "PJSC Rostelecom",
+    "org": "OJSC Sibirtelecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "95.189.74.247"
+  },
   "46.37.129.89": {
     "status": "success",
     "country": "Russia",
@@ -814,21 +830,5 @@
     "org": "Rostelecom networks",
     "as": "AS12389 PJSC Rostelecom",
     "query": "109.236.237.143"
-  },
-  "46.42.148.96": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PRI",
-    "regionName": "Primorye",
-    "city": "Vladivostok",
-    "zip": "690001",
-    "lat": 43.1068,
-    "lon": 131.8692,
-    "timezone": "Asia/Vladivostok",
-    "isp": "JSC \"VimpelCom\"",
-    "org": "",
-    "as": "AS16345 PJSC \"Vimpelcom\"",
-    "query": "46.42.148.96"
   }
 }
