@@ -61,11 +61,11 @@ async function main() {
   await ensureDir(configsDir);
 
   simpleGit().pull();
-  const [vpngate] = await Promise.all([VPNGate()]);
+  const [vpngate, ipspeed] = await Promise.all([VPNGate(), IPSpeed()]);
   // On fusionne toutes les sources, puis on retire les doublons d'IP
   const mergedServers = [
     ...vpngate.servers.map((s: any) => ({ ...s, provider: 'VPNGate', url: s.download_url || "data:text/opvn;base64," + s.openvpn_configdata_base64 })),
-    //...ipspeed.map((s: any) => ({ ...s, provider: 'IPSpeed', url: s.download_url }))
+    ...ipspeed.map((s: any) => ({ ...s, provider: 'IPSpeed', url: s.download_url }))
   ];
   // Sécurité anti-doublons d'IP
   const seenIps = new Set();
@@ -154,7 +154,7 @@ async function loop() {
       process.env.GIT_COMMITTER_NAME = "openvpn-configs-bot"
       process.env.GIT_COMMITTER_EMAIL = "openvpn-configs-bot@local"
       // Git add, commit, push
-      await git.add('./*');
+      await git.add('./data');
       const date = new Date().toLocaleString('en-GB', { timeZone: 'GMT', hour12: false });
       await git.commit(`Update ${date} GMT`);
       await git.push();

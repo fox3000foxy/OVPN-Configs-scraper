@@ -11,9 +11,10 @@ const url = "https://ipspeed.info/freevpn_openvpn.php?language=en&page=";
 
 async function scrapPage(page: string): Promise<string> {
     const response = await fetch(url + page);
+    const text = await response.text();
     if (!response.ok)
-        throw new Error("Network error");
-    return response.text();
+        throw new Error("Network error"+ (response.statusText ? ": " + response.statusText : ""));
+    return text;
 }
 
 function parsePage(html: string): IPSpeedServer[] {

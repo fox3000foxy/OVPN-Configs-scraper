@@ -1,3 +1,4 @@
+import { error } from "console";
 import http from "http";
 
 interface VpnServer {
@@ -21,7 +22,8 @@ export function getVpnList(): Promise<VpnListResult> {
 
             res.on("end", () => {
                 if (res.statusCode !== 200) {
-                    reject({ servers: [], countries: {} });
+                    // reject({ servers: [], countries: {} });
+                    reject(res.statusMessage || "Failed to fetch VPN list from VPNGate API");
                 } else {
                     try {
                         const servers: VpnServer[] = [];
@@ -71,7 +73,8 @@ export function getVpnList(): Promise<VpnListResult> {
 
                         resolve(returnData);
                     } catch (error) {
-                        reject({ servers: [], countries: {} });
+                        reject(error);
+                        // reject({ servers: [], countries: {} });
                     }
                 }
             });
@@ -80,7 +83,8 @@ export function getVpnList(): Promise<VpnListResult> {
         console.log("Fetching VPN list from VPNGate API");
 
         req.on("error", () => {
-            reject({ servers: [], countries: {} });
+            reject(error);
+            // reject({ servers: [], countries: {} });
         });
 
         req.end();
