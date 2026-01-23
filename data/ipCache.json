@@ -95,22 +95,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.208"
   },
-  "124.255.80.220": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "23",
-    "regionName": "Aichi",
-    "city": "Nagoya",
-    "zip": "461-0001",
-    "lat": 35.1796,
-    "lon": 136.9166,
-    "timezone": "Asia/Tokyo",
-    "isp": "FreeBit Co., Ltd.",
-    "org": "FreeBit Co., Ltd.",
-    "as": "AS10013 FreeBit Co.,Ltd.",
-    "query": "124.255.80.220"
-  },
   "111.238.189.171": {
     "status": "success",
     "country": "Japan",
@@ -207,22 +191,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "211.104.232.96"
   },
-  "222.109.72.106": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Jungnang-gu",
-    "zip": "021",
-    "lat": 37.5859,
-    "lon": 127.1029,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "222.109.72.106"
-  },
   "110.46.158.118": {
     "status": "success",
     "country": "South Korea",
@@ -238,6 +206,22 @@
     "org": "HVHaeundae",
     "as": "AS9697 LG HelloVision Corp.",
     "query": "110.46.158.118"
+  },
+  "222.109.72.106": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Jungnang-gu",
+    "zip": "021",
+    "lat": 37.5859,
+    "lon": 127.1029,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "222.109.72.106"
   },
   "153.165.156.176": {
     "status": "success",
@@ -383,6 +367,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "59.22.40.113"
   },
+  "119.24.254.96": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "28",
+    "regionName": "Hyōgo",
+    "city": "Kobe",
+    "zip": "650-0011",
+    "lat": 34.6922,
+    "lon": 135.1816,
+    "timezone": "Asia/Tokyo",
+    "isp": "HCT",
+    "org": "Jupiter Telecommunications Co., Ltd.",
+    "as": "AS9617 JCOM Co., Ltd.",
+    "query": "119.24.254.96"
+  },
   "60.127.238.103": {
     "status": "success",
     "country": "Japan",
@@ -462,22 +462,6 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "121.106.148.235"
-  },
-  "115.22.254.150": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "48",
-    "regionName": "Gyeongsangnam-do",
-    "city": "Hamyang-gun",
-    "zip": "500",
-    "lat": 35.7182,
-    "lon": 127.6803,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "115.22.254.150"
   },
   "211.244.223.85": {
     "status": "success",
@@ -575,6 +559,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "118.36.15.104"
   },
+  "138.64.212.183": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "28",
+    "regionName": "Hyōgo",
+    "city": "Nishinomiya",
+    "zip": "662-0931",
+    "lat": 34.7221,
+    "lon": 135.3254,
+    "timezone": "Asia/Tokyo",
+    "isp": "ASAHI Net, Inc.",
+    "org": "ASAHI",
+    "as": "AS4685 Asahi Net",
+    "query": "138.64.212.183"
+  },
   "89.19.216.121": {
     "status": "success",
     "country": "The Netherlands",
@@ -655,6 +655,22 @@
     "as": "AS7922 Comcast Cable Communications, LLC",
     "query": "98.42.235.77"
   },
+  "90.189.249.23": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "NVS",
+    "regionName": "Novosibirsk Oblast",
+    "city": "Novosibirsk",
+    "zip": "630000",
+    "lat": 55.0226,
+    "lon": 82.9317,
+    "timezone": "Asia/Novosibirsk",
+    "isp": "Rostelecom networks",
+    "org": "OJSC Sibirtelecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "90.189.249.23"
+  },
   "212.220.228.165": {
     "status": "success",
     "country": "Russia",
@@ -734,6 +750,22 @@
     "org": "ARTERIA Networks Corporation",
     "as": "AS2519 ARTERIA Networks Corporation",
     "query": "124.110.21.97"
+  },
+  "91.132.20.231": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KYA",
+    "regionName": "Krasnoyarsk Krai",
+    "city": "Krasnoyarsk",
+    "zip": "660049",
+    "lat": 56.0374,
+    "lon": 92.9314,
+    "timezone": "Asia/Krasnoyarsk",
+    "isp": "NETNAME",
+    "org": "",
+    "as": "AS33991 Igra-Service LLC",
+    "query": "91.132.20.231"
   },
   "120.51.69.68": {
     "status": "success",
