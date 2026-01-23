@@ -159,37 +159,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "183.99.115.65"
   },
-  "101.128.133.100": {
+  "223.132.208.135": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0071",
-    "lat": 35.6837,
-    "lon": 139.6805,
+    "region": "21",
+    "regionName": "Gifu",
+    "city": "Gifu",
+    "zip": "500-8821",
+    "lat": 35.4256,
+    "lon": 136.7614,
     "timezone": "Asia/Tokyo",
-    "isp": "Internet Initiative Japan Inc.",
-    "org": "Internet Initiative Japan Inc.",
-    "as": "AS2497 Internet Initiative Japan Inc.",
-    "query": "101.128.133.100"
-  },
-  "49.167.12.160": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "44",
-    "regionName": "Chungcheongnam-do",
-    "city": "Tangjin",
-    "zip": "317",
-    "lat": 36.8951,
-    "lon": 126.625,
-    "timezone": "Asia/Seoul",
-    "isp": "LG POWERCOMM",
-    "org": "LG POWERCOMM",
-    "as": "AS17858 LG POWERCOMM",
-    "query": "49.167.12.160"
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "223.132.208.135"
   },
   "122.103.113.207": {
     "status": "success",
@@ -206,6 +190,22 @@
     "org": "ARTERIA Networks Corporation",
     "as": "AS2519 ARTERIA Networks Corporation",
     "query": "122.103.113.207"
+  },
+  "49.167.12.160": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "44",
+    "regionName": "Chungcheongnam-do",
+    "city": "Tangjin",
+    "zip": "317",
+    "lat": 36.8951,
+    "lon": 126.625,
+    "timezone": "Asia/Seoul",
+    "isp": "LG POWERCOMM",
+    "org": "LG POWERCOMM",
+    "as": "AS17858 LG POWERCOMM",
+    "query": "49.167.12.160"
   },
   "143.189.43.87": {
     "status": "success",
@@ -399,6 +399,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "211.184.24.38"
   },
+  "36.12.239.250": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "11",
+    "regionName": "Saitama",
+    "city": "Nishimachi",
+    "zip": "339-0061",
+    "lat": 35.9597,
+    "lon": 139.6956,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "36.12.239.250"
+  },
   "153.226.15.92": {
     "status": "success",
     "country": "Japan",
@@ -431,21 +447,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "14.51.87.179"
   },
-  "125.4.54.226": {
+  "90.149.251.147": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Osaka",
-    "zip": "530-0041",
-    "lat": 34.6967,
-    "lon": 135.5154,
+    "region": "01",
+    "regionName": "Hokkaido",
+    "city": "Sapporo",
+    "zip": "065-0011",
+    "lat": 43.0763,
+    "lon": 141.3654,
     "timezone": "Asia/Tokyo",
-    "isp": "SUTV",
-    "org": "Jupiter Telecommunications Co., Ltd.",
-    "as": "AS9617 JCOM Co., Ltd.",
-    "query": "125.4.54.226"
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "90.149.251.147"
   },
   "85.15.105.74": {
     "status": "success",
@@ -527,22 +543,6 @@
     "as": "AS9617 JCOM Co., Ltd.",
     "query": "219.115.166.66"
   },
-  "42.200.252.158": {
-    "status": "success",
-    "country": "Hong Kong",
-    "countryCode": "HK",
-    "region": "NST",
-    "regionName": "Sha Tin",
-    "city": "Tai Wai",
-    "zip": "",
-    "lat": 22.3729,
-    "lon": 114.179,
-    "timezone": "Asia/Hong_Kong",
-    "isp": "PCCW IMSBiz",
-    "org": "Hong Kong Telecommunications (HKT) Limited",
-    "as": "AS4760 HKT Limited",
-    "query": "42.200.252.158"
-  },
   "116.222.29.22": {
     "status": "success",
     "country": "Japan",
@@ -590,6 +590,22 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "221.164.117.21"
+  },
+  "210.157.192.222": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "12",
+    "regionName": "Chiba",
+    "city": "Narashino",
+    "zip": "275-0013",
+    "lat": 35.6818,
+    "lon": 140.042,
+    "timezone": "Asia/Tokyo",
+    "isp": "Rakuten Mobile, Inc.",
+    "org": "RMN",
+    "as": "AS138384 Rakuten Mobile Network, Inc.",
+    "query": "210.157.192.222"
   },
   "125.137.135.215": {
     "status": "success",
