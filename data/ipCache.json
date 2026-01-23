@@ -175,6 +175,22 @@
     "as": "AS7552 Viettel Group",
     "query": "115.78.10.208"
   },
+  "110.46.158.118": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Haeundae-gu",
+    "zip": "480",
+    "lat": 35.1692,
+    "lon": 129.1738,
+    "timezone": "Asia/Seoul",
+    "isp": "CJ Hello Co",
+    "org": "HVHaeundae",
+    "as": "AS9697 LG HelloVision Corp.",
+    "query": "110.46.158.118"
+  },
   "222.109.72.106": {
     "status": "success",
     "country": "South Korea",
@@ -191,21 +207,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "222.109.72.106"
   },
-  "110.46.158.118": {
+  "153.165.156.176": {
     "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "26",
-    "regionName": "Busan",
-    "city": "Haeundae-gu",
-    "zip": "480",
-    "lat": 35.1692,
-    "lon": 129.1738,
-    "timezone": "Asia/Seoul",
-    "isp": "CJ Hello Co",
-    "org": "HVHaeundae",
-    "as": "AS9697 LG HelloVision Corp.",
-    "query": "110.46.158.118"
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Yokohama",
+    "zip": "231-0841",
+    "lat": 35.4337,
+    "lon": 139.6499,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "Open Computer Network",
+    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
+    "query": "153.165.156.176"
   },
   "115.22.171.164": {
     "status": "success",
@@ -399,22 +415,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "59.29.151.252"
   },
-  "210.100.238.121": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Suwon",
-    "zip": "163",
-    "lat": 37.2905,
-    "lon": 126.9877,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "210.100.238.121"
-  },
   "217.151.226.251": {
     "status": "success",
     "country": "Russia",
@@ -463,6 +463,22 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "121.106.148.235"
   },
+  "115.22.254.150": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "48",
+    "regionName": "Gyeongsangnam-do",
+    "city": "Hamyang-gun",
+    "zip": "500",
+    "lat": 35.7182,
+    "lon": 127.6803,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "115.22.254.150"
+  },
   "211.244.223.85": {
     "status": "success",
     "country": "South Korea",
@@ -495,37 +511,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "59.9.4.63"
   },
-  "27.89.119.37": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Osaka",
-    "zip": "530-0041",
-    "lat": 34.6967,
-    "lon": 135.5154,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "27.89.119.37"
-  },
-  "115.22.254.150": {
+  "121.171.190.235": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
-    "region": "48",
-    "regionName": "Gyeongsangnam-do",
-    "city": "Hamyang-gun",
-    "zip": "500",
-    "lat": 35.7182,
-    "lon": 127.6803,
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Yeongdeungpo-gu",
+    "zip": "072",
+    "lat": 37.5247,
+    "lon": 126.9133,
     "timezone": "Asia/Seoul",
     "isp": "Korea Telecom",
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
-    "query": "115.22.254.150"
+    "query": "121.171.190.235"
   },
   "126.89.208.170": {
     "status": "success",
@@ -543,6 +543,22 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.89.208.170"
   },
+  "118.36.15.104": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Anyang-si",
+    "zip": "140",
+    "lat": 37.3907,
+    "lon": 126.9167,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Sudogwonseobubonbu",
+    "as": "AS4766 Korea Telecom",
+    "query": "118.36.15.104"
+  },
   "89.19.216.121": {
     "status": "success",
     "country": "The Netherlands",
@@ -559,22 +575,6 @@
     "as": "AS210976 Timeweb, LLP",
     "query": "89.19.216.121"
   },
-  "217.29.181.61": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "UD",
-    "regionName": "Udmurtiya Republic",
-    "city": "Izhevsk",
-    "zip": "426006",
-    "lat": 56.85,
-    "lon": 53.2025,
-    "timezone": "Europe/Samara",
-    "isp": "MARK-ITT",
-    "org": "",
-    "as": "AS3226 OOO \"NI\"",
-    "query": "217.29.181.61"
-  },
   "113.22.160.90": {
     "status": "success",
     "country": "Vietnam",
@@ -590,6 +590,22 @@
     "org": "Vietnam Internet Network Information Center",
     "as": "AS18403 FPT Telecom Company",
     "query": "113.22.160.90"
+  },
+  "112.220.30.58": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Nowon-gu",
+    "zip": "017",
+    "lat": 37.6537,
+    "lon": 127.0717,
+    "timezone": "Asia/Seoul",
+    "isp": "LG DACOM Corporation",
+    "org": "Boranet",
+    "as": "AS3786 LG DACOM Corporation",
+    "query": "112.220.30.58"
   },
   "37.140.60.106": {
     "status": "success",
@@ -638,6 +654,22 @@
     "org": "Dynamic distribution IPs for broadband services",
     "as": "AS12389 PJSC Rostelecom",
     "query": "212.220.228.165"
+  },
+  "95.104.173.104": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "SAR",
+    "regionName": "Saratov Oblast",
+    "city": "Saratov",
+    "zip": "410960",
+    "lat": 51.5391,
+    "lon": 45.9985,
+    "timezone": "Europe/Saratov",
+    "isp": "MTS PJSC",
+    "org": "",
+    "as": "AS29190 MTS PJSC",
+    "query": "95.104.173.104"
   },
   "87.103.208.169": {
     "status": "success",
