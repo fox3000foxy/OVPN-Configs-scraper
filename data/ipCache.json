@@ -367,22 +367,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "211.44.188.45"
   },
-  "114.149.100.229": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "23",
-    "regionName": "Aichi",
-    "city": "Nagoya",
-    "zip": "462-0841",
-    "lat": 35.1926,
-    "lon": 136.906,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "Open Computer Network",
-    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
-    "query": "114.149.100.229"
-  },
   "211.195.19.58": {
     "status": "success",
     "country": "South Korea",
@@ -510,6 +494,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "121.181.197.225"
+  },
+  "126.47.153.253": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "08",
+    "regionName": "Ibaraki",
+    "city": "Yūki",
+    "zip": "307-0001",
+    "lat": 36.3,
+    "lon": 139.883,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.47.153.253"
   },
   "42.119.57.49": {
     "status": "success",
@@ -639,22 +639,6 @@
     "as": "AS39812 Closed Joint Stock Company Radiotelephone",
     "query": "130.255.48.81"
   },
-  "82.162.3.201": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PRI",
-    "regionName": "Primorye",
-    "city": "Spassk-Dalny District",
-    "zip": "692239",
-    "lat": 44.5938,
-    "lon": 132.799,
-    "timezone": "Asia/Vladivostok",
-    "isp": "PRIMORYE",
-    "org": "",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "82.162.3.201"
-  },
   "188.0.207.53": {
     "status": "success",
     "country": "Russia",
@@ -718,5 +702,37 @@
     "org": "",
     "as": "AS12389 PJSC Rostelecom",
     "query": "77.34.95.220"
+  },
+  "94.245.163.96": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "SA",
+    "regionName": "Sakha",
+    "city": "Yakutsk",
+    "zip": "677000",
+    "lat": 62.0313,
+    "lon": 129.7325,
+    "timezone": "Asia/Yakutsk",
+    "isp": "Sakhatelecom",
+    "org": "",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "94.245.163.96"
+  },
+  "178.165.37.254": {
+    "status": "success",
+    "country": "Ukraine",
+    "countryCode": "UA",
+    "region": "63",
+    "regionName": "Kharkivs’ka Oblast’",
+    "city": "Kharkiv",
+    "zip": "61000",
+    "lat": 49.982,
+    "lon": 36.2566,
+    "timezone": "Europe/Kyiv",
+    "isp": "Maxnet Ltd",
+    "org": "Maxnet Ltd.",
+    "as": "AS34700 MAXNET TELECOM, LTD",
+    "query": "178.165.37.254"
   }
 }
