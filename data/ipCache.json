@@ -671,6 +671,22 @@
     "as": "AS17858 LG POWERCOMM",
     "query": "182.222.218.16"
   },
+  "118.70.145.222": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "HN",
+    "regionName": "Hanoi",
+    "city": "Hanoi",
+    "zip": "100000",
+    "lat": 21.0184,
+    "lon": 105.8461,
+    "timezone": "Asia/Bangkok",
+    "isp": "Vietnam Internet Network Information Center",
+    "org": "",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "118.70.145.222"
+  },
   "211.244.251.223": {
     "status": "success",
     "country": "South Korea",
