@@ -463,22 +463,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "14.51.87.179"
   },
-  "212.104.98.243": {
-    "status": "success",
-    "country": "Bulgaria",
-    "countryCode": "BG",
-    "region": "18",
-    "regionName": "Ruse",
-    "city": "Rousse",
-    "zip": "7000",
-    "lat": 43.8627,
-    "lon": 25.9648,
-    "timezone": "Europe/Sofia",
-    "isp": "A1 Bulgaria EAD",
-    "org": "A1 Bulgaria EAD",
-    "as": "AS13124 A1 Bulgaria EAD",
-    "query": "212.104.98.243"
-  },
   "118.45.163.118": {
     "status": "success",
     "country": "South Korea",
@@ -622,6 +606,22 @@
     "org": "OJSC Sibirtelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "92.126.118.159"
+  },
+  "221.164.117.21": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Nam-gu",
+    "zip": "485",
+    "lat": 35.1271,
+    "lon": 129.1008,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "221.164.117.21"
   },
   "125.137.135.215": {
     "status": "success",
