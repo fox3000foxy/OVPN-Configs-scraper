@@ -207,22 +207,6 @@
     "as": "AS2519 ARTERIA Networks Corporation",
     "query": "122.103.113.207"
   },
-  "211.112.158.69": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Yongsan-dong",
-    "zip": "04371",
-    "lat": 37.5379,
-    "lon": 126.97,
-    "timezone": "Asia/Seoul",
-    "isp": "LG HelloVision Corp.",
-    "org": "Pubnetplus",
-    "as": "AS9770 LG HelloVision Corp.",
-    "query": "211.112.158.69"
-  },
   "143.189.43.87": {
     "status": "success",
     "country": "Japan",
@@ -238,6 +222,22 @@
     "org": "Sony Network Communications Inc.",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "143.189.43.87"
+  },
+  "211.112.158.69": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Yongsan-dong",
+    "zip": "04371",
+    "lat": 37.5379,
+    "lon": 126.97,
+    "timezone": "Asia/Seoul",
+    "isp": "LG HelloVision Corp.",
+    "org": "Pubnetplus",
+    "as": "AS9770 LG HelloVision Corp.",
+    "query": "211.112.158.69"
   },
   "119.173.41.197": {
     "status": "success",
@@ -366,22 +366,6 @@
     "org": "Dlive",
     "as": "AS10036 DLIVE",
     "query": "182.172.122.57"
-  },
-  "210.194.10.105": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Yokosuka",
-    "zip": "238-0031",
-    "lat": 35.2672,
-    "lon": 139.6386,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM Co., Ltd.",
-    "org": "Jupiter Telecommunication Co. Ltd",
-    "as": "AS9824 JCOM Co., Ltd.",
-    "query": "210.194.10.105"
   },
   "14.132.22.67": {
     "status": "success",
@@ -639,21 +623,37 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.190.121.225"
   },
-  "188.232.169.10": {
+  "123.109.218.207": {
     "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "OMS",
-    "regionName": "Omsk Oblast",
-    "city": "Omsk",
-    "zip": "644000",
-    "lat": 54.9896,
-    "lon": 73.3729,
-    "timezone": "Asia/Omsk",
-    "isp": "CJSC \"ER-Telecom Holding\" Omsk branch",
-    "org": "JSC \"ER-Telecom Holding\" Omsk Branch",
-    "as": "AS41843 JSC ER-Telecom Holding",
-    "query": "188.232.169.10"
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Seoul",
+    "zip": "04524",
+    "lat": 37.5658,
+    "lon": 126.978,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "TBROAD JongnoJungguSeodaemunGangseo",
+    "as": "AS38095 SK Broadband Co Ltd",
+    "query": "123.109.218.207"
+  },
+  "182.222.218.16": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Namyangju",
+    "zip": "120",
+    "lat": 37.727,
+    "lon": 127.1963,
+    "timezone": "Asia/Seoul",
+    "isp": "LG POWERCOMM",
+    "org": "LG POWERCOMM",
+    "as": "AS17858 LG POWERCOMM",
+    "query": "182.222.218.16"
   },
   "211.244.251.223": {
     "status": "success",
@@ -670,22 +670,6 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "211.244.251.223"
-  },
-  "202.148.240.143": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "12",
-    "regionName": "Chiba",
-    "city": "Ichikawa",
-    "zip": "272-0031",
-    "lat": 35.7233,
-    "lon": 139.9132,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM",
-    "org": "Jupiter Telecommunications Co., Ltd.",
-    "as": "AS23788 JCOM Co., Ltd.",
-    "query": "202.148.240.143"
   },
   "112.218.21.132": {
     "status": "success",
@@ -734,6 +718,22 @@
     "org": "",
     "as": "AS205515 Telecommunication Systems LLC",
     "query": "77.123.206.164"
+  },
+  "202.148.240.143": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "12",
+    "regionName": "Chiba",
+    "city": "Ichikawa",
+    "zip": "272-0031",
+    "lat": 35.7233,
+    "lon": 139.9132,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM",
+    "org": "Jupiter Telecommunications Co., Ltd.",
+    "as": "AS23788 JCOM Co., Ltd.",
+    "query": "202.148.240.143"
   },
   "90.189.56.118": {
     "status": "success",
