@@ -7,7 +7,6 @@ const fs_1 = __importDefault(require("fs"));
 const node_fetch_1 = __importDefault(require("node-fetch"));
 const path_1 = __importDefault(require("path"));
 const simple_git_1 = __importDefault(require("simple-git"));
-const IPSpeed_getVpnList_1 = require("./api/IPSpeed-getVpnList");
 const VPNGATE_getVpnList_1 = require("./api/VPNGATE-getVpnList");
 const getIPInfo_1 = require("./api/getIPInfo");
 // --- Ajout de la fonction convertOvpnConfig ---
@@ -59,7 +58,7 @@ async function main() {
     // On fusionne toutes les sources, puis on retire les doublons d'IP
     const mergedServers = [
         ...vpngate.servers.map((s) => ({ ...s, provider: 'VPNGate', url: s.download_url || "data:text/opvn;base64," + s.openvpn_configdata_base64 })),
-        //...ipspeed.map((s) => ({ ...s, provider: 'IPSpeed', url: s.download_url }))
+        //...ipspeed.map((s: any) => ({ ...s, provider: 'IPSpeed', url: s.download_url }))
     ];
     // Sécurité anti-doublons d'IP
     const seenIps = new Set();

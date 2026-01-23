@@ -61,11 +61,11 @@ async function main() {
   await ensureDir(configsDir);
 
   simpleGit().pull();
-  const [vpngate, ipspeed] = await Promise.all([VPNGate(), IPSpeed()]);
+  const [vpngate] = await Promise.all([VPNGate()]);
   // On fusionne toutes les sources, puis on retire les doublons d'IP
   const mergedServers = [
     ...vpngate.servers.map((s: any) => ({ ...s, provider: 'VPNGate', url: s.download_url || "data:text/opvn;base64," + s.openvpn_configdata_base64 })),
-    ...ipspeed.map((s: any) => ({ ...s, provider: 'IPSpeed', url: s.download_url }))
+    //...ipspeed.map((s: any) => ({ ...s, provider: 'IPSpeed', url: s.download_url }))
   ];
   // Sécurité anti-doublons d'IP
   const seenIps = new Set();
