@@ -255,6 +255,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "115.22.171.164"
   },
+  "175.209.13.17": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Gangdong-gu",
+    "zip": "053",
+    "lat": 37.536,
+    "lon": 127.1426,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "175.209.13.17"
+  },
   "94.245.172.40": {
     "status": "success",
     "country": "Russia",
@@ -303,6 +319,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.50"
   },
+  "91.142.150.3": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "AMU",
+    "regionName": "Amur Oblast",
+    "city": "Blagoveshchensk",
+    "zip": "675000",
+    "lat": 50.266,
+    "lon": 127.536,
+    "timezone": "Asia/Yakutsk",
+    "isp": "LLC Teledyne Systems Limited",
+    "org": "Teledyne Systems Limited",
+    "as": "AS41789 LLC Teledyne Systems Limited",
+    "query": "91.142.150.3"
+  },
   "5.143.108.24": {
     "status": "success",
     "country": "Russia",
@@ -334,22 +366,6 @@
     "org": "Chubu Telecommunications Co., Inc.",
     "as": "AS18126 Chubu Telecommunications Company, Inc.",
     "query": "14.132.22.67"
-  },
-  "91.142.150.3": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "AMU",
-    "regionName": "Amur Oblast",
-    "city": "Blagoveshchensk",
-    "zip": "675000",
-    "lat": 50.266,
-    "lon": 127.536,
-    "timezone": "Asia/Yakutsk",
-    "isp": "LLC Teledyne Systems Limited",
-    "org": "Teledyne Systems Limited",
-    "as": "AS41789 LLC Teledyne Systems Limited",
-    "query": "91.142.150.3"
   },
   "59.22.40.113": {
     "status": "success",
@@ -431,6 +447,22 @@
     "as": "AS48642 Joint stock company \"For\"",
     "query": "217.151.226.251"
   },
+  "115.163.146.186": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "12",
+    "regionName": "Chiba",
+    "city": "Matsudo",
+    "zip": "271-0071",
+    "lat": 35.7876,
+    "lon": 139.9065,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc.",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "115.163.146.186"
+  },
   "211.244.223.85": {
     "status": "success",
     "country": "South Korea",
@@ -462,22 +494,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "59.9.4.63"
-  },
-  "121.171.190.235": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Yeongdeungpo-gu",
-    "zip": "072",
-    "lat": 37.5247,
-    "lon": 126.9133,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "121.171.190.235"
   },
   "153.205.125.108": {
     "status": "success",
@@ -542,38 +558,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "112.169.150.39"
-  },
-  "138.64.212.183": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "28",
-    "regionName": "Hyōgo",
-    "city": "Nishinomiya",
-    "zip": "662-0931",
-    "lat": 34.7221,
-    "lon": 135.3254,
-    "timezone": "Asia/Tokyo",
-    "isp": "ASAHI Net, Inc.",
-    "org": "ASAHI",
-    "as": "AS4685 Asahi Net",
-    "query": "138.64.212.183"
-  },
-  "89.19.216.121": {
-    "status": "success",
-    "country": "The Netherlands",
-    "countryCode": "NL",
-    "region": "NH",
-    "regionName": "North Holland",
-    "city": "Amsterdam",
-    "zip": "1012",
-    "lat": 52.3676,
-    "lon": 4.90414,
-    "timezone": "Europe/Amsterdam",
-    "isp": "Timeweb, LLP",
-    "org": "Timeweb, LLP",
-    "as": "AS210976 Timeweb, LLP",
-    "query": "89.19.216.121"
   },
   "113.22.160.90": {
     "status": "success",
