@@ -351,22 +351,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "222.101.121.196"
   },
-  "91.142.150.3": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "AMU",
-    "regionName": "Amur Oblast",
-    "city": "Blagoveshchensk",
-    "zip": "675000",
-    "lat": 50.266,
-    "lon": 127.536,
-    "timezone": "Asia/Yakutsk",
-    "isp": "LLC Teledyne Systems Limited",
-    "org": "Teledyne Systems Limited",
-    "as": "AS41789 LLC Teledyne Systems Limited",
-    "query": "91.142.150.3"
-  },
   "58.150.189.252": {
     "status": "success",
     "country": "South Korea",
@@ -414,6 +398,22 @@
     "org": "Jupiter Telecommunications Co., Ltd.",
     "as": "AS9617 JCOM Co., Ltd.",
     "query": "119.24.254.96"
+  },
+  "91.142.150.3": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "AMU",
+    "regionName": "Amur Oblast",
+    "city": "Blagoveshchensk",
+    "zip": "675000",
+    "lat": 50.266,
+    "lon": 127.536,
+    "timezone": "Asia/Yakutsk",
+    "isp": "LLC Teledyne Systems Limited",
+    "org": "Teledyne Systems Limited",
+    "as": "AS41789 LLC Teledyne Systems Limited",
+    "query": "91.142.150.3"
   },
   "121.169.188.49": {
     "status": "success",
@@ -510,22 +510,6 @@
     "org": "BTV Cable television",
     "as": "AS18135 BTV CO.,LTD.",
     "query": "219.103.4.84"
-  },
-  "126.121.99.118": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.121.99.118"
   },
   "78.100.168.48": {
     "status": "success",
@@ -751,20 +735,36 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "31.163.35.222"
   },
-  "1.52.244.85": {
+  "77.35.236.24": {
     "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "SG",
-    "regionName": "Ho Chi Minh",
-    "city": "Ho Chi Minh City",
-    "zip": "700000",
-    "lat": 10.822,
-    "lon": 106.6257,
-    "timezone": "Asia/Ho_Chi_Minh",
-    "isp": "FPT Telecom Company",
-    "org": "Vietnam Internet Network Information Center",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "1.52.244.85"
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Vladivostok",
+    "zip": "690001",
+    "lat": 43.1068,
+    "lon": 131.8692,
+    "timezone": "Asia/Vladivostok",
+    "isp": "Rostelecom networks",
+    "org": "",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "77.35.236.24"
+  },
+  "92.37.143.59": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KHA",
+    "regionName": "Khabarovsk",
+    "city": "Khabarovsk",
+    "zip": "680000",
+    "lat": 48.4817,
+    "lon": 135.083,
+    "timezone": "Asia/Vladivostok",
+    "isp": "Rostelecom networks",
+    "org": "",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "92.37.143.59"
   }
 }
