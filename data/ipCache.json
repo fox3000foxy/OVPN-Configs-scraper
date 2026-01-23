@@ -287,6 +287,38 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "178.187.96.201"
   },
+  "133.32.218.228": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Kamiochiai",
+    "zip": "161-0031",
+    "lat": 35.723,
+    "lon": 139.6748,
+    "timezone": "Asia/Tokyo",
+    "isp": "ARTERIA Networks Corporation",
+    "org": "ARTERIA Networks Corporation",
+    "as": "AS2519 ARTERIA Networks Corporation",
+    "query": "133.32.218.228"
+  },
+  "118.39.108.41": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "31",
+    "regionName": "Ulsan",
+    "city": "Ulsan",
+    "zip": "445",
+    "lat": 35.5502,
+    "lon": 129.3285,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "118.39.108.41"
+  },
   "221.144.197.228": {
     "status": "success",
     "country": "South Korea",
@@ -431,22 +463,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "59.138.182.93"
   },
-  "126.126.108.73": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.126.108.73"
-  },
   "221.118.47.135": {
     "status": "success",
     "country": "Japan",
@@ -478,22 +494,6 @@
     "org": "Beam Telecom Pvt Ltd",
     "as": "AS24309 Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA",
     "query": "49.206.100.95"
-  },
-  "112.185.246.157": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "48",
-    "regionName": "Gyeongsangnam-do",
-    "city": "Gimhae",
-    "zip": "509",
-    "lat": 35.2342,
-    "lon": 128.8777,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "112.185.246.157"
   },
   "121.181.197.225": {
     "status": "success",
@@ -559,6 +559,22 @@
     "as": "AS9316 DACOM-PUBNETPLUS",
     "query": "125.247.190.47"
   },
+  "78.29.43.182": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "CHE",
+    "regionName": "Chelyabinsk Oblast",
+    "city": "Chelyabinsk",
+    "zip": "",
+    "lat": 55.1952,
+    "lon": 61.339,
+    "timezone": "Asia/Yekaterinburg",
+    "isp": "Intersvyaz-2 JSC",
+    "org": "Intersvyaz-2 JSC",
+    "as": "AS8369 Intersvyaz-2 JSC",
+    "query": "78.29.43.182"
+  },
   "58.125.209.98": {
     "status": "success",
     "country": "South Korea",
@@ -574,22 +590,6 @@
     "org": "SK Broadband Co Ltd",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "58.125.209.98"
-  },
-  "1.53.38.117": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "HN",
-    "regionName": "Hanoi",
-    "city": "Hanoi",
-    "zip": "100000",
-    "lat": 21.0184,
-    "lon": 105.8461,
-    "timezone": "Asia/Bangkok",
-    "isp": "FPT Telecom Company",
-    "org": "Vietnam Internet Network Information Center",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "1.53.38.117"
   },
   "134.180.165.217": {
     "status": "success",
@@ -638,6 +638,22 @@
     "org": "CJSC Radiotelephone",
     "as": "AS39812 Closed Joint Stock Company Radiotelephone",
     "query": "130.255.48.81"
+  },
+  "82.162.3.201": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Spassk-Dalny District",
+    "zip": "692239",
+    "lat": 44.5938,
+    "lon": 132.799,
+    "timezone": "Asia/Vladivostok",
+    "isp": "PRIMORYE",
+    "org": "",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "82.162.3.201"
   },
   "188.0.207.53": {
     "status": "success",
