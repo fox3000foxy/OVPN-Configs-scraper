@@ -207,22 +207,6 @@
     "as": "AS17583 Keumgang Cable Network",
     "query": "182.237.221.37"
   },
-  "184.22.172.130": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "83",
-    "regionName": "Phuket",
-    "city": "Phuket",
-    "zip": "83110",
-    "lat": 7.9833,
-    "lon": 98.3662,
-    "timezone": "Asia/Bangkok",
-    "isp": "AIS-Fibre",
-    "org": "",
-    "as": "AS133481 AIS Fibre",
-    "query": "184.22.172.130"
-  },
   "211.205.56.227": {
     "status": "success",
     "country": "South Korea",
@@ -238,6 +222,22 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "211.205.56.227"
+  },
+  "184.22.172.130": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "83",
+    "regionName": "Phuket",
+    "city": "Phuket",
+    "zip": "83110",
+    "lat": 7.9833,
+    "lon": 98.3662,
+    "timezone": "Asia/Bangkok",
+    "isp": "AIS-Fibre",
+    "org": "",
+    "as": "AS133481 AIS Fibre",
+    "query": "184.22.172.130"
   },
   "37.21.241.126": {
     "status": "success",
@@ -366,22 +366,6 @@
     "org": "",
     "as": "AS12389 PJSC Rostelecom",
     "query": "86.102.205.225"
-  },
-  "14.132.22.67": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "23",
-    "regionName": "Aichi",
-    "city": "Komaki",
-    "zip": "485-0041",
-    "lat": 35.2853,
-    "lon": 136.9125,
-    "timezone": "Asia/Tokyo",
-    "isp": "Chubu Telecommunications Company, Inc.",
-    "org": "Chubu Telecommunications Co., Inc.",
-    "as": "AS18126 Chubu Telecommunications Company, Inc.",
-    "query": "14.132.22.67"
   },
   "118.108.56.233": {
     "status": "success",
