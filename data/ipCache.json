@@ -159,6 +159,22 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.113.239.82"
   },
+  "220.156.207.33": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "38",
+    "regionName": "Ehime",
+    "city": "Matsuyama",
+    "zip": "790-0001",
+    "lat": 33.8365,
+    "lon": 132.742,
+    "timezone": "Asia/Tokyo",
+    "isp": "EHIME CATV CO., LTD.",
+    "org": "Ehime Catv Co., ltd.",
+    "as": "AS18260 EHIME CATV CO.,LTD.",
+    "query": "220.156.207.33"
+  },
   "126.1.42.49": {
     "status": "success",
     "country": "Japan",
@@ -270,22 +286,6 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.50"
-  },
-  "14.132.22.67": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "23",
-    "regionName": "Aichi",
-    "city": "Komaki",
-    "zip": "485-0041",
-    "lat": 35.2853,
-    "lon": 136.9125,
-    "timezone": "Asia/Tokyo",
-    "isp": "Chubu Telecommunications Company, Inc.",
-    "org": "Chubu Telecommunications Co., Inc.",
-    "as": "AS18126 Chubu Telecommunications Company, Inc.",
-    "query": "14.132.22.67"
   },
   "116.123.228.25": {
     "status": "success",
@@ -399,22 +399,6 @@
     "as": "AS17529 STARCAT Co .,LTD.",
     "query": "180.200.120.212"
   },
-  "126.169.92.171": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.169.92.171"
-  },
   "119.229.224.5": {
     "status": "success",
     "country": "Japan",
@@ -430,6 +414,22 @@
     "org": "K-Opticom Corporation",
     "as": "AS17511 OPTAGE Inc.",
     "query": "119.229.224.5"
+  },
+  "126.125.49.30": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.125.49.30"
   },
   "58.123.159.246": {
     "status": "success",
@@ -558,6 +558,22 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "121.175.175.84"
+  },
+  "118.71.36.23": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "HN",
+    "regionName": "Hanoi",
+    "city": "Hanoi",
+    "zip": "",
+    "lat": 21.0278,
+    "lon": 105.834,
+    "timezone": "Asia/Bangkok",
+    "isp": "FPT Telecom Company",
+    "org": "FPTDYNAMICIP",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "118.71.36.23"
   },
   "116.34.216.160": {
     "status": "success",
@@ -766,5 +782,21 @@
     "org": "Rostelecom Nets",
     "as": "AS12389 PJSC Rostelecom",
     "query": "5.143.111.119"
+  },
+  "77.35.170.253": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Vladivostok",
+    "zip": "690001",
+    "lat": 43.1068,
+    "lon": 131.8692,
+    "timezone": "Asia/Vladivostok",
+    "isp": "Rostelecom networks",
+    "org": "",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "77.35.170.253"
   }
 }
