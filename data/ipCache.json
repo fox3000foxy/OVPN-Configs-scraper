@@ -623,22 +623,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "176.208.32.209"
   },
-  "163.131.146.143": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Kameido",
-    "zip": "136-0071",
-    "lat": 35.703,
-    "lon": 139.8308,
-    "timezone": "Asia/Tokyo",
-    "isp": "Tokyo Bay Network Co., Ltd.",
-    "org": "Tokyo Bay Network Co., Ltd.",
-    "as": "AS131916 Tokyo Bay Network Co.,Ltd.",
-    "query": "163.131.146.143"
-  },
   "47.184.132.86": {
     "status": "success",
     "country": "United States",
@@ -654,6 +638,22 @@
     "org": "FTR3 FiberOptic-D Garland TX",
     "as": "AS5650 Frontier Communications of America, Inc.",
     "query": "47.184.132.86"
+  },
+  "163.131.146.143": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Kameido",
+    "zip": "136-0071",
+    "lat": 35.703,
+    "lon": 139.8308,
+    "timezone": "Asia/Tokyo",
+    "isp": "Tokyo Bay Network Co., Ltd.",
+    "org": "Tokyo Bay Network Co., Ltd.",
+    "as": "AS131916 Tokyo Bay Network Co.,Ltd.",
+    "query": "163.131.146.143"
   },
   "109.126.5.130": {
     "status": "success",
