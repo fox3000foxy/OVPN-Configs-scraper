@@ -79,6 +79,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.15"
   },
+  "219.100.37.126": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftEther",
+    "org": "SoftEther Corporation",
+    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
+    "query": "219.100.37.126"
+  },
   "72.196.67.191": {
     "status": "success",
     "country": "United States",
@@ -126,22 +142,6 @@
     "org": "Japan Nation-wide Network of Softbank Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "60.95.76.42"
-  },
-  "220.150.148.16": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "08",
-    "regionName": "Ibaraki",
-    "city": "Tsukuba",
-    "zip": "305-0021",
-    "lat": 36.096,
-    "lon": 140.1503,
-    "timezone": "Asia/Tokyo",
-    "isp": "ASAHI Net, Inc.",
-    "org": "ASAHI",
-    "as": "AS4685 Asahi Net",
-    "query": "220.150.148.16"
   },
   "118.104.168.55": {
     "status": "success",
@@ -367,6 +367,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.50"
   },
+  "126.79.124.253": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.79.124.253"
+  },
   "118.41.236.148": {
     "status": "success",
     "country": "South Korea",
@@ -430,22 +446,6 @@
     "org": "SOFTBANK Corp",
     "as": "AS17676 SoftBank Corp.",
     "query": "218.115.121.212"
-  },
-  "47.187.123.216": {
-    "status": "success",
-    "country": "United States",
-    "countryCode": "US",
-    "region": "TX",
-    "regionName": "Texas",
-    "city": "Coppell",
-    "zip": "75019",
-    "lat": 32.961,
-    "lon": -96.9841,
-    "timezone": "America/Chicago",
-    "isp": "Frontier Communications Solutions",
-    "org": "FTR3 FiberOptic-D Lewisville TX",
-    "as": "AS5650 Frontier Communications of America, Inc.",
-    "query": "47.187.123.216"
   },
   "45.14.245.64": {
     "status": "success",
