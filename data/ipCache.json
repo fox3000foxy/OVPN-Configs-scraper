@@ -143,22 +143,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "111.97.191.114"
   },
-  "223.132.208.135": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "21",
-    "regionName": "Gifu",
-    "city": "Gifu",
-    "zip": "500-8821",
-    "lat": 35.4256,
-    "lon": 136.7614,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "223.132.208.135"
-  },
   "183.99.115.65": {
     "status": "success",
     "country": "South Korea",
@@ -175,21 +159,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "183.99.115.65"
   },
-  "143.189.43.87": {
+  "223.132.208.135": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "08",
-    "regionName": "Ibaraki",
-    "city": "Mito",
-    "zip": "310-0911",
-    "lat": 36.3502,
-    "lon": 140.4258,
+    "region": "21",
+    "regionName": "Gifu",
+    "city": "Gifu",
+    "zip": "500-8821",
+    "lat": 35.4256,
+    "lon": 136.7614,
     "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc.",
+    "isp": "Sony Network Communications Inc",
     "org": "Sony Network Communications Inc.",
     "as": "AS2527 Sony Network Communications Inc.",
-    "query": "143.189.43.87"
+    "query": "223.132.208.135"
   },
   "49.167.12.160": {
     "status": "success",
@@ -287,22 +271,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.141.171.131"
   },
-  "61.255.91.50": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "28",
-    "regionName": "Incheon",
-    "city": "Incheon",
-    "zip": "221",
-    "lat": 37.4723,
-    "lon": 126.6594,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "SK Broadband Co Ltd",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "61.255.91.50"
-  },
   "90.189.217.65": {
     "status": "success",
     "country": "Russia",
@@ -367,6 +335,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "59.7.207.18"
   },
+  "118.68.109.239": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "HN",
+    "regionName": "Hanoi",
+    "city": "Hanoi",
+    "zip": "100000",
+    "lat": 21.0184,
+    "lon": 105.8461,
+    "timezone": "Asia/Bangkok",
+    "isp": "FPT Telecom Company",
+    "org": "Vietnam Internet Network Information Center",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "118.68.109.239"
+  },
   "218.148.187.249": {
     "status": "success",
     "country": "South Korea",
@@ -383,21 +367,37 @@
     "as": "AS4766 Korea Telecom",
     "query": "218.148.187.249"
   },
-  "106.150.72.118": {
+  "113.155.82.28": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "11",
-    "regionName": "Saitama",
-    "city": "Daimon",
-    "zip": "336-0963",
-    "lat": 35.8815,
-    "lon": 139.7334,
+    "region": "23",
+    "regionName": "Aichi",
+    "city": "Inazawa",
+    "zip": "495-0021",
+    "lat": 35.2497,
+    "lon": 136.7857,
     "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "106.150.72.118"
+    "isp": "KDDI",
+    "org": "DION (KDDI CORPORATION)",
+    "as": "AS18126 Chubu Telecommunications Company, Inc.",
+    "query": "113.155.82.28"
+  },
+  "210.228.227.214": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6906,
+    "lon": 139.77,
+    "timezone": "Asia/Tokyo",
+    "isp": "Open Data Network",
+    "org": "Open Data Network",
+    "as": "AS4725 SoftBank Corp.",
+    "query": "210.228.227.214"
   },
   "1.53.38.117": {
     "status": "success",
