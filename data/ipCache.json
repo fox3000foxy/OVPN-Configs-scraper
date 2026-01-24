@@ -175,6 +175,38 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.130.164.3"
   },
+  "153.160.148.90": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Osaka",
+    "zip": "550-0001",
+    "lat": 34.6892,
+    "lon": 135.4899,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "Open Computer Network",
+    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
+    "query": "153.160.148.90"
+  },
+  "110.46.158.118": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Haeundae-gu",
+    "zip": "480",
+    "lat": 35.1692,
+    "lon": 129.1738,
+    "timezone": "Asia/Seoul",
+    "isp": "CJ Hello Co",
+    "org": "HVHaeundae",
+    "as": "AS9697 LG HelloVision Corp.",
+    "query": "110.46.158.118"
+  },
   "175.209.13.17": {
     "status": "success",
     "country": "South Korea",
@@ -287,22 +319,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "59.9.4.63"
   },
-  "175.132.127.244": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "12",
-    "regionName": "Chiba",
-    "city": "Ichikawa",
-    "zip": "272-0031",
-    "lat": 35.7233,
-    "lon": 139.9132,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "175.132.127.244"
-  },
   "126.36.219.35": {
     "status": "success",
     "country": "Japan",
@@ -399,22 +415,6 @@
     "as": "AS4760 HKT Limited",
     "query": "58.153.158.35"
   },
-  "122.203.244.115": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Seongdong-gu",
-    "zip": "047",
-    "lat": 37.5511,
-    "lon": 127.0387,
-    "timezone": "Asia/Seoul",
-    "isp": "DACOM-PUBNETPLUS",
-    "org": "Pubnetplus",
-    "as": "AS9316 DACOM-PUBNETPLUS",
-    "query": "122.203.244.115"
-  },
   "223.132.144.100": {
     "status": "success",
     "country": "Japan",
@@ -431,6 +431,22 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "223.132.144.100"
   },
+  "122.203.244.115": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Seongdong-gu",
+    "zip": "047",
+    "lat": 37.5511,
+    "lon": 127.0387,
+    "timezone": "Asia/Seoul",
+    "isp": "DACOM-PUBNETPLUS",
+    "org": "Pubnetplus",
+    "as": "AS9316 DACOM-PUBNETPLUS",
+    "query": "122.203.244.115"
+  },
   "89.253.177.255": {
     "status": "success",
     "country": "Bulgaria",
@@ -446,6 +462,22 @@
     "org": "A1 BG",
     "as": "AS13124 A1 Bulgaria EAD",
     "query": "89.253.177.255"
+  },
+  "27.89.119.37": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Osaka",
+    "zip": "530-0041",
+    "lat": 34.6967,
+    "lon": 135.5154,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "27.89.119.37"
   },
   "61.81.77.254": {
     "status": "success",
@@ -478,22 +510,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "220.117.103.176"
-  },
-  "124.110.21.97": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "21",
-    "regionName": "Gifu",
-    "city": "Yamagata",
-    "zip": "502-0005",
-    "lat": 35.4762,
-    "lon": 136.772,
-    "timezone": "Asia/Tokyo",
-    "isp": "ARTERIA Networks Corporation",
-    "org": "ARTERIA Networks Corporation",
-    "as": "AS2519 ARTERIA Networks Corporation",
-    "query": "124.110.21.97"
   },
   "37.140.60.106": {
     "status": "success",
@@ -543,22 +559,6 @@
     "as": "AS3226 OOO \"NI\"",
     "query": "217.29.181.61"
   },
-  "109.236.237.143": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "MAG",
-    "regionName": "Magadan Oblast",
-    "city": "Magadan",
-    "zip": "685000",
-    "lat": 59.5686,
-    "lon": 150.8133,
-    "timezone": "Asia/Magadan",
-    "isp": "PJSC Rostelecom",
-    "org": "Rostelecom networks",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "109.236.237.143"
-  },
   "46.37.129.89": {
     "status": "success",
     "country": "Russia",
@@ -574,6 +574,22 @@
     "org": "Vladlink LLC",
     "as": "AS42038 Krivets Sergey Sergeevich",
     "query": "46.37.129.89"
+  },
+  "109.236.237.143": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "MAG",
+    "regionName": "Magadan Oblast",
+    "city": "Magadan",
+    "zip": "685000",
+    "lat": 59.5686,
+    "lon": 150.8133,
+    "timezone": "Asia/Magadan",
+    "isp": "PJSC Rostelecom",
+    "org": "Rostelecom networks",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "109.236.237.143"
   },
   "49.170.102.232": {
     "status": "success",
