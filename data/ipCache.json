@@ -191,22 +191,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "143.189.43.87"
   },
-  "1.66.34.134": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Osaka",
-    "zip": "530-0041",
-    "lat": 34.6967,
-    "lon": 135.5154,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Docomo, inc.",
-    "org": "NTTDoCoMo",
-    "as": "AS9605 NTT DOCOMO, INC.",
-    "query": "1.66.34.134"
-  },
   "49.167.12.160": {
     "status": "success",
     "country": "South Korea",
@@ -271,6 +255,22 @@
     "as": "AS12737 KrasPromStroy, LLC",
     "query": "185.124.155.182"
   },
+  "218.145.107.33": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Ansan-si",
+    "zip": "154",
+    "lat": 37.3031,
+    "lon": 126.8214,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "218.145.107.33"
+  },
   "60.141.171.131": {
     "status": "success",
     "country": "Japan",
@@ -303,22 +303,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "61.255.91.50"
   },
-  "36.12.239.250": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "11",
-    "regionName": "Saitama",
-    "city": "Nishimachi",
-    "zip": "339-0061",
-    "lat": 35.9597,
-    "lon": 139.6956,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "36.12.239.250"
-  },
   "90.189.217.65": {
     "status": "success",
     "country": "Russia",
@@ -350,6 +334,22 @@
     "org": "SK Broadband Co Ltd",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "211.44.188.45"
+  },
+  "118.241.184.72": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Nukui",
+    "zip": "176-0021",
+    "lat": 35.7366,
+    "lon": 139.6335,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc.",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "118.241.184.72"
   },
   "59.7.207.18": {
     "status": "success",
@@ -430,6 +430,22 @@
     "org": "STNet, Incorporated",
     "as": "AS7522 STNet, Incorporated",
     "query": "202.67.19.82"
+  },
+  "171.101.20.68": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "21",
+    "regionName": "Rayong",
+    "city": "Rayong",
+    "zip": "21000",
+    "lat": 12.6774,
+    "lon": 101.2576,
+    "timezone": "Asia/Bangkok",
+    "isp": "True Internet Corporation CO. Ltd.",
+    "org": "Truenet BB",
+    "as": "AS17552 True Online",
+    "query": "171.101.20.68"
   },
   "180.199.188.248": {
     "status": "success",
@@ -702,5 +718,21 @@
     "org": "",
     "as": "AS44724 Octopusnet LTD",
     "query": "95.154.65.250"
+  },
+  "77.34.95.220": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Vladivostok",
+    "zip": "690001",
+    "lat": 43.1068,
+    "lon": 131.8692,
+    "timezone": "Asia/Vladivostok",
+    "isp": "Rostelecom networks",
+    "org": "",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "77.34.95.220"
   }
 }
