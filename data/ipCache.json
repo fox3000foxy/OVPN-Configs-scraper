@@ -223,22 +223,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "110.15.2.128"
   },
-  "185.124.155.182": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "NVS",
-    "regionName": "Novosibirsk Oblast",
-    "city": "Novosibirsk",
-    "zip": "",
-    "lat": 54.9833,
-    "lon": 82.8964,
-    "timezone": "Asia/Novosibirsk",
-    "isp": "KrasPromStroy, LLC",
-    "org": "",
-    "as": "AS12737 KrasPromStroy, LLC",
-    "query": "185.124.155.182"
-  },
   "182.172.122.57": {
     "status": "success",
     "country": "South Korea",
@@ -366,6 +350,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "121.169.172.114"
+  },
+  "114.185.25.139": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "08",
+    "regionName": "Ibaraki",
+    "city": "Kidamarihigashidai",
+    "zip": "300-0021",
+    "lat": 36.1038,
+    "lon": 140.278,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "NTT Communications Corporation",
+    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
+    "query": "114.185.25.139"
   },
   "103.152.178.62": {
     "status": "success",
@@ -574,22 +574,6 @@
     "org": "JSC Rostelecom regional branch Siberia",
     "as": "AS12389 PJSC Rostelecom",
     "query": "5.137.210.152"
-  },
-  "106.165.84.140": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "03",
-    "regionName": "Iwate",
-    "city": "Ōshū",
-    "zip": "023-0821",
-    "lat": 39.1306,
-    "lon": 141.1589,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "106.165.84.140"
   },
   "14.53.217.40": {
     "status": "success",
@@ -862,21 +846,5 @@
     "org": "OJSC Far Eastern Telecommunications Company",
     "as": "AS12389 PJSC Rostelecom",
     "query": "79.105.56.198"
-  },
-  "5.143.98.209": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PRI",
-    "regionName": "Primorye",
-    "city": "Vladivostok",
-    "zip": "690001",
-    "lat": 43.1068,
-    "lon": 131.8692,
-    "timezone": "Asia/Vladivostok",
-    "isp": "PJSC Rostelecom",
-    "org": "PJSC Rostelecom Far East Region",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "5.143.98.209"
   }
 }
