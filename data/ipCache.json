@@ -351,22 +351,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "125.137.135.215"
   },
-  "119.106.76.185": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "11",
-    "regionName": "Saitama",
-    "city": "Dotechō",
-    "zip": "330-9011",
-    "lat": 35.9056,
-    "lon": 139.6209,
-    "timezone": "Asia/Tokyo",
-    "isp": "DION (KDDI CORPORATION)",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "119.106.76.185"
-  },
   "219.109.62.207": {
     "status": "success",
     "country": "Japan",
@@ -414,6 +398,22 @@
     "org": "NTT Communications Corporation",
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "114.185.25.139"
+  },
+  "60.79.244.225": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.79.244.225"
   },
   "60.119.224.202": {
     "status": "success",
@@ -478,6 +478,22 @@
     "org": "JSC Rostelecom regional branch Siberia",
     "as": "AS12389 PJSC Rostelecom",
     "query": "5.137.210.152"
+  },
+  "223.205.3.218": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "65",
+    "regionName": "Phitsanulok",
+    "city": "Phitsanulok",
+    "zip": "65000",
+    "lat": 16.8358,
+    "lon": 100.2518,
+    "timezone": "Asia/Bangkok",
+    "isp": "Triple T Broadband Public Company Limited",
+    "org": "Triple T Broadband Public Company Limited",
+    "as": "AS45758 Triple T Broadband Public Company Limited",
+    "query": "223.205.3.218"
   },
   "14.102.238.104": {
     "status": "success",
@@ -591,21 +607,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "112.171.81.250"
   },
-  "220.116.45.98": {
+  "211.224.156.100": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Dongdaemun",
-    "zip": "025",
-    "lat": 37.5709,
-    "lon": 127.044,
+    "region": "30",
+    "regionName": "Daejeon",
+    "city": "Yuseong-gu",
+    "zip": "341",
+    "lat": 36.3567,
+    "lon": 127.3344,
     "timezone": "Asia/Seoul",
     "isp": "Korea Telecom",
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
-    "query": "220.116.45.98"
+    "query": "211.224.156.100"
   },
   "58.235.123.214": {
     "status": "success",
@@ -638,6 +654,22 @@
     "org": "LG Uplus",
     "as": "AS3786 LG DACOM Corporation",
     "query": "112.218.21.132"
+  },
+  "1.232.90.246": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Eunpyeong-gu",
+    "zip": "034",
+    "lat": 37.597,
+    "lon": 126.9156,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "SK Broadband Co Ltd",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "1.232.90.246"
   },
   "37.140.24.30": {
     "status": "success",
@@ -766,21 +798,5 @@
     "org": "Dynamic distribution IPs for broadband services",
     "as": "AS12389 PJSC Rostelecom",
     "query": "188.19.161.45"
-  },
-  "65.99.18.34": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "47",
-    "regionName": "Okinawa",
-    "city": "Chatan",
-    "zip": "904-0116",
-    "lat": 26.3095,
-    "lon": 127.77,
-    "timezone": "Asia/Tokyo",
-    "isp": "Mediatti Broadband Communications, LLC",
-    "org": "Mediatti Broadband Communications, LLC",
-    "as": "AS20134 Mediatti Broadband Communications, LLC",
-    "query": "65.99.18.34"
   }
 }
