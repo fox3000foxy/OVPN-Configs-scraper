@@ -255,6 +255,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.102"
   },
+  "185.124.155.182": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "NVS",
+    "regionName": "Novosibirsk Oblast",
+    "city": "Novosibirsk",
+    "zip": "",
+    "lat": 54.9833,
+    "lon": 82.8964,
+    "timezone": "Asia/Novosibirsk",
+    "isp": "KrasPromStroy, LLC",
+    "org": "",
+    "as": "AS12737 KrasPromStroy, LLC",
+    "query": "185.124.155.182"
+  },
   "122.223.24.93": {
     "status": "success",
     "country": "Japan",
@@ -495,22 +511,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "90.149.251.147"
   },
-  "14.53.217.40": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Namyangju",
-    "zip": "122",
-    "lat": 37.6224,
-    "lon": 127.1502,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "14.53.217.40"
-  },
   "61.211.140.202": {
     "status": "success",
     "country": "Japan",
@@ -526,22 +526,6 @@
     "org": "STARCAT CABLE NETWORK Co ., LTD.",
     "as": "AS17529 STARCAT Co .,LTD.",
     "query": "61.211.140.202"
-  },
-  "217.178.138.250": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Setagaya City",
-    "zip": "154-0011",
-    "lat": 35.6413,
-    "lon": 139.6662,
-    "timezone": "Asia/Tokyo",
-    "isp": "Internet Multifeed CO.",
-    "org": "Internet Multifeed CO.",
-    "as": "AS55391 INTERNET MULTIFEED CO.",
-    "query": "217.178.138.250"
   },
   "220.74.125.89": {
     "status": "success",
@@ -591,6 +575,22 @@
     "as": "AS38095 SK Broadband Co Ltd",
     "query": "123.109.218.207"
   },
+  "112.171.81.250": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Gwanak-gu",
+    "zip": "087",
+    "lat": 37.4873,
+    "lon": 126.9227,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "112.171.81.250"
+  },
   "220.116.45.98": {
     "status": "success",
     "country": "South Korea",
@@ -639,21 +639,21 @@
     "as": "AS3786 LG DACOM Corporation",
     "query": "112.218.21.132"
   },
-  "2.61.10.217": {
+  "37.140.24.30": {
     "status": "success",
     "country": "Russia",
     "countryCode": "RU",
-    "region": "KK",
-    "regionName": "Khakasiya Republic",
-    "city": "Abakan",
-    "zip": "655000",
-    "lat": 53.72,
-    "lon": 91.4324,
-    "timezone": "Asia/Krasnoyarsk",
-    "isp": "OJSC \"Sibirtelecom\"",
-    "org": "OJSC Sibirtelecom",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "2.61.10.217"
+    "region": "CHE",
+    "regionName": "Chelyabinsk Oblast",
+    "city": "Magnitogorsk",
+    "zip": "455000",
+    "lat": 53.3981,
+    "lon": 59.0066,
+    "timezone": "Asia/Yekaterinburg",
+    "isp": "Intersvyaz-2 JSC",
+    "org": "",
+    "as": "AS8369 Intersvyaz-2 JSC",
+    "query": "37.140.24.30"
   },
   "85.15.105.74": {
     "status": "success",
@@ -686,22 +686,6 @@
     "org": "Miranda-Media Ltd",
     "as": "AS201776 Miranda-Media Ltd",
     "query": "31.40.211.114"
-  },
-  "37.140.24.30": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "CHE",
-    "regionName": "Chelyabinsk Oblast",
-    "city": "Magnitogorsk",
-    "zip": "455000",
-    "lat": 53.3981,
-    "lon": 59.0066,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "Intersvyaz-2 JSC",
-    "org": "",
-    "as": "AS8369 Intersvyaz-2 JSC",
-    "query": "37.140.24.30"
   },
   "79.105.56.198": {
     "status": "success",
@@ -782,5 +766,21 @@
     "org": "Dynamic distribution IPs for broadband services",
     "as": "AS12389 PJSC Rostelecom",
     "query": "188.19.161.45"
+  },
+  "65.99.18.34": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "47",
+    "regionName": "Okinawa",
+    "city": "Chatan",
+    "zip": "904-0116",
+    "lat": 26.3095,
+    "lon": 127.77,
+    "timezone": "Asia/Tokyo",
+    "isp": "Mediatti Broadband Communications, LLC",
+    "org": "Mediatti Broadband Communications, LLC",
+    "as": "AS20134 Mediatti Broadband Communications, LLC",
+    "query": "65.99.18.34"
   }
 }
