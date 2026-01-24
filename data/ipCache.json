@@ -223,22 +223,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.246.154.63"
   },
-  "211.104.232.96": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "26",
-    "regionName": "Busan",
-    "city": "Suyeong-gu",
-    "zip": "482",
-    "lat": 35.1513,
-    "lon": 129.1203,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "211.104.232.96"
-  },
   "1.21.121.201": {
     "status": "success",
     "country": "Japan",
@@ -351,6 +335,22 @@
     "as": "AS59533 Lukyanov Evgeniy Vladimirovich PE",
     "query": "91.219.203.117"
   },
+  "113.145.237.167": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "47",
+    "regionName": "Okinawa",
+    "city": "Sobe",
+    "zip": "904-0304",
+    "lat": 26.3839,
+    "lon": 127.7262,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "113.145.237.167"
+  },
   "184.22.232.179": {
     "status": "success",
     "country": "Thailand",
@@ -398,22 +398,6 @@
     "org": "LG POWERCOMM",
     "as": "AS17858 LG POWERCOMM",
     "query": "180.229.33.160"
-  },
-  "58.136.109.204": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "50",
-    "regionName": "Chiang Mai",
-    "city": "Chiang Mai",
-    "zip": "50210",
-    "lat": 18.8514,
-    "lon": 99.0412,
-    "timezone": "Asia/Bangkok",
-    "isp": "AIS-Fibre",
-    "org": "",
-    "as": "AS133481 AIS Fibre",
-    "query": "58.136.109.204"
   },
   "180.200.120.212": {
     "status": "success",
@@ -559,6 +543,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.179.83.6"
   },
+  "121.175.175.84": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "48",
+    "regionName": "Gyeongsangnam-do",
+    "city": "Yangsan",
+    "zip": "506",
+    "lat": 35.3447,
+    "lon": 129.0299,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "121.175.175.84"
+  },
   "116.34.216.160": {
     "status": "success",
     "country": "South Korea",
@@ -687,6 +687,22 @@
     "as": "AS8359 MTS PJSC",
     "query": "178.155.48.73"
   },
+  "31.129.4.226": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "AMU",
+    "regionName": "Amur Oblast",
+    "city": "Blagoveshchensk",
+    "zip": "675000",
+    "lat": 50.2705,
+    "lon": 127.5352,
+    "timezone": "Asia/Yakutsk",
+    "isp": "LLC Teledyne Systems Limited",
+    "org": "Teledyne Systems Limited",
+    "as": "AS41789 LLC Teledyne Systems Limited",
+    "query": "31.129.4.226"
+  },
   "93.177.21.198": {
     "status": "success",
     "country": "Russia",
@@ -703,23 +719,7 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "93.177.21.198"
   },
-  "79.105.249.54": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "AMU",
-    "regionName": "Amur Oblast",
-    "city": "Belogorsk",
-    "zip": "676850",
-    "lat": 50.9124,
-    "lon": 128.5124,
-    "timezone": "Asia/Yakutsk",
-    "isp": "Rostelecom networks",
-    "org": "OJSC Far Eastern Telecommunications Company Amursky st.",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "79.105.249.54"
-  },
-  "31.129.4.226": {
+  "159.255.6.49": {
     "status": "success",
     "country": "Russia",
     "countryCode": "RU",
@@ -727,12 +727,44 @@
     "regionName": "Amur Oblast",
     "city": "Blagoveshchensk",
     "zip": "675000",
-    "lat": 50.2705,
-    "lon": 127.5352,
+    "lat": 50.2828,
+    "lon": 127.5299,
     "timezone": "Asia/Yakutsk",
     "isp": "LLC Teledyne Systems Limited",
     "org": "Teledyne Systems Limited",
     "as": "AS41789 LLC Teledyne Systems Limited",
-    "query": "31.129.4.226"
+    "query": "159.255.6.49"
+  },
+  "5.143.98.189": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Vladivostok",
+    "zip": "690001",
+    "lat": 43.1068,
+    "lon": 131.8692,
+    "timezone": "Asia/Vladivostok",
+    "isp": "PJSC Rostelecom",
+    "org": "PJSC Rostelecom Far East Region",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "5.143.98.189"
+  },
+  "5.143.111.119": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Vladivostok",
+    "zip": "690001",
+    "lat": 43.1068,
+    "lon": 131.8692,
+    "timezone": "Asia/Vladivostok",
+    "isp": "PJSC Rostelecom Far East Region",
+    "org": "Rostelecom Nets",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "5.143.111.119"
   }
 }
