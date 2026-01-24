@@ -383,22 +383,6 @@
     "as": "AS4725 SoftBank Corp.",
     "query": "210.228.227.214"
   },
-  "126.235.215.236": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.235.215.236"
-  },
   "106.150.72.118": {
     "status": "success",
     "country": "Japan",
@@ -463,22 +447,6 @@
     "as": "AS44265 OOO Smoltelecom",
     "query": "5.145.235.170"
   },
-  "1.53.38.117": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "HN",
-    "regionName": "Hanoi",
-    "city": "Hanoi",
-    "zip": "100000",
-    "lat": 21.0184,
-    "lon": 105.8461,
-    "timezone": "Asia/Bangkok",
-    "isp": "FPT Telecom Company",
-    "org": "Vietnam Internet Network Information Center",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "1.53.38.117"
-  },
   "118.240.3.52": {
     "status": "success",
     "country": "Japan",
@@ -494,6 +462,38 @@
     "org": "Sony Network Communications Inc.",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "118.240.3.52"
+  },
+  "49.228.176.10": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "40",
+    "regionName": "Khon Kaen",
+    "city": "Khon Kaen",
+    "zip": "40000",
+    "lat": 16.2916,
+    "lon": 102.6161,
+    "timezone": "Asia/Bangkok",
+    "isp": "Advanced Wireless Network Company Limited",
+    "org": "AIS Fibre",
+    "as": "AS133481 AIS Fibre",
+    "query": "49.228.176.10"
+  },
+  "1.53.38.117": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "HN",
+    "regionName": "Hanoi",
+    "city": "Hanoi",
+    "zip": "100000",
+    "lat": 21.0184,
+    "lon": 105.8461,
+    "timezone": "Asia/Bangkok",
+    "isp": "FPT Telecom Company",
+    "org": "Vietnam Internet Network Information Center",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "1.53.38.117"
   },
   "150.91.221.239": {
     "status": "success",
@@ -671,6 +671,22 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "178.187.96.201"
   },
+  "133.32.132.108": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tokyo",
+    "zip": "151-0071",
+    "lat": 35.6837,
+    "lon": 139.6805,
+    "timezone": "Asia/Tokyo",
+    "isp": "ARTERIA Networks Corporation",
+    "org": "",
+    "as": "AS2519 ARTERIA Networks Corporation",
+    "query": "133.32.132.108"
+  },
   "82.162.3.201": {
     "status": "success",
     "country": "Russia",
@@ -750,21 +766,5 @@
     "org": "OJSC Rostelecom Macroregional Branch South",
     "as": "AS12389 PJSC Rostelecom",
     "query": "46.158.202.91"
-  },
-  "109.170.28.110": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "MOW",
-    "regionName": "Moscow",
-    "city": "Moscow",
-    "zip": "144700",
-    "lat": 55.7558,
-    "lon": 37.6173,
-    "timezone": "Europe/Moscow",
-    "isp": "PJSC MegaFon",
-    "org": "TI BB",
-    "as": "AS12714 PJSC MegaFon",
-    "query": "109.170.28.110"
   }
 }
