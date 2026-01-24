@@ -782,5 +782,21 @@
     "org": "Rostelecom Nets",
     "as": "AS12389 PJSC Rostelecom",
     "query": "5.143.104.42"
+  },
+  "92.252.189.74": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "ULY",
+    "regionName": "Ulyanovsk Oblast",
+    "city": "Ulyanovsk",
+    "zip": "432032",
+    "lat": 54.3307,
+    "lon": 48.3888,
+    "timezone": "Europe/Ulyanovsk",
+    "isp": "PJSC Rostelecom",
+    "org": "Ulyanovsk Branch of Rostelecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "92.252.189.74"
   }
 }
