@@ -527,22 +527,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "211.236.127.136"
   },
-  "121.179.83.6": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "29",
-    "regionName": "Gwangju",
-    "city": "Gwangsan-gu",
-    "zip": "622",
-    "lat": 35.2119,
-    "lon": 126.8545,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Jeonnambonbujang",
-    "as": "AS4766 Korea Telecom",
-    "query": "121.179.83.6"
-  },
   "121.175.175.84": {
     "status": "success",
     "country": "South Korea",
@@ -558,6 +542,22 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "121.175.175.84"
+  },
+  "121.179.83.6": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "29",
+    "regionName": "Gwangju",
+    "city": "Gwangsan-gu",
+    "zip": "622",
+    "lat": 35.2119,
+    "lon": 126.8545,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Jeonnambonbujang",
+    "as": "AS4766 Korea Telecom",
+    "query": "121.179.83.6"
   },
   "118.71.36.23": {
     "status": "success",
@@ -591,21 +591,21 @@
     "as": "AS17858 LG POWERCOMM",
     "query": "116.34.216.160"
   },
-  "176.124.116.232": {
+  "218.235.89.115": {
     "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KDA",
-    "regionName": "Krasnodar Krai",
-    "city": "Tuapse",
-    "zip": "352800",
-    "lat": 44.0989,
-    "lon": 39.0674,
-    "timezone": "Europe/Moscow",
-    "isp": "LLC \"Multiservice\"",
-    "org": "TAIGET",
-    "as": "AS52043 LLC Multiservice",
-    "query": "176.124.116.232"
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Yongsan-gu",
+    "zip": "044",
+    "lat": 37.5157,
+    "lon": 126.9702,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "218.235.89.115"
   },
   "95.70.120.124": {
     "status": "success",
@@ -687,6 +687,22 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "92.37.194.194"
   },
+  "5.143.52.81": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Vladivostok",
+    "zip": "690001",
+    "lat": 43.1068,
+    "lon": 131.8692,
+    "timezone": "Asia/Vladivostok",
+    "isp": "Rostelecom networks",
+    "org": "OJSC Rostelecom Far-East Region",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "5.143.52.81"
+  },
   "178.155.48.73": {
     "status": "success",
     "country": "Russia",
@@ -766,6 +782,22 @@
     "org": "PJSC Rostelecom Far East Region",
     "as": "AS12389 PJSC Rostelecom",
     "query": "5.143.98.189"
+  },
+  "113.22.242.7": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "SG",
+    "regionName": "Ho Chi Minh",
+    "city": "Ho Chi Minh City",
+    "zip": "700000",
+    "lat": 10.822,
+    "lon": 106.6257,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "isp": "Vietnam Internet Network Information Center",
+    "org": "",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "113.22.242.7"
   },
   "5.143.111.119": {
     "status": "success",
