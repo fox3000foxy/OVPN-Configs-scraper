@@ -287,6 +287,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.50"
   },
+  "47.184.182.230": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "TX",
+    "regionName": "Texas",
+    "city": "Garland",
+    "zip": "75044",
+    "lat": 32.9522,
+    "lon": -96.6654,
+    "timezone": "America/Chicago",
+    "isp": "Frontier Communications Solutions",
+    "org": "FTR3 FiberOptic-D Garland TX",
+    "as": "AS5650 Frontier Communications of America, Inc.",
+    "query": "47.184.182.230"
+  },
   "101.128.133.100": {
     "status": "success",
     "country": "Japan",
@@ -542,22 +558,6 @@
     "org": "Chubu Telecommunications Co., Inc.",
     "as": "AS18126 Chubu Telecommunications Company, Inc.",
     "query": "180.199.188.248"
-  },
-  "114.185.25.139": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "08",
-    "regionName": "Ibaraki",
-    "city": "Kidamarihigashidai",
-    "zip": "300-0021",
-    "lat": 36.1038,
-    "lon": 140.278,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "NTT Communications Corporation",
-    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
-    "query": "114.185.25.139"
   },
   "60.119.224.202": {
     "status": "success",
