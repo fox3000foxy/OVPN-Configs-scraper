@@ -127,21 +127,21 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.73.214.202"
   },
-  "111.238.189.171": {
+  "220.212.128.195": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
     "region": "13",
     "regionName": "Tokyo",
-    "city": "Tagara",
-    "zip": "179-0071",
-    "lat": 35.7681,
-    "lon": 139.6258,
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
     "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "111.238.189.171"
+    "isp": "SoftBank Corp.",
+    "org": "ULTINA",
+    "as": "AS4725 SoftBank Corp.",
+    "query": "220.212.128.195"
   },
   "115.78.10.208": {
     "status": "success",
@@ -319,6 +319,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "59.9.4.63"
   },
+  "175.132.127.244": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "12",
+    "regionName": "Chiba",
+    "city": "Ichikawa",
+    "zip": "272-0031",
+    "lat": 35.7233,
+    "lon": 139.9132,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "175.132.127.244"
+  },
   "126.36.219.35": {
     "status": "success",
     "country": "Japan",
@@ -414,22 +430,6 @@
     "org": "Hong Kong Telecommunications (HKT) Limited",
     "as": "AS4760 HKT Limited",
     "query": "58.153.158.35"
-  },
-  "223.132.144.100": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Hachiōji",
-    "zip": "193-0931",
-    "lat": 35.6525,
-    "lon": 139.3227,
-    "timezone": "Asia/Tokyo",
-    "isp": "So-net Entertainment Corporation",
-    "org": "So-net Entertainment Corporation",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "223.132.144.100"
   },
   "122.203.244.115": {
     "status": "success",
@@ -559,22 +559,6 @@
     "as": "AS3226 OOO \"NI\"",
     "query": "217.29.181.61"
   },
-  "46.37.129.89": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PRI",
-    "regionName": "Primorye",
-    "city": "Vladivostok",
-    "zip": "690001",
-    "lat": 43.1068,
-    "lon": 131.8692,
-    "timezone": "Asia/Vladivostok",
-    "isp": "Krivets Sergey Sergeevich",
-    "org": "Vladlink LLC",
-    "as": "AS42038 Krivets Sergey Sergeevich",
-    "query": "46.37.129.89"
-  },
   "109.236.237.143": {
     "status": "success",
     "country": "Russia",
@@ -591,6 +575,22 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "109.236.237.143"
   },
+  "46.37.129.89": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Vladivostok",
+    "zip": "690001",
+    "lat": 43.1068,
+    "lon": 131.8692,
+    "timezone": "Asia/Vladivostok",
+    "isp": "Krivets Sergey Sergeevich",
+    "org": "Vladlink LLC",
+    "as": "AS42038 Krivets Sergey Sergeevich",
+    "query": "46.37.129.89"
+  },
   "49.170.102.232": {
     "status": "success",
     "country": "South Korea",
@@ -606,6 +606,22 @@
     "org": "LG POWERCOMM",
     "as": "AS17858 LG POWERCOMM",
     "query": "49.170.102.232"
+  },
+  "94.233.236.38": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "SE",
+    "regionName": "North Ossetia–Alania",
+    "city": "Vladikavkaz",
+    "zip": "362046",
+    "lat": 43.0357,
+    "lon": 44.6721,
+    "timezone": "Europe/Moscow",
+    "isp": "PJSC Rostelecom",
+    "org": "Macroregional South",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "94.233.236.38"
   },
   "37.139.98.221": {
     "status": "success",
