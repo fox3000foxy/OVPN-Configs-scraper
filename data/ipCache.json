@@ -159,22 +159,6 @@
     "as": "AS4685 Asahi Net",
     "query": "220.150.148.16"
   },
-  "126.235.87.202": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.235.87.202"
-  },
   "114.35.64.20": {
     "status": "success",
     "country": "Taiwan",
@@ -495,6 +479,22 @@
     "as": "AS17857 SK Broadband Co Ltd",
     "query": "122.254.148.83"
   },
+  "121.105.75.151": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "16",
+    "regionName": "Toyama",
+    "city": "Toyama",
+    "zip": "930-0851",
+    "lat": 36.7069,
+    "lon": 137.2129,
+    "timezone": "Asia/Tokyo",
+    "isp": "DION (KDDI CORPORATION)",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "121.105.75.151"
+  },
   "123.48.136.169": {
     "status": "success",
     "country": "Japan",
@@ -543,22 +543,6 @@
     "as": "AS28840 PJSC \"TATTELECOM\"",
     "query": "178.205.220.196"
   },
-  "121.188.176.14": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "43",
-    "regionName": "North Chungcheong",
-    "city": "Jecheon",
-    "zip": "271",
-    "lat": 37.14,
-    "lon": 128.2106,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Korea Telecom",
-    "as": "AS4766 Korea Telecom",
-    "query": "121.188.176.14"
-  },
   "183.104.75.19": {
     "status": "success",
     "country": "South Korea",
@@ -574,22 +558,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "183.104.75.19"
-  },
-  "42.118.79.226": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "56",
-    "regionName": "Bắc Ninh Province",
-    "city": "Bắc Ninh",
-    "zip": "016000",
-    "lat": 21.1858,
-    "lon": 106.0746,
-    "timezone": "Asia/Bangkok",
-    "isp": "FPT Telecom Company",
-    "org": "FPTDYNAMICIP",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "42.118.79.226"
   },
   "121.177.115.150": {
     "status": "success",
@@ -702,6 +670,22 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "61.99.38.160"
+  },
+  "71.232.175.139": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "MA",
+    "regionName": "Massachusetts",
+    "city": "Everett",
+    "zip": "02149",
+    "lat": 42.415,
+    "lon": -71.0527,
+    "timezone": "America/New_York",
+    "isp": "Comcast Cable Communications, LLC",
+    "org": "Comcast Cable Communications, Inc.",
+    "as": "AS7922 Comcast Cable Communications, LLC",
+    "query": "71.232.175.139"
   },
   "163.131.146.143": {
     "status": "success",
