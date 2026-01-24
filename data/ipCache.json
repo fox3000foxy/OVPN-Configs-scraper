@@ -239,22 +239,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "110.15.2.128"
   },
-  "77.82.48.63": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KAM",
-    "regionName": "Kamchatka",
-    "city": "Kozyrevsk",
-    "zip": "",
-    "lat": 56.1327,
-    "lon": 159.531,
-    "timezone": "Asia/Kamchatka",
-    "isp": "Rostelecom networks",
-    "org": "Rostelecom",
-    "as": "AS34974 PJSC Rostelecom. Kamchatka branch",
-    "query": "77.82.48.63"
-  },
   "219.100.37.102": {
     "status": "success",
     "country": "Japan",
@@ -318,6 +302,22 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.50"
+  },
+  "211.184.24.38": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Suwon",
+    "zip": "164",
+    "lat": 37.2872,
+    "lon": 127.0116,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "211.184.24.38"
   },
   "125.137.135.215": {
     "status": "success",
@@ -559,22 +559,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "220.74.125.89"
   },
-  "123.109.218.207": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Seoul",
-    "zip": "04524",
-    "lat": 37.5658,
-    "lon": 126.978,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "TBROAD JongnoJungguSeodaemunGangseo",
-    "as": "AS38095 SK Broadband Co Ltd",
-    "query": "123.109.218.207"
-  },
   "115.124.252.21": {
     "status": "success",
     "country": "Japan",
@@ -590,6 +574,22 @@
     "org": "QTnet, Inc.",
     "as": "AS7679 QTnet,Inc.",
     "query": "115.124.252.21"
+  },
+  "123.109.218.207": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Seoul",
+    "zip": "04524",
+    "lat": 37.5658,
+    "lon": 126.978,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "TBROAD JongnoJungguSeodaemunGangseo",
+    "as": "AS38095 SK Broadband Co Ltd",
+    "query": "123.109.218.207"
   },
   "211.224.156.100": {
     "status": "success",
@@ -654,22 +654,6 @@
     "org": "OJSC Sibirtelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "2.61.10.217"
-  },
-  "211.244.251.223": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Eunpyeong-gu",
-    "zip": "033",
-    "lat": 37.6053,
-    "lon": 126.9231,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "211.244.251.223"
   },
   "211.205.218.20": {
     "status": "success",
@@ -782,21 +766,5 @@
     "org": "OJSC Far Eastern Telecommunications Company",
     "as": "AS12389 PJSC Rostelecom",
     "query": "79.105.56.198"
-  },
-  "37.21.215.165": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "TOM",
-    "regionName": "Tomsk Oblast",
-    "city": "Tomsk",
-    "zip": "634009",
-    "lat": 56.4957,
-    "lon": 84.9636,
-    "timezone": "Asia/Tomsk",
-    "isp": "JSC Rostelecom regional branch \"Siberia\"",
-    "org": "JSC Rostelecom regional branch Siberia",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "37.21.215.165"
   }
 }
