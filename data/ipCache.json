@@ -127,22 +127,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.109"
   },
-  "47.149.157.124": {
-    "status": "success",
-    "country": "United States",
-    "countryCode": "US",
-    "region": "CA",
-    "regionName": "California",
-    "city": "Redondo Beach",
-    "zip": "90278",
-    "lat": 33.8697,
-    "lon": -118.3693,
-    "timezone": "America/Los_Angeles",
-    "isp": "Frontier Communications Corporation",
-    "org": "Frontier Communications Solutions",
-    "as": "AS5650 Frontier Communications of America, Inc.",
-    "query": "47.149.157.124"
-  },
   "50.47.103.146": {
     "status": "success",
     "country": "United States",
@@ -383,6 +367,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "59.9.4.63"
   },
+  "121.3.217.251": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Yao",
+    "zip": "581-0061",
+    "lat": 34.62,
+    "lon": 135.5894,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "121.3.217.251"
+  },
   "113.153.86.227": {
     "status": "success",
     "country": "Japan",
@@ -622,5 +622,37 @@
     "org": "TBROAD NakdongDongnamSeobusan",
     "as": "AS17857 SK Broadband Co Ltd",
     "query": "122.254.245.109"
+  },
+  "124.110.21.97": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "21",
+    "regionName": "Gifu",
+    "city": "Yamagata",
+    "zip": "502-0005",
+    "lat": 35.4762,
+    "lon": 136.772,
+    "timezone": "Asia/Tokyo",
+    "isp": "ARTERIA Networks Corporation",
+    "org": "ARTERIA Networks Corporation",
+    "as": "AS2519 ARTERIA Networks Corporation",
+    "query": "124.110.21.97"
+  },
+  "94.78.220.245": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KYA",
+    "regionName": "Krasnoyarsk Krai",
+    "city": "Krasnoyarsk",
+    "zip": "660049",
+    "lat": 56.0374,
+    "lon": 92.9314,
+    "timezone": "Asia/Krasnoyarsk",
+    "isp": "Rostelecom networks",
+    "org": "",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "94.78.220.245"
   }
 }
