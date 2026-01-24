@@ -559,22 +559,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.119.224.202"
   },
-  "39.111.1.5": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "12",
-    "regionName": "Chiba",
-    "city": "Chiba",
-    "zip": "260-0021",
-    "lat": 35.6029,
-    "lon": 140.1187,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "39.111.1.5"
-  },
   "5.137.210.152": {
     "status": "success",
     "country": "Russia",
@@ -750,22 +734,6 @@
     "org": "",
     "as": "AS12389 PJSC Rostelecom",
     "query": "95.70.32.205"
-  },
-  "212.164.25.1": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "OMS",
-    "regionName": "Omsk Oblast",
-    "city": "Omsk",
-    "zip": "644000",
-    "lat": 54.9896,
-    "lon": 73.3729,
-    "timezone": "Asia/Omsk",
-    "isp": "PJSC Rostelecom",
-    "org": "OJSC Sibirtelecom",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "212.164.25.1"
   },
   "212.164.27.48": {
     "status": "success",
