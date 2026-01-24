@@ -68,12 +68,6 @@ Or download individually:
 | 182.20.181.118 | Japan | TOKAI Communications Corporation | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/182.20.181.118.ovpn) |
 
 
-### Portugal
-| IP | Country | ISP | Provider | Config |
-|---|---|---|---|---|
-| 85.246.214.15 | Portugal | PT Comunicacoes S.A. | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/85.246.214.15.ovpn) |
-
-
 ### South Korea
 | IP | Country | ISP | Provider | Config |
 |---|---|---|---|---|

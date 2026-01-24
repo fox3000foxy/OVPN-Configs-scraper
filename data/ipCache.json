@@ -527,22 +527,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.188.176.14"
   },
-  "141.223.28.159": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "47",
-    "regionName": "Gyeongsangbuk-do",
-    "city": "Pohang",
-    "zip": "377",
-    "lat": 36.0342,
-    "lon": 129.3707,
-    "timezone": "Asia/Seoul",
-    "isp": "Pohang University of Science and Technology",
-    "org": "Postech",
-    "as": "AS3784 Pohang University of Science and Technology",
-    "query": "141.223.28.159"
-  },
   "176.193.230.49": {
     "status": "success",
     "country": "Russia",
@@ -558,6 +542,22 @@
     "org": "Net By Net Holding LLC",
     "as": "AS12714 PJSC MegaFon",
     "query": "176.193.230.49"
+  },
+  "141.223.28.159": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "47",
+    "regionName": "Gyeongsangbuk-do",
+    "city": "Pohang",
+    "zip": "377",
+    "lat": 36.0342,
+    "lon": 129.3707,
+    "timezone": "Asia/Seoul",
+    "isp": "Pohang University of Science and Technology",
+    "org": "Postech",
+    "as": "AS3784 Pohang University of Science and Technology",
+    "query": "141.223.28.159"
   },
   "183.104.75.19": {
     "status": "success",
@@ -590,22 +590,6 @@
     "org": "JSC \"ER-Telecom Holding\" Penza Branch",
     "as": "AS41754 JSC ER-Telecom Holding",
     "query": "37.112.27.102"
-  },
-  "85.246.214.15": {
-    "status": "success",
-    "country": "Portugal",
-    "countryCode": "PT",
-    "region": "11",
-    "regionName": "Lisbon",
-    "city": "Azambuja",
-    "zip": "2050-248",
-    "lat": 39.0693,
-    "lon": -8.8631,
-    "timezone": "Europe/Lisbon",
-    "isp": "PT Comunicacoes S.A.",
-    "org": "PT Comunicacoes S.A.",
-    "as": "AS3243 MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.",
-    "query": "85.246.214.15"
   },
   "86.102.21.67": {
     "status": "success",
