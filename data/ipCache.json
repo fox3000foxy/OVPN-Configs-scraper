@@ -447,22 +447,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "111.107.47.57"
   },
-  "59.138.128.157": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0071",
-    "lat": 35.6837,
-    "lon": 139.6805,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "59.138.128.157"
-  },
   "5.137.210.152": {
     "status": "success",
     "country": "Russia",
@@ -542,6 +526,22 @@
     "org": "STARCAT CABLE NETWORK Co ., LTD.",
     "as": "AS17529 STARCAT Co .,LTD.",
     "query": "61.211.140.202"
+  },
+  "217.178.138.250": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Setagaya City",
+    "zip": "154-0011",
+    "lat": 35.6413,
+    "lon": 139.6662,
+    "timezone": "Asia/Tokyo",
+    "isp": "Internet Multifeed CO.",
+    "org": "Internet Multifeed CO.",
+    "as": "AS55391 INTERNET MULTIFEED CO.",
+    "query": "217.178.138.250"
   },
   "220.74.125.89": {
     "status": "success",
