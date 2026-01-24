@@ -143,22 +143,6 @@
     "as": "AS3462 Data Communication Business Group",
     "query": "114.35.64.20"
   },
-  "119.228.132.167": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Hirakata",
-    "zip": "573-0011",
-    "lat": 34.8052,
-    "lon": 135.6689,
-    "timezone": "Asia/Tokyo",
-    "isp": "OPTAGE Inc.",
-    "org": "OPTAGE Inc.",
-    "as": "AS17511 OPTAGE Inc.",
-    "query": "119.228.132.167"
-  },
   "1.66.34.134": {
     "status": "success",
     "country": "Japan",
@@ -383,6 +367,22 @@
     "as": "AS2518 BIGLOBE Inc.",
     "query": "118.108.56.233"
   },
+  "126.79.124.253": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.79.124.253"
+  },
   "122.254.148.83": {
     "status": "success",
     "country": "South Korea",
@@ -431,21 +431,21 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.149.114.11"
   },
-  "123.48.136.169": {
+  "126.79.197.198": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "22",
-    "regionName": "Shizuoka",
-    "city": "Hamamatsu",
-    "zip": "430-0921",
-    "lat": 34.699,
-    "lon": 137.7337,
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
     "timezone": "Asia/Tokyo",
-    "isp": "Chubu Telecommunications Company, Inc.",
-    "org": "Chubu Telecommunications Co., Inc.",
-    "as": "AS18126 Chubu Telecommunications Company, Inc.",
-    "query": "123.48.136.169"
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.79.197.198"
   },
   "178.205.220.196": {
     "status": "success",
