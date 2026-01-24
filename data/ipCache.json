@@ -303,22 +303,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "175.132.127.244"
   },
-  "126.36.219.35": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.36.219.35"
-  },
   "118.36.15.104": {
     "status": "success",
     "country": "South Korea",
@@ -334,6 +318,22 @@
     "org": "Sudogwonseobubonbu",
     "as": "AS4766 Korea Telecom",
     "query": "118.36.15.104"
+  },
+  "126.36.219.35": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.36.219.35"
   },
   "114.161.4.252": {
     "status": "success",
@@ -558,22 +558,6 @@
     "org": "",
     "as": "AS25591 BCLan LLC",
     "query": "217.175.1.159"
-  },
-  "46.37.129.89": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PRI",
-    "regionName": "Primorye",
-    "city": "Vladivostok",
-    "zip": "690001",
-    "lat": 43.1068,
-    "lon": 131.8692,
-    "timezone": "Asia/Vladivostok",
-    "isp": "Krivets Sergey Sergeevich",
-    "org": "Vladlink LLC",
-    "as": "AS42038 Krivets Sergey Sergeevich",
-    "query": "46.37.129.89"
   },
   "109.236.237.143": {
     "status": "success",
