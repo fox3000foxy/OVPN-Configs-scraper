@@ -543,22 +543,6 @@
     "as": "AS17858 LG POWERCOMM",
     "query": "14.7.11.249"
   },
-  "217.29.181.61": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "UD",
-    "regionName": "Udmurtiya Republic",
-    "city": "Izhevsk",
-    "zip": "426006",
-    "lat": 56.85,
-    "lon": 53.2025,
-    "timezone": "Europe/Samara",
-    "isp": "MARK-ITT",
-    "org": "",
-    "as": "AS3226 OOO \"NI\"",
-    "query": "217.29.181.61"
-  },
   "109.236.237.143": {
     "status": "success",
     "country": "Russia",
@@ -574,22 +558,6 @@
     "org": "Rostelecom networks",
     "as": "AS12389 PJSC Rostelecom",
     "query": "109.236.237.143"
-  },
-  "46.37.129.89": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PRI",
-    "regionName": "Primorye",
-    "city": "Vladivostok",
-    "zip": "690001",
-    "lat": 43.1068,
-    "lon": 131.8692,
-    "timezone": "Asia/Vladivostok",
-    "isp": "Krivets Sergey Sergeevich",
-    "org": "Vladlink LLC",
-    "as": "AS42038 Krivets Sergey Sergeevich",
-    "query": "46.37.129.89"
   },
   "49.170.102.232": {
     "status": "success",
