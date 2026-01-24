@@ -191,22 +191,6 @@
     "as": "AS17858 LG POWERCOMM",
     "query": "49.167.12.160"
   },
-  "14.14.148.93": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tama",
-    "zip": "206-0011",
-    "lat": 35.6524,
-    "lon": 139.4594,
-    "timezone": "Asia/Tokyo",
-    "isp": "TTV",
-    "org": "Kddi Corporation",
-    "as": "AS131933 TAMA Television Co., Ltd",
-    "query": "14.14.148.93"
-  },
   "211.198.67.197": {
     "status": "success",
     "country": "South Korea",
@@ -382,6 +366,22 @@
     "org": "NTT Communications Corporation",
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "114.185.25.139"
+  },
+  "118.241.184.72": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Nukui",
+    "zip": "176-0021",
+    "lat": 35.7366,
+    "lon": 139.6335,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc.",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "118.241.184.72"
   },
   "59.7.207.18": {
     "status": "success",
