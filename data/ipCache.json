@@ -703,22 +703,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "95.190.186.24"
   },
-  "174.65.47.38": {
-    "status": "success",
-    "country": "United States",
-    "countryCode": "US",
-    "region": "CA",
-    "regionName": "California",
-    "city": "San Diego",
-    "zip": "92102",
-    "lat": 32.7097,
-    "lon": -117.1228,
-    "timezone": "America/Los_Angeles",
-    "isp": "Cox Communications Inc.",
-    "org": "Cox Communications",
-    "as": "AS22773 Cox Communications Inc.",
-    "query": "174.65.47.38"
-  },
   "213.135.154.28": {
     "status": "success",
     "country": "Russia",

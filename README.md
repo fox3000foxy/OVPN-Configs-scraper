@@ -109,12 +109,6 @@ Or download individually:
 | 37.139.98.221 | Ukraine | Lancom Ltd. | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/37.139.98.221.ovpn) |
 
 
-### United States
-| IP | Country | ISP | Provider | Config |
-|---|---|---|---|---|
-| 174.65.47.38 | United States | Cox Communications Inc. | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/174.65.47.38.ovpn) |
-
-
 ### Vietnam
 | IP | Country | ISP | Provider | Config |
 |---|---|---|---|---|
