@@ -223,22 +223,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.246.154.63"
   },
-  "1.21.121.201": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Suita",
-    "zip": "564-0041",
-    "lat": 34.7614,
-    "lon": 135.516,
-    "timezone": "Asia/Tokyo",
-    "isp": "ARTERIA Networks Corporation",
-    "org": "Marubeni Access Solutions Inc.",
-    "as": "AS2519 ARTERIA Networks Corporation",
-    "query": "1.21.121.201"
-  },
   "1.66.34.134": {
     "status": "success",
     "country": "Japan",
@@ -254,6 +238,22 @@
     "org": "NTTDoCoMo",
     "as": "AS9605 NTT DOCOMO, INC.",
     "query": "1.66.34.134"
+  },
+  "1.21.121.201": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Suita",
+    "zip": "564-0041",
+    "lat": 34.7614,
+    "lon": 135.516,
+    "timezone": "Asia/Tokyo",
+    "isp": "ARTERIA Networks Corporation",
+    "org": "Marubeni Access Solutions Inc.",
+    "as": "AS2519 ARTERIA Networks Corporation",
+    "query": "1.21.121.201"
   },
   "219.100.37.102": {
     "status": "success",
@@ -495,22 +495,6 @@
     "as": "AS6327 Shaw Communications",
     "query": "70.77.244.177"
   },
-  "211.228.134.249": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "27",
-    "regionName": "Daegu",
-    "city": "Suseong-gu",
-    "zip": "420",
-    "lat": 35.8699,
-    "lon": 128.6314,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "211.228.134.249"
-  },
   "221.163.229.60": {
     "status": "success",
     "country": "South Korea",
@@ -607,22 +591,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.179.83.6"
   },
-  "118.71.36.23": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "HN",
-    "regionName": "Hanoi",
-    "city": "Hanoi",
-    "zip": "",
-    "lat": 21.0278,
-    "lon": 105.834,
-    "timezone": "Asia/Bangkok",
-    "isp": "FPT Telecom Company",
-    "org": "FPTDYNAMICIP",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "118.71.36.23"
-  },
   "116.34.216.160": {
     "status": "success",
     "country": "South Korea",
@@ -655,22 +623,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "218.235.89.115"
   },
-  "95.70.120.124": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KHA",
-    "regionName": "Khabarovsk",
-    "city": "Teysin",
-    "zip": "",
-    "lat": 49.9707,
-    "lon": 136.4347,
-    "timezone": "Asia/Vladivostok",
-    "isp": "PJSC Rostelecom",
-    "org": "KHT Xdsl",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "95.70.120.124"
-  },
   "85.28.229.240": {
     "status": "success",
     "country": "Russia",
@@ -686,6 +638,22 @@
     "org": "Far East Telecommunications Company",
     "as": "AS12389 PJSC Rostelecom",
     "query": "85.28.229.240"
+  },
+  "95.70.120.124": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KHA",
+    "regionName": "Khabarovsk",
+    "city": "Teysin",
+    "zip": "",
+    "lat": 49.9707,
+    "lon": 136.4347,
+    "timezone": "Asia/Vladivostok",
+    "isp": "PJSC Rostelecom",
+    "org": "KHT Xdsl",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "95.70.120.124"
   },
   "123.248.70.237": {
     "status": "success",
@@ -798,21 +766,5 @@
     "org": "Teledyne Systems Limited",
     "as": "AS41789 LLC Teledyne Systems Limited",
     "query": "159.255.6.49"
-  },
-  "5.143.98.189": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PRI",
-    "regionName": "Primorye",
-    "city": "Vladivostok",
-    "zip": "690001",
-    "lat": 43.1068,
-    "lon": 131.8692,
-    "timezone": "Asia/Vladivostok",
-    "isp": "PJSC Rostelecom",
-    "org": "PJSC Rostelecom Far East Region",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "5.143.98.189"
   }
 }
