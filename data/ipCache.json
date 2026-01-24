@@ -527,22 +527,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.79.67.234"
   },
-  "121.164.172.207": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Yangju",
-    "zip": "114",
-    "lat": 37.8119,
-    "lon": 127.08,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "121.164.172.207"
-  },
   "119.106.76.185": {
     "status": "success",
     "country": "Japan",
@@ -623,6 +607,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "59.27.196.122"
   },
+  "220.74.125.89": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Ansan-si",
+    "zip": "15345",
+    "lat": 37.3253,
+    "lon": 126.8178,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "KORNET",
+    "as": "AS4766 Korea Telecom",
+    "query": "220.74.125.89"
+  },
   "119.200.8.173": {
     "status": "success",
     "country": "South Korea",
@@ -654,6 +654,22 @@
     "org": "",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "110.14.252.60"
+  },
+  "115.124.252.21": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "44",
+    "regionName": "Oita",
+    "city": "Ōita",
+    "zip": "870-0831",
+    "lat": 33.229,
+    "lon": 131.6039,
+    "timezone": "Asia/Tokyo",
+    "isp": "QTnet, Inc.",
+    "org": "QTnet, Inc.",
+    "as": "AS7679 QTnet,Inc.",
+    "query": "115.124.252.21"
   },
   "112.218.21.132": {
     "status": "success",
