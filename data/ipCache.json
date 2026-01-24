@@ -207,22 +207,6 @@
     "as": "AS9605 NTT DOCOMO, INC.",
     "query": "1.66.34.134"
   },
-  "49.174.10.156": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Yongin-si",
-    "zip": "169",
-    "lat": 37.298,
-    "lon": 127.0777,
-    "timezone": "Asia/Seoul",
-    "isp": "LG POWERCOMM",
-    "org": "LG POWERCOMM",
-    "as": "AS17858 LG POWERCOMM",
-    "query": "49.174.10.156"
-  },
   "49.167.12.160": {
     "status": "success",
     "country": "South Korea",
@@ -238,6 +222,22 @@
     "org": "LG POWERCOMM",
     "as": "AS17858 LG POWERCOMM",
     "query": "49.167.12.160"
+  },
+  "49.174.10.156": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Yongin-si",
+    "zip": "169",
+    "lat": 37.298,
+    "lon": 127.0777,
+    "timezone": "Asia/Seoul",
+    "isp": "LG POWERCOMM",
+    "org": "LG POWERCOMM",
+    "as": "AS17858 LG POWERCOMM",
+    "query": "49.174.10.156"
   },
   "119.196.49.82": {
     "status": "success",
@@ -383,22 +383,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "218.148.187.249"
   },
-  "61.44.175.142": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "01",
-    "regionName": "Hokkaido",
-    "city": "Hakodate",
-    "zip": "040-0071",
-    "lat": 41.7974,
-    "lon": 140.7298,
-    "timezone": "Asia/Tokyo",
-    "isp": "NCV",
-    "org": "New Media Co., Ltd",
-    "as": "AS59127 Newmedia Corporation",
-    "query": "61.44.175.142"
-  },
   "106.150.72.118": {
     "status": "success",
     "country": "Japan",
@@ -463,6 +447,22 @@
     "as": "AS18126 Chubu Telecommunications Company, Inc.",
     "query": "180.199.188.248"
   },
+  "5.145.235.170": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "SMO",
+    "regionName": "Smolensk Oblast",
+    "city": "Smolensk",
+    "zip": "214034",
+    "lat": 54.7816,
+    "lon": 32.0455,
+    "timezone": "Europe/Moscow",
+    "isp": "SMOLTELECOM",
+    "org": "",
+    "as": "AS44265 OOO Smoltelecom",
+    "query": "5.145.235.170"
+  },
   "175.135.210.151": {
     "status": "success",
     "country": "Japan",
@@ -494,6 +494,22 @@
     "org": "MCN",
     "as": "AS17939 miyazaki cabletelevision network Co.,LTD",
     "query": "150.91.221.239"
+  },
+  "118.240.3.52": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "12",
+    "regionName": "Chiba",
+    "city": "Ichikawa",
+    "zip": "272-0811",
+    "lat": 35.7203,
+    "lon": 139.947,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "118.240.3.52"
   },
   "58.232.223.120": {
     "status": "success",
@@ -607,22 +623,6 @@
     "as": "AS17858 LG POWERCOMM",
     "query": "122.32.78.34"
   },
-  "210.157.192.222": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "12",
-    "regionName": "Chiba",
-    "city": "Narashino",
-    "zip": "275-0013",
-    "lat": 35.6818,
-    "lon": 140.042,
-    "timezone": "Asia/Tokyo",
-    "isp": "Rakuten Mobile, Inc.",
-    "org": "RMN",
-    "as": "AS138384 Rakuten Mobile Network, Inc.",
-    "query": "210.157.192.222"
-  },
   "178.187.96.201": {
     "status": "success",
     "country": "Russia",
@@ -702,53 +702,5 @@
     "org": "",
     "as": "AS44724 Octopusnet LTD",
     "query": "95.154.65.250"
-  },
-  "77.34.95.220": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PRI",
-    "regionName": "Primorye",
-    "city": "Vladivostok",
-    "zip": "690001",
-    "lat": 43.1068,
-    "lon": 131.8692,
-    "timezone": "Asia/Vladivostok",
-    "isp": "Rostelecom networks",
-    "org": "",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "77.34.95.220"
-  },
-  "46.158.202.91": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KDA",
-    "regionName": "Krasnodar Krai",
-    "city": "Adler",
-    "zip": "354393",
-    "lat": 43.429,
-    "lon": 39.9239,
-    "timezone": "Europe/Moscow",
-    "isp": "OJSC Rostelecom Macroregional Branch South",
-    "org": "OJSC Rostelecom Macroregional Branch South",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "46.158.202.91"
-  },
-  "109.170.28.110": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "MOW",
-    "regionName": "Moscow",
-    "city": "Moscow",
-    "zip": "144700",
-    "lat": 55.7558,
-    "lon": 37.6173,
-    "timezone": "Europe/Moscow",
-    "isp": "PJSC MegaFon",
-    "org": "TI BB",
-    "as": "AS12714 PJSC MegaFon",
-    "query": "109.170.28.110"
   }
 }
