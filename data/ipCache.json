@@ -703,6 +703,22 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "93.177.21.198"
   },
+  "79.105.249.54": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "AMU",
+    "regionName": "Amur Oblast",
+    "city": "Belogorsk",
+    "zip": "676850",
+    "lat": 50.9124,
+    "lon": 128.5124,
+    "timezone": "Asia/Yakutsk",
+    "isp": "Rostelecom networks",
+    "org": "OJSC Far Eastern Telecommunications Company Amursky st.",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "79.105.249.54"
+  },
   "31.129.4.226": {
     "status": "success",
     "country": "Russia",
@@ -718,37 +734,5 @@
     "org": "Teledyne Systems Limited",
     "as": "AS41789 LLC Teledyne Systems Limited",
     "query": "31.129.4.226"
-  },
-  "159.255.6.49": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "AMU",
-    "regionName": "Amur Oblast",
-    "city": "Blagoveshchensk",
-    "zip": "675000",
-    "lat": 50.2828,
-    "lon": 127.5299,
-    "timezone": "Asia/Yakutsk",
-    "isp": "LLC Teledyne Systems Limited",
-    "org": "Teledyne Systems Limited",
-    "as": "AS41789 LLC Teledyne Systems Limited",
-    "query": "159.255.6.49"
-  },
-  "5.143.98.189": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PRI",
-    "regionName": "Primorye",
-    "city": "Vladivostok",
-    "zip": "690001",
-    "lat": 43.1068,
-    "lon": 131.8692,
-    "timezone": "Asia/Vladivostok",
-    "isp": "PJSC Rostelecom",
-    "org": "PJSC Rostelecom Far East Region",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "5.143.98.189"
   }
 }
