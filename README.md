@@ -68,7 +68,6 @@ Or download individually:
 | 219.100.37.16 | Japan | SoftEther | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/219.100.37.16.ovpn) |
 | 219.100.37.204 | Japan | SoftEther | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/219.100.37.204.ovpn) |
 | 219.100.37.102 | Japan | SoftEther | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/219.100.37.102.ovpn) |
-| 219.100.37.50 | Japan | SoftEther | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/219.100.37.50.ovpn) |
 | 163.131.146.143 | Japan | Tokyo Bay Network Co., Ltd. | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/163.131.146.143.ovpn) |
 
 
@@ -85,7 +84,7 @@ Or download individually:
 | 59.28.247.22 | South Korea | Korea Telecom | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/59.28.247.22.ovpn) |
 | 211.205.56.227 | South Korea | SK Broadband Co Ltd | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/211.205.56.227.ovpn) |
 | 122.254.148.83 | South Korea | SK Broadband Co Ltd | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/122.254.148.83.ovpn) |
-| 218.53.252.205 | South Korea | SK Broadband Co Ltd | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/218.53.252.205.ovpn) |
+| 211.117.250.203 | South Korea | SK Broadband Co Ltd | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/211.117.250.203.ovpn) |
 | 118.222.200.243 | South Korea | SK Broadband Co Ltd | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/118.222.200.243.ovpn) |
 | 61.99.38.160 | South Korea | SK Broadband Co Ltd | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/61.99.38.160.ovpn) |
 
@@ -94,6 +93,12 @@ Or download individually:
 | IP | Country | ISP | Provider | Config |
 |---|---|---|---|---|
 | 114.35.64.20 | Taiwan | Chunghwa Telecom Co., Ltd. | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/114.35.64.20.ovpn) |
+
+
+### Thailand
+| IP | Country | ISP | Provider | Config |
+|---|---|---|---|---|
+| 184.22.172.130 | Thailand | AIS-Fibre | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/184.22.172.130.ovpn) |
 
 
 ### United States
