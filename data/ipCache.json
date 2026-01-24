@@ -718,21 +718,5 @@
     "org": "",
     "as": "AS44724 Octopusnet LTD",
     "query": "95.154.65.250"
-  },
-  "77.34.95.220": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PRI",
-    "regionName": "Primorye",
-    "city": "Vladivostok",
-    "zip": "690001",
-    "lat": 43.1068,
-    "lon": 131.8692,
-    "timezone": "Asia/Vladivostok",
-    "isp": "Rostelecom networks",
-    "org": "",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "77.34.95.220"
   }
 }
