@@ -95,6 +95,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.15"
   },
+  "219.100.37.16": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftEther",
+    "org": "SoftEther Corporation",
+    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
+    "query": "219.100.37.16"
+  },
   "219.100.37.109": {
     "status": "success",
     "country": "Japan",
@@ -142,6 +158,22 @@
     "org": "ASAHI",
     "as": "AS4685 Asahi Net",
     "query": "220.150.148.16"
+  },
+  "126.235.87.202": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.235.87.202"
   },
   "114.35.64.20": {
     "status": "success",
@@ -463,22 +495,6 @@
     "as": "AS17857 SK Broadband Co Ltd",
     "query": "122.254.148.83"
   },
-  "121.105.75.151": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "16",
-    "regionName": "Toyama",
-    "city": "Toyama",
-    "zip": "930-0851",
-    "lat": 36.7069,
-    "lon": 137.2129,
-    "timezone": "Asia/Tokyo",
-    "isp": "DION (KDDI CORPORATION)",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "121.105.75.151"
-  },
   "123.48.136.169": {
     "status": "success",
     "country": "Japan",
@@ -687,22 +703,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "61.99.38.160"
   },
-  "71.232.175.139": {
-    "status": "success",
-    "country": "United States",
-    "countryCode": "US",
-    "region": "MA",
-    "regionName": "Massachusetts",
-    "city": "Everett",
-    "zip": "02149",
-    "lat": 42.415,
-    "lon": -71.0527,
-    "timezone": "America/New_York",
-    "isp": "Comcast Cable Communications, LLC",
-    "org": "Comcast Cable Communications, Inc.",
-    "as": "AS7922 Comcast Cable Communications, LLC",
-    "query": "71.232.175.139"
-  },
   "163.131.146.143": {
     "status": "success",
     "country": "Japan",
@@ -750,21 +750,5 @@
     "org": "",
     "as": "AS12389 PJSC Rostelecom",
     "query": "94.245.131.69"
-  },
-  "180.230.179.174": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "44",
-    "regionName": "Chungcheongnam-do",
-    "city": "Hongseong-gun",
-    "zip": "322",
-    "lat": 36.5671,
-    "lon": 126.6263,
-    "timezone": "Asia/Seoul",
-    "isp": "LG POWERCOMM",
-    "org": "LG POWERCOMM",
-    "as": "AS17858 LG POWERCOMM",
-    "query": "180.230.179.174"
   }
 }
