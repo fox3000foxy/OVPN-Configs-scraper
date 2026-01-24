@@ -303,22 +303,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "175.132.127.244"
   },
-  "118.36.15.104": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Anyang-si",
-    "zip": "140",
-    "lat": 37.3907,
-    "lon": 126.9167,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Sudogwonseobubonbu",
-    "as": "AS4766 Korea Telecom",
-    "query": "118.36.15.104"
-  },
   "126.36.219.35": {
     "status": "success",
     "country": "Japan",
@@ -334,6 +318,22 @@
     "org": "SOFTBANK Corp",
     "as": "AS17676 SoftBank Corp.",
     "query": "126.36.219.35"
+  },
+  "118.36.15.104": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Anyang-si",
+    "zip": "140",
+    "lat": 37.3907,
+    "lon": 126.9167,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Sudogwonseobubonbu",
+    "as": "AS4766 Korea Telecom",
+    "query": "118.36.15.104"
   },
   "114.161.4.252": {
     "status": "success",
