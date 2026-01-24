@@ -159,22 +159,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.113.239.82"
   },
-  "220.156.207.33": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "38",
-    "regionName": "Ehime",
-    "city": "Matsuyama",
-    "zip": "790-0001",
-    "lat": 33.8365,
-    "lon": 132.742,
-    "timezone": "Asia/Tokyo",
-    "isp": "EHIME CATV CO., LTD.",
-    "org": "Ehime Catv Co., ltd.",
-    "as": "AS18260 EHIME CATV CO.,LTD.",
-    "query": "220.156.207.33"
-  },
   "126.1.42.49": {
     "status": "success",
     "country": "Japan",
@@ -206,6 +190,22 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "114.204.37.77"
+  },
+  "116.67.212.245": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Edogawa City",
+    "zip": "100-8629",
+    "lat": 35.6907,
+    "lon": 139.8767,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "116.67.212.245"
   },
   "1.246.154.63": {
     "status": "success",
@@ -350,6 +350,22 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "113.145.237.167"
+  },
+  "109.110.46.232": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Vladivostok",
+    "zip": "690001",
+    "lat": 43.1068,
+    "lon": 131.8692,
+    "timezone": "Asia/Vladivostok",
+    "isp": "Podryad Nets",
+    "org": "",
+    "as": "AS196949 Natalia Sergeevna Filicheva",
+    "query": "109.110.46.232"
   },
   "184.22.232.179": {
     "status": "success",
@@ -543,21 +559,21 @@
     "as": "AS35032 LLC SIP NIS",
     "query": "109.124.244.66"
   },
-  "221.145.8.220": {
+  "175.113.226.10": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
     "region": "11",
     "regionName": "Seoul",
-    "city": "Nowon-gu",
-    "zip": "016",
-    "lat": 37.6576,
-    "lon": 127.072,
+    "city": "Seoul",
+    "zip": "04524",
+    "lat": 37.5658,
+    "lon": 126.978,
     "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "221.145.8.220"
+    "isp": "SK Broadband Co Ltd",
+    "org": "SK Broadband Co Ltd",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "175.113.226.10"
   },
   "211.236.127.136": {
     "status": "success",
@@ -735,22 +751,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "5.143.52.81"
   },
-  "178.155.48.73": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "AMU",
-    "regionName": "Amur Oblast",
-    "city": "Blagoveshchensk",
-    "zip": "675000",
-    "lat": 50.2828,
-    "lon": 127.5299,
-    "timezone": "Asia/Yakutsk",
-    "isp": "MTS PJSC",
-    "org": "MTS Broadband",
-    "as": "AS8359 MTS PJSC",
-    "query": "178.155.48.73"
-  },
   "31.129.4.226": {
     "status": "success",
     "country": "Russia",
@@ -814,37 +814,5 @@
     "org": "PJSC Rostelecom Far East Region",
     "as": "AS12389 PJSC Rostelecom",
     "query": "5.143.98.189"
-  },
-  "5.143.111.119": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PRI",
-    "regionName": "Primorye",
-    "city": "Vladivostok",
-    "zip": "690001",
-    "lat": 43.1068,
-    "lon": 131.8692,
-    "timezone": "Asia/Vladivostok",
-    "isp": "PJSC Rostelecom Far East Region",
-    "org": "Rostelecom Nets",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "5.143.111.119"
-  },
-  "77.35.170.253": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PRI",
-    "regionName": "Primorye",
-    "city": "Vladivostok",
-    "zip": "690001",
-    "lat": 43.1068,
-    "lon": 131.8692,
-    "timezone": "Asia/Vladivostok",
-    "isp": "Rostelecom networks",
-    "org": "",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "77.35.170.253"
   }
 }
