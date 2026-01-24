@@ -223,6 +223,22 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "110.15.2.128"
   },
+  "185.124.155.182": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "NVS",
+    "regionName": "Novosibirsk Oblast",
+    "city": "Novosibirsk",
+    "zip": "",
+    "lat": 54.9833,
+    "lon": 82.8964,
+    "timezone": "Asia/Novosibirsk",
+    "isp": "KrasPromStroy, LLC",
+    "org": "",
+    "as": "AS12737 KrasPromStroy, LLC",
+    "query": "185.124.155.182"
+  },
   "182.172.122.57": {
     "status": "success",
     "country": "South Korea",
@@ -270,6 +286,22 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.50"
+  },
+  "122.223.24.93": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tokyo",
+    "zip": "151-0071",
+    "lat": 35.6837,
+    "lon": 139.6805,
+    "timezone": "Asia/Tokyo",
+    "isp": "ARTERIA Networks Corporation",
+    "org": "ARTERIA Networks Corporation",
+    "as": "AS2519 ARTERIA Networks Corporation",
+    "query": "122.223.24.93"
   },
   "101.128.133.100": {
     "status": "success",
@@ -399,6 +431,22 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.95.114.100"
   },
+  "61.44.175.142": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "01",
+    "regionName": "Hokkaido",
+    "city": "Hakodate",
+    "zip": "040-0071",
+    "lat": 41.7974,
+    "lon": 140.7298,
+    "timezone": "Asia/Tokyo",
+    "isp": "NCV",
+    "org": "New Media Co., Ltd",
+    "as": "AS59127 Newmedia Corporation",
+    "query": "61.44.175.142"
+  },
   "126.79.67.234": {
     "status": "success",
     "country": "Japan",
@@ -478,22 +526,6 @@
     "org": "SOFTBANK Corp",
     "as": "AS17676 SoftBank Corp.",
     "query": "126.125.91.220"
-  },
-  "5.145.235.170": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "SMO",
-    "regionName": "Smolensk Oblast",
-    "city": "Smolensk",
-    "zip": "214034",
-    "lat": 54.7816,
-    "lon": 32.0455,
-    "timezone": "Europe/Moscow",
-    "isp": "SMOLTELECOM",
-    "org": "",
-    "as": "AS44265 OOO Smoltelecom",
-    "query": "5.145.235.170"
   },
   "60.119.224.202": {
     "status": "success",
@@ -591,22 +623,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "94.245.148.65"
   },
-  "59.27.196.122": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "44",
-    "regionName": "Chungcheongnam-do",
-    "city": "Cheonan",
-    "zip": "311",
-    "lat": 36.8151,
-    "lon": 127.0944,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "59.27.196.122"
-  },
   "119.200.8.173": {
     "status": "success",
     "country": "South Korea",
@@ -639,22 +655,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "110.14.252.60"
   },
-  "188.232.164.188": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "OMS",
-    "regionName": "Omsk Oblast",
-    "city": "Omsk",
-    "zip": "644000",
-    "lat": 54.9896,
-    "lon": 73.3729,
-    "timezone": "Asia/Omsk",
-    "isp": "JSC \"ER-Telecom Holding\"",
-    "org": "CJSC \"ER-Telecom Holding\" Omsk Branch",
-    "as": "AS41843 JSC ER-Telecom Holding",
-    "query": "188.232.164.188"
-  },
   "112.218.21.132": {
     "status": "success",
     "country": "South Korea",
@@ -670,22 +670,6 @@
     "org": "LG Uplus",
     "as": "AS3786 LG DACOM Corporation",
     "query": "112.218.21.132"
-  },
-  "116.46.241.88": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Gangnam-gu",
-    "zip": "063",
-    "lat": 37.4854,
-    "lon": 127.0524,
-    "timezone": "Asia/Seoul",
-    "isp": "LG POWERCOMM",
-    "org": "Xpeed",
-    "as": "AS17858 LG POWERCOMM",
-    "query": "116.46.241.88"
   },
   "85.15.105.74": {
     "status": "success",
@@ -734,6 +718,22 @@
     "org": "",
     "as": "AS8369 Intersvyaz-2 JSC",
     "query": "37.140.24.30"
+  },
+  "213.59.162.200": {
+    "status": "success",
+    "country": "Ukraine",
+    "countryCode": "UA",
+    "region": "40",
+    "regionName": "Sebastopol City",
+    "city": "Sevastopol",
+    "zip": "90022",
+    "lat": 44.6089,
+    "lon": 33.53,
+    "timezone": "Europe/Simferopol",
+    "isp": "JSC Sevastopol Telekom",
+    "org": "JSC Sevastopol Telekom",
+    "as": "AS59833 JSC Sevastopol Telekom",
+    "query": "213.59.162.200"
   },
   "2.61.10.217": {
     "status": "success",
@@ -846,5 +846,37 @@
     "org": "ARTERIA Networks Corporation",
     "as": "AS2519 ARTERIA Networks Corporation",
     "query": "120.51.214.253"
+  },
+  "79.105.56.198": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "AMU",
+    "regionName": "Amur Oblast",
+    "city": "Blagoveshchensk",
+    "zip": "675000",
+    "lat": 50.2828,
+    "lon": 127.5299,
+    "timezone": "Asia/Yakutsk",
+    "isp": "RUAMUR",
+    "org": "OJSC Far Eastern Telecommunications Company",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "79.105.56.198"
+  },
+  "5.143.98.209": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Vladivostok",
+    "zip": "690001",
+    "lat": 43.1068,
+    "lon": 131.8692,
+    "timezone": "Asia/Vladivostok",
+    "isp": "PJSC Rostelecom",
+    "org": "PJSC Rostelecom Far East Region",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "5.143.98.209"
   }
 }
