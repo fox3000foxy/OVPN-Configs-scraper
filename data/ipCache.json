@@ -655,6 +655,22 @@
     "as": "AS17858 LG POWERCOMM",
     "query": "115.140.205.9"
   },
+  "109.236.237.101": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "MAG",
+    "regionName": "Magadan Oblast",
+    "city": "Magadan",
+    "zip": "685000",
+    "lat": 59.5686,
+    "lon": 150.8133,
+    "timezone": "Asia/Magadan",
+    "isp": "PJSC Rostelecom",
+    "org": "Rostelecom networks",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "109.236.237.101"
+  },
   "94.245.131.69": {
     "status": "success",
     "country": "Russia",
