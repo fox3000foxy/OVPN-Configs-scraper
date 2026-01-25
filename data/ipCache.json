@@ -287,22 +287,6 @@
     "as": "AS59533 Lukyanov Evgeniy Vladimirovich PE",
     "query": "91.219.203.117"
   },
-  "112.169.150.39": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Gangnam-gu",
-    "zip": "062",
-    "lat": 37.4909,
-    "lon": 127.0452,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "112.169.150.39"
-  },
   "180.229.33.160": {
     "status": "success",
     "country": "South Korea",
@@ -334,6 +318,22 @@
     "org": "Vietnam Internet Network Information Center",
     "as": "AS18403 FPT Telecom Company",
     "query": "1.53.194.142"
+  },
+  "59.20.128.226": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Haeundae-gu",
+    "zip": "480",
+    "lat": 35.1692,
+    "lon": 129.1738,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "59.20.128.226"
   },
   "219.122.242.71": {
     "status": "success",
@@ -398,6 +398,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "59.4.2.249"
+  },
+  "121.141.32.45": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Yeongdeungpo-gu",
+    "zip": "072",
+    "lat": 37.5247,
+    "lon": 126.9133,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Korea Telecom",
+    "as": "AS4766 Korea Telecom",
+    "query": "121.141.32.45"
   },
   "180.200.120.212": {
     "status": "success",
@@ -494,22 +510,6 @@
     "org": "InfoSphere",
     "as": "AS2514 NTT PC Communications, Inc.",
     "query": "219.102.238.86"
-  },
-  "202.216.83.48": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "28",
-    "regionName": "Hyōgo",
-    "city": "Kakogawa",
-    "zip": "676-0804",
-    "lat": 34.7718,
-    "lon": 134.8256,
-    "timezone": "Asia/Tokyo",
-    "isp": "BAN",
-    "org": "BAN-BAN Networks Co.LTD",
-    "as": "AS7524 ITEC HANKYU HANSHIN CO.,LTD.",
-    "query": "202.216.83.48"
   },
   "116.34.216.160": {
     "status": "success",
