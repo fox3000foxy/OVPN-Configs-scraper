@@ -463,22 +463,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "120.75.89.149"
   },
-  "103.152.178.62": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-0001",
-    "lat": 35.694,
-    "lon": 139.754,
-    "timezone": "Asia/Tokyo",
-    "isp": "Ayao Takata",
-    "org": "SDCC-East01",
-    "as": "AS38074 SDCC Japan-West Area",
-    "query": "103.152.178.62"
-  },
   "58.235.123.214": {
     "status": "success",
     "country": "South Korea",
@@ -639,22 +623,6 @@
     "as": "AS9316 DACOM-PUBNETPLUS",
     "query": "125.243.142.156"
   },
-  "115.20.191.50": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Nowon-gu",
-    "zip": "018",
-    "lat": 37.6289,
-    "lon": 127.0648,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "115.20.191.50"
-  },
   "175.198.50.79": {
     "status": "success",
     "country": "South Korea",
@@ -670,6 +638,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "175.198.50.79"
+  },
+  "115.20.191.50": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Nowon-gu",
+    "zip": "018",
+    "lat": 37.6289,
+    "lon": 127.0648,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "115.20.191.50"
   },
   "211.205.218.20": {
     "status": "success",
@@ -814,5 +798,37 @@
     "org": "Tomkevich Andrey Vladimirovich Individual businessman",
     "as": "AS42742 InterkamService LLC",
     "query": "188.191.0.65"
+  },
+  "213.228.80.60": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "NVS",
+    "regionName": "Novosibirsk Oblast",
+    "city": "Novosibirsk",
+    "zip": "630075",
+    "lat": 55.0285,
+    "lon": 82.9202,
+    "timezone": "Asia/Novosibirsk",
+    "isp": "Rostelecom networks",
+    "org": "OJSC Sibirtelecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "213.228.80.60"
+  },
+  "94.245.147.89": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "SA",
+    "regionName": "Sakha",
+    "city": "Yakutsk",
+    "zip": "677000",
+    "lat": 62.0313,
+    "lon": 129.7325,
+    "timezone": "Asia/Yakutsk",
+    "isp": "Sakhatelecom",
+    "org": "",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "94.245.147.89"
   }
 }
