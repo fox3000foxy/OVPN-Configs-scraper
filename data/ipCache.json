@@ -143,6 +143,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.204"
   },
+  "52.28.187.151": {
+    "status": "success",
+    "country": "Germany",
+    "countryCode": "DE",
+    "region": "HE",
+    "regionName": "Hesse",
+    "city": "Frankfurt am Main",
+    "zip": "60313",
+    "lat": 50.1109,
+    "lon": 8.68213,
+    "timezone": "Europe/Berlin",
+    "isp": "Amazon.com, Inc.",
+    "org": "AWS EC2 (eu-central-1)",
+    "as": "AS16509 Amazon.com, Inc.",
+    "query": "52.28.187.151"
+  },
   "221.114.170.58": {
     "status": "success",
     "country": "Japan",
