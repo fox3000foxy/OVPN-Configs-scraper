@@ -383,6 +383,22 @@
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "119.173.41.197"
   },
+  "153.226.15.92": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "02",
+    "regionName": "Aomori",
+    "city": "Aomori",
+    "zip": "030-0851",
+    "lat": 40.819,
+    "lon": 140.732,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "Open Computer Network",
+    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
+    "query": "153.226.15.92"
+  },
   "5.137.210.152": {
     "status": "success",
     "country": "Russia",
@@ -670,5 +686,37 @@
     "org": "Xpeed",
     "as": "AS17858 LG POWERCOMM",
     "query": "116.46.241.88"
+  },
+  "14.51.87.179": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Uiwang",
+    "zip": "160",
+    "lat": 37.3965,
+    "lon": 126.978,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "14.51.87.179"
+  },
+  "90.189.56.118": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "NVS",
+    "regionName": "Novosibirsk Oblast",
+    "city": "Novosibirsk",
+    "zip": "630075",
+    "lat": 55.0285,
+    "lon": 82.9202,
+    "timezone": "Asia/Novosibirsk",
+    "isp": "Rostelecom networks",
+    "org": "OJSC Sibirtelecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "90.189.56.118"
   }
 }
