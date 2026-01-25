@@ -191,6 +191,22 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "153.218.43.203"
   },
+  "101.128.133.100": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tokyo",
+    "zip": "151-0071",
+    "lat": 35.6837,
+    "lon": 139.6805,
+    "timezone": "Asia/Tokyo",
+    "isp": "Internet Initiative Japan Inc.",
+    "org": "Internet Initiative Japan Inc.",
+    "as": "AS2497 Internet Initiative Japan Inc.",
+    "query": "101.128.133.100"
+  },
   "77.82.48.63": {
     "status": "success",
     "country": "Russia",
@@ -238,38 +254,6 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.102"
-  },
-  "126.38.27.138": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.38.27.138"
-  },
-  "101.128.133.100": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0071",
-    "lat": 35.6837,
-    "lon": 139.6805,
-    "timezone": "Asia/Tokyo",
-    "isp": "Internet Initiative Japan Inc.",
-    "org": "Internet Initiative Japan Inc.",
-    "as": "AS2497 Internet Initiative Japan Inc.",
-    "query": "101.128.133.100"
   },
   "171.4.236.63": {
     "status": "success",
@@ -351,22 +335,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "210.204.222.22"
   },
-  "60.97.32.246": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan Nation-wide Network of Softbank Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "60.97.32.246"
-  },
   "183.91.4.152": {
     "status": "success",
     "country": "Vietnam",
@@ -399,22 +367,6 @@
     "as": "AS17858 LG POWERCOMM",
     "query": "182.215.193.29"
   },
-  "61.206.207.159": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "24",
-    "regionName": "Mie",
-    "city": "Kumano",
-    "zip": "519-4321",
-    "lat": 33.9014,
-    "lon": 136.1236,
-    "timezone": "Asia/Tokyo",
-    "isp": "ZTV CO., LTD",
-    "org": "ZTV",
-    "as": "AS9351 ZTV CO.,LTD",
-    "query": "61.206.207.159"
-  },
   "211.219.71.79": {
     "status": "success",
     "country": "South Korea",
@@ -446,6 +398,38 @@
     "org": "CATV Network Services",
     "as": "AS7522 STNet, Incorporated",
     "query": "211.7.245.143"
+  },
+  "126.217.172.16": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.217.172.16"
+  },
+  "219.109.62.207": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "38",
+    "regionName": "Ehime",
+    "city": "Matsuyama",
+    "zip": "790-0001",
+    "lat": 33.8365,
+    "lon": 132.742,
+    "timezone": "Asia/Tokyo",
+    "isp": "EHIME CATV CO., LTD.",
+    "org": "EHIME CATV CO., LTD.",
+    "as": "AS18260 EHIME CATV CO.,LTD.",
+    "query": "219.109.62.207"
   },
   "112.162.202.175": {
     "status": "success",
@@ -782,5 +766,21 @@
     "org": "OJSC Sibirtelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "212.164.25.1"
+  },
+  "31.200.238.252": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Vladivostok",
+    "zip": "690001",
+    "lat": 43.1068,
+    "lon": 131.8692,
+    "timezone": "Asia/Vladivostok",
+    "isp": "ISP Podryad Nets",
+    "org": "",
+    "as": "AS196949 Natalia Sergeevna Filicheva",
+    "query": "31.200.238.252"
   }
 }
