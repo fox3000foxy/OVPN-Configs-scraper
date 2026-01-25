@@ -175,22 +175,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "223.132.208.135"
   },
-  "153.218.43.203": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "05",
-    "regionName": "Akita",
-    "city": "Akita",
-    "zip": "010-0021",
-    "lat": 39.7046,
-    "lon": 140.1289,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "Open Computer Network",
-    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
-    "query": "153.218.43.203"
-  },
   "49.167.12.160": {
     "status": "success",
     "country": "South Korea",
@@ -511,22 +495,6 @@
     "as": "AS2514 NTT PC Communications, Inc.",
     "query": "210.136.243.168"
   },
-  "61.211.140.202": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "23",
-    "regionName": "Aichi",
-    "city": "Nagoya",
-    "zip": "461-0001",
-    "lat": 35.1796,
-    "lon": 136.9166,
-    "timezone": "Asia/Tokyo",
-    "isp": "STARCAT Co ., LTD.",
-    "org": "STARCAT CABLE NETWORK Co ., LTD.",
-    "as": "AS17529 STARCAT Co .,LTD.",
-    "query": "61.211.140.202"
-  },
   "106.163.193.203": {
     "status": "success",
     "country": "Japan",
@@ -575,6 +543,22 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "58.232.223.120"
   },
+  "5.228.115.190": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "MOW",
+    "regionName": "Moscow",
+    "city": "Moscow",
+    "zip": "127474",
+    "lat": 55.7487,
+    "lon": 37.6187,
+    "timezone": "Europe/Moscow",
+    "isp": "NCNET",
+    "org": "",
+    "as": "AS42610 PJSC Rostelecom",
+    "query": "5.228.115.190"
+  },
   "42.117.234.40": {
     "status": "success",
     "country": "Vietnam",
@@ -607,22 +591,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "61.255.91.50"
   },
-  "5.137.33.192": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "NVS",
-    "regionName": "Novosibirsk Oblast",
-    "city": "Novosibirsk",
-    "zip": "630000",
-    "lat": 55.0226,
-    "lon": 82.9317,
-    "timezone": "Asia/Novosibirsk",
-    "isp": "Rostelecom networks",
-    "org": "JSC Rostelecom regional branch Siberia",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "5.137.33.192"
-  },
   "222.236.114.192": {
     "status": "success",
     "country": "South Korea",
@@ -638,6 +606,22 @@
     "org": "SK Broadband Co Ltd",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "222.236.114.192"
+  },
+  "61.211.140.202": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "23",
+    "regionName": "Aichi",
+    "city": "Nagoya",
+    "zip": "461-0001",
+    "lat": 35.1796,
+    "lon": 136.9166,
+    "timezone": "Asia/Tokyo",
+    "isp": "STARCAT Co ., LTD.",
+    "org": "STARCAT CABLE NETWORK Co ., LTD.",
+    "as": "AS17529 STARCAT Co .,LTD.",
+    "query": "61.211.140.202"
   },
   "114.201.3.61": {
     "status": "success",
@@ -670,5 +654,37 @@
     "org": "Xpeed",
     "as": "AS17858 LG POWERCOMM",
     "query": "116.46.241.88"
+  },
+  "90.189.56.118": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "NVS",
+    "regionName": "Novosibirsk Oblast",
+    "city": "Novosibirsk",
+    "zip": "630075",
+    "lat": 55.0285,
+    "lon": 82.9202,
+    "timezone": "Asia/Novosibirsk",
+    "isp": "Rostelecom networks",
+    "org": "OJSC Sibirtelecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "90.189.56.118"
+  },
+  "5.143.89.139": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Vladivostok",
+    "zip": "690001",
+    "lat": 43.1068,
+    "lon": 131.8692,
+    "timezone": "Asia/Vladivostok",
+    "isp": "Rostelecom networks",
+    "org": "OJSC Rostelecom Far-East Region",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "5.143.89.139"
   }
 }
