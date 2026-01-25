@@ -271,22 +271,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "211.205.56.227"
   },
-  "138.64.194.75": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Osaka",
-    "zip": "550-0001",
-    "lat": 34.6892,
-    "lon": 135.4899,
-    "timezone": "Asia/Tokyo",
-    "isp": "ASAHI Net, Inc.",
-    "org": "ASAHI",
-    "as": "AS4685 Asahi Net",
-    "query": "138.64.194.75"
-  },
   "37.21.241.126": {
     "status": "success",
     "country": "Russia",
@@ -430,6 +414,22 @@
     "org": "Korea Telecom",
     "as": "AS4766 Korea Telecom",
     "query": "222.102.49.72"
+  },
+  "126.88.128.168": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.88.128.168"
   },
   "86.102.10.37": {
     "status": "success",
@@ -686,5 +686,21 @@
     "org": "",
     "as": "AS12389 PJSC Rostelecom",
     "query": "82.162.122.60"
+  },
+  "208.69.78.62": {
+    "status": "success",
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "region": "ZH",
+    "regionName": "Zurich",
+    "city": "Zurich",
+    "zip": "",
+    "lat": 47.3768,
+    "lon": 8.5416,
+    "timezone": "Europe/Zurich",
+    "isp": "Ontario Inc.",
+    "org": "Ontario Inc.",
+    "as": "AS63023 GTHost",
+    "query": "208.69.78.62"
   }
 }
