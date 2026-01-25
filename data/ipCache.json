@@ -367,6 +367,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "118.41.236.148"
   },
+  "222.102.49.72": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "29",
+    "regionName": "Gwangju",
+    "city": "Buk-gu",
+    "zip": "610",
+    "lat": 35.2118,
+    "lon": 126.8876,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Korea Telecom",
+    "as": "AS4766 Korea Telecom",
+    "query": "222.102.49.72"
+  },
   "171.4.238.53": {
     "status": "success",
     "country": "Thailand",
@@ -446,22 +462,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "183.104.75.19"
-  },
-  "175.212.207.82": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Anyang-si",
-    "zip": "14032",
-    "lat": 37.3907,
-    "lon": 126.9167,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "gimjeongmi",
-    "as": "AS4766 Korea Telecom",
-    "query": "175.212.207.82"
   },
   "45.14.245.64": {
     "status": "success",
@@ -655,21 +655,21 @@
     "as": "AS17858 LG POWERCOMM",
     "query": "115.140.205.9"
   },
-  "211.116.113.124": {
+  "37.215.42.226": {
     "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "45",
-    "regionName": "Jeollabuk-do",
-    "city": "Jeonju",
-    "zip": "549",
-    "lat": 35.8345,
-    "lon": 127.1057,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "TBROAD Jeonju",
-    "as": "AS17854 SK Broadband Co Ltd",
-    "query": "211.116.113.124"
+    "country": "Belarus",
+    "countryCode": "BY",
+    "region": "HM",
+    "regionName": "Minsk City",
+    "city": "Minsk",
+    "zip": "220073",
+    "lat": 53.901,
+    "lon": 27.5707,
+    "timezone": "Europe/Minsk",
+    "isp": "Republican Unitary Telecommunication Enterprise Beltelecom",
+    "org": "",
+    "as": "AS6697 Republican Unitary Telecommunication Enterprise Beltelecom",
+    "query": "37.215.42.226"
   },
   "94.245.131.69": {
     "status": "success",
