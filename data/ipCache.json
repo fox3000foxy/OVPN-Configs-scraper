@@ -479,6 +479,22 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.91.40.164"
   },
+  "42.112.189.125": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "HN",
+    "regionName": "Hanoi",
+    "city": "Hanoi",
+    "zip": "",
+    "lat": 21.0278,
+    "lon": 105.834,
+    "timezone": "Asia/Bangkok",
+    "isp": "FPT Telecom Company",
+    "org": "FPT-STATICIP",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "42.112.189.125"
+  },
   "211.177.129.51": {
     "status": "success",
     "country": "South Korea",
@@ -607,6 +623,22 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "212.164.24.82"
   },
+  "77.82.216.218": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KAM",
+    "regionName": "Kamchatka",
+    "city": "Petropavlovsk-Kamchatsky",
+    "zip": "683902",
+    "lat": 53.0716,
+    "lon": 158.627,
+    "timezone": "Asia/Kamchatka",
+    "isp": "Rostelecom networks",
+    "org": "Rostelecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "77.82.216.218"
+  },
   "58.120.34.219": {
     "status": "success",
     "country": "South Korea",
@@ -623,21 +655,21 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "58.120.34.219"
   },
-  "77.82.216.218": {
+  "185.190.42.79": {
     "status": "success",
     "country": "Russia",
     "countryCode": "RU",
-    "region": "KAM",
-    "regionName": "Kamchatka",
-    "city": "Petropavlovsk-Kamchatsky",
-    "zip": "683902",
-    "lat": 53.0716,
-    "lon": 158.627,
-    "timezone": "Asia/Kamchatka",
-    "isp": "Rostelecom networks",
-    "org": "Rostelecom",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "77.82.216.218"
+    "region": "CHE",
+    "regionName": "Chelyabinsk Oblast",
+    "city": "Ozersk",
+    "zip": "456784",
+    "lat": 55.7585,
+    "lon": 60.7079,
+    "timezone": "Asia/Yekaterinburg",
+    "isp": "UKS",
+    "org": "",
+    "as": "AS48043 Ozyorsk Telecom CJSC.",
+    "query": "185.190.42.79"
   },
   "85.28.224.44": {
     "status": "success",
