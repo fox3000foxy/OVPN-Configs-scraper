@@ -111,6 +111,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.208"
   },
+  "104.28.242.250": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "34",
+    "regionName": "Khánh Hòa Province",
+    "city": "Nha Trang",
+    "zip": "",
+    "lat": 12.2451,
+    "lon": 109.1943,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "isp": "Cloudflare, Inc.",
+    "org": "Cloudflare WARP",
+    "as": "AS13335 Cloudflare, Inc.",
+    "query": "104.28.242.250"
+  },
   "153.160.148.90": {
     "status": "success",
     "country": "Japan",
