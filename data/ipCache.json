@@ -319,37 +319,21 @@
     "as": "AS45758 Triple T Broadband Public Company Limited",
     "query": "171.7.78.25"
   },
-  "153.151.248.167": {
+  "126.221.40.75": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
     "region": "13",
     "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0071",
-    "lat": 35.6837,
-    "lon": 139.6805,
+    "city": "Minato",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
     "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "Open Computer Network",
-    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
-    "query": "153.151.248.167"
-  },
-  "1.53.38.117": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "HN",
-    "regionName": "Hanoi",
-    "city": "Hanoi",
-    "zip": "100000",
-    "lat": 21.0184,
-    "lon": 105.8461,
-    "timezone": "Asia/Bangkok",
-    "isp": "FPT Telecom Company",
-    "org": "Vietnam Internet Network Information Center",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "1.53.38.117"
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.221.40.75"
   },
   "180.197.203.57": {
     "status": "success",
@@ -398,22 +382,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "59.10.11.241"
-  },
-  "203.234.188.140": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "28",
-    "regionName": "Incheon",
-    "city": "Yeonsu-gu",
-    "zip": "219",
-    "lat": 37.3736,
-    "lon": 126.6555,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "203.234.188.140"
   },
   "222.4.112.69": {
     "status": "success",
@@ -559,21 +527,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "112.184.70.55"
   },
-  "68.147.134.46": {
+  "175.194.115.126": {
     "status": "success",
-    "country": "Canada",
-    "countryCode": "CA",
-    "region": "AB",
-    "regionName": "Alberta",
-    "city": "Calgary",
-    "zip": "T3M",
-    "lat": 50.8805,
-    "lon": -113.9523,
-    "timezone": "America/Edmonton",
-    "isp": "Shaw Communications",
-    "org": "Shaw Communications Inc.",
-    "as": "AS6327 Shaw Communications",
-    "query": "68.147.134.46"
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Yangp'yŏng",
+    "zip": "125",
+    "lat": 37.4878,
+    "lon": 127.4875,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "175.194.115.126"
   },
   "92.37.185.238": {
     "status": "success",
@@ -591,21 +559,21 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "92.37.185.238"
   },
-  "183.109.189.242": {
+  "123.215.208.221": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
-    "region": "45",
-    "regionName": "Jeollabuk-do",
-    "city": "Iksan",
-    "zip": "545",
-    "lat": 35.9606,
-    "lon": 126.983,
+    "region": "44",
+    "regionName": "Chungcheongnam-do",
+    "city": "Cheonan",
+    "zip": "310",
+    "lat": 36.8242,
+    "lon": 127.1293,
     "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "183.109.189.242"
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "123.215.208.221"
   },
   "122.254.245.109": {
     "status": "success",
@@ -654,5 +622,37 @@
     "org": "VIETEL",
     "as": "AS7552 Viettel Group",
     "query": "171.240.107.87"
+  },
+  "5.100.81.48": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Vladivostok",
+    "zip": "690001",
+    "lat": 43.1068,
+    "lon": 131.8692,
+    "timezone": "Asia/Vladivostok",
+    "isp": "VLADLINK",
+    "org": "VladLink LTD",
+    "as": "AS42038 Krivets Sergey Sergeevich",
+    "query": "5.100.81.48"
+  },
+  "92.37.165.172": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KHA",
+    "regionName": "Khabarovsk",
+    "city": "Khabarovsk",
+    "zip": "680000",
+    "lat": 48.4817,
+    "lon": 135.083,
+    "timezone": "Asia/Vladivostok",
+    "isp": "Rostelecom networks",
+    "org": "",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "92.37.165.172"
   }
 }
