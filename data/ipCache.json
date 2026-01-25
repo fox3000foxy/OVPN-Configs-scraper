@@ -287,22 +287,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "121.3.217.251"
   },
-  "126.110.43.151": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.110.43.151"
-  },
   "220.79.139.235": {
     "status": "success",
     "country": "South Korea",
@@ -318,22 +302,6 @@
     "org": "Sudogwonseobubonbu",
     "as": "AS4766 Korea Telecom",
     "query": "220.79.139.235"
-  },
-  "103.152.178.62": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-0001",
-    "lat": 35.694,
-    "lon": 139.754,
-    "timezone": "Asia/Tokyo",
-    "isp": "Ayao Takata",
-    "org": "SDCC-East01",
-    "as": "AS38074 SDCC Japan-West Area",
-    "query": "103.152.178.62"
   },
   "58.87.159.114": {
     "status": "success",
@@ -495,6 +463,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "218.157.88.247"
   },
+  "112.169.155.121": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Gangnam-gu",
+    "zip": "062",
+    "lat": 37.4909,
+    "lon": 127.0452,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "112.169.155.121"
+  },
   "119.173.41.25": {
     "status": "success",
     "country": "Japan",
@@ -527,6 +511,22 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "221.140.133.139"
   },
+  "211.114.193.9": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Namyangju",
+    "zip": "121",
+    "lat": 37.6675,
+    "lon": 127.2383,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "211.114.193.9"
+  },
   "1.240.128.118": {
     "status": "success",
     "country": "South Korea",
@@ -558,6 +558,22 @@
     "org": "OJSC Sibirtelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "90.189.217.65"
+  },
+  "31.163.35.222": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "TYU",
+    "regionName": "Tyumen Oblast",
+    "city": "Tyumen",
+    "zip": "625000",
+    "lat": 57.1533,
+    "lon": 65.5418,
+    "timezone": "Asia/Yekaterinburg",
+    "isp": "Rostelecom networks",
+    "org": "Dynamic distribution IPs for broadband services",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "31.163.35.222"
   },
   "115.136.105.76": {
     "status": "success",
