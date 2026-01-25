@@ -463,22 +463,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "112.162.202.175"
   },
-  "126.219.117.54": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.219.117.54"
-  },
   "120.75.89.149": {
     "status": "success",
     "country": "Japan",
@@ -766,5 +750,21 @@
     "org": "",
     "as": "AS25019 Saudi Telecom Company JSC",
     "query": "50.60.240.144"
+  },
+  "212.164.25.1": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "OMS",
+    "regionName": "Omsk Oblast",
+    "city": "Omsk",
+    "zip": "644000",
+    "lat": 54.9896,
+    "lon": 73.3729,
+    "timezone": "Asia/Omsk",
+    "isp": "PJSC Rostelecom",
+    "org": "OJSC Sibirtelecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "212.164.25.1"
   }
 }
