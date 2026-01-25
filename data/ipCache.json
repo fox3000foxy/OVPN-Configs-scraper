@@ -735,6 +735,22 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "106.159.145.248"
   },
+  "77.82.193.175": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KAM",
+    "regionName": "Kamchatka",
+    "city": "Petropavlovsk-Kamchatsky",
+    "zip": "683902",
+    "lat": 53.0716,
+    "lon": 158.627,
+    "timezone": "Asia/Kamchatka",
+    "isp": "OJSC Rostelecom",
+    "org": "Far East Telecommunications Company",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "77.82.193.175"
+  },
   "95.70.55.29": {
     "status": "success",
     "country": "Russia",
