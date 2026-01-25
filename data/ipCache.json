@@ -175,22 +175,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.108.146.236"
   },
-  "27.137.128.62": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "11",
-    "regionName": "Saitama",
-    "city": "Kumagaya",
-    "zip": "360-0161",
-    "lat": 36.1189,
-    "lon": 139.365,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM Co., Ltd.",
-    "org": "Jupiter Telecommunication Co. Ltd",
-    "as": "AS9824 JCOM Co., Ltd.",
-    "query": "27.137.128.62"
-  },
   "220.146.147.20": {
     "status": "success",
     "country": "Japan",
@@ -350,6 +334,22 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "114.201.13.246"
+  },
+  "221.157.130.155": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "27",
+    "regionName": "Daegu",
+    "city": "Dalseo-gu",
+    "zip": "427",
+    "lat": 35.8475,
+    "lon": 128.4805,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Korea Telecom",
+    "as": "AS4766 Korea Telecom",
+    "query": "221.157.130.155"
   },
   "119.47.102.55": {
     "status": "success",
