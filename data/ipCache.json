@@ -191,22 +191,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.102"
   },
-  "60.108.146.236": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan Nation-wide Network of Softbank Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "60.108.146.236"
-  },
   "222.2.34.200": {
     "status": "success",
     "country": "Japan",
@@ -239,6 +223,22 @@
     "as": "AS4685 Asahi Net",
     "query": "220.146.147.20"
   },
+  "221.118.47.135": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "01",
+    "regionName": "Hokkaido",
+    "city": "Miyoshichō",
+    "zip": "090-0061",
+    "lat": 43.8243,
+    "lon": 143.903,
+    "timezone": "Asia/Tokyo",
+    "isp": "AITAI",
+    "org": "AITAI-NET(Himawari Network Inc.)",
+    "as": "AS9354 Community Network Center Inc.",
+    "query": "221.118.47.135"
+  },
   "153.151.248.167": {
     "status": "success",
     "country": "Japan",
@@ -254,6 +254,22 @@
     "org": "Open Computer Network",
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "153.151.248.167"
+  },
+  "49.129.45.169": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "26",
+    "regionName": "Kyoto",
+    "city": "Kyoto",
+    "zip": "602-8051",
+    "lat": 35.0231,
+    "lon": 135.752,
+    "timezone": "Asia/Tokyo",
+    "isp": "BIGLOBE Inc.",
+    "org": "BIGLOBE",
+    "as": "AS2518 BIGLOBE Inc.",
+    "query": "49.129.45.169"
   },
   "121.3.217.251": {
     "status": "success",
@@ -655,6 +671,22 @@
     "as": "AS25591 BCLan LLC",
     "query": "217.175.14.88"
   },
+  "212.164.64.113": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "NVS",
+    "regionName": "Novosibirsk Oblast",
+    "city": "Novosibirsk",
+    "zip": "630000",
+    "lat": 55.0226,
+    "lon": 82.9317,
+    "timezone": "Asia/Novosibirsk",
+    "isp": "Rostelecom networks",
+    "org": "OJSC Sibirtelecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "212.164.64.113"
+  },
   "94.245.151.70": {
     "status": "success",
     "country": "Russia",
@@ -734,21 +766,5 @@
     "org": "",
     "as": "AS12389 PJSC Rostelecom",
     "query": "92.37.165.172"
-  },
-  "203.165.159.209": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "12",
-    "regionName": "Chiba",
-    "city": "Kashiwa",
-    "zip": "277-0001",
-    "lat": 35.8761,
-    "lon": 139.9802,
-    "timezone": "Asia/Tokyo",
-    "isp": "Jupiter Telecommunication Co. Ltd",
-    "org": "Jupiter Telecommunication Co. Ltd",
-    "as": "AS9824 JCOM Co., Ltd.",
-    "query": "203.165.159.209"
   }
 }
