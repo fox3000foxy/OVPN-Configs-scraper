@@ -591,22 +591,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "116.124.32.221"
   },
-  "130.255.48.81": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "SVE",
-    "regionName": "Sverdlovsk Oblast",
-    "city": "Kamensk-Uralsky",
-    "zip": "623405",
-    "lat": 56.4046,
-    "lon": 61.921,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "Closed Joint Stock Company Radiotelephone",
-    "org": "CJSC Radiotelephone",
-    "as": "AS39812 Closed Joint Stock Company Radiotelephone",
-    "query": "130.255.48.81"
-  },
   "217.175.14.88": {
     "status": "success",
     "country": "Russia",
