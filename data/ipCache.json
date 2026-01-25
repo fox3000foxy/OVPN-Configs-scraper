@@ -143,22 +143,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.204"
   },
-  "104.28.219.154": {
-    "status": "success",
-    "country": "Myanmar",
-    "countryCode": "MM",
-    "region": "04",
-    "regionName": "Mandalay Region",
-    "city": "Mandalay",
-    "zip": "",
-    "lat": 21.9837,
-    "lon": 96.0849,
-    "timezone": "Asia/Yangon",
-    "isp": "Cloudflare, Inc.",
-    "org": "Cloudflare WARP",
-    "as": "AS13335 Cloudflare, Inc.",
-    "query": "104.28.219.154"
-  },
   "60.113.239.82": {
     "status": "success",
     "country": "Japan",
@@ -239,6 +223,38 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.246.154.63"
   },
+  "59.139.128.191": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "02",
+    "regionName": "Aomori",
+    "city": "Kuroishi",
+    "zip": "036-0351",
+    "lat": 40.6485,
+    "lon": 140.5872,
+    "timezone": "Asia/Tokyo",
+    "isp": "DION (KDDI CORPORATION)",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "59.139.128.191"
+  },
+  "31.40.209.216": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KDA",
+    "regionName": "Krasnodar Krai",
+    "city": "Taman'",
+    "zip": "353555",
+    "lat": 45.212,
+    "lon": 36.7103,
+    "timezone": "Europe/Moscow",
+    "isp": "Miranda-Media Ltd",
+    "org": "Miranda-Media Ltd",
+    "as": "AS201776 Miranda-Media Ltd",
+    "query": "31.40.209.216"
+  },
   "122.210.185.27": {
     "status": "success",
     "country": "Japan",
@@ -287,21 +303,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "112.169.150.39"
   },
-  "121.171.190.235": {
+  "180.229.33.160": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
     "region": "11",
     "regionName": "Seoul",
-    "city": "Yeongdeungpo-gu",
-    "zip": "072",
-    "lat": 37.5247,
-    "lon": 126.9133,
+    "city": "Seoul",
+    "zip": "04524",
+    "lat": 37.5658,
+    "lon": 126.978,
     "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "121.171.190.235"
+    "isp": "LG POWERCOMM",
+    "org": "LG POWERCOMM",
+    "as": "AS17858 LG POWERCOMM",
+    "query": "180.229.33.160"
   },
   "1.53.194.142": {
     "status": "success",
@@ -334,22 +350,6 @@
     "org": "K-Opticom Corporation",
     "as": "AS17511 OPTAGE Inc.",
     "query": "219.122.242.71"
-  },
-  "112.220.30.58": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Nowon-gu",
-    "zip": "017",
-    "lat": 37.6537,
-    "lon": 127.0717,
-    "timezone": "Asia/Seoul",
-    "isp": "LG DACOM Corporation",
-    "org": "Boranet",
-    "as": "AS3786 LG DACOM Corporation",
-    "query": "112.220.30.58"
   },
   "109.124.244.66": {
     "status": "success",
@@ -399,21 +399,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "59.4.2.249"
   },
-  "126.89.255.73": {
+  "180.200.120.212": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
+    "region": "23",
+    "regionName": "Aichi",
+    "city": "Nagoya",
+    "zip": "462-0841",
+    "lat": 35.1926,
+    "lon": 136.906,
     "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.89.255.73"
+    "isp": "STARCAT Co ., LTD.",
+    "org": "Community Network Center Inc.",
+    "as": "AS17529 STARCAT Co .,LTD.",
+    "query": "180.200.120.212"
   },
   "181.224.85.249": {
     "status": "success",
@@ -462,22 +462,6 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "121.150.13.22"
-  },
-  "24.85.176.222": {
-    "status": "success",
-    "country": "Canada",
-    "countryCode": "CA",
-    "region": "BC",
-    "regionName": "British Columbia",
-    "city": "Squamish",
-    "zip": "V8B",
-    "lat": 49.6979,
-    "lon": -123.1552,
-    "timezone": "America/Vancouver",
-    "isp": "Shaw Communications",
-    "org": "Shaw Communications Inc.",
-    "as": "AS6327 Shaw Communications",
-    "query": "24.85.176.222"
   },
   "95.70.120.124": {
     "status": "success",
@@ -543,22 +527,6 @@
     "as": "AS17858 LG POWERCOMM",
     "query": "116.34.216.160"
   },
-  "221.156.39.137": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "29",
-    "regionName": "Gwangju",
-    "city": "Gwangsan-gu",
-    "zip": "622",
-    "lat": 35.2119,
-    "lon": 126.8545,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "221.156.39.137"
-  },
   "112.184.43.3": {
     "status": "success",
     "country": "South Korea",
@@ -607,6 +575,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "59.10.79.198"
   },
+  "175.210.31.184": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "28",
+    "regionName": "Incheon",
+    "city": "Incheon",
+    "zip": "21554",
+    "lat": 37.4585,
+    "lon": 126.7015,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "175.210.31.184"
+  },
   "24.22.169.132": {
     "status": "success",
     "country": "United States",
@@ -623,20 +607,20 @@
     "as": "AS7922 Comcast Cable Communications, LLC",
     "query": "24.22.169.132"
   },
-  "46.159.165.129": {
+  "31.200.225.17": {
     "status": "success",
     "country": "Russia",
     "countryCode": "RU",
-    "region": "KDA",
-    "regionName": "Krasnodar Krai",
-    "city": "Krasnodar",
-    "zip": "350000",
-    "lat": 45.0355,
-    "lon": 38.975,
-    "timezone": "Europe/Moscow",
-    "isp": "PAO Rostelecom",
-    "org": "OJSC Rostelecom Macroregional Branch South",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "46.159.165.129"
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Nakhodka",
+    "zip": "692902",
+    "lat": 42.8318,
+    "lon": 132.9223,
+    "timezone": "Asia/Vladivostok",
+    "isp": "ISP Podryad Nets",
+    "org": "",
+    "as": "AS196949 Natalia Sergeevna Filicheva",
+    "query": "31.200.225.17"
   }
 }
