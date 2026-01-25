@@ -127,22 +127,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.204"
   },
-  "98.51.180.233": {
-    "status": "success",
-    "country": "United States",
-    "countryCode": "US",
-    "region": "CA",
-    "regionName": "California",
-    "city": "Pleasanton",
-    "zip": "94566",
-    "lat": 37.6652,
-    "lon": -121.8734,
-    "timezone": "America/Los_Angeles",
-    "isp": "Comcast Cable Communications, LLC",
-    "org": "Comcast Cable Communications, LLC",
-    "as": "AS7922 Comcast Cable Communications, LLC",
-    "query": "98.51.180.233"
-  },
   "114.35.64.20": {
     "status": "success",
     "country": "Taiwan",
@@ -255,6 +239,22 @@
     "as": "AS17583 Keumgang Cable Network",
     "query": "182.237.221.37"
   },
+  "113.148.186.91": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "26",
+    "regionName": "Kyoto",
+    "city": "Uji",
+    "zip": "611-0041",
+    "lat": 34.8992,
+    "lon": 135.7859,
+    "timezone": "Asia/Tokyo",
+    "isp": "DION (KDDI CORPORATION)",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "113.148.186.91"
+  },
   "211.205.56.227": {
     "status": "success",
     "country": "South Korea",
@@ -270,6 +270,22 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "211.205.56.227"
+  },
+  "138.64.194.75": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Osaka",
+    "zip": "550-0001",
+    "lat": 34.6892,
+    "lon": 135.4899,
+    "timezone": "Asia/Tokyo",
+    "isp": "ASAHI Net, Inc.",
+    "org": "ASAHI",
+    "as": "AS4685 Asahi Net",
+    "query": "138.64.194.75"
   },
   "37.21.241.126": {
     "status": "success",
@@ -302,6 +318,22 @@
     "org": "",
     "as": "AS48043 Ozyorsk Telecom CJSC.",
     "query": "185.190.42.79"
+  },
+  "183.176.178.218": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "37",
+    "regionName": "Kagawa",
+    "city": "Takamatsu",
+    "zip": "760-0061",
+    "lat": 34.3465,
+    "lon": 134.0624,
+    "timezone": "Asia/Tokyo",
+    "isp": "STNet, Incorporated",
+    "org": "STNet, Incorporated",
+    "as": "AS7522 STNet, Incorporated",
+    "query": "183.176.178.218"
   },
   "86.102.205.225": {
     "status": "success",
@@ -431,22 +463,6 @@
     "as": "AS45758 Triple T Broadband Public Company Limited",
     "query": "171.4.238.53"
   },
-  "126.88.128.168": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.88.128.168"
-  },
   "86.102.10.37": {
     "status": "success",
     "country": "Russia",
@@ -462,22 +478,6 @@
     "org": "",
     "as": "AS12389 PJSC Rostelecom",
     "query": "86.102.10.37"
-  },
-  "119.231.126.100": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Osaka",
-    "zip": "530-0041",
-    "lat": 34.6967,
-    "lon": 135.5154,
-    "timezone": "Asia/Tokyo",
-    "isp": "OPTAGE Inc.",
-    "org": "K-Opticom Corporation",
-    "as": "AS17511 OPTAGE Inc.",
-    "query": "119.231.126.100"
   },
   "183.104.75.19": {
     "status": "success",
