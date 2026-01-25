@@ -271,6 +271,22 @@
     "as": "AS59533 Lukyanov Evgeniy Vladimirovich PE",
     "query": "91.219.203.117"
   },
+  "112.169.150.39": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Gangnam-gu",
+    "zip": "062",
+    "lat": 37.4909,
+    "lon": 127.0452,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "112.169.150.39"
+  },
   "180.229.33.160": {
     "status": "success",
     "country": "South Korea",
@@ -302,22 +318,6 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "111.105.129.245"
-  },
-  "59.20.128.226": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "26",
-    "regionName": "Busan",
-    "city": "Haeundae-gu",
-    "zip": "480",
-    "lat": 35.1692,
-    "lon": 129.1738,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "59.20.128.226"
   },
   "1.53.194.142": {
     "status": "success",
@@ -399,22 +399,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "59.4.2.249"
   },
-  "121.141.32.45": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Yeongdeungpo-gu",
-    "zip": "072",
-    "lat": 37.5247,
-    "lon": 126.9133,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Korea Telecom",
-    "as": "AS4766 Korea Telecom",
-    "query": "121.141.32.45"
-  },
   "181.224.85.249": {
     "status": "success",
     "country": "Brazil",
@@ -446,6 +430,22 @@
     "org": "Japan nation-wide Network of SOFTBANK BB Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "221.71.132.98"
+  },
+  "121.150.13.22": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "27",
+    "regionName": "Daegu",
+    "city": "Daegu",
+    "zip": "41934",
+    "lat": 35.8723,
+    "lon": 128.5924,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "121.150.13.22"
   },
   "95.70.120.124": {
     "status": "success",
@@ -479,6 +479,22 @@
     "as": "AS2514 NTT PC Communications, Inc.",
     "query": "219.102.238.86"
   },
+  "211.230.98.58": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "45",
+    "regionName": "Jeollabuk-do",
+    "city": "Jeonju",
+    "zip": "548",
+    "lat": 35.8396,
+    "lon": 127.0671,
+    "timezone": "Asia/Seoul",
+    "isp": "KORNET",
+    "org": "hangugjeontongmunhwahaggyo",
+    "as": "AS4766 Korea Telecom",
+    "query": "211.230.98.58"
+  },
   "116.34.216.160": {
     "status": "success",
     "country": "South Korea",
@@ -495,21 +511,21 @@
     "as": "AS17858 LG POWERCOMM",
     "query": "116.34.216.160"
   },
-  "211.230.98.58": {
+  "59.140.6.12": {
     "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "45",
-    "regionName": "Jeollabuk-do",
-    "city": "Jeonju",
-    "zip": "548",
-    "lat": 35.8396,
-    "lon": 127.0671,
-    "timezone": "Asia/Seoul",
-    "isp": "KORNET",
-    "org": "hangugjeontongmunhwahaggyo",
-    "as": "AS4766 Korea Telecom",
-    "query": "211.230.98.58"
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "04",
+    "regionName": "Miyagi",
+    "city": "Masuda",
+    "zip": "981-1221",
+    "lat": 38.1805,
+    "lon": 140.8679,
+    "timezone": "Asia/Tokyo",
+    "isp": "DION (KDDI CORPORATION)",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "59.140.6.12"
   },
   "90.189.249.23": {
     "status": "success",
@@ -543,22 +559,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "59.10.79.198"
   },
-  "59.5.151.170": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Dobong-gu",
-    "zip": "014",
-    "lat": 37.639,
-    "lon": 127.034,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Korea Telecom",
-    "as": "AS4766 Korea Telecom",
-    "query": "59.5.151.170"
-  },
   "175.210.31.184": {
     "status": "success",
     "country": "South Korea",
@@ -574,6 +574,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "175.210.31.184"
+  },
+  "175.210.229.68": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "28",
+    "regionName": "Incheon",
+    "city": "Gyeyang-gu",
+    "zip": "211",
+    "lat": 37.5249,
+    "lon": 126.7409,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "175.210.229.68"
   },
   "24.22.169.132": {
     "status": "success",
@@ -591,6 +607,22 @@
     "as": "AS7922 Comcast Cable Communications, LLC",
     "query": "24.22.169.132"
   },
+  "14.186.110.211": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "SG",
+    "regionName": "Ho Chi Minh",
+    "city": "Ho Chi Minh City",
+    "zip": "700000",
+    "lat": 10.822,
+    "lon": 106.6257,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "isp": "VNPT",
+    "org": "Vietnam Posts and Telecommunications Group",
+    "as": "AS45899 VNPT Corp",
+    "query": "14.186.110.211"
+  },
   "31.200.225.17": {
     "status": "success",
     "country": "Russia",
@@ -606,37 +638,5 @@
     "org": "",
     "as": "AS196949 Natalia Sergeevna Filicheva",
     "query": "31.200.225.17"
-  },
-  "185.3.182.56": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KHA",
-    "regionName": "Khabarovsk",
-    "city": "Khabarovsk",
-    "zip": "680000",
-    "lat": 48.4817,
-    "lon": 135.083,
-    "timezone": "Asia/Vladivostok",
-    "isp": "JSC \"Redcom-lnternet\"",
-    "org": "Redcom BB KHV Flat",
-    "as": "AS8749 JSC Redcom-lnternet",
-    "query": "185.3.182.56"
-  },
-  "31.129.4.226": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "AMU",
-    "regionName": "Amur Oblast",
-    "city": "Blagoveshchensk",
-    "zip": "675000",
-    "lat": 50.2705,
-    "lon": 127.5352,
-    "timezone": "Asia/Yakutsk",
-    "isp": "LLC Teledyne Systems Limited",
-    "org": "Teledyne Systems Limited",
-    "as": "AS41789 LLC Teledyne Systems Limited",
-    "query": "31.129.4.226"
   }
 }
