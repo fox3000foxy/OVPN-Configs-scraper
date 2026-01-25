@@ -255,6 +255,22 @@
     "as": "AS17583 Keumgang Cable Network",
     "query": "182.237.221.37"
   },
+  "211.205.56.227": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "29",
+    "regionName": "Gwangju",
+    "city": "Gwangju",
+    "zip": "61426",
+    "lat": 35.1496,
+    "lon": 126.9156,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "211.205.56.227"
+  },
   "138.64.194.75": {
     "status": "success",
     "country": "Japan",
@@ -286,22 +302,6 @@
     "org": "",
     "as": "AS48043 Ozyorsk Telecom CJSC.",
     "query": "185.190.42.79"
-  },
-  "211.205.56.227": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "29",
-    "regionName": "Gwangju",
-    "city": "Gwangju",
-    "zip": "61426",
-    "lat": 35.1496,
-    "lon": 126.9156,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "211.205.56.227"
   },
   "37.21.241.126": {
     "status": "success",
@@ -335,6 +335,22 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "86.102.205.225"
   },
+  "133.175.174.202": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chuo",
+    "zip": "103-0000",
+    "lat": 35.6812,
+    "lon": 139.774,
+    "timezone": "Asia/Tokyo",
+    "isp": "ARTERIA Networks Corporation",
+    "org": "Toray Industries, Inc.",
+    "as": "AS2519 ARTERIA Networks Corporation",
+    "query": "133.175.174.202"
+  },
   "219.100.37.50": {
     "status": "success",
     "country": "Japan",
@@ -367,22 +383,6 @@
     "as": "AS2518 BIGLOBE Inc.",
     "query": "118.108.56.233"
   },
-  "182.20.181.118": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Wakabadai",
-    "zip": "241-0801",
-    "lat": 35.5022,
-    "lon": 139.4987,
-    "timezone": "Asia/Tokyo",
-    "isp": "TOKAI Communications Corporation",
-    "org": "TOKAI",
-    "as": "AS10010 TOKAI Communications Corporation",
-    "query": "182.20.181.118"
-  },
   "118.41.236.148": {
     "status": "success",
     "country": "South Korea",
@@ -398,6 +398,22 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "118.41.236.148"
+  },
+  "182.20.181.118": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Wakabadai",
+    "zip": "241-0801",
+    "lat": 35.5022,
+    "lon": 139.4987,
+    "timezone": "Asia/Tokyo",
+    "isp": "TOKAI Communications Corporation",
+    "org": "TOKAI",
+    "as": "AS10010 TOKAI Communications Corporation",
+    "query": "182.20.181.118"
   },
   "222.102.49.72": {
     "status": "success",
@@ -446,6 +462,22 @@
     "org": "",
     "as": "AS12389 PJSC Rostelecom",
     "query": "86.102.10.37"
+  },
+  "119.231.126.100": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Osaka",
+    "zip": "530-0041",
+    "lat": 34.6967,
+    "lon": 135.5154,
+    "timezone": "Asia/Tokyo",
+    "isp": "OPTAGE Inc.",
+    "org": "K-Opticom Corporation",
+    "as": "AS17511 OPTAGE Inc.",
+    "query": "119.231.126.100"
   },
   "183.104.75.19": {
     "status": "success",
@@ -511,22 +543,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "86.102.21.67"
   },
-  "146.70.205.140": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Shinagawa",
-    "zip": "140-0002",
-    "lat": 35.6191,
-    "lon": 139.751,
-    "timezone": "Asia/Tokyo",
-    "isp": "M247 Europe Infra",
-    "org": "M247 Ltd Tokyo",
-    "as": "AS9009 M247 Europe SRL",
-    "query": "146.70.205.140"
-  },
   "121.176.222.166": {
     "status": "success",
     "country": "South Korea",
@@ -575,22 +591,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "125.133.161.106"
   },
-  "218.53.252.205": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "29",
-    "regionName": "Gwangju",
-    "city": "Buk-gu",
-    "zip": "612",
-    "lat": 35.1571,
-    "lon": 126.8997,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "SK Broadband Co Ltd",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "218.53.252.205"
-  },
   "211.117.250.203": {
     "status": "success",
     "country": "South Korea",
@@ -606,22 +606,6 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "211.117.250.203"
-  },
-  "109.126.5.130": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PRI",
-    "regionName": "Primorye",
-    "city": "Vladivostok",
-    "zip": "690001",
-    "lat": 43.1068,
-    "lon": 131.8692,
-    "timezone": "Asia/Vladivostok",
-    "isp": "VLADLINK",
-    "org": "Vladivostokskaya Set LTD",
-    "as": "AS42038 Krivets Sergey Sergeevich",
-    "query": "109.126.5.130"
   },
   "115.140.205.9": {
     "status": "success",
@@ -654,5 +638,21 @@
     "org": "Rostelecom networks",
     "as": "AS12389 PJSC Rostelecom",
     "query": "109.236.237.101"
+  },
+  "82.162.122.60": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Vladivostok",
+    "zip": "690001",
+    "lat": 43.1068,
+    "lon": 131.8692,
+    "timezone": "Asia/Vladivostok",
+    "isp": "Rostelecom networks",
+    "org": "",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "82.162.122.60"
   }
 }
