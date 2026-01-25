@@ -383,22 +383,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "59.10.11.241"
   },
-  "203.234.188.140": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "28",
-    "regionName": "Incheon",
-    "city": "Yeonsu-gu",
-    "zip": "219",
-    "lat": 37.3736,
-    "lon": 126.6555,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "203.234.188.140"
-  },
   "222.4.112.69": {
     "status": "success",
     "country": "Japan",
@@ -543,6 +527,22 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.126.10.156"
   },
+  "175.194.115.126": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Yangp'yŏng",
+    "zip": "125",
+    "lat": 37.4878,
+    "lon": 127.4875,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "175.194.115.126"
+  },
   "92.37.185.238": {
     "status": "success",
     "country": "Russia",
@@ -574,6 +574,22 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "123.215.208.221"
+  },
+  "115.40.206.229": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "48",
+    "regionName": "Gyeongsangnam-do",
+    "city": "Changwon",
+    "zip": "515",
+    "lat": 35.2103,
+    "lon": 128.6712,
+    "timezone": "Asia/Seoul",
+    "isp": "CJ Hello Co",
+    "org": "HVGyeongnam",
+    "as": "AS9845 LG HelloVision Corp.",
+    "query": "115.40.206.229"
   },
   "218.49.3.43": {
     "status": "success",
@@ -607,20 +623,20 @@
     "as": "AS7552 Viettel Group",
     "query": "171.240.107.87"
   },
-  "77.82.36.7": {
+  "5.100.81.48": {
     "status": "success",
     "country": "Russia",
     "countryCode": "RU",
-    "region": "KHA",
-    "regionName": "Khabarovsk",
-    "city": "Khabarovsk",
-    "zip": "680000",
-    "lat": 48.4817,
-    "lon": 135.083,
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Vladivostok",
+    "zip": "690001",
+    "lat": 43.1068,
+    "lon": 131.8692,
     "timezone": "Asia/Vladivostok",
-    "isp": "PJSC Rostelecom",
-    "org": "Far East Telecommunications Company",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "77.82.36.7"
+    "isp": "VLADLINK",
+    "org": "VladLink LTD",
+    "as": "AS42038 Krivets Sergey Sergeevich",
+    "query": "5.100.81.48"
   }
 }
