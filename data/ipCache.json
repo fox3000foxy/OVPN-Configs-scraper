@@ -143,6 +143,22 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "111.97.191.114"
   },
+  "153.160.148.90": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Osaka",
+    "zip": "550-0001",
+    "lat": 34.6892,
+    "lon": 135.4899,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "Open Computer Network",
+    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
+    "query": "153.160.148.90"
+  },
   "118.237.134.168": {
     "status": "success",
     "country": "Japan",
@@ -383,22 +399,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "221.157.130.155"
   },
-  "126.79.241.255": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.79.241.255"
-  },
   "125.132.236.134": {
     "status": "success",
     "country": "South Korea",
@@ -543,38 +543,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.240.128.118"
   },
-  "90.189.217.65": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "NVS",
-    "regionName": "Novosibirsk Oblast",
-    "city": "Novosibirsk",
-    "zip": "630000",
-    "lat": 55.0226,
-    "lon": 82.9317,
-    "timezone": "Asia/Novosibirsk",
-    "isp": "Rostelecom networks",
-    "org": "OJSC Sibirtelecom",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "90.189.217.65"
-  },
-  "31.163.35.222": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "TYU",
-    "regionName": "Tyumen Oblast",
-    "city": "Tyumen",
-    "zip": "625000",
-    "lat": 57.1533,
-    "lon": 65.5418,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "Rostelecom networks",
-    "org": "Dynamic distribution IPs for broadband services",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "31.163.35.222"
-  },
   "115.136.105.76": {
     "status": "success",
     "country": "South Korea",
@@ -622,22 +590,6 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "218.38.253.108"
-  },
-  "1.53.241.19": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "SG",
-    "regionName": "Ho Chi Minh",
-    "city": "Ho Chi Minh City",
-    "zip": "700000",
-    "lat": 10.822,
-    "lon": 106.6257,
-    "timezone": "Asia/Ho_Chi_Minh",
-    "isp": "FPT Telecom Company",
-    "org": "Vietnam Internet Network Information Center",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "1.53.241.19"
   },
   "116.124.32.221": {
     "status": "success",
@@ -734,6 +686,22 @@
     "org": "Vladivostokskaya Set LTD",
     "as": "AS42038 Krivets Sergey Sergeevich",
     "query": "109.126.5.40"
+  },
+  "185.242.247.119": {
+    "status": "success",
+    "country": "Finland",
+    "countryCode": "FI",
+    "region": "18",
+    "regionName": "Uusimaa",
+    "city": "Helsinki",
+    "zip": "00201",
+    "lat": 60.1719,
+    "lon": 24.9347,
+    "timezone": "Europe/Helsinki",
+    "isp": "Global Connectivity Solutions LLP",
+    "org": "OY Creanova Hosting Solutions LTD",
+    "as": "AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP",
+    "query": "185.242.247.119"
   },
   "95.70.55.29": {
     "status": "success",
