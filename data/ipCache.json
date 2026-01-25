@@ -255,22 +255,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.108.146.236"
   },
-  "103.152.178.62": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-0001",
-    "lat": 35.694,
-    "lon": 139.754,
-    "timezone": "Asia/Tokyo",
-    "isp": "Ayao Takata",
-    "org": "SDCC-East01",
-    "as": "AS38074 SDCC Japan-West Area",
-    "query": "103.152.178.62"
-  },
   "220.146.147.20": {
     "status": "success",
     "country": "Japan",
@@ -302,6 +286,22 @@
     "org": "Korea Telecom",
     "as": "AS4766 Korea Telecom",
     "query": "218.144.18.105"
+  },
+  "103.152.178.62": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-0001",
+    "lat": 35.694,
+    "lon": 139.754,
+    "timezone": "Asia/Tokyo",
+    "isp": "Ayao Takata",
+    "org": "SDCC-East01",
+    "as": "AS38074 SDCC Japan-West Area",
+    "query": "103.152.178.62"
   },
   "171.7.78.25": {
     "status": "success",
@@ -527,6 +527,22 @@
     "as": "AS10066 LG HelloVision Corp.",
     "query": "115.41.35.173"
   },
+  "59.4.220.59": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "48",
+    "regionName": "Gyeongsangnam-do",
+    "city": "Geochang-gun",
+    "zip": "50124",
+    "lat": 35.7282,
+    "lon": 127.8989,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "59.4.220.59"
+  },
   "175.194.115.126": {
     "status": "success",
     "country": "South Korea",
@@ -542,6 +558,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "175.194.115.126"
+  },
+  "59.187.252.242": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Dongjak-gu",
+    "zip": "069",
+    "lat": 37.5003,
+    "lon": 126.9565,
+    "timezone": "Asia/Seoul",
+    "isp": "HCN Dongjak",
+    "org": "Boranet",
+    "as": "AS7562 HCN Dongjak",
+    "query": "59.187.252.242"
   },
   "92.37.185.238": {
     "status": "success",
@@ -622,37 +654,5 @@
     "org": "VIETEL",
     "as": "AS7552 Viettel Group",
     "query": "171.240.107.87"
-  },
-  "5.100.81.48": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PRI",
-    "regionName": "Primorye",
-    "city": "Vladivostok",
-    "zip": "690001",
-    "lat": 43.1068,
-    "lon": 131.8692,
-    "timezone": "Asia/Vladivostok",
-    "isp": "VLADLINK",
-    "org": "VladLink LTD",
-    "as": "AS42038 Krivets Sergey Sergeevich",
-    "query": "5.100.81.48"
-  },
-  "77.82.36.7": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KHA",
-    "regionName": "Khabarovsk",
-    "city": "Khabarovsk",
-    "zip": "680000",
-    "lat": 48.4817,
-    "lon": 135.083,
-    "timezone": "Asia/Vladivostok",
-    "isp": "PJSC Rostelecom",
-    "org": "Far East Telecommunications Company",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "77.82.36.7"
   }
 }
