@@ -527,6 +527,22 @@
     "as": "AS17858 LG POWERCOMM",
     "query": "116.34.216.160"
   },
+  "221.156.39.137": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "29",
+    "regionName": "Gwangju",
+    "city": "Gwangsan-gu",
+    "zip": "622",
+    "lat": 35.2119,
+    "lon": 126.8545,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "221.156.39.137"
+  },
   "112.184.43.3": {
     "status": "success",
     "country": "South Korea",
