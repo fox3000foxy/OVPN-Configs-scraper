@@ -479,6 +479,22 @@
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "119.175.44.34"
   },
+  "124.44.74.37": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6906,
+    "lon": 139.77,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT-ME Corporation",
+    "org": "NTT-ME Corporation",
+    "as": "AS9595 NTT-ME Corporation",
+    "query": "124.44.74.37"
+  },
   "114.201.13.246": {
     "status": "success",
     "country": "South Korea",
@@ -510,22 +526,6 @@
     "org": "HVGaya",
     "as": "AS10066 LG HelloVision Corp.",
     "query": "115.41.35.173"
-  },
-  "60.126.10.156": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan Nation-wide Network of Softbank Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "60.126.10.156"
   },
   "175.194.115.126": {
     "status": "success",
@@ -638,5 +638,21 @@
     "org": "VladLink LTD",
     "as": "AS42038 Krivets Sergey Sergeevich",
     "query": "5.100.81.48"
+  },
+  "77.82.36.7": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KHA",
+    "regionName": "Khabarovsk",
+    "city": "Khabarovsk",
+    "zip": "680000",
+    "lat": 48.4817,
+    "lon": 135.083,
+    "timezone": "Asia/Vladivostok",
+    "isp": "PJSC Rostelecom",
+    "org": "Far East Telecommunications Company",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "77.82.36.7"
   }
 }
