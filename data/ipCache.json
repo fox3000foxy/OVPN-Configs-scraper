@@ -159,6 +159,22 @@
     "as": "AS17506 ARTERIA Networks Corporation",
     "query": "221.114.170.58"
   },
+  "133.165.167.55": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Isshiki",
+    "zip": "240-0111",
+    "lat": 35.2616,
+    "lon": 139.5866,
+    "timezone": "Asia/Tokyo",
+    "isp": "Japan Network Information Center",
+    "org": "So-net Service",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "133.165.167.55"
+  },
   "77.82.48.63": {
     "status": "success",
     "country": "Russia",
@@ -223,22 +239,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.38.27.138"
   },
-  "133.165.167.55": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Isshiki",
-    "zip": "240-0111",
-    "lat": 35.2616,
-    "lon": 139.5866,
-    "timezone": "Asia/Tokyo",
-    "isp": "Japan Network Information Center",
-    "org": "So-net Service",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "133.165.167.55"
-  },
   "101.128.133.100": {
     "status": "success",
     "country": "Japan",
@@ -270,6 +270,22 @@
     "org": "Triple T Broadband Public Company Limited",
     "as": "AS45758 Triple T Broadband Public Company Limited",
     "query": "171.4.236.63"
+  },
+  "184.65.140.154": {
+    "status": "success",
+    "country": "Canada",
+    "countryCode": "CA",
+    "region": "BC",
+    "regionName": "British Columbia",
+    "city": "Surrey",
+    "zip": "V4N",
+    "lat": 49.17,
+    "lon": -122.7348,
+    "timezone": "America/Vancouver",
+    "isp": "Shaw Communications",
+    "org": "Shaw Communications",
+    "as": "AS6327 Shaw Communications",
+    "query": "184.65.140.154"
   },
   "14.47.248.47": {
     "status": "success",
@@ -366,22 +382,6 @@
     "org": "LG POWERCOMM",
     "as": "AS17858 LG POWERCOMM",
     "query": "182.215.193.29"
-  },
-  "119.171.18.29": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Honchō",
-    "zip": "203-0051",
-    "lat": 35.7624,
-    "lon": 139.5242,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM Co., Ltd.",
-    "org": "JCOM Co., Ltd",
-    "as": "AS9824 JCOM Co., Ltd.",
-    "query": "119.171.18.29"
   },
   "211.219.71.79": {
     "status": "success",
@@ -510,22 +510,6 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "58.235.123.214"
-  },
-  "133.32.217.5": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Kamiochiai",
-    "zip": "161-0031",
-    "lat": 35.723,
-    "lon": 139.6748,
-    "timezone": "Asia/Tokyo",
-    "isp": "ARTERIA Networks Corporation",
-    "org": "ARTERIA Networks Corporation",
-    "as": "AS2519 ARTERIA Networks Corporation",
-    "query": "133.32.217.5"
   },
   "118.21.74.117": {
     "status": "success",
@@ -703,22 +687,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "211.205.218.20"
   },
-  "178.184.154.5": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "IRK",
-    "regionName": "Irkutsk Oblast",
-    "city": "Irkutsk",
-    "zip": "664000",
-    "lat": 52.2984,
-    "lon": 104.2903,
-    "timezone": "Asia/Irkutsk",
-    "isp": "JSC Rostelecom regional branch \"Siberia\"",
-    "org": "OJSC Sibirtelecom",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "178.184.154.5"
-  },
   "113.131.240.120": {
     "status": "success",
     "country": "South Korea",
@@ -735,22 +703,6 @@
     "as": "AS9770 LG HelloVision Corp.",
     "query": "113.131.240.120"
   },
-  "213.228.80.60": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "NVS",
-    "regionName": "Novosibirsk Oblast",
-    "city": "Novosibirsk",
-    "zip": "630075",
-    "lat": 55.0285,
-    "lon": 82.9202,
-    "timezone": "Asia/Novosibirsk",
-    "isp": "Rostelecom networks",
-    "org": "OJSC Sibirtelecom",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "213.228.80.60"
-  },
   "31.28.112.169": {
     "status": "success",
     "country": "Russia",
@@ -766,5 +718,21 @@
     "org": "\"Interra\" Ltd.",
     "as": "AS48524 INTERRA telecommunications group, Ltd.",
     "query": "31.28.112.169"
+  },
+  "5.143.104.42": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Vladivostok",
+    "zip": "690001",
+    "lat": 43.1068,
+    "lon": 131.8692,
+    "timezone": "Asia/Vladivostok",
+    "isp": "PJSC Rostelecom Far East Region",
+    "org": "Rostelecom Nets",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "5.143.104.42"
   }
 }
