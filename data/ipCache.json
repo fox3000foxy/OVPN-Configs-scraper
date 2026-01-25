@@ -367,22 +367,6 @@
     "as": "AS17858 LG POWERCOMM",
     "query": "182.215.193.29"
   },
-  "211.219.71.79": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Seocho-gu",
-    "zip": "067",
-    "lat": 37.4802,
-    "lon": 127.0444,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "211.219.71.79"
-  },
   "211.7.245.143": {
     "status": "success",
     "country": "Japan",
@@ -510,6 +494,22 @@
     "org": "Chubu Telecommunications Co., Inc.",
     "as": "AS18126 Chubu Telecommunications Company, Inc.",
     "query": "123.48.128.240"
+  },
+  "103.152.178.62": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-0001",
+    "lat": 35.694,
+    "lon": 139.754,
+    "timezone": "Asia/Tokyo",
+    "isp": "Ayao Takata",
+    "org": "SDCC-East01",
+    "as": "AS38074 SDCC Japan-West Area",
+    "query": "103.152.178.62"
   },
   "118.21.74.117": {
     "status": "success",
@@ -719,6 +719,22 @@
     "as": "AS48524 INTERRA telecommunications group, Ltd.",
     "query": "31.28.112.169"
   },
+  "37.140.24.30": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "CHE",
+    "regionName": "Chelyabinsk Oblast",
+    "city": "Magnitogorsk",
+    "zip": "455000",
+    "lat": 53.3981,
+    "lon": 59.0066,
+    "timezone": "Asia/Yekaterinburg",
+    "isp": "Intersvyaz-2 JSC",
+    "org": "",
+    "as": "AS8369 Intersvyaz-2 JSC",
+    "query": "37.140.24.30"
+  },
   "5.143.104.42": {
     "status": "success",
     "country": "Russia",
@@ -782,5 +798,21 @@
     "org": "",
     "as": "AS196949 Natalia Sergeevna Filicheva",
     "query": "31.200.238.252"
+  },
+  "188.191.0.65": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KAM",
+    "regionName": "Kamchatka",
+    "city": "Petropavlovsk-Kamchatsky",
+    "zip": "683902",
+    "lat": 53.0716,
+    "lon": 158.627,
+    "timezone": "Asia/Kamchatka",
+    "isp": "InterkamService LLC",
+    "org": "Tomkevich Andrey Vladimirovich Individual businessman",
+    "as": "AS42742 InterkamService LLC",
+    "query": "188.191.0.65"
   }
 }
