@@ -127,22 +127,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.208"
   },
-  "111.97.191.114": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0071",
-    "lat": 35.6837,
-    "lon": 139.6805,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "111.97.191.114"
-  },
   "153.160.148.90": {
     "status": "success",
     "country": "Japan",
@@ -175,22 +159,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "118.237.134.168"
   },
-  "49.174.10.156": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Yongin-si",
-    "zip": "169",
-    "lat": 37.298,
-    "lon": 127.0777,
-    "timezone": "Asia/Seoul",
-    "isp": "LG POWERCOMM",
-    "org": "LG POWERCOMM",
-    "as": "AS17858 LG POWERCOMM",
-    "query": "49.174.10.156"
-  },
   "219.100.37.102": {
     "status": "success",
     "country": "Japan",
@@ -207,21 +175,37 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.102"
   },
-  "222.2.34.200": {
+  "221.144.197.228": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "42",
+    "regionName": "Gangwon-do",
+    "city": "Wŏnju",
+    "zip": "263",
+    "lat": 37.384,
+    "lon": 127.8724,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Korea Telecom",
+    "as": "AS4766 Korea Telecom",
+    "query": "221.144.197.228"
+  },
+  "60.108.146.236": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "18",
-    "regionName": "Fukui",
-    "city": "Nittazuka",
-    "zip": "910-0067",
-    "lat": 36.0956,
-    "lon": 136.204,
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
     "timezone": "Asia/Tokyo",
-    "isp": "DION (KDDI CORPORATION)",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "222.2.34.200"
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.108.146.236"
   },
   "220.146.147.20": {
     "status": "success",
@@ -638,6 +622,22 @@
     "org": "",
     "as": "AS25591 BCLan LLC",
     "query": "217.175.14.88"
+  },
+  "176.116.186.64": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KK",
+    "regionName": "Khakasiya Republic",
+    "city": "Abakan",
+    "zip": "655017",
+    "lat": 53.72,
+    "lon": 91.4324,
+    "timezone": "Asia/Krasnoyarsk",
+    "isp": "Orion telecom",
+    "org": "Kristelecom Ltd",
+    "as": "AS50427 Orion Telecom LLC",
+    "query": "176.116.186.64"
   },
   "212.164.64.113": {
     "status": "success",
