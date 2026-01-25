@@ -814,21 +814,5 @@
     "org": "Tomkevich Andrey Vladimirovich Individual businessman",
     "as": "AS42742 InterkamService LLC",
     "query": "188.191.0.65"
-  },
-  "213.228.80.60": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "NVS",
-    "regionName": "Novosibirsk Oblast",
-    "city": "Novosibirsk",
-    "zip": "630075",
-    "lat": 55.0285,
-    "lon": 82.9202,
-    "timezone": "Asia/Novosibirsk",
-    "isp": "Rostelecom networks",
-    "org": "OJSC Sibirtelecom",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "213.228.80.60"
   }
 }
