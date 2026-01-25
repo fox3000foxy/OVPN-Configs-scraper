@@ -543,22 +543,6 @@
     "as": "AS18403 FPT Telecom Company",
     "query": "1.52.49.63"
   },
-  "37.78.151.26": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KDA",
-    "regionName": "Krasnodar Krai",
-    "city": "Krasnodar",
-    "zip": "350000",
-    "lat": 45.0355,
-    "lon": 38.975,
-    "timezone": "Europe/Moscow",
-    "isp": "PAO Rostelecom",
-    "org": "OJSC Rostelecom Macroregional Branch South",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "37.78.151.26"
-  },
   "188.187.132.123": {
     "status": "success",
     "country": "Russia",
@@ -590,6 +574,38 @@
     "org": "DLIVE Nowon Cable TV",
     "as": "AS10036 DLIVE",
     "query": "112.214.54.111"
+  },
+  "37.78.151.26": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KDA",
+    "regionName": "Krasnodar Krai",
+    "city": "Krasnodar",
+    "zip": "350000",
+    "lat": 45.0355,
+    "lon": 38.975,
+    "timezone": "Europe/Moscow",
+    "isp": "PAO Rostelecom",
+    "org": "OJSC Rostelecom Macroregional Branch South",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "37.78.151.26"
+  },
+  "95.105.125.62": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "ORE",
+    "regionName": "Orenburg Oblast",
+    "city": "Orenburg",
+    "zip": "460004",
+    "lat": 51.7675,
+    "lon": 55.0977,
+    "timezone": "Asia/Yekaterinburg",
+    "isp": "JSC \"Ufanet\"",
+    "org": "JSC Ufanet",
+    "as": "AS41704 JSC Ufanet",
+    "query": "95.105.125.62"
   },
   "212.164.24.82": {
     "status": "success",
