@@ -239,6 +239,22 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "133.165.167.55"
   },
+  "101.128.133.100": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tokyo",
+    "zip": "151-0071",
+    "lat": 35.6837,
+    "lon": 139.6805,
+    "timezone": "Asia/Tokyo",
+    "isp": "Internet Initiative Japan Inc.",
+    "org": "Internet Initiative Japan Inc.",
+    "as": "AS2497 Internet Initiative Japan Inc.",
+    "query": "101.128.133.100"
+  },
   "171.4.236.63": {
     "status": "success",
     "country": "Thailand",
@@ -399,22 +415,6 @@
     "as": "AS9351 ZTV CO.,LTD",
     "query": "61.206.207.159"
   },
-  "223.217.98.41": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "11",
-    "regionName": "Saitama",
-    "city": "Tokiwa",
-    "zip": "330-0061",
-    "lat": 35.8669,
-    "lon": 139.6469,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "NTT Communications Corporation",
-    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
-    "query": "223.217.98.41"
-  },
   "211.7.245.143": {
     "status": "success",
     "country": "Japan",
@@ -479,22 +479,6 @@
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "119.173.41.163"
   },
-  "58.235.123.214": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "26",
-    "regionName": "Busan",
-    "city": "Busan",
-    "zip": "48947",
-    "lat": 35.1025,
-    "lon": 129.0394,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "58.235.123.214"
-  },
   "123.48.128.240": {
     "status": "success",
     "country": "Japan",
@@ -511,6 +495,22 @@
     "as": "AS18126 Chubu Telecommunications Company, Inc.",
     "query": "123.48.128.240"
   },
+  "58.235.123.214": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Busan",
+    "zip": "48947",
+    "lat": 35.1025,
+    "lon": 129.0394,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "58.235.123.214"
+  },
   "133.32.217.5": {
     "status": "success",
     "country": "Japan",
@@ -526,6 +526,22 @@
     "org": "ARTERIA Networks Corporation",
     "as": "AS2519 ARTERIA Networks Corporation",
     "query": "133.32.217.5"
+  },
+  "118.21.74.117": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Osaka",
+    "zip": "540-0002",
+    "lat": 34.6937,
+    "lon": 135.502,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "NTT Communications Corporation",
+    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
+    "query": "118.21.74.117"
   },
   "14.35.99.157": {
     "status": "success",
@@ -559,22 +575,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "59.10.140.25"
   },
-  "109.170.30.135": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "MOW",
-    "regionName": "Moscow",
-    "city": "Moscow",
-    "zip": "144700",
-    "lat": 55.7558,
-    "lon": 37.6173,
-    "timezone": "Europe/Moscow",
-    "isp": "PJSC MegaFon",
-    "org": "TI BB",
-    "as": "AS12714 PJSC MegaFon",
-    "query": "109.170.30.135"
-  },
   "176.49.161.173": {
     "status": "success",
     "country": "Russia",
@@ -590,6 +590,22 @@
     "org": "OJSC Sibirtelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "176.49.161.173"
+  },
+  "109.170.30.135": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "MOW",
+    "regionName": "Moscow",
+    "city": "Moscow",
+    "zip": "144700",
+    "lat": 55.7558,
+    "lon": 37.6173,
+    "timezone": "Europe/Moscow",
+    "isp": "PJSC MegaFon",
+    "org": "TI BB",
+    "as": "AS12714 PJSC MegaFon",
+    "query": "109.170.30.135"
   },
   "211.34.177.133": {
     "status": "success",
@@ -734,5 +750,21 @@
     "org": "OJSC Sibirtelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "213.228.80.60"
+  },
+  "31.28.112.169": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "SVE",
+    "regionName": "Sverdlovsk Oblast",
+    "city": "Pervouralsk",
+    "zip": "623109",
+    "lat": 56.9045,
+    "lon": 59.9367,
+    "timezone": "Asia/Yekaterinburg",
+    "isp": "VPN (PPPoE) customers Krasnoufimsk Sverdlovsk reg. Interra Ltd.",
+    "org": "\"Interra\" Ltd.",
+    "as": "AS48524 INTERRA telecommunications group, Ltd.",
+    "query": "31.28.112.169"
   }
 }
