@@ -271,21 +271,21 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "211.205.56.227"
   },
-  "138.64.194.75": {
+  "37.21.241.126": {
     "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Osaka",
-    "zip": "550-0001",
-    "lat": 34.6892,
-    "lon": 135.4899,
-    "timezone": "Asia/Tokyo",
-    "isp": "ASAHI Net, Inc.",
-    "org": "ASAHI",
-    "as": "AS4685 Asahi Net",
-    "query": "138.64.194.75"
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "TOM",
+    "regionName": "Tomsk Oblast",
+    "city": "Tomsk",
+    "zip": "634009",
+    "lat": 56.4957,
+    "lon": 84.9636,
+    "timezone": "Asia/Tomsk",
+    "isp": "JSC Rostelecom regional branch \"Siberia\"",
+    "org": "JSC Rostelecom regional branch Siberia",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "37.21.241.126"
   },
   "185.190.42.79": {
     "status": "success",
@@ -302,22 +302,6 @@
     "org": "",
     "as": "AS48043 Ozyorsk Telecom CJSC.",
     "query": "185.190.42.79"
-  },
-  "37.21.241.126": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "TOM",
-    "regionName": "Tomsk Oblast",
-    "city": "Tomsk",
-    "zip": "634009",
-    "lat": 56.4957,
-    "lon": 84.9636,
-    "timezone": "Asia/Tomsk",
-    "isp": "JSC Rostelecom regional branch \"Siberia\"",
-    "org": "JSC Rostelecom regional branch Siberia",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "37.21.241.126"
   },
   "86.102.205.225": {
     "status": "success",
@@ -447,6 +431,22 @@
     "as": "AS45758 Triple T Broadband Public Company Limited",
     "query": "171.4.238.53"
   },
+  "126.88.128.168": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.88.128.168"
+  },
   "86.102.10.37": {
     "status": "success",
     "country": "Russia",
@@ -526,6 +526,22 @@
     "org": "Sony Network Communications Inc.",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "182.168.207.13"
+  },
+  "94.190.39.192": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "SVE",
+    "regionName": "Sverdlovsk Oblast",
+    "city": "Novoural'sk",
+    "zip": "624170",
+    "lat": 57.2511,
+    "lon": 60.0886,
+    "timezone": "Asia/Yekaterinburg",
+    "isp": "Interra TG, Ltd.",
+    "org": "\"Interra\" Ltd",
+    "as": "AS48524 INTERRA telecommunications group, Ltd.",
+    "query": "94.190.39.192"
   },
   "86.102.21.67": {
     "status": "success",
@@ -638,6 +654,22 @@
     "org": "Rostelecom networks",
     "as": "AS12389 PJSC Rostelecom",
     "query": "109.236.237.101"
+  },
+  "42.1.117.120": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "DN",
+    "regionName": "Da Nang",
+    "city": "Da Nang",
+    "zip": "550000",
+    "lat": 16.0685,
+    "lon": 108.2215,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "isp": "Mobifone Corporation",
+    "org": "Vietnam Internet Network Information Center",
+    "as": "AS131429 MOBIFONE Corporation",
+    "query": "42.1.117.120"
   },
   "82.162.122.60": {
     "status": "success",
