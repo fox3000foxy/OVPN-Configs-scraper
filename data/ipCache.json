@@ -239,6 +239,22 @@
     "as": "AS17583 Keumgang Cable Network",
     "query": "182.237.221.37"
   },
+  "133.218.27.146": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "23",
+    "regionName": "Aichi",
+    "city": "Nagoya",
+    "zip": "462-0841",
+    "lat": 35.1926,
+    "lon": 136.906,
+    "timezone": "Asia/Tokyo",
+    "isp": "Internet Initiative Japan Inc.",
+    "org": "Rikei Corporation",
+    "as": "AS2497 Internet Initiative Japan Inc.",
+    "query": "133.218.27.146"
+  },
   "185.190.42.79": {
     "status": "success",
     "country": "Russia",
@@ -638,22 +654,6 @@
     "org": "Xpeed",
     "as": "AS17858 LG POWERCOMM",
     "query": "115.140.205.9"
-  },
-  "37.215.42.226": {
-    "status": "success",
-    "country": "Belarus",
-    "countryCode": "BY",
-    "region": "HM",
-    "regionName": "Minsk City",
-    "city": "Minsk",
-    "zip": "220073",
-    "lat": 53.901,
-    "lon": 27.5707,
-    "timezone": "Europe/Minsk",
-    "isp": "Republican Unitary Telecommunication Enterprise Beltelecom",
-    "org": "",
-    "as": "AS6697 Republican Unitary Telecommunication Enterprise Beltelecom",
-    "query": "37.215.42.226"
   },
   "94.245.131.69": {
     "status": "success",
