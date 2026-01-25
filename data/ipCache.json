@@ -255,22 +255,6 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "153.151.248.167"
   },
-  "222.119.93.36": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "26",
-    "regionName": "Busan",
-    "city": "Haeundae-gu",
-    "zip": "481",
-    "lat": 35.1692,
-    "lon": 129.1738,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "222.119.93.36"
-  },
   "121.3.217.251": {
     "status": "success",
     "country": "Japan",
@@ -366,6 +350,22 @@
     "org": "Jupiter Telecommunication Co. Ltd",
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "116.64.168.73"
+  },
+  "125.134.11.231": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Nam-gu",
+    "zip": "484",
+    "lat": 35.1362,
+    "lon": 129.0783,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "125.134.11.231"
   },
   "114.201.13.246": {
     "status": "success",
