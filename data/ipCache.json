@@ -463,6 +463,22 @@
     "as": "AS17511 OPTAGE Inc.",
     "query": "119.231.123.211"
   },
+  "121.103.70.65": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "09",
+    "regionName": "Tochigi",
+    "city": "Nasushiobara",
+    "zip": "325-0021",
+    "lat": 36.9664,
+    "lon": 140.0608,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "121.103.70.65"
+  },
   "171.101.20.68": {
     "status": "success",
     "country": "Thailand",
@@ -478,22 +494,6 @@
     "org": "Truenet BB",
     "as": "AS17552 True Online",
     "query": "171.101.20.68"
-  },
-  "60.79.244.225": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan Nation-wide Network of Softbank Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "60.79.244.225"
   },
   "106.163.193.203": {
     "status": "success",
@@ -542,22 +542,6 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "58.232.223.120"
-  },
-  "118.70.145.222": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "HN",
-    "regionName": "Hanoi",
-    "city": "Hanoi",
-    "zip": "100000",
-    "lat": 21.0184,
-    "lon": 105.8461,
-    "timezone": "Asia/Bangkok",
-    "isp": "Vietnam Internet Network Information Center",
-    "org": "",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "118.70.145.222"
   },
   "5.228.115.190": {
     "status": "success",
@@ -686,21 +670,5 @@
     "org": "OJSC Sibirtelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "90.189.56.118"
-  },
-  "5.143.89.139": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PRI",
-    "regionName": "Primorye",
-    "city": "Vladivostok",
-    "zip": "690001",
-    "lat": 43.1068,
-    "lon": 131.8692,
-    "timezone": "Asia/Vladivostok",
-    "isp": "Rostelecom networks",
-    "org": "OJSC Rostelecom Far-East Region",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "5.143.89.139"
   }
 }
