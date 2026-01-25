@@ -319,22 +319,6 @@
     "as": "AS45758 Triple T Broadband Public Company Limited",
     "query": "171.4.236.63"
   },
-  "106.155.137.110": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6906,
-    "lon": 139.77,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "106.155.137.110"
-  },
   "183.91.4.152": {
     "status": "success",
     "country": "Vietnam",
@@ -431,22 +415,6 @@
     "as": "AS17858 LG POWERCOMM",
     "query": "182.215.193.29"
   },
-  "121.182.155.130": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "27",
-    "regionName": "Daegu",
-    "city": "Daegu",
-    "zip": "41934",
-    "lat": 35.8723,
-    "lon": 128.5924,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Korea Telecom",
-    "as": "AS4766 Korea Telecom",
-    "query": "121.182.155.130"
-  },
   "211.219.71.79": {
     "status": "success",
     "country": "South Korea",
@@ -511,6 +479,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "112.162.202.175"
   },
+  "123.48.128.240": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "22",
+    "regionName": "Shizuoka",
+    "city": "Hamamatsu",
+    "zip": "430-0921",
+    "lat": 34.699,
+    "lon": 137.7337,
+    "timezone": "Asia/Tokyo",
+    "isp": "Chubu Telecommunications Company, Inc.",
+    "org": "Chubu Telecommunications Co., Inc.",
+    "as": "AS18126 Chubu Telecommunications Company, Inc.",
+    "query": "123.48.128.240"
+  },
   "58.235.123.214": {
     "status": "success",
     "country": "South Korea",
@@ -527,21 +511,21 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "58.235.123.214"
   },
-  "211.105.180.89": {
+  "61.83.2.222": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
-    "region": "27",
-    "regionName": "Daegu",
+    "region": "26",
+    "regionName": "Busan",
     "city": "Buk-gu",
-    "zip": "415",
-    "lat": 35.8988,
-    "lon": 128.6029,
+    "zip": "465",
+    "lat": 35.2236,
+    "lon": 129.0098,
     "timezone": "Asia/Seoul",
     "isp": "Korea Telecom",
-    "org": "Jeonnambonbujang",
+    "org": "",
     "as": "AS4766 Korea Telecom",
-    "query": "211.105.180.89"
+    "query": "61.83.2.222"
   },
   "59.10.140.25": {
     "status": "success",
@@ -558,6 +542,22 @@
     "org": "Sudogwongangnambonbujang",
     "as": "AS4766 Korea Telecom",
     "query": "59.10.140.25"
+  },
+  "109.170.30.135": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "MOW",
+    "regionName": "Moscow",
+    "city": "Moscow",
+    "zip": "144700",
+    "lat": 55.7558,
+    "lon": 37.6173,
+    "timezone": "Europe/Moscow",
+    "isp": "PJSC MegaFon",
+    "org": "TI BB",
+    "as": "AS12714 PJSC MegaFon",
+    "query": "109.170.30.135"
   },
   "176.49.161.173": {
     "status": "success",
@@ -686,5 +686,37 @@
     "org": "HVSilla",
     "as": "AS9770 LG HelloVision Corp.",
     "query": "113.131.240.120"
+  },
+  "213.228.80.60": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "NVS",
+    "regionName": "Novosibirsk Oblast",
+    "city": "Novosibirsk",
+    "zip": "630075",
+    "lat": 55.0285,
+    "lon": 82.9202,
+    "timezone": "Asia/Novosibirsk",
+    "isp": "Rostelecom networks",
+    "org": "OJSC Sibirtelecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "213.228.80.60"
+  },
+  "31.28.112.169": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "SVE",
+    "regionName": "Sverdlovsk Oblast",
+    "city": "Pervouralsk",
+    "zip": "623109",
+    "lat": 56.9045,
+    "lon": 59.9367,
+    "timezone": "Asia/Yekaterinburg",
+    "isp": "VPN (PPPoE) customers Krasnoufimsk Sverdlovsk reg. Interra Ltd.",
+    "org": "\"Interra\" Ltd.",
+    "as": "AS48524 INTERRA telecommunications group, Ltd.",
+    "query": "31.28.112.169"
   }
 }
