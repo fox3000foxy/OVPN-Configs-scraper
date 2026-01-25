@@ -239,6 +239,22 @@
     "as": "AS20001 Charter Communications Inc",
     "query": "104.35.234.249"
   },
+  "122.210.185.27": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Yokohama",
+    "zip": "231-0841",
+    "lat": 35.4337,
+    "lon": 139.6499,
+    "timezone": "Asia/Tokyo",
+    "isp": "ARTERIA Networks Corporation",
+    "org": "UCOM Corporation",
+    "as": "AS17506 ARTERIA Networks Corporation",
+    "query": "122.210.185.27"
+  },
   "91.219.203.117": {
     "status": "success",
     "country": "Russia",
@@ -302,22 +318,6 @@
     "org": "Vietnam Internet Network Information Center",
     "as": "AS18403 FPT Telecom Company",
     "query": "1.53.194.142"
-  },
-  "36.13.249.70": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Atsugi",
-    "zip": "243-0021",
-    "lat": 35.4269,
-    "lon": 139.357,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "36.13.249.70"
   },
   "112.220.30.58": {
     "status": "success",
