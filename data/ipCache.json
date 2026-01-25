@@ -223,22 +223,6 @@
     "as": "AS10036 DLIVE",
     "query": "182.172.122.57"
   },
-  "218.145.107.33": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Ansan-si",
-    "zip": "154",
-    "lat": 37.3031,
-    "lon": 126.8214,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "218.145.107.33"
-  },
   "185.124.155.182": {
     "status": "success",
     "country": "Russia",
@@ -286,22 +270,6 @@
     "org": "ARTERIA Networks Corporation",
     "as": "AS2519 ARTERIA Networks Corporation",
     "query": "122.223.24.93"
-  },
-  "122.103.113.207": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0071",
-    "lat": 35.6837,
-    "lon": 139.6805,
-    "timezone": "Asia/Tokyo",
-    "isp": "ARTERIA Networks Corporation",
-    "org": "ARTERIA Networks Corporation",
-    "as": "AS2519 ARTERIA Networks Corporation",
-    "query": "122.103.113.207"
   },
   "118.241.184.72": {
     "status": "success",
@@ -447,22 +415,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "110.14.252.60"
   },
-  "171.101.20.68": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "21",
-    "regionName": "Rayong",
-    "city": "Rayong",
-    "zip": "21000",
-    "lat": 12.6774,
-    "lon": 101.2576,
-    "timezone": "Asia/Bangkok",
-    "isp": "True Internet Corporation CO. Ltd.",
-    "org": "Truenet BB",
-    "as": "AS17552 True Online",
-    "query": "171.101.20.68"
-  },
   "121.103.70.65": {
     "status": "success",
     "country": "Japan",
@@ -478,6 +430,22 @@
     "org": "Sony Network Communications Inc.",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "121.103.70.65"
+  },
+  "60.80.243.29": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "08",
+    "regionName": "Ibaraki",
+    "city": "Koga",
+    "zip": "306-0016",
+    "lat": 36.1833,
+    "lon": 139.717,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.80.243.29"
   },
   "126.206.5.144": {
     "status": "success",
@@ -558,6 +526,22 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "58.232.223.120"
+  },
+  "118.70.145.222": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "HN",
+    "regionName": "Hanoi",
+    "city": "Hanoi",
+    "zip": "100000",
+    "lat": 21.0184,
+    "lon": 105.8461,
+    "timezone": "Asia/Bangkok",
+    "isp": "Vietnam Internet Network Information Center",
+    "org": "",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "118.70.145.222"
   },
   "58.230.49.105": {
     "status": "success",
