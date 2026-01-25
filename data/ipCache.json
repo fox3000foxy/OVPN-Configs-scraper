@@ -175,6 +175,22 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.235.87.202"
   },
+  "153.206.173.142": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Yokohama",
+    "zip": "231-0841",
+    "lat": 35.4337,
+    "lon": 139.6499,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "Open Computer Network",
+    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
+    "query": "153.206.173.142"
+  },
   "222.109.124.1": {
     "status": "success",
     "country": "South Korea",
@@ -239,6 +255,22 @@
     "as": "AS17583 Keumgang Cable Network",
     "query": "182.237.221.37"
   },
+  "133.218.27.146": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "23",
+    "regionName": "Aichi",
+    "city": "Nagoya",
+    "zip": "462-0841",
+    "lat": 35.1926,
+    "lon": 136.906,
+    "timezone": "Asia/Tokyo",
+    "isp": "Internet Initiative Japan Inc.",
+    "org": "Rikei Corporation",
+    "as": "AS2497 Internet Initiative Japan Inc.",
+    "query": "133.218.27.146"
+  },
   "211.205.56.227": {
     "status": "success",
     "country": "South Korea",
@@ -255,6 +287,22 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "211.205.56.227"
   },
+  "185.190.42.79": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "CHE",
+    "regionName": "Chelyabinsk Oblast",
+    "city": "Ozersk",
+    "zip": "456784",
+    "lat": 55.7585,
+    "lon": 60.7079,
+    "timezone": "Asia/Yekaterinburg",
+    "isp": "UKS",
+    "org": "",
+    "as": "AS48043 Ozyorsk Telecom CJSC.",
+    "query": "185.190.42.79"
+  },
   "37.21.241.126": {
     "status": "success",
     "country": "Russia",
@@ -270,6 +318,22 @@
     "org": "JSC Rostelecom regional branch Siberia",
     "as": "AS12389 PJSC Rostelecom",
     "query": "37.21.241.126"
+  },
+  "138.64.194.75": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Osaka",
+    "zip": "550-0001",
+    "lat": 34.6892,
+    "lon": 135.4899,
+    "timezone": "Asia/Tokyo",
+    "isp": "ASAHI Net, Inc.",
+    "org": "ASAHI",
+    "as": "AS4685 Asahi Net",
+    "query": "138.64.194.75"
   },
   "183.176.178.218": {
     "status": "success",
@@ -302,22 +366,6 @@
     "org": "",
     "as": "AS12389 PJSC Rostelecom",
     "query": "86.102.205.225"
-  },
-  "113.148.186.91": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "26",
-    "regionName": "Kyoto",
-    "city": "Uji",
-    "zip": "611-0041",
-    "lat": 34.8992,
-    "lon": 135.7859,
-    "timezone": "Asia/Tokyo",
-    "isp": "DION (KDDI CORPORATION)",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "113.148.186.91"
   },
   "219.100.37.50": {
     "status": "success",
@@ -398,22 +446,6 @@
     "org": "Triple T Broadband Public Company Limited",
     "as": "AS45758 Triple T Broadband Public Company Limited",
     "query": "171.4.238.53"
-  },
-  "123.48.136.169": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "22",
-    "regionName": "Shizuoka",
-    "city": "Hamamatsu",
-    "zip": "430-0921",
-    "lat": 34.699,
-    "lon": 137.7337,
-    "timezone": "Asia/Tokyo",
-    "isp": "Chubu Telecommunications Company, Inc.",
-    "org": "Chubu Telecommunications Co., Inc.",
-    "as": "AS18126 Chubu Telecommunications Company, Inc.",
-    "query": "123.48.136.169"
   },
   "86.102.10.37": {
     "status": "success",
@@ -526,38 +558,6 @@
     "org": "Open Computer Network",
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "114.175.159.86"
-  },
-  "184.22.16.3": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "10",
-    "regionName": "Bangkok",
-    "city": "Bangkok",
-    "zip": "10400",
-    "lat": 13.7618,
-    "lon": 100.5324,
-    "timezone": "Asia/Bangkok",
-    "isp": "AIS-Fibre",
-    "org": "",
-    "as": "AS133481 AIS Fibre",
-    "query": "184.22.16.3"
-  },
-  "94.190.39.192": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "SVE",
-    "regionName": "Sverdlovsk Oblast",
-    "city": "Novoural'sk",
-    "zip": "624170",
-    "lat": 57.2511,
-    "lon": 60.0886,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "Interra TG, Ltd.",
-    "org": "\"Interra\" Ltd",
-    "as": "AS48524 INTERRA telecommunications group, Ltd.",
-    "query": "94.190.39.192"
   },
   "86.102.21.67": {
     "status": "success",
