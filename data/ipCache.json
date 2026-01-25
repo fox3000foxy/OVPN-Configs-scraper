@@ -415,22 +415,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "118.41.236.148"
   },
-  "182.20.181.118": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Wakabadai",
-    "zip": "241-0801",
-    "lat": 35.5022,
-    "lon": 139.4987,
-    "timezone": "Asia/Tokyo",
-    "isp": "TOKAI Communications Corporation",
-    "org": "TOKAI",
-    "as": "AS10010 TOKAI Communications Corporation",
-    "query": "182.20.181.118"
-  },
   "222.102.49.72": {
     "status": "success",
     "country": "South Korea",
