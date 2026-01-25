@@ -447,22 +447,6 @@
     "as": "AS9351 ZTV CO.,LTD",
     "query": "61.206.207.159"
   },
-  "184.22.243.227": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "10",
-    "regionName": "Bangkok",
-    "city": "Bangkok",
-    "zip": "10250",
-    "lat": 13.8582,
-    "lon": 100.478,
-    "timezone": "Asia/Bangkok",
-    "isp": "AIS-Fibre",
-    "org": "",
-    "as": "AS133481 AIS Fibre",
-    "query": "184.22.243.227"
-  },
   "223.217.98.41": {
     "status": "success",
     "country": "Japan",
@@ -527,22 +511,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "211.105.180.89"
   },
-  "91.227.189.61": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "MOS",
-    "regionName": "Moscow Oblast",
-    "city": "Podolsk",
-    "zip": "142108",
-    "lat": 55.4198,
-    "lon": 37.5599,
-    "timezone": "Europe/Moscow",
-    "isp": "LLC \"Skynet\"",
-    "org": "Quartz Telecom",
-    "as": "AS197826 LLC \"Skynet\"",
-    "query": "91.227.189.61"
-  },
   "59.10.140.25": {
     "status": "success",
     "country": "South Korea",
@@ -559,21 +527,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "59.10.140.25"
   },
-  "176.49.161.173": {
+  "91.227.189.61": {
     "status": "success",
     "country": "Russia",
     "countryCode": "RU",
-    "region": "KYA",
-    "regionName": "Krasnoyarsk Krai",
-    "city": "Krasnoyarsk",
-    "zip": "660049",
-    "lat": 56.0374,
-    "lon": 92.9314,
-    "timezone": "Asia/Krasnoyarsk",
-    "isp": "Rostelecom networks",
-    "org": "OJSC Sibirtelecom",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "176.49.161.173"
+    "region": "MOS",
+    "regionName": "Moscow Oblast",
+    "city": "Podolsk",
+    "zip": "142108",
+    "lat": 55.4198,
+    "lon": 37.5599,
+    "timezone": "Europe/Moscow",
+    "isp": "LLC \"Skynet\"",
+    "org": "Quartz Telecom",
+    "as": "AS197826 LLC \"Skynet\"",
+    "query": "91.227.189.61"
   },
   "1.248.28.27": {
     "status": "success",
@@ -590,6 +558,22 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.248.28.27"
+  },
+  "176.49.161.173": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KYA",
+    "regionName": "Krasnoyarsk Krai",
+    "city": "Krasnoyarsk",
+    "zip": "660049",
+    "lat": 56.0374,
+    "lon": 92.9314,
+    "timezone": "Asia/Krasnoyarsk",
+    "isp": "Rostelecom networks",
+    "org": "OJSC Sibirtelecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "176.49.161.173"
   },
   "114.200.230.80": {
     "status": "success",
@@ -623,6 +607,22 @@
     "as": "AS8359 MTS PJSC",
     "query": "213.87.246.210"
   },
+  "125.243.142.156": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Seoul",
+    "zip": "04524",
+    "lat": 37.5658,
+    "lon": 126.978,
+    "timezone": "Asia/Seoul",
+    "isp": "DACOM-PUBNETPLUS",
+    "org": "Pubnetplus",
+    "as": "AS9316 DACOM-PUBNETPLUS",
+    "query": "125.243.142.156"
+  },
   "115.20.191.50": {
     "status": "success",
     "country": "South Korea",
@@ -639,36 +639,20 @@
     "as": "AS4766 Korea Telecom",
     "query": "115.20.191.50"
   },
-  "113.131.240.120": {
+  "178.184.154.5": {
     "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "47",
-    "regionName": "Gyeongsangbuk-do",
-    "city": "Gyeongsan-si",
-    "zip": "384",
-    "lat": 35.9079,
-    "lon": 128.821,
-    "timezone": "Asia/Seoul",
-    "isp": "LG HelloVision Corp.",
-    "org": "HVSilla",
-    "as": "AS9770 LG HelloVision Corp.",
-    "query": "113.131.240.120"
-  },
-  "211.205.218.20": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "48",
-    "regionName": "Gyeongsangnam-do",
-    "city": "Changwon",
-    "zip": "513",
-    "lat": 35.2364,
-    "lon": 128.6419,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "211.205.218.20"
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "IRK",
+    "regionName": "Irkutsk Oblast",
+    "city": "Irkutsk",
+    "zip": "664000",
+    "lat": 52.2984,
+    "lon": 104.2903,
+    "timezone": "Asia/Irkutsk",
+    "isp": "JSC Rostelecom regional branch \"Siberia\"",
+    "org": "OJSC Sibirtelecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "178.184.154.5"
   }
 }
