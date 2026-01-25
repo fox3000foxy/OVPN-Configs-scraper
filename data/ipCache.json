@@ -63,22 +63,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.126"
   },
-  "219.100.37.15": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftEther",
-    "org": "SoftEther Corporation",
-    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.15"
-  },
   "219.100.37.16": {
     "status": "success",
     "country": "Japan",
@@ -94,6 +78,22 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.16"
+  },
+  "219.100.37.15": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftEther",
+    "org": "SoftEther Corporation",
+    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
+    "query": "219.100.37.15"
   },
   "219.100.37.208": {
     "status": "success",
@@ -206,22 +206,6 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "118.157.139.36"
-  },
-  "153.206.173.142": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Yokohama",
-    "zip": "231-0841",
-    "lat": 35.4337,
-    "lon": 139.6499,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "Open Computer Network",
-    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
-    "query": "153.206.173.142"
   },
   "222.109.124.1": {
     "status": "success",
@@ -430,6 +414,22 @@
     "org": "SOFTBANK Corp",
     "as": "AS17676 SoftBank Corp.",
     "query": "126.88.128.168"
+  },
+  "123.48.136.169": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "22",
+    "regionName": "Shizuoka",
+    "city": "Hamamatsu",
+    "zip": "430-0921",
+    "lat": 34.699,
+    "lon": 137.7337,
+    "timezone": "Asia/Tokyo",
+    "isp": "Chubu Telecommunications Company, Inc.",
+    "org": "Chubu Telecommunications Co., Inc.",
+    "as": "AS18126 Chubu Telecommunications Company, Inc.",
+    "query": "123.48.136.169"
   },
   "86.102.10.37": {
     "status": "success",
@@ -686,21 +686,5 @@
     "org": "",
     "as": "AS12389 PJSC Rostelecom",
     "query": "82.162.122.60"
-  },
-  "208.69.78.62": {
-    "status": "success",
-    "country": "Switzerland",
-    "countryCode": "CH",
-    "region": "ZH",
-    "regionName": "Zurich",
-    "city": "Zurich",
-    "zip": "",
-    "lat": 47.3768,
-    "lon": 8.5416,
-    "timezone": "Europe/Zurich",
-    "isp": "Ontario Inc.",
-    "org": "Ontario Inc.",
-    "as": "AS63023 GTHost",
-    "query": "208.69.78.62"
   }
 }
