@@ -287,6 +287,22 @@
     "as": "AS59533 Lukyanov Evgeniy Vladimirovich PE",
     "query": "91.219.203.117"
   },
+  "112.169.150.39": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Gangnam-gu",
+    "zip": "062",
+    "lat": 37.4909,
+    "lon": 127.0452,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "112.169.150.39"
+  },
   "180.229.33.160": {
     "status": "success",
     "country": "South Korea",
@@ -383,22 +399,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "59.4.2.249"
   },
-  "121.141.32.45": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Yeongdeungpo-gu",
-    "zip": "072",
-    "lat": 37.5247,
-    "lon": 126.9133,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Korea Telecom",
-    "as": "AS4766 Korea Telecom",
-    "query": "121.141.32.45"
-  },
   "180.200.120.212": {
     "status": "success",
     "country": "Japan",
@@ -415,22 +415,6 @@
     "as": "AS17529 STARCAT Co .,LTD.",
     "query": "180.200.120.212"
   },
-  "181.224.85.249": {
-    "status": "success",
-    "country": "Brazil",
-    "countryCode": "BR",
-    "region": "TO",
-    "regionName": "Tocantins",
-    "city": "Araguaína",
-    "zip": "77824",
-    "lat": -7.1873,
-    "lon": -48.2005,
-    "timezone": "America/Araguaina",
-    "isp": "Aranet Comunicacao Ltda",
-    "org": "Aranet Comunicacao Ltda",
-    "as": "AS262462 Aranet Play",
-    "query": "181.224.85.249"
-  },
   "221.71.132.98": {
     "status": "success",
     "country": "Japan",
@@ -446,6 +430,22 @@
     "org": "Japan nation-wide Network of SOFTBANK BB Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "221.71.132.98"
+  },
+  "181.224.85.249": {
+    "status": "success",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "region": "TO",
+    "regionName": "Tocantins",
+    "city": "Araguaína",
+    "zip": "77824",
+    "lat": -7.1873,
+    "lon": -48.2005,
+    "timezone": "America/Araguaina",
+    "isp": "Aranet Comunicacao Ltda",
+    "org": "Aranet Comunicacao Ltda",
+    "as": "AS262462 Aranet Play",
+    "query": "181.224.85.249"
   },
   "121.150.13.22": {
     "status": "success",
@@ -638,21 +638,5 @@
     "org": "",
     "as": "AS196949 Natalia Sergeevna Filicheva",
     "query": "31.200.225.17"
-  },
-  "185.3.182.56": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KHA",
-    "regionName": "Khabarovsk",
-    "city": "Khabarovsk",
-    "zip": "680000",
-    "lat": 48.4817,
-    "lon": 135.083,
-    "timezone": "Asia/Vladivostok",
-    "isp": "JSC \"Redcom-lnternet\"",
-    "org": "Redcom BB KHV Flat",
-    "as": "AS8749 JSC Redcom-lnternet",
-    "query": "185.3.182.56"
   }
 }
