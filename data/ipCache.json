@@ -271,6 +271,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "118.41.236.148"
   },
+  "182.168.207.13": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "43",
+    "regionName": "Kumamoto",
+    "city": "Kumamoto",
+    "zip": "860-0011",
+    "lat": 32.7959,
+    "lon": 130.7065,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "182.168.207.13"
+  },
   "103.152.178.62": {
     "status": "success",
     "country": "Japan",
@@ -350,22 +366,6 @@
     "org": "Triple T Broadband Public Company Limited",
     "as": "AS45758 Triple T Broadband Public Company Limited",
     "query": "171.6.211.139"
-  },
-  "182.168.207.13": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "43",
-    "regionName": "Kumamoto",
-    "city": "Kumamoto",
-    "zip": "860-0011",
-    "lat": 32.7959,
-    "lon": 130.7065,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "182.168.207.13"
   },
   "220.57.84.30": {
     "status": "success",
@@ -478,22 +478,6 @@
     "org": "Japan Nation-wide Network of Softbank Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "60.91.40.164"
-  },
-  "42.112.189.125": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "HN",
-    "regionName": "Hanoi",
-    "city": "Hanoi",
-    "zip": "",
-    "lat": 21.0278,
-    "lon": 105.834,
-    "timezone": "Asia/Bangkok",
-    "isp": "FPT Telecom Company",
-    "org": "FPT-STATICIP",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "42.112.189.125"
   },
   "211.177.129.51": {
     "status": "success",
