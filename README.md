@@ -103,12 +103,6 @@ Or download individually:
 |---|---|---|---|---|
 | 98.149.213.29 | United States | Spectrum | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/98.149.213.29.ovpn) |
 
-
-### Vietnam
-| IP | Country | ISP | Provider | Config |
-|---|---|---|---|---|
-| 171.240.107.87 | Vietnam | Viettel Corporation | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/171.240.107.87.ovpn) |
-
 > **Tip**: For the full list, check the `data/configs/` folder after running the scraper.
 
 

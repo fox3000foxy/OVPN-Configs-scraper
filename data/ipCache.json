@@ -271,22 +271,6 @@
     "as": "AS4685 Asahi Net",
     "query": "220.146.147.20"
   },
-  "218.144.18.105": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Seoul",
-    "zip": "045",
-    "lat": 37.5656,
-    "lon": 126.978,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Korea Telecom",
-    "as": "AS4766 Korea Telecom",
-    "query": "218.144.18.105"
-  },
   "171.7.78.25": {
     "status": "success",
     "country": "Thailand",
@@ -302,6 +286,22 @@
     "org": "Triple T Broadband Public Company Limited",
     "as": "AS45758 Triple T Broadband Public Company Limited",
     "query": "171.7.78.25"
+  },
+  "218.144.18.105": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Seoul",
+    "zip": "045",
+    "lat": 37.5656,
+    "lon": 126.978,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Korea Telecom",
+    "as": "AS4766 Korea Telecom",
+    "query": "218.144.18.105"
   },
   "103.152.178.62": {
     "status": "success",
@@ -622,21 +622,5 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "218.49.3.43"
-  },
-  "171.240.107.87": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "HN",
-    "regionName": "Hanoi",
-    "city": "Hanoi",
-    "zip": "100000",
-    "lat": 21.0184,
-    "lon": 105.8461,
-    "timezone": "Asia/Bangkok",
-    "isp": "Viettel Corporation",
-    "org": "VIETEL",
-    "as": "AS7552 Viettel Group",
-    "query": "171.240.107.87"
   }
 }
