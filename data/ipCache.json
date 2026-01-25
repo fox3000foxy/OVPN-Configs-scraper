@@ -335,22 +335,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "118.241.184.72"
   },
-  "61.44.175.142": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "01",
-    "regionName": "Hokkaido",
-    "city": "Hakodate",
-    "zip": "040-0071",
-    "lat": 41.7974,
-    "lon": 140.7298,
-    "timezone": "Asia/Tokyo",
-    "isp": "NCV",
-    "org": "New Media Co., Ltd",
-    "as": "AS59127 Newmedia Corporation",
-    "query": "61.44.175.142"
-  },
   "218.148.187.249": {
     "status": "success",
     "country": "South Korea",
@@ -366,6 +350,22 @@
     "org": "KORNET",
     "as": "AS4766 Korea Telecom",
     "query": "218.148.187.249"
+  },
+  "61.44.175.142": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "01",
+    "regionName": "Hokkaido",
+    "city": "Hakodate",
+    "zip": "040-0071",
+    "lat": 41.7974,
+    "lon": 140.7298,
+    "timezone": "Asia/Tokyo",
+    "isp": "NCV",
+    "org": "New Media Co., Ltd",
+    "as": "AS59127 Newmedia Corporation",
+    "query": "61.44.175.142"
   },
   "202.148.240.143": {
     "status": "success",
@@ -702,21 +702,5 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "114.201.3.61"
-  },
-  "116.46.241.88": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Gangnam-gu",
-    "zip": "063",
-    "lat": 37.4854,
-    "lon": 127.0524,
-    "timezone": "Asia/Seoul",
-    "isp": "LG POWERCOMM",
-    "org": "Xpeed",
-    "as": "AS17858 LG POWERCOMM",
-    "query": "116.46.241.88"
   }
 }
