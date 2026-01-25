@@ -447,22 +447,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "119.192.208.193"
   },
-  "77.34.167.20": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PRI",
-    "regionName": "Primorye",
-    "city": "Vladivostok",
-    "zip": "690001",
-    "lat": 43.1068,
-    "lon": 131.8692,
-    "timezone": "Asia/Vladivostok",
-    "isp": "Rostelecom networks",
-    "org": "",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "77.34.167.20"
-  },
   "60.91.40.164": {
     "status": "success",
     "country": "Japan",
@@ -478,6 +462,22 @@
     "org": "Japan Nation-wide Network of Softbank Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "60.91.40.164"
+  },
+  "77.34.167.20": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Vladivostok",
+    "zip": "690001",
+    "lat": 43.1068,
+    "lon": 131.8692,
+    "timezone": "Asia/Vladivostok",
+    "isp": "Rostelecom networks",
+    "org": "",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "77.34.167.20"
   },
   "211.177.129.51": {
     "status": "success",
@@ -591,22 +591,6 @@
     "as": "AS10036 DLIVE",
     "query": "112.214.54.111"
   },
-  "58.120.34.219": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "29",
-    "regionName": "Gwangju",
-    "city": "Gwangju",
-    "zip": "61426",
-    "lat": 35.1496,
-    "lon": 126.9156,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "58.120.34.219"
-  },
   "212.164.24.82": {
     "status": "success",
     "country": "Russia",
@@ -638,6 +622,22 @@
     "org": "Rostelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "77.82.216.218"
+  },
+  "58.120.34.219": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "29",
+    "regionName": "Gwangju",
+    "city": "Gwangju",
+    "zip": "61426",
+    "lat": 35.1496,
+    "lon": 126.9156,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "58.120.34.219"
   },
   "185.190.42.79": {
     "status": "success",
