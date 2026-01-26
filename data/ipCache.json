@@ -351,22 +351,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "220.72.40.110"
   },
-  "115.38.0.195": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "22",
-    "regionName": "Shizuoka",
-    "city": "Shizuoka",
-    "zip": "420-0831",
-    "lat": 34.9804,
-    "lon": 138.3854,
-    "timezone": "Asia/Tokyo",
-    "isp": "Chubu Telecommunications Company, Inc.",
-    "org": "Chubu Telecommunications Co., Inc.",
-    "as": "AS18126 Chubu Telecommunications Company, Inc.",
-    "query": "115.38.0.195"
-  },
   "1.66.34.134": {
     "status": "success",
     "country": "Japan",
@@ -382,6 +366,22 @@
     "org": "NTTDoCoMo",
     "as": "AS9605 NTT DOCOMO, INC.",
     "query": "1.66.34.134"
+  },
+  "115.38.0.195": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "22",
+    "regionName": "Shizuoka",
+    "city": "Shizuoka",
+    "zip": "420-0831",
+    "lat": 34.9804,
+    "lon": 138.3854,
+    "timezone": "Asia/Tokyo",
+    "isp": "Chubu Telecommunications Company, Inc.",
+    "org": "Chubu Telecommunications Co., Inc.",
+    "as": "AS18126 Chubu Telecommunications Company, Inc.",
+    "query": "115.38.0.195"
   },
   "113.145.237.167": {
     "status": "success",
@@ -479,6 +479,22 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "95.189.184.14"
   },
+  "219.102.238.86": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "12",
+    "regionName": "Chiba",
+    "city": "Yachimata",
+    "zip": "287-0011",
+    "lat": 35.65,
+    "lon": 140.317,
+    "timezone": "Asia/Tokyo",
+    "isp": "InfoSphere",
+    "org": "InfoSphere",
+    "as": "AS2514 NTT PC Communications, Inc.",
+    "query": "219.102.238.86"
+  },
   "14.41.72.173": {
     "status": "success",
     "country": "South Korea",
@@ -559,22 +575,6 @@
     "as": "AS15880 Private entrepreneur Chikalin Anatoly Nikolaevich",
     "query": "46.175.37.209"
   },
-  "171.7.111.215": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "10",
-    "regionName": "Bangkok",
-    "city": "Bangkok",
-    "zip": "10110",
-    "lat": 13.7101,
-    "lon": 100.4543,
-    "timezone": "Asia/Bangkok",
-    "isp": "Triple T Broadband Public Company Limited",
-    "org": "Triple T Broadband Public Company Limited",
-    "as": "AS45758 Triple T Broadband Public Company Limited",
-    "query": "171.7.111.215"
-  },
   "109.124.244.66": {
     "status": "success",
     "country": "Russia",
@@ -590,6 +590,22 @@
     "org": "SamaraLan",
     "as": "AS35032 LLC SIP NIS",
     "query": "109.124.244.66"
+  },
+  "38.25.18.6": {
+    "status": "success",
+    "country": "Peru",
+    "countryCode": "PE",
+    "region": "LMA",
+    "regionName": "Lima Province",
+    "city": "Lima",
+    "zip": "",
+    "lat": -12.046,
+    "lon": -77.0305,
+    "timezone": "America/Lima",
+    "isp": "WI-NET Telecom SAC",
+    "org": "WI-NET Telecom SAC",
+    "as": "AS265691 WI-NET TELECOM S.A.C.",
+    "query": "38.25.18.6"
   },
   "31.129.4.226": {
     "status": "success",
