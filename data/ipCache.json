@@ -495,6 +495,22 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "180.5.76.17"
   },
+  "133.32.50.192": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6906,
+    "lon": 139.77,
+    "timezone": "Asia/Tokyo",
+    "isp": "ARTERIA Networks Corporation",
+    "org": "ARTERIA Networks Corporation",
+    "as": "AS2519 ARTERIA Networks Corporation",
+    "query": "133.32.50.192"
+  },
   "118.218.227.187": {
     "status": "success",
     "country": "South Korea",
@@ -543,22 +559,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "61.80.99.46"
   },
-  "221.154.216.159": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "28",
-    "regionName": "Incheon",
-    "city": "Seo-gu",
-    "zip": "227",
-    "lat": 37.5214,
-    "lon": 126.6251,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "221.154.216.159"
-  },
   "178.155.48.73": {
     "status": "success",
     "country": "Russia",
@@ -574,6 +574,22 @@
     "org": "MTS Broadband",
     "as": "AS8359 MTS PJSC",
     "query": "178.155.48.73"
+  },
+  "203.232.73.99": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Gwangmyeong",
+    "zip": "142",
+    "lat": 37.4796,
+    "lon": 126.8746,
+    "timezone": "Asia/Seoul",
+    "isp": "KORNET",
+    "org": "naebuBBH VD(KTchungnambonbujang)",
+    "as": "AS4766 Korea Telecom",
+    "query": "203.232.73.99"
   },
   "178.187.190.55": {
     "status": "success",
@@ -686,21 +702,5 @@
     "org": "",
     "as": "AS12389 PJSC Rostelecom",
     "query": "93.177.21.198"
-  },
-  "94.245.150.104": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "SA",
-    "regionName": "Sakha",
-    "city": "Yakutsk",
-    "zip": "677000",
-    "lat": 62.0313,
-    "lon": 129.7325,
-    "timezone": "Asia/Yakutsk",
-    "isp": "Sakhatelecom",
-    "org": "",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "94.245.150.104"
   }
 }
