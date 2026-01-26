@@ -143,21 +143,21 @@
     "as": "AS22773 Cox Communications Inc.",
     "query": "68.8.191.131"
   },
-  "92.202.199.250": {
+  "124.144.23.224": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0071",
-    "lat": 35.6837,
-    "lon": 139.6805,
+    "region": "40",
+    "regionName": "Fukuoka",
+    "city": "Chūōku",
+    "zip": "820-0081",
+    "lat": 33.6399,
+    "lon": 130.668,
     "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "92.202.199.250"
+    "isp": "JCOM Co., Ltd.",
+    "org": "Jupiter Telecommunication Co. Ltd",
+    "as": "AS9824 JCOM Co., Ltd.",
+    "query": "124.144.23.224"
   },
   "14.57.196.103": {
     "status": "success",
@@ -558,6 +558,22 @@
     "org": "KT",
     "as": "AS4766 Korea Telecom",
     "query": "221.145.176.163"
+  },
+  "116.44.113.68": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "28",
+    "regionName": "Incheon",
+    "city": "Yeonsu-gu",
+    "zip": "219",
+    "lat": 37.3736,
+    "lon": 126.6555,
+    "timezone": "Asia/Seoul",
+    "isp": "LG POWERCOMM",
+    "org": "Xpeed",
+    "as": "AS17858 LG POWERCOMM",
+    "query": "116.44.113.68"
   },
   "178.163.69.1": {
     "status": "success",
