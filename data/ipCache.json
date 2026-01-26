@@ -223,22 +223,6 @@
     "as": "AS2519 ARTERIA Networks Corporation",
     "query": "122.103.113.207"
   },
-  "211.198.67.197": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Suwon",
-    "zip": "163",
-    "lat": 37.2905,
-    "lon": 126.9877,
-    "timezone": "Asia/Seoul",
-    "isp": "KORNET",
-    "org": "jinuapateu",
-    "as": "AS4766 Korea Telecom",
-    "query": "211.198.67.197"
-  },
   "182.172.122.57": {
     "status": "success",
     "country": "South Korea",
@@ -255,22 +239,6 @@
     "as": "AS10036 DLIVE",
     "query": "182.172.122.57"
   },
-  "185.124.155.182": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "NVS",
-    "regionName": "Novosibirsk Oblast",
-    "city": "Novosibirsk",
-    "zip": "",
-    "lat": 54.9833,
-    "lon": 82.8964,
-    "timezone": "Asia/Novosibirsk",
-    "isp": "KrasPromStroy, LLC",
-    "org": "",
-    "as": "AS12737 KrasPromStroy, LLC",
-    "query": "185.124.155.182"
-  },
   "219.100.37.102": {
     "status": "success",
     "country": "Japan",
@@ -286,6 +254,22 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.102"
+  },
+  "185.124.155.182": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "NVS",
+    "regionName": "Novosibirsk Oblast",
+    "city": "Novosibirsk",
+    "zip": "",
+    "lat": 54.9833,
+    "lon": 82.8964,
+    "timezone": "Asia/Novosibirsk",
+    "isp": "KrasPromStroy, LLC",
+    "org": "",
+    "as": "AS12737 KrasPromStroy, LLC",
+    "query": "185.124.155.182"
   },
   "219.100.37.50": {
     "status": "success",
@@ -622,6 +606,22 @@
     "org": "FPTDYNAMICIP",
     "as": "AS18403 FPT Telecom Company",
     "query": "1.52.5.203"
+  },
+  "203.175.32.228": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Seo-gu",
+    "zip": "492",
+    "lat": 35.1231,
+    "lon": 129.0184,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS17573 SK Broadband Co Ltd",
+    "query": "203.175.32.228"
   },
   "77.79.169.41": {
     "status": "success",
