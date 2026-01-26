@@ -159,22 +159,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "183.99.115.65"
   },
-  "223.132.208.135": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "21",
-    "regionName": "Gifu",
-    "city": "Gifu",
-    "zip": "500-8821",
-    "lat": 35.4256,
-    "lon": 136.7614,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "223.132.208.135"
-  },
   "119.196.49.82": {
     "status": "success",
     "country": "South Korea",
@@ -190,6 +174,22 @@
     "org": "Sudogwonseobubonbu",
     "as": "AS4766 Korea Telecom",
     "query": "119.196.49.82"
+  },
+  "223.132.208.135": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "21",
+    "regionName": "Gifu",
+    "city": "Gifu",
+    "zip": "500-8821",
+    "lat": 35.4256,
+    "lon": 136.7614,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "223.132.208.135"
   },
   "218.145.107.33": {
     "status": "success",
@@ -431,22 +431,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.119.224.202"
   },
-  "85.15.105.74": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KHA",
-    "regionName": "Khabarovsk",
-    "city": "Khabarovsk",
-    "zip": "680000",
-    "lat": 48.4817,
-    "lon": 135.083,
-    "timezone": "Asia/Vladivostok",
-    "isp": "Vostoktelecom",
-    "org": "Vostoktelecom Telephone Company LLC",
-    "as": "AS34896 Vostoktelecom Telephone Company Limited Liability Company",
-    "query": "85.15.105.74"
-  },
   "1.66.34.134": {
     "status": "success",
     "country": "Japan",
@@ -462,6 +446,22 @@
     "org": "NTTDoCoMo",
     "as": "AS9605 NTT DOCOMO, INC.",
     "query": "1.66.34.134"
+  },
+  "222.14.193.1": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "47",
+    "regionName": "Okinawa",
+    "city": "Kochinda",
+    "zip": "901-0401",
+    "lat": 26.1556,
+    "lon": 127.6668,
+    "timezone": "Asia/Tokyo",
+    "isp": "DION (KDDI CORPORATION)",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "222.14.193.1"
   },
   "59.146.35.86": {
     "status": "success",
@@ -510,22 +510,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "112.185.246.157"
-  },
-  "42.150.189.160": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "40",
-    "regionName": "Fukuoka",
-    "city": "Shimosone",
-    "zip": "800-0211",
-    "lat": 33.8402,
-    "lon": 130.9527,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM Co., Ltd.",
-    "org": "Jupiter Telecommunication Co. Ltd",
-    "as": "AS9824 JCOM Co., Ltd.",
-    "query": "42.150.189.160"
   },
   "1.52.5.203": {
     "status": "success",
@@ -623,6 +607,22 @@
     "as": "AS23788 JCOM Co., Ltd.",
     "query": "202.148.240.143"
   },
+  "211.244.251.223": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Eunpyeong-gu",
+    "zip": "033",
+    "lat": 37.6053,
+    "lon": 126.9231,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "211.244.251.223"
+  },
   "42.118.117.81": {
     "status": "success",
     "country": "Vietnam",
@@ -638,22 +638,6 @@
     "org": "FPTDYNAMICIP",
     "as": "AS18403 FPT Telecom Company",
     "query": "42.118.117.81"
-  },
-  "178.47.88.174": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PER",
-    "regionName": "Perm Krai",
-    "city": "Perm",
-    "zip": "614000",
-    "lat": 58.0047,
-    "lon": 56.2514,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "OJSC uralsvyazinform",
-    "org": "Dynamic distribution IPs for broadband services",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "178.47.88.174"
   },
   "31.200.233.129": {
     "status": "success",
