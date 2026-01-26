@@ -367,22 +367,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "221.151.151.230"
   },
-  "116.34.216.160": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Gwangju",
-    "zip": "127",
-    "lat": 37.3661,
-    "lon": 127.2255,
-    "timezone": "Asia/Seoul",
-    "isp": "LG POWERCOMM",
-    "org": "Xpeed",
-    "as": "AS17858 LG POWERCOMM",
-    "query": "116.34.216.160"
-  },
   "113.144.29.135": {
     "status": "success",
     "country": "Japan",
@@ -495,22 +479,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "121.3.1.88"
   },
-  "42.117.64.123": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "HN",
-    "regionName": "Hanoi",
-    "city": "Hanoi",
-    "zip": "100000",
-    "lat": 21.0184,
-    "lon": 105.8461,
-    "timezone": "Asia/Bangkok",
-    "isp": "FPT Telecom Company",
-    "org": "Vietnam Internet Network Information Center",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "42.117.64.123"
-  },
   "37.22.254.48": {
     "status": "success",
     "country": "Russia",
@@ -526,6 +494,22 @@
     "org": "JSC Rostelecom regional branch Siberia",
     "as": "AS12389 PJSC Rostelecom",
     "query": "37.22.254.48"
+  },
+  "42.117.64.123": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "HN",
+    "regionName": "Hanoi",
+    "city": "Hanoi",
+    "zip": "100000",
+    "lat": 21.0184,
+    "lon": 105.8461,
+    "timezone": "Asia/Bangkok",
+    "isp": "FPT Telecom Company",
+    "org": "Vietnam Internet Network Information Center",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "42.117.64.123"
   },
   "171.4.219.252": {
     "status": "success",
@@ -622,6 +606,22 @@
     "org": "",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "175.114.235.3"
+  },
+  "119.194.149.89": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Anyang-si",
+    "zip": "139",
+    "lat": 37.4027,
+    "lon": 126.9257,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Sudogwongangnambonbujang",
+    "as": "AS4766 Korea Telecom",
+    "query": "119.194.149.89"
   },
   "1.220.0.57": {
     "status": "success",
