@@ -351,22 +351,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "220.126.252.202"
   },
-  "220.72.40.110": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Dobong-gu",
-    "zip": "013",
-    "lat": 37.675,
-    "lon": 127.0496,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "220.72.40.110"
-  },
   "60.144.85.226": {
     "status": "success",
     "country": "Japan",
@@ -382,6 +366,22 @@
     "org": "Japan Nation-wide Network of Softbank Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "60.144.85.226"
+  },
+  "220.72.40.110": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Dobong-gu",
+    "zip": "013",
+    "lat": 37.675,
+    "lon": 127.0496,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "220.72.40.110"
   },
   "113.145.237.167": {
     "status": "success",
@@ -431,22 +431,6 @@
     "as": "AS9605 NTT DOCOMO, INC.",
     "query": "1.66.34.134"
   },
-  "160.86.199.142": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "25",
-    "regionName": "Shiga",
-    "city": "Ōtsu",
-    "zip": "520-0051",
-    "lat": 35.0012,
-    "lon": 135.8651,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "160.86.199.142"
-  },
   "37.22.254.48": {
     "status": "success",
     "country": "Russia",
@@ -462,6 +446,22 @@
     "org": "JSC Rostelecom regional branch Siberia",
     "as": "AS12389 PJSC Rostelecom",
     "query": "37.22.254.48"
+  },
+  "160.86.199.142": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "25",
+    "regionName": "Shiga",
+    "city": "Ōtsu",
+    "zip": "520-0051",
+    "lat": 35.0012,
+    "lon": 135.8651,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "160.86.199.142"
   },
   "221.144.110.230": {
     "status": "success",
