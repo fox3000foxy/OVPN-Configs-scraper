@@ -351,6 +351,22 @@
     "as": "AS45758 Triple T Broadband Public Company Limited",
     "query": "223.204.15.103"
   },
+  "113.155.82.28": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "23",
+    "regionName": "Aichi",
+    "city": "Inazawa",
+    "zip": "495-0021",
+    "lat": 35.2497,
+    "lon": 136.7857,
+    "timezone": "Asia/Tokyo",
+    "isp": "KDDI",
+    "org": "DION (KDDI CORPORATION)",
+    "as": "AS18126 Chubu Telecommunications Company, Inc.",
+    "query": "113.155.82.28"
+  },
   "121.160.25.238": {
     "status": "success",
     "country": "South Korea",
@@ -415,6 +431,22 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.117.218.66"
   },
+  "59.21.238.218": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "48",
+    "regionName": "Gyeongsangnam-do",
+    "city": "Gimhae",
+    "zip": "509",
+    "lat": 35.2342,
+    "lon": 128.8777,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "59.21.238.218"
+  },
   "90.150.249.120": {
     "status": "success",
     "country": "Russia",
@@ -430,22 +462,6 @@
     "org": "Dynamic distribution IPs for broadband services",
     "as": "AS12389 PJSC Rostelecom",
     "query": "90.150.249.120"
-  },
-  "124.47.125.245": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "33",
-    "regionName": "Okayama",
-    "city": "Kurashiki",
-    "zip": "710-0841",
-    "lat": 34.5772,
-    "lon": 133.7607,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kurashiki Cable TV",
-    "org": "Kurashiki Cable TV Corporation",
-    "as": "AS9622 Kurashiki Cable TV",
-    "query": "124.47.125.245"
   },
   "60.80.243.29": {
     "status": "success",
@@ -495,22 +511,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "90.189.217.65"
   },
-  "202.148.240.143": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "12",
-    "regionName": "Chiba",
-    "city": "Ichikawa",
-    "zip": "272-0031",
-    "lat": 35.7233,
-    "lon": 139.9132,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM",
-    "org": "Jupiter Telecommunications Co., Ltd.",
-    "as": "AS23788 JCOM Co., Ltd.",
-    "query": "202.148.240.143"
-  },
   "218.158.68.238": {
     "status": "success",
     "country": "South Korea",
@@ -559,21 +559,21 @@
     "as": "AS133481 AIS Fibre",
     "query": "49.228.50.122"
   },
-  "42.118.167.155": {
+  "27.140.89.119": {
     "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "SG",
-    "regionName": "Ho Chi Minh",
-    "city": "Ho Chi Minh City",
-    "zip": "700000",
-    "lat": 10.822,
-    "lon": 106.6257,
-    "timezone": "Asia/Ho_Chi_Minh",
-    "isp": "FPT Telecom Company",
-    "org": "Vietnam Internet Network Information Center",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "42.118.167.155"
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "01",
+    "regionName": "Hokkaido",
+    "city": "Sapporo",
+    "zip": "064-0801",
+    "lat": 43.0456,
+    "lon": 141.3522,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM Co., Ltd.",
+    "org": "Jupiter Telecommunication Co. Ltd",
+    "as": "AS9824 JCOM Co., Ltd.",
+    "query": "27.140.89.119"
   },
   "92.37.142.45": {
     "status": "success",
@@ -590,22 +590,6 @@
     "org": "",
     "as": "AS12389 PJSC Rostelecom",
     "query": "92.37.142.45"
-  },
-  "59.21.238.218": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "48",
-    "regionName": "Gyeongsangnam-do",
-    "city": "Gimhae",
-    "zip": "509",
-    "lat": 35.2342,
-    "lon": 128.8777,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "59.21.238.218"
   },
   "95.86.196.161": {
     "status": "success",
@@ -638,6 +622,22 @@
     "org": "OJSC Rostelecom Far-East Region",
     "as": "AS12389 PJSC Rostelecom",
     "query": "5.143.89.139"
+  },
+  "77.35.108.63": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Vladivostok",
+    "zip": "690014",
+    "lat": 43.1224,
+    "lon": 131.887,
+    "timezone": "Asia/Vladivostok",
+    "isp": "Eastern Economic Forum - 2022",
+    "org": "A11 Ltd.",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "77.35.108.63"
   },
   "77.35.255.157": {
     "status": "success",
