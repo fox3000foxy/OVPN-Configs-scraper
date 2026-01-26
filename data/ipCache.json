@@ -415,21 +415,21 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "114.170.87.74"
   },
-  "220.26.103.76": {
+  "113.155.100.54": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
+    "region": "23",
+    "regionName": "Aichi",
+    "city": "Iwakura",
+    "zip": "482-0031",
+    "lat": 35.2943,
+    "lon": 136.8753,
     "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan nation-wide Network of SOFTBANK Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "220.26.103.76"
+    "isp": "KDDI",
+    "org": "DION (KDDI CORPORATION)",
+    "as": "AS18126 Chubu Telecommunications Company, Inc.",
+    "query": "113.155.100.54"
   },
   "118.71.57.250": {
     "status": "success",
@@ -559,22 +559,6 @@
     "as": "AS39785 Axioma, LLC",
     "query": "95.170.177.6"
   },
-  "121.181.197.225": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "27",
-    "regionName": "Daegu",
-    "city": "Buk-gu",
-    "zip": "414",
-    "lat": 35.9206,
-    "lon": 128.5561,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "121.181.197.225"
-  },
   "116.126.61.163": {
     "status": "success",
     "country": "South Korea",
@@ -622,22 +606,6 @@
     "org": "SK Broadband Co Ltd",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "175.124.82.169"
-  },
-  "78.29.43.182": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "CHE",
-    "regionName": "Chelyabinsk Oblast",
-    "city": "Chelyabinsk",
-    "zip": "",
-    "lat": 55.1952,
-    "lon": 61.339,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "Intersvyaz-2 JSC",
-    "org": "Intersvyaz-2 JSC",
-    "as": "AS8369 Intersvyaz-2 JSC",
-    "query": "78.29.43.182"
   },
   "175.120.168.213": {
     "status": "success",
@@ -702,5 +670,21 @@
     "org": "TBROAD NakdongDongnamSeobusan",
     "as": "AS17857 SK Broadband Co Ltd",
     "query": "122.254.245.109"
+  },
+  "119.175.4.233": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "40",
+    "regionName": "Fukuoka",
+    "city": "Hikino",
+    "zip": "806-0061",
+    "lat": 33.8488,
+    "lon": 130.7634,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM Co., Ltd.",
+    "org": "JCOM Co., Ltd",
+    "as": "AS9824 JCOM Co., Ltd.",
+    "query": "119.175.4.233"
   }
 }
