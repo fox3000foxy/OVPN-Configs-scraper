@@ -591,6 +591,22 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "92.37.142.45"
   },
+  "59.21.238.218": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "48",
+    "regionName": "Gyeongsangnam-do",
+    "city": "Gimhae",
+    "zip": "509",
+    "lat": 35.2342,
+    "lon": 128.8777,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "59.21.238.218"
+  },
   "95.86.196.161": {
     "status": "success",
     "country": "Russia",
@@ -623,36 +639,20 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "5.143.89.139"
   },
-  "77.35.108.63": {
+  "77.35.255.157": {
     "status": "success",
     "country": "Russia",
     "countryCode": "RU",
     "region": "PRI",
     "regionName": "Primorye",
     "city": "Vladivostok",
-    "zip": "690014",
-    "lat": 43.1224,
-    "lon": 131.887,
+    "zip": "690001",
+    "lat": 43.1068,
+    "lon": 131.8692,
     "timezone": "Asia/Vladivostok",
-    "isp": "Eastern Economic Forum - 2022",
-    "org": "A11 Ltd.",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "77.35.108.63"
-  },
-  "31.200.233.129": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PRI",
-    "regionName": "Primorye",
-    "city": "Nakhodka",
-    "zip": "692902",
-    "lat": 42.8318,
-    "lon": 132.9223,
-    "timezone": "Asia/Vladivostok",
-    "isp": "ISP Podryad Nets",
+    "isp": "Rostelecom networks",
     "org": "",
-    "as": "AS196949 Natalia Sergeevna Filicheva",
-    "query": "31.200.233.129"
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "77.35.255.157"
   }
 }
