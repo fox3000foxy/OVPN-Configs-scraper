@@ -143,6 +143,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.204"
   },
+  "153.206.173.142": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Yokohama",
+    "zip": "231-0841",
+    "lat": 35.4337,
+    "lon": 139.6499,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "Open Computer Network",
+    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
+    "query": "153.206.173.142"
+  },
   "60.36.150.117": {
     "status": "success",
     "country": "Japan",
@@ -511,22 +527,6 @@
     "as": "AS9829 National Internet Backbone",
     "query": "117.245.9.44"
   },
-  "219.113.61.217": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "23",
-    "regionName": "Aichi",
-    "city": "Nagoya",
-    "zip": "462-0841",
-    "lat": 35.1926,
-    "lon": 136.906,
-    "timezone": "Asia/Tokyo",
-    "isp": "Community Network Center Incorporated.",
-    "org": "CHUBU CABLE NETWORK COMPANY, INCORPORATED",
-    "as": "AS17698 COMMUNITY NETWORK CENTER INCORPORATED.",
-    "query": "219.113.61.217"
-  },
   "119.231.28.172": {
     "status": "success",
     "country": "Japan",
@@ -622,21 +622,5 @@
     "org": "So-net Entertainment Corporation",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "223.133.121.122"
-  },
-  "77.82.216.218": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KAM",
-    "regionName": "Kamchatka",
-    "city": "Petropavlovsk-Kamchatsky",
-    "zip": "683902",
-    "lat": 53.0716,
-    "lon": 158.627,
-    "timezone": "Asia/Kamchatka",
-    "isp": "Rostelecom networks",
-    "org": "Rostelecom",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "77.82.216.218"
   }
 }
