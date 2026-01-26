@@ -175,22 +175,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "218.145.107.33"
   },
-  "211.112.158.69": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Yongsan-dong",
-    "zip": "04371",
-    "lat": 37.5379,
-    "lon": 126.97,
-    "timezone": "Asia/Seoul",
-    "isp": "LG HelloVision Corp.",
-    "org": "Pubnetplus",
-    "as": "AS9770 LG HelloVision Corp.",
-    "query": "211.112.158.69"
-  },
   "49.167.12.160": {
     "status": "success",
     "country": "South Korea",
@@ -351,6 +335,22 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "118.241.184.72"
   },
+  "61.44.175.142": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "01",
+    "regionName": "Hokkaido",
+    "city": "Hakodate",
+    "zip": "040-0071",
+    "lat": 41.7974,
+    "lon": 140.7298,
+    "timezone": "Asia/Tokyo",
+    "isp": "NCV",
+    "org": "New Media Co., Ltd",
+    "as": "AS59127 Newmedia Corporation",
+    "query": "61.44.175.142"
+  },
   "218.148.187.249": {
     "status": "success",
     "country": "South Korea",
@@ -367,22 +367,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "218.148.187.249"
   },
-  "5.137.210.152": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "NVS",
-    "regionName": "Novosibirsk Oblast",
-    "city": "Novosibirsk",
-    "zip": "630000",
-    "lat": 55.0226,
-    "lon": 82.9317,
-    "timezone": "Asia/Novosibirsk",
-    "isp": "Rostelecom networks",
-    "org": "JSC Rostelecom regional branch Siberia",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "5.137.210.152"
-  },
   "119.173.41.197": {
     "status": "success",
     "country": "Japan",
@@ -398,6 +382,22 @@
     "org": "JCOM Co., Ltd",
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "119.173.41.197"
+  },
+  "5.137.210.152": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "NVS",
+    "regionName": "Novosibirsk Oblast",
+    "city": "Novosibirsk",
+    "zip": "630000",
+    "lat": 55.0226,
+    "lon": 82.9317,
+    "timezone": "Asia/Novosibirsk",
+    "isp": "Rostelecom networks",
+    "org": "JSC Rostelecom regional branch Siberia",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "5.137.210.152"
   },
   "110.14.252.60": {
     "status": "success",
@@ -527,6 +527,22 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "59.146.35.86"
   },
+  "219.115.166.66": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Sakai",
+    "zip": "590-0071",
+    "lat": 34.5742,
+    "lon": 135.4777,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM",
+    "org": "J:COM WEST Co., Ltd.",
+    "as": "AS9617 JCOM Co., Ltd.",
+    "query": "219.115.166.66"
+  },
   "202.148.240.143": {
     "status": "success",
     "country": "Japan",
@@ -558,6 +574,22 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "118.156.120.153"
+  },
+  "112.185.246.157": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "48",
+    "regionName": "Gyeongsangnam-do",
+    "city": "Gimhae",
+    "zip": "509",
+    "lat": 35.2342,
+    "lon": 128.8777,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "112.185.246.157"
   },
   "133.32.132.108": {
     "status": "success",
@@ -591,21 +623,37 @@
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "42.150.189.160"
   },
-  "37.140.24.30": {
+  "1.52.5.203": {
     "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "CHE",
-    "regionName": "Chelyabinsk Oblast",
-    "city": "Magnitogorsk",
-    "zip": "455000",
-    "lat": 53.3981,
-    "lon": 59.0066,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "Intersvyaz-2 JSC",
-    "org": "",
-    "as": "AS8369 Intersvyaz-2 JSC",
-    "query": "37.140.24.30"
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "",
+    "regionName": "Da Nang City",
+    "city": "Da Nang",
+    "zip": "",
+    "lat": 16.0678,
+    "lon": 108.221,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "isp": "FPT Telecom Company",
+    "org": "FPTDYNAMICIP",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "1.52.5.203"
+  },
+  "42.118.117.81": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "SG",
+    "regionName": "Ho Chi Minh",
+    "city": "Ho Chi Minh City",
+    "zip": "700000",
+    "lat": 10.822,
+    "lon": 106.6257,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "isp": "FPT Telecom Company",
+    "org": "FPTDYNAMICIP",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "42.118.117.81"
   },
   "178.47.88.174": {
     "status": "success",
@@ -638,6 +686,22 @@
     "org": "",
     "as": "AS196949 Natalia Sergeevna Filicheva",
     "query": "31.200.233.129"
+  },
+  "79.105.116.43": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "AMU",
+    "regionName": "Amur Oblast",
+    "city": "Blagoveshchensk",
+    "zip": "675000",
+    "lat": 50.2828,
+    "lon": 127.5299,
+    "timezone": "Asia/Yakutsk",
+    "isp": "Rostelecom networks",
+    "org": "OJSC Far Eastern Telecommunications Company Amursky st.",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "79.105.116.43"
   },
   "95.72.7.64": {
     "status": "success",
