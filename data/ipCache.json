@@ -191,6 +191,22 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.141.171.131"
   },
+  "221.144.197.228": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "42",
+    "regionName": "Gangwon-do",
+    "city": "Wŏnju",
+    "zip": "263",
+    "lat": 37.384,
+    "lon": 127.8724,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Korea Telecom",
+    "as": "AS4766 Korea Telecom",
+    "query": "221.144.197.228"
+  },
   "219.100.37.102": {
     "status": "success",
     "country": "Japan",
@@ -303,21 +319,21 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.110.43.151"
   },
-  "113.155.82.28": {
+  "220.57.96.201": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "23",
-    "regionName": "Aichi",
-    "city": "Inazawa",
-    "zip": "495-0021",
-    "lat": 35.2497,
-    "lon": 136.7857,
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
     "timezone": "Asia/Tokyo",
-    "isp": "KDDI",
-    "org": "DION (KDDI CORPORATION)",
-    "as": "AS18126 Chubu Telecommunications Company, Inc.",
-    "query": "113.155.82.28"
+    "isp": "SoftBank Corp.",
+    "org": "Japan nation-wide Network of SOFTBANK Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "220.57.96.201"
   },
   "121.160.25.238": {
     "status": "success",
@@ -366,6 +382,22 @@
     "org": "",
     "as": "AS18403 FPT Telecom Company",
     "query": "42.112.66.22"
+  },
+  "124.47.125.245": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "33",
+    "regionName": "Okayama",
+    "city": "Kurashiki",
+    "zip": "710-0841",
+    "lat": 34.5772,
+    "lon": 133.7607,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kurashiki Cable TV",
+    "org": "Kurashiki Cable TV Corporation",
+    "as": "AS9622 Kurashiki Cable TV",
+    "query": "124.47.125.245"
   },
   "118.240.3.52": {
     "status": "success",
@@ -479,22 +511,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "221.157.130.155"
   },
-  "218.158.68.238": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "50",
-    "regionName": "Sejong-si",
-    "city": "Sejong",
-    "zip": "301",
-    "lat": 36.5916,
-    "lon": 127.2916,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Korea Telecom",
-    "as": "AS4766 Korea Telecom",
-    "query": "218.158.68.238"
-  },
   "217.175.14.88": {
     "status": "success",
     "country": "Russia",
@@ -606,37 +622,5 @@
     "org": "Igra-Service LLC",
     "as": "AS33991 Igra-Service LLC",
     "query": "91.220.87.58"
-  },
-  "92.37.142.45": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KHA",
-    "regionName": "Khabarovsk",
-    "city": "Khabarovsk",
-    "zip": "680000",
-    "lat": 48.4817,
-    "lon": 135.083,
-    "timezone": "Asia/Vladivostok",
-    "isp": "Rostelecom networks",
-    "org": "",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "92.37.142.45"
-  },
-  "77.35.255.157": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PRI",
-    "regionName": "Primorye",
-    "city": "Vladivostok",
-    "zip": "690001",
-    "lat": 43.1068,
-    "lon": 131.8692,
-    "timezone": "Asia/Vladivostok",
-    "isp": "Rostelecom networks",
-    "org": "",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "77.35.255.157"
   }
 }
