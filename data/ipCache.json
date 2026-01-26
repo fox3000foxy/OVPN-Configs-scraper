@@ -591,22 +591,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "175.199.46.140"
   },
-  "180.20.26.137": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0071",
-    "lat": 35.6837,
-    "lon": 139.6805,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "Open Computer Network",
-    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
-    "query": "180.20.26.137"
-  },
   "1.226.8.88": {
     "status": "success",
     "country": "South Korea",
