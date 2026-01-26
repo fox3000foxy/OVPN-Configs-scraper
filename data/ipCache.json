@@ -527,22 +527,6 @@
     "as": "AS9319 HCN CHUNGBUK CABLE TV SYSTEMS",
     "query": "210.182.153.244"
   },
-  "31.28.244.97": {
-    "status": "success",
-    "country": "Ukraine",
-    "countryCode": "UA",
-    "region": "40",
-    "regionName": "Sebastopol City",
-    "city": "Sevastopol",
-    "zip": "90022",
-    "lat": 44.6089,
-    "lon": 33.53,
-    "timezone": "Europe/Simferopol",
-    "isp": "Lancom Ltd.",
-    "org": "Lancom Ltd",
-    "as": "AS35816 Lancom Ltd.",
-    "query": "31.28.244.97"
-  },
   "1.52.49.63": {
     "status": "success",
     "country": "Vietnam",
