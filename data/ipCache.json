@@ -191,6 +191,22 @@
     "as": "AS2519 ARTERIA Networks Corporation",
     "query": "1.21.121.201"
   },
+  "116.67.212.245": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Edogawa City",
+    "zip": "100-8629",
+    "lat": 35.6907,
+    "lon": 139.8767,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "116.67.212.245"
+  },
   "131.147.142.132": {
     "status": "success",
     "country": "Japan",
@@ -303,21 +319,21 @@
     "as": "AS18403 FPT Telecom Company",
     "query": "1.53.194.142"
   },
-  "36.14.133.245": {
+  "180.149.180.47": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "20",
-    "regionName": "Nagano",
-    "city": "Okaya Shi",
-    "zip": "394-0021",
-    "lat": 36.071,
-    "lon": 138.0434,
+    "region": "11",
+    "regionName": "Saitama",
+    "city": "Kawaguchi",
+    "zip": "332-0031",
+    "lat": 35.8147,
+    "lon": 139.7289,
     "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "36.14.133.245"
+    "isp": "JCOM Co., Ltd.",
+    "org": "JCOM",
+    "as": "AS4721 JCOM Co., Ltd.",
+    "query": "180.149.180.47"
   },
   "218.228.223.142": {
     "status": "success",
@@ -447,22 +463,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "183.96.227.221"
   },
-  "180.5.76.17": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "11",
-    "regionName": "Saitama",
-    "city": "Tokiwa",
-    "zip": "330-0061",
-    "lat": 35.8669,
-    "lon": 139.6469,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "Open Computer Network",
-    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
-    "query": "180.5.76.17"
-  },
   "221.164.120.204": {
     "status": "success",
     "country": "South Korea",
@@ -591,22 +591,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "77.82.243.4"
   },
-  "175.114.235.3": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Seoul",
-    "zip": "045",
-    "lat": 37.5656,
-    "lon": 126.978,
-    "timezone": "Asia/Seoul",
-    "isp": "broadNnet",
-    "org": "",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "175.114.235.3"
-  },
   "178.187.190.55": {
     "status": "success",
     "country": "Russia",
@@ -623,6 +607,22 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "178.187.190.55"
   },
+  "175.114.235.3": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Seoul",
+    "zip": "045",
+    "lat": 37.5656,
+    "lon": 126.978,
+    "timezone": "Asia/Seoul",
+    "isp": "broadNnet",
+    "org": "",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "175.114.235.3"
+  },
   "1.220.0.57": {
     "status": "success",
     "country": "South Korea",
@@ -638,21 +638,5 @@
     "org": "LG Uplus",
     "as": "AS3786 LG DACOM Corporation",
     "query": "1.220.0.57"
-  },
-  "222.238.181.128": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "27",
-    "regionName": "Daegu",
-    "city": "Suseong-gu",
-    "zip": "421",
-    "lat": 35.8388,
-    "lon": 128.6219,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "SK Broadband Co Ltd",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "222.238.181.128"
   }
 }
