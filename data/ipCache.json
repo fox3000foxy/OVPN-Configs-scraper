@@ -159,21 +159,21 @@
     "as": "AS19108 Optimum",
     "query": "173.80.88.246"
   },
-  "92.202.199.250": {
+  "124.144.23.224": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0071",
-    "lat": 35.6837,
-    "lon": 139.6805,
+    "region": "40",
+    "regionName": "Fukuoka",
+    "city": "Chūōku",
+    "zip": "820-0081",
+    "lat": 33.6399,
+    "lon": 130.668,
     "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "92.202.199.250"
+    "isp": "JCOM Co., Ltd.",
+    "org": "Jupiter Telecommunication Co. Ltd",
+    "as": "AS9824 JCOM Co., Ltd.",
+    "query": "124.144.23.224"
   },
   "14.57.196.103": {
     "status": "success",
@@ -559,22 +559,6 @@
     "as": "AS17858 LG POWERCOMM",
     "query": "116.44.113.68"
   },
-  "178.163.69.1": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "SAM",
-    "regionName": "Samara Oblast",
-    "city": "Tolyatti",
-    "zip": "445008",
-    "lat": 53.5323,
-    "lon": 49.3435,
-    "timezone": "Europe/Samara",
-    "isp": "Infoline networks",
-    "org": "Infoline Ltd.",
-    "as": "AS8416 InfoLada Ltd",
-    "query": "178.163.69.1"
-  },
   "175.199.46.140": {
     "status": "success",
     "country": "South Korea",
@@ -734,5 +718,21 @@
     "org": "ISP Turon Telecom",
     "as": "AS59668 Turon Media XK",
     "query": "82.215.99.145"
+  },
+  "94.158.58.108": {
+    "status": "success",
+    "country": "Uzbekistan",
+    "countryCode": "UZ",
+    "region": "TK",
+    "regionName": "Tashkent",
+    "city": "Tashkent",
+    "zip": "",
+    "lat": 41.2615,
+    "lon": 69.2177,
+    "timezone": "Asia/Tashkent",
+    "isp": "COMNET-NAT",
+    "org": "",
+    "as": "AS43060 IPLUS LLC",
+    "query": "94.158.58.108"
   }
 }
