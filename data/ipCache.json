@@ -111,38 +111,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.16"
   },
-  "219.100.37.109": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftEther",
-    "org": "SoftEther Corporation",
-    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.109"
-  },
-  "219.100.37.208": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftEther",
-    "org": "SoftEther Corporation",
-    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.208"
-  },
   "219.100.37.204": {
     "status": "success",
     "country": "Japan",
@@ -207,21 +175,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "119.196.49.82"
   },
-  "49.174.10.156": {
+  "60.141.171.131": {
     "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Yongin-si",
-    "zip": "169",
-    "lat": 37.298,
-    "lon": 127.0777,
-    "timezone": "Asia/Seoul",
-    "isp": "LG POWERCOMM",
-    "org": "LG POWERCOMM",
-    "as": "AS17858 LG POWERCOMM",
-    "query": "49.174.10.156"
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.141.171.131"
   },
   "60.108.146.236": {
     "status": "success",
@@ -238,6 +206,22 @@
     "org": "Japan Nation-wide Network of Softbank Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "60.108.146.236"
+  },
+  "222.2.34.200": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "18",
+    "regionName": "Fukui",
+    "city": "Nittazuka",
+    "zip": "910-0067",
+    "lat": 36.0956,
+    "lon": 136.204,
+    "timezone": "Asia/Tokyo",
+    "isp": "DION (KDDI CORPORATION)",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "222.2.34.200"
   },
   "218.148.187.249": {
     "status": "success",
@@ -367,6 +351,22 @@
     "as": "AS18403 FPT Telecom Company",
     "query": "42.112.66.22"
   },
+  "150.91.221.239": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "45",
+    "regionName": "Miyazaki",
+    "city": "Miyazaki",
+    "zip": "880-0211",
+    "lat": 31.914,
+    "lon": 131.4253,
+    "timezone": "Asia/Tokyo",
+    "isp": "miyazaki cabletelevision network Co., LTD",
+    "org": "MCN",
+    "as": "AS17939 miyazaki cabletelevision network Co.,LTD",
+    "query": "150.91.221.239"
+  },
   "126.235.215.236": {
     "status": "success",
     "country": "Japan",
@@ -399,22 +399,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "118.240.3.52"
   },
-  "90.189.217.65": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "NVS",
-    "regionName": "Novosibirsk Oblast",
-    "city": "Novosibirsk",
-    "zip": "630000",
-    "lat": 55.0226,
-    "lon": 82.9317,
-    "timezone": "Asia/Novosibirsk",
-    "isp": "Rostelecom networks",
-    "org": "OJSC Sibirtelecom",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "90.189.217.65"
-  },
   "175.207.198.146": {
     "status": "success",
     "country": "South Korea",
@@ -430,6 +414,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "175.207.198.146"
+  },
+  "90.189.217.65": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "NVS",
+    "regionName": "Novosibirsk Oblast",
+    "city": "Novosibirsk",
+    "zip": "630000",
+    "lat": 55.0226,
+    "lon": 82.9317,
+    "timezone": "Asia/Novosibirsk",
+    "isp": "Rostelecom networks",
+    "org": "OJSC Sibirtelecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "90.189.217.65"
   },
   "169.212.0.150": {
     "status": "success",
@@ -462,22 +462,6 @@
     "org": "Korea Telecom",
     "as": "AS4766 Korea Telecom",
     "query": "218.158.68.238"
-  },
-  "175.177.49.119": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Utsukushigaoka",
-    "zip": "225-0001",
-    "lat": 35.5803,
-    "lon": 139.5517,
-    "timezone": "Asia/Tokyo",
-    "isp": "its communications Inc.",
-    "org": "its communications Inc.",
-    "as": "AS9365 its communications Inc.",
-    "query": "175.177.49.119"
   },
   "49.228.50.122": {
     "status": "success",
@@ -607,7 +591,39 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "95.86.196.161"
   },
-  "5.143.89.139": {
+  "91.220.87.58": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KYA",
+    "regionName": "Krasnoyarsk Krai",
+    "city": "Krasnoyarsk",
+    "zip": "660049",
+    "lat": 56.0374,
+    "lon": 92.9314,
+    "timezone": "Asia/Krasnoyarsk",
+    "isp": "Igra-Service LLC",
+    "org": "Igra-Service LLC",
+    "as": "AS33991 Igra-Service LLC",
+    "query": "91.220.87.58"
+  },
+  "92.37.142.45": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KHA",
+    "regionName": "Khabarovsk",
+    "city": "Khabarovsk",
+    "zip": "680000",
+    "lat": 48.4817,
+    "lon": 135.083,
+    "timezone": "Asia/Vladivostok",
+    "isp": "Rostelecom networks",
+    "org": "",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "92.37.142.45"
+  },
+  "77.35.255.157": {
     "status": "success",
     "country": "Russia",
     "countryCode": "RU",
@@ -619,8 +635,8 @@
     "lon": 131.8692,
     "timezone": "Asia/Vladivostok",
     "isp": "Rostelecom networks",
-    "org": "OJSC Rostelecom Far-East Region",
+    "org": "",
     "as": "AS12389 PJSC Rostelecom",
-    "query": "5.143.89.139"
+    "query": "77.35.255.157"
   }
 }
