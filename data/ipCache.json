@@ -399,22 +399,6 @@
     "as": "AS8764 Telia Lietuva, AB",
     "query": "78.63.51.6"
   },
-  "1.246.131.93": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "43",
-    "regionName": "North Chungcheong",
-    "city": "Cheongju-si",
-    "zip": "287",
-    "lat": 36.6228,
-    "lon": 127.4931,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "1.246.131.93"
-  },
   "60.117.63.212": {
     "status": "success",
     "country": "Japan",
@@ -575,22 +559,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "77.82.243.4"
   },
-  "178.187.190.55": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "ALT",
-    "regionName": "Altai Krai",
-    "city": "Barnaul",
-    "zip": "656002",
-    "lat": 53.362,
-    "lon": 83.7279,
-    "timezone": "Asia/Barnaul",
-    "isp": "JSC Rostelecom regional branch \"Siberia\"",
-    "org": "Sibirtelecom Co.",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "178.187.190.55"
-  },
   "175.114.235.3": {
     "status": "success",
     "country": "South Korea",
@@ -606,6 +574,22 @@
     "org": "",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "175.114.235.3"
+  },
+  "178.187.190.55": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "ALT",
+    "regionName": "Altai Krai",
+    "city": "Barnaul",
+    "zip": "656002",
+    "lat": 53.362,
+    "lon": 83.7279,
+    "timezone": "Asia/Barnaul",
+    "isp": "JSC Rostelecom regional branch \"Siberia\"",
+    "org": "Sibirtelecom Co.",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "178.187.190.55"
   },
   "119.194.149.89": {
     "status": "success",
@@ -638,5 +622,21 @@
     "org": "LG Uplus",
     "as": "AS3786 LG DACOM Corporation",
     "query": "1.220.0.57"
+  },
+  "222.238.181.128": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "27",
+    "regionName": "Daegu",
+    "city": "Suseong-gu",
+    "zip": "421",
+    "lat": 35.8388,
+    "lon": 128.6219,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "SK Broadband Co Ltd",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "222.238.181.128"
   }
 }
