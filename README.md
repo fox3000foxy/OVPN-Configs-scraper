@@ -109,6 +109,12 @@ Or download individually:
 |---|---|---|---|---|
 | 45.88.254.41 | Ukraine | Comfort XXI Century Ltd. | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/45.88.254.41.ovpn) |
 
+
+### Vietnam
+| IP | Country | ISP | Provider | Config |
+|---|---|---|---|---|
+| 27.72.25.249 | Vietnam | Newass2011xDSLHN | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/27.72.25.249.ovpn) |
+
 > **Tip**: For the full list, check the `data/configs/` folder after running the scraper.
 
 
