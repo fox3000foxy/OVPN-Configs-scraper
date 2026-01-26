@@ -527,6 +527,22 @@
     "as": "AS17858 LG POWERCOMM",
     "query": "115.136.105.76"
   },
+  "211.15.124.149": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "44",
+    "regionName": "Oita",
+    "city": "Beppu",
+    "zip": "874-0901",
+    "lat": 33.2676,
+    "lon": 131.495,
+    "timezone": "Asia/Tokyo",
+    "isp": "CTB Media Inc.",
+    "org": "CTB Media Inc.",
+    "as": "AS23780 CTB Media Inc.",
+    "query": "211.15.124.149"
+  },
   "95.170.177.6": {
     "status": "success",
     "country": "Russia",
@@ -558,6 +574,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "121.181.197.225"
+  },
+  "1.240.128.118": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Dobong-gu",
+    "zip": "014",
+    "lat": 37.639,
+    "lon": 127.034,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "1.240.128.118"
   },
   "116.126.61.163": {
     "status": "success",
@@ -671,20 +703,20 @@
     "as": "AS17857 SK Broadband Co Ltd",
     "query": "122.254.245.109"
   },
-  "1.73.8.97": {
+  "153.144.240.2": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Osaka",
-    "zip": "530-0041",
-    "lat": 34.6967,
-    "lon": 135.5154,
+    "region": "08",
+    "regionName": "Ibaraki",
+    "city": "Mito",
+    "zip": "310-0851",
+    "lat": 36.3566,
+    "lon": 140.4623,
     "timezone": "Asia/Tokyo",
-    "isp": "NTT Docomo, inc.",
-    "org": "NTTDoCoMo",
-    "as": "AS9605 NTT DOCOMO, INC.",
-    "query": "1.73.8.97"
+    "isp": "NTT Communications Corporation",
+    "org": "NTT Communications Corporation",
+    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
+    "query": "153.144.240.2"
   }
 }
