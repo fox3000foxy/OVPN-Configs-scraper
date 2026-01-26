@@ -143,21 +143,21 @@
     "as": "AS22773 Cox Communications Inc.",
     "query": "68.8.191.131"
   },
-  "124.144.23.224": {
+  "92.202.199.250": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "40",
-    "regionName": "Fukuoka",
-    "city": "Chūōku",
-    "zip": "820-0081",
-    "lat": 33.6399,
-    "lon": 130.668,
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tokyo",
+    "zip": "151-0071",
+    "lat": 35.6837,
+    "lon": 139.6805,
     "timezone": "Asia/Tokyo",
-    "isp": "JCOM Co., Ltd.",
-    "org": "Jupiter Telecommunication Co. Ltd",
-    "as": "AS9824 JCOM Co., Ltd.",
-    "query": "124.144.23.224"
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "92.202.199.250"
   },
   "14.57.196.103": {
     "status": "success",
@@ -495,6 +495,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.182.159.232"
   },
+  "217.178.134.51": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Setagaya City",
+    "zip": "154-0011",
+    "lat": 35.6413,
+    "lon": 139.6662,
+    "timezone": "Asia/Tokyo",
+    "isp": "Internet Multifeed CO.",
+    "org": "Internet Multifeed CO.",
+    "as": "AS55391 INTERNET MULTIFEED CO.",
+    "query": "217.178.134.51"
+  },
   "182.166.72.72": {
     "status": "success",
     "country": "Japan",
@@ -559,22 +575,6 @@
     "as": "AS8416 InfoLada Ltd",
     "query": "178.163.69.1"
   },
-  "186.122.11.104": {
-    "status": "success",
-    "country": "Argentina",
-    "countryCode": "AR",
-    "region": "T",
-    "regionName": "Tucuman",
-    "city": "San Miguel de Tucumán",
-    "zip": "4000",
-    "lat": -26.816,
-    "lon": -65.2154,
-    "timezone": "America/Argentina/Tucuman",
-    "isp": "Techtel LMDS Comunicaciones Interactivas S.A.",
-    "org": "",
-    "as": "AS11664 Techtel LMDS Comunicaciones Interactivas S.A.",
-    "query": "186.122.11.104"
-  },
   "175.199.46.140": {
     "status": "success",
     "country": "South Korea",
@@ -622,22 +622,6 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.226.8.88"
-  },
-  "211.204.78.228": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Seoul",
-    "zip": "04625",
-    "lat": 37.5561,
-    "lon": 126.975,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "211.204.78.228"
   },
   "185.199.8.39": {
     "status": "success",
@@ -734,5 +718,21 @@
     "org": "ISP Turon Telecom",
     "as": "AS59668 Turon Media XK",
     "query": "82.215.99.145"
+  },
+  "94.158.58.108": {
+    "status": "success",
+    "country": "Uzbekistan",
+    "countryCode": "UZ",
+    "region": "TK",
+    "regionName": "Tashkent",
+    "city": "Tashkent",
+    "zip": "",
+    "lat": 41.2615,
+    "lon": 69.2177,
+    "timezone": "Asia/Tashkent",
+    "isp": "COMNET-NAT",
+    "org": "",
+    "as": "AS43060 IPLUS LLC",
+    "query": "94.158.58.108"
   }
 }
