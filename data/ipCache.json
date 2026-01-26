@@ -143,21 +143,21 @@
     "as": "AS22773 Cox Communications Inc.",
     "query": "68.8.191.131"
   },
-  "92.202.199.250": {
+  "124.144.23.224": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0071",
-    "lat": 35.6837,
-    "lon": 139.6805,
+    "region": "40",
+    "regionName": "Fukuoka",
+    "city": "Chūōku",
+    "zip": "820-0081",
+    "lat": 33.6399,
+    "lon": 130.668,
     "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "92.202.199.250"
+    "isp": "JCOM Co., Ltd.",
+    "org": "Jupiter Telecommunication Co. Ltd",
+    "as": "AS9824 JCOM Co., Ltd.",
+    "query": "124.144.23.224"
   },
   "14.57.196.103": {
     "status": "success",
@@ -623,6 +623,22 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.226.8.88"
   },
+  "211.204.78.228": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Seoul",
+    "zip": "04625",
+    "lat": 37.5561,
+    "lon": 126.975,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "211.204.78.228"
+  },
   "185.199.8.39": {
     "status": "success",
     "country": "Russia",
@@ -718,21 +734,5 @@
     "org": "ISP Turon Telecom",
     "as": "AS59668 Turon Media XK",
     "query": "82.215.99.145"
-  },
-  "94.158.58.108": {
-    "status": "success",
-    "country": "Uzbekistan",
-    "countryCode": "UZ",
-    "region": "TK",
-    "regionName": "Tashkent",
-    "city": "Tashkent",
-    "zip": "",
-    "lat": 41.2615,
-    "lon": 69.2177,
-    "timezone": "Asia/Tashkent",
-    "isp": "COMNET-NAT",
-    "org": "",
-    "as": "AS43060 IPLUS LLC",
-    "query": "94.158.58.108"
   }
 }
