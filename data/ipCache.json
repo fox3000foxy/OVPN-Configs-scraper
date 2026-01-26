@@ -495,6 +495,22 @@
     "as": "AS9829 National Internet Backbone",
     "query": "117.245.9.44"
   },
+  "133.32.218.205": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Kamiochiai",
+    "zip": "161-0031",
+    "lat": 35.723,
+    "lon": 139.6748,
+    "timezone": "Asia/Tokyo",
+    "isp": "ARTERIA Networks Corporation",
+    "org": "ARTERIA Networks Corporation",
+    "as": "AS2519 ARTERIA Networks Corporation",
+    "query": "133.32.218.205"
+  },
   "77.34.167.20": {
     "status": "success",
     "country": "Russia",
@@ -559,22 +575,6 @@
     "as": "AS204144 Comfort XXI Century Ltd.",
     "query": "45.88.254.41"
   },
-  "223.133.121.122": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Nakano City",
-    "zip": "164-0011",
-    "lat": 35.7027,
-    "lon": 139.6749,
-    "timezone": "Asia/Tokyo",
-    "isp": "So-net Entertainment Corporation",
-    "org": "So-net Entertainment Corporation",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "223.133.121.122"
-  },
   "220.125.51.211": {
     "status": "success",
     "country": "South Korea",
@@ -590,21 +590,5 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "220.125.51.211"
-  },
-  "77.82.216.218": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KAM",
-    "regionName": "Kamchatka",
-    "city": "Petropavlovsk-Kamchatsky",
-    "zip": "683902",
-    "lat": 53.0716,
-    "lon": 158.627,
-    "timezone": "Asia/Kamchatka",
-    "isp": "Rostelecom networks",
-    "org": "Rostelecom",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "77.82.216.218"
   }
 }
