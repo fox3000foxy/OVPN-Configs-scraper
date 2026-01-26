@@ -367,22 +367,6 @@
     "as": "AS18403 FPT Telecom Company",
     "query": "42.112.66.22"
   },
-  "150.91.221.239": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "45",
-    "regionName": "Miyazaki",
-    "city": "Miyazaki",
-    "zip": "880-0211",
-    "lat": 31.914,
-    "lon": 131.4253,
-    "timezone": "Asia/Tokyo",
-    "isp": "miyazaki cabletelevision network Co., LTD",
-    "org": "MCN",
-    "as": "AS17939 miyazaki cabletelevision network Co.,LTD",
-    "query": "150.91.221.239"
-  },
   "118.240.3.52": {
     "status": "success",
     "country": "Japan",
@@ -398,22 +382,6 @@
     "org": "Sony Network Communications Inc.",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "118.240.3.52"
-  },
-  "175.207.198.146": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "49",
-    "regionName": "Jeju-do",
-    "city": "Seogwipo",
-    "zip": "635",
-    "lat": 33.2452,
-    "lon": 126.5601,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "175.207.198.146"
   },
   "90.189.217.65": {
     "status": "success",
@@ -431,6 +399,22 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "90.189.217.65"
   },
+  "175.207.198.146": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "49",
+    "regionName": "Jeju-do",
+    "city": "Seogwipo",
+    "zip": "635",
+    "lat": 33.2452,
+    "lon": 126.5601,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "175.207.198.146"
+  },
   "112.185.246.157": {
     "status": "success",
     "country": "South Korea",
@@ -447,6 +431,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "112.185.246.157"
   },
+  "219.100.26.85": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "40",
+    "regionName": "Fukuoka",
+    "city": "Kitaku",
+    "zip": "807-1154",
+    "lat": 33.7937,
+    "lon": 130.687,
+    "timezone": "Asia/Tokyo",
+    "isp": "JPNIC",
+    "org": "",
+    "as": "AS18134 JCOM Co., Ltd.",
+    "query": "219.100.26.85"
+  },
   "169.212.0.150": {
     "status": "success",
     "country": "South Korea",
@@ -462,6 +462,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "169.212.0.150"
+  },
+  "221.157.130.155": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "27",
+    "regionName": "Daegu",
+    "city": "Dalseo-gu",
+    "zip": "427",
+    "lat": 35.8475,
+    "lon": 128.4805,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Korea Telecom",
+    "as": "AS4766 Korea Telecom",
+    "query": "221.157.130.155"
   },
   "218.158.68.238": {
     "status": "success",
@@ -559,22 +575,6 @@
     "as": "AS9316 DACOM-PUBNETPLUS",
     "query": "125.247.190.47"
   },
-  "218.49.3.43": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Gyeonggi-do",
-    "zip": "10133",
-    "lat": 37.5859,
-    "lon": 126.7745,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "218.49.3.43"
-  },
   "2.61.191.139": {
     "status": "success",
     "country": "Russia",
@@ -590,22 +590,6 @@
     "org": "OJSC Sibirtelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "2.61.191.139"
-  },
-  "95.86.196.161": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "YAR",
-    "regionName": "Yaroslavl Oblast",
-    "city": "Yaroslavl",
-    "zip": "150000",
-    "lat": 57.6299,
-    "lon": 39.8737,
-    "timezone": "Europe/Moscow",
-    "isp": "Rostelecom networks",
-    "org": "OJSC Rostelecom",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "95.86.196.161"
   },
   "91.220.87.58": {
     "status": "success",
