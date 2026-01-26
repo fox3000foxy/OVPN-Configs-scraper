@@ -319,22 +319,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "210.174.55.239"
   },
-  "113.144.29.135": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Nakano City",
-    "zip": "164-0011",
-    "lat": 35.7027,
-    "lon": 139.6749,
-    "timezone": "Asia/Tokyo",
-    "isp": "DION (KDDI CORPORATION)",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "113.144.29.135"
-  },
   "220.126.252.202": {
     "status": "success",
     "country": "South Korea",
@@ -591,22 +575,6 @@
     "as": "AS15880 Private entrepreneur Chikalin Anatoly Nikolaevich",
     "query": "46.175.37.209"
   },
-  "171.7.111.215": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "10",
-    "regionName": "Bangkok",
-    "city": "Bangkok",
-    "zip": "10110",
-    "lat": 13.7101,
-    "lon": 100.4543,
-    "timezone": "Asia/Bangkok",
-    "isp": "Triple T Broadband Public Company Limited",
-    "org": "Triple T Broadband Public Company Limited",
-    "as": "AS45758 Triple T Broadband Public Company Limited",
-    "query": "171.7.111.215"
-  },
   "109.124.244.66": {
     "status": "success",
     "country": "Russia",
@@ -622,6 +590,22 @@
     "org": "SamaraLan",
     "as": "AS35032 LLC SIP NIS",
     "query": "109.124.244.66"
+  },
+  "171.7.111.215": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "10",
+    "regionName": "Bangkok",
+    "city": "Bangkok",
+    "zip": "10110",
+    "lat": 13.7101,
+    "lon": 100.4543,
+    "timezone": "Asia/Bangkok",
+    "isp": "Triple T Broadband Public Company Limited",
+    "org": "Triple T Broadband Public Company Limited",
+    "as": "AS45758 Triple T Broadband Public Company Limited",
+    "query": "171.7.111.215"
   },
   "38.25.18.6": {
     "status": "success",
@@ -702,5 +686,21 @@
     "org": "\"Access\" of \"Ural-TransTeleCom\"",
     "as": "AS16285 Joint Stock Company TransTeleCom",
     "query": "188.68.138.30"
+  },
+  "14.101.210.162": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "10",
+    "regionName": "Gunma",
+    "city": "Ōta",
+    "zip": "373-0051",
+    "lat": 36.3326,
+    "lon": 139.3355,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "14.101.210.162"
   }
 }
