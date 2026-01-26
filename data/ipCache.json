@@ -415,6 +415,22 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "211.44.188.45"
   },
+  "42.112.66.22": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "SG",
+    "regionName": "Ho Chi Minh",
+    "city": "Ho Chi Minh City",
+    "zip": "700000",
+    "lat": 10.822,
+    "lon": 106.6257,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "isp": "Vietnam Internet Network Information Center",
+    "org": "",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "42.112.66.22"
+  },
   "126.117.218.66": {
     "status": "success",
     "country": "Japan",
@@ -479,22 +495,6 @@
     "as": "AS9622 Kurashiki Cable TV",
     "query": "124.47.125.245"
   },
-  "60.79.244.225": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan Nation-wide Network of Softbank Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "60.79.244.225"
-  },
   "60.80.243.29": {
     "status": "success",
     "country": "Japan",
@@ -543,21 +543,37 @@
     "as": "AS9365 its communications Inc.",
     "query": "175.177.49.119"
   },
-  "211.198.154.15": {
+  "49.228.50.122": {
     "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Hwaseong-si",
-    "zip": "182",
-    "lat": 37.2072,
-    "lon": 126.8168,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Korea Telecom",
-    "as": "AS4766 Korea Telecom",
-    "query": "211.198.154.15"
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "30",
+    "regionName": "Nakhon Ratchasima",
+    "city": "Nakhon Ratchasima",
+    "zip": "30000",
+    "lat": 15.0598,
+    "lon": 102.2215,
+    "timezone": "Asia/Bangkok",
+    "isp": "Advanced Wireless Network Company Limited",
+    "org": "",
+    "as": "AS133481 AIS Fibre",
+    "query": "49.228.50.122"
+  },
+  "42.118.167.155": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "SG",
+    "regionName": "Ho Chi Minh",
+    "city": "Ho Chi Minh City",
+    "zip": "700000",
+    "lat": 10.822,
+    "lon": 106.6257,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "isp": "FPT Telecom Company",
+    "org": "Vietnam Internet Network Information Center",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "42.118.167.155"
   },
   "92.37.142.45": {
     "status": "success",
@@ -574,22 +590,6 @@
     "org": "",
     "as": "AS12389 PJSC Rostelecom",
     "query": "92.37.142.45"
-  },
-  "42.112.66.22": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "SG",
-    "regionName": "Ho Chi Minh",
-    "city": "Ho Chi Minh City",
-    "zip": "700000",
-    "lat": 10.822,
-    "lon": 106.6257,
-    "timezone": "Asia/Ho_Chi_Minh",
-    "isp": "Vietnam Internet Network Information Center",
-    "org": "",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "42.112.66.22"
   },
   "95.86.196.161": {
     "status": "success",
@@ -622,5 +622,37 @@
     "org": "OJSC Rostelecom Far-East Region",
     "as": "AS12389 PJSC Rostelecom",
     "query": "5.143.89.139"
+  },
+  "77.35.108.63": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Vladivostok",
+    "zip": "690014",
+    "lat": 43.1224,
+    "lon": 131.887,
+    "timezone": "Asia/Vladivostok",
+    "isp": "Eastern Economic Forum - 2022",
+    "org": "A11 Ltd.",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "77.35.108.63"
+  },
+  "31.200.233.129": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Nakhodka",
+    "zip": "692902",
+    "lat": 42.8318,
+    "lon": 132.9223,
+    "timezone": "Asia/Vladivostok",
+    "isp": "ISP Podryad Nets",
+    "org": "",
+    "as": "AS196949 Natalia Sergeevna Filicheva",
+    "query": "31.200.233.129"
   }
 }
