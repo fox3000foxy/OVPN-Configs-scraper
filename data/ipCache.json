@@ -447,6 +447,22 @@
     "as": "AS8764 Telia Lietuva, AB",
     "query": "78.63.51.6"
   },
+  "181.224.85.249": {
+    "status": "success",
+    "country": "Brazil",
+    "countryCode": "BR",
+    "region": "TO",
+    "regionName": "Tocantins",
+    "city": "Araguaína",
+    "zip": "77824",
+    "lat": -7.1873,
+    "lon": -48.2005,
+    "timezone": "America/Araguaina",
+    "isp": "Aranet Comunicacao Ltda",
+    "org": "Aranet Comunicacao Ltda",
+    "as": "AS262462 Aranet Play",
+    "query": "181.224.85.249"
+  },
   "1.246.131.93": {
     "status": "success",
     "country": "South Korea",

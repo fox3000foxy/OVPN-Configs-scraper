@@ -46,6 +46,12 @@ You can directly download the generated configuration files:
 
 Or download individually:
 
+### Brazil
+| IP | Country | ISP | Provider | Config |
+|---|---|---|---|---|
+| 181.224.85.249 | Brazil | Aranet Comunicacao Ltda | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/181.224.85.249.ovpn) |
+
+
 ### Japan
 | IP | Country | ISP | Provider | Config |
 |---|---|---|---|---|
