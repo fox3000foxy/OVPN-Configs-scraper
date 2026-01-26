@@ -271,22 +271,6 @@
     "as": "AS133481 AIS Fibre",
     "query": "49.228.120.16"
   },
-  "118.71.36.23": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "HN",
-    "regionName": "Hanoi",
-    "city": "Hanoi",
-    "zip": "",
-    "lat": 21.0278,
-    "lon": 105.834,
-    "timezone": "Asia/Bangkok",
-    "isp": "FPT Telecom Company",
-    "org": "FPTDYNAMICIP",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "118.71.36.23"
-  },
   "1.53.194.142": {
     "status": "success",
     "country": "Vietnam",
@@ -319,6 +303,22 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "210.174.55.239"
   },
+  "118.71.36.23": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "HN",
+    "regionName": "Hanoi",
+    "city": "Hanoi",
+    "zip": "",
+    "lat": 21.0278,
+    "lon": 105.834,
+    "timezone": "Asia/Bangkok",
+    "isp": "FPT Telecom Company",
+    "org": "FPTDYNAMICIP",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "118.71.36.23"
+  },
   "220.126.252.202": {
     "status": "success",
     "country": "South Korea",
@@ -350,22 +350,6 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "220.72.40.110"
-  },
-  "116.123.228.25": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "28",
-    "regionName": "Incheon",
-    "city": "Incheon",
-    "zip": "222",
-    "lat": 37.4503,
-    "lon": 126.6701,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "116.123.228.25"
   },
   "115.38.0.195": {
     "status": "success",
