@@ -143,6 +143,22 @@
     "as": "AS22773 Cox Communications Inc.",
     "query": "68.8.191.131"
   },
+  "173.80.88.246": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WV",
+    "regionName": "West Virginia",
+    "city": "Parkersburg",
+    "zip": "26104",
+    "lat": 39.2804,
+    "lon": -81.4936,
+    "timezone": "America/New_York",
+    "isp": "Suddenlink Communications",
+    "org": "Optimum",
+    "as": "AS19108 Optimum",
+    "query": "173.80.88.246"
+  },
   "92.202.199.250": {
     "status": "success",
     "country": "Japan",
@@ -383,6 +399,22 @@
     "as": "AS2497 Internet Initiative Japan Inc.",
     "query": "220.100.121.114"
   },
+  "125.198.42.151": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Hyakuninchō",
+    "zip": "169-0071",
+    "lat": 35.7075,
+    "lon": 139.7007,
+    "timezone": "Asia/Tokyo",
+    "isp": "BIGLOBE Inc.",
+    "org": "BIGLOBE",
+    "as": "AS2518 BIGLOBE Inc.",
+    "query": "125.198.42.151"
+  },
   "95.154.89.139": {
     "status": "success",
     "country": "Russia",
@@ -415,22 +447,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "58.123.224.213"
   },
-  "59.138.181.26": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "11",
-    "regionName": "Saitama",
-    "city": "Shiki",
-    "zip": "353-0001",
-    "lat": 35.8498,
-    "lon": 139.5884,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "59.138.181.26"
-  },
   "180.224.138.7": {
     "status": "success",
     "country": "South Korea",
@@ -462,38 +478,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "121.173.27.103"
-  },
-  "61.23.154.60": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Noborito",
-    "zip": "214-0011",
-    "lat": 35.6364,
-    "lon": 139.5465,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM Co., Ltd.",
-    "org": "Jupiter Telecommunication Co. Ltd",
-    "as": "AS9824 JCOM Co., Ltd.",
-    "query": "61.23.154.60"
-  },
-  "121.182.159.232": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "27",
-    "regionName": "Daegu",
-    "city": "Daegu",
-    "zip": "41934",
-    "lat": 35.8723,
-    "lon": 128.5924,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "121.182.159.232"
   },
   "183.111.77.12": {
     "status": "success",
@@ -750,5 +734,21 @@
     "org": "",
     "as": "AS43060 IPLUS LLC",
     "query": "94.158.58.108"
+  },
+  "213.88.48.36": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "AST",
+    "regionName": "Astrakhan Oblast",
+    "city": "Astrakhan",
+    "zip": "414000",
+    "lat": 46.3529,
+    "lon": 48.0439,
+    "timezone": "Europe/Astrakhan",
+    "isp": "Net By Net Holding LLC (Cheboksary)",
+    "org": "Net By Net Holding LLC",
+    "as": "AS12714 PJSC MegaFon",
+    "query": "213.88.48.36"
   }
 }
