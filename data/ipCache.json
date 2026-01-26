@@ -415,22 +415,6 @@
     "as": "AS8764 Telia Lietuva, AB",
     "query": "78.63.51.6"
   },
-  "181.224.85.249": {
-    "status": "success",
-    "country": "Brazil",
-    "countryCode": "BR",
-    "region": "TO",
-    "regionName": "Tocantins",
-    "city": "Araguaína",
-    "zip": "77824",
-    "lat": -7.1873,
-    "lon": -48.2005,
-    "timezone": "America/Araguaina",
-    "isp": "Aranet Comunicacao Ltda",
-    "org": "Aranet Comunicacao Ltda",
-    "as": "AS262462 Aranet Play",
-    "query": "181.224.85.249"
-  },
   "1.246.131.93": {
     "status": "success",
     "country": "South Korea",
@@ -495,22 +479,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "183.96.227.221"
   },
-  "121.3.1.88": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "23",
-    "regionName": "Aichi",
-    "city": "Nagoya",
-    "zip": "462-0841",
-    "lat": 35.1926,
-    "lon": 136.906,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "121.3.1.88"
-  },
   "221.164.120.204": {
     "status": "success",
     "country": "South Korea",
@@ -526,6 +494,22 @@
     "org": "Korea Telecom",
     "as": "AS4766 Korea Telecom",
     "query": "221.164.120.204"
+  },
+  "121.3.1.88": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "23",
+    "regionName": "Aichi",
+    "city": "Nagoya",
+    "zip": "462-0841",
+    "lat": 35.1926,
+    "lon": 136.906,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "121.3.1.88"
   },
   "42.117.64.123": {
     "status": "success",
