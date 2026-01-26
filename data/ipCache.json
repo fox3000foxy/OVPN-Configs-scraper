@@ -351,22 +351,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "182.171.116.240"
   },
-  "103.152.178.62": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-0001",
-    "lat": 35.694,
-    "lon": 139.754,
-    "timezone": "Asia/Tokyo",
-    "isp": "Ayao Takata",
-    "org": "SDCC-East01",
-    "as": "AS38074 SDCC Japan-West Area",
-    "query": "103.152.178.62"
-  },
   "77.82.17.179": {
     "status": "success",
     "country": "Russia",
@@ -446,6 +430,22 @@
     "org": "SK Broadband Co Ltd",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "58.123.224.213"
+  },
+  "126.129.242.85": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.129.242.85"
   },
   "180.224.138.7": {
     "status": "success",
@@ -607,6 +607,22 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "180.20.26.137"
   },
+  "211.204.78.228": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Seoul",
+    "zip": "04625",
+    "lat": 37.5561,
+    "lon": 126.975,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "211.204.78.228"
+  },
   "1.226.8.88": {
     "status": "success",
     "country": "South Korea",
@@ -718,37 +734,5 @@
     "org": "ISP Turon Telecom",
     "as": "AS59668 Turon Media XK",
     "query": "82.215.99.145"
-  },
-  "94.158.58.108": {
-    "status": "success",
-    "country": "Uzbekistan",
-    "countryCode": "UZ",
-    "region": "TK",
-    "regionName": "Tashkent",
-    "city": "Tashkent",
-    "zip": "",
-    "lat": 41.2615,
-    "lon": 69.2177,
-    "timezone": "Asia/Tashkent",
-    "isp": "COMNET-NAT",
-    "org": "",
-    "as": "AS43060 IPLUS LLC",
-    "query": "94.158.58.108"
-  },
-  "213.88.48.36": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "AST",
-    "regionName": "Astrakhan Oblast",
-    "city": "Astrakhan",
-    "zip": "414000",
-    "lat": 46.3529,
-    "lon": 48.0439,
-    "timezone": "Europe/Astrakhan",
-    "isp": "Net By Net Holding LLC (Cheboksary)",
-    "org": "Net By Net Holding LLC",
-    "as": "AS12714 PJSC MegaFon",
-    "query": "213.88.48.36"
   }
 }
