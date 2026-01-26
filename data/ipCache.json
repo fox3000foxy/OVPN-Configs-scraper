@@ -223,22 +223,6 @@
     "as": "AS17858 LG POWERCOMM",
     "query": "49.174.10.156"
   },
-  "49.167.12.160": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "44",
-    "regionName": "Chungcheongnam-do",
-    "city": "Tangjin",
-    "zip": "317",
-    "lat": 36.8951,
-    "lon": 126.625,
-    "timezone": "Asia/Seoul",
-    "isp": "LG POWERCOMM",
-    "org": "LG POWERCOMM",
-    "as": "AS17858 LG POWERCOMM",
-    "query": "49.167.12.160"
-  },
   "185.124.155.182": {
     "status": "success",
     "country": "Russia",
@@ -318,22 +302,6 @@
     "org": "Open Computer Network",
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "153.151.248.167"
-  },
-  "110.14.252.60": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Seoul",
-    "zip": "04524",
-    "lat": 37.5658,
-    "lon": 126.978,
-    "timezone": "Asia/Seoul",
-    "isp": "broadNnet",
-    "org": "",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "110.14.252.60"
   },
   "223.204.15.103": {
     "status": "success",
@@ -591,6 +559,38 @@
     "as": "AS18403 FPT Telecom Company",
     "query": "42.118.167.155"
   },
+  "125.247.190.47": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Goyang-si",
+    "zip": "104",
+    "lat": 37.6392,
+    "lon": 126.8375,
+    "timezone": "Asia/Seoul",
+    "isp": "DACOM-PUBNETPLUS",
+    "org": "LG Uplus",
+    "as": "AS9316 DACOM-PUBNETPLUS",
+    "query": "125.247.190.47"
+  },
+  "115.40.206.229": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "48",
+    "regionName": "Gyeongsangnam-do",
+    "city": "Changwon",
+    "zip": "515",
+    "lat": 35.2103,
+    "lon": 128.6712,
+    "timezone": "Asia/Seoul",
+    "isp": "CJ Hello Co",
+    "org": "HVGyeongnam",
+    "as": "AS9845 LG HelloVision Corp.",
+    "query": "115.40.206.229"
+  },
   "58.226.80.192": {
     "status": "success",
     "country": "South Korea",
@@ -606,6 +606,38 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "58.226.80.192"
+  },
+  "218.49.3.43": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Gyeonggi-do",
+    "zip": "10133",
+    "lat": 37.5859,
+    "lon": 126.7745,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "218.49.3.43"
+  },
+  "2.61.191.139": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KK",
+    "regionName": "Khakasiya Republic",
+    "city": "Chernogorsk",
+    "zip": "655138",
+    "lat": 53.8288,
+    "lon": 91.3095,
+    "timezone": "Asia/Krasnoyarsk",
+    "isp": "Rostelecom networks",
+    "org": "OJSC Sibirtelecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "2.61.191.139"
   },
   "95.86.196.161": {
     "status": "success",
@@ -655,20 +687,20 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "92.37.142.45"
   },
-  "2.61.191.139": {
+  "77.35.108.63": {
     "status": "success",
     "country": "Russia",
     "countryCode": "RU",
-    "region": "KK",
-    "regionName": "Khakasiya Republic",
-    "city": "Chernogorsk",
-    "zip": "655138",
-    "lat": 53.8288,
-    "lon": 91.3095,
-    "timezone": "Asia/Krasnoyarsk",
-    "isp": "Rostelecom networks",
-    "org": "OJSC Sibirtelecom",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Vladivostok",
+    "zip": "690014",
+    "lat": 43.1224,
+    "lon": 131.887,
+    "timezone": "Asia/Vladivostok",
+    "isp": "Eastern Economic Forum - 2022",
+    "org": "A11 Ltd.",
     "as": "AS12389 PJSC Rostelecom",
-    "query": "2.61.191.139"
+    "query": "77.35.108.63"
   }
 }
