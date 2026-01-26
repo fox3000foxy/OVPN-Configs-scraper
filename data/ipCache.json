@@ -95,6 +95,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.16"
   },
+  "153.206.173.142": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Yokohama",
+    "zip": "231-0841",
+    "lat": 35.4337,
+    "lon": 139.6499,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "Open Computer Network",
+    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
+    "query": "153.206.173.142"
+  },
   "114.35.64.20": {
     "status": "success",
     "country": "Taiwan",
@@ -351,22 +367,6 @@
     "as": "AS38074 SDCC Japan-West Area",
     "query": "103.152.178.62"
   },
-  "124.18.97.154": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "23",
-    "regionName": "Aichi",
-    "city": "Kiyosu",
-    "zip": "452-0941",
-    "lat": 35.2172,
-    "lon": 136.8325,
-    "timezone": "Asia/Tokyo",
-    "isp": "Chubu Telecommunications Company, Inc.",
-    "org": "Chubu Telecommunications Co., Inc.",
-    "as": "AS18126 Chubu Telecommunications Company, Inc.",
-    "query": "124.18.97.154"
-  },
   "86.102.10.37": {
     "status": "success",
     "country": "Russia",
@@ -526,6 +526,22 @@
     "org": "Boranet",
     "as": "AS9319 HCN CHUNGBUK CABLE TV SYSTEMS",
     "query": "210.182.153.244"
+  },
+  "31.28.244.97": {
+    "status": "success",
+    "country": "Ukraine",
+    "countryCode": "UA",
+    "region": "40",
+    "regionName": "Sebastopol City",
+    "city": "Sevastopol",
+    "zip": "90022",
+    "lat": 44.6089,
+    "lon": 33.53,
+    "timezone": "Europe/Simferopol",
+    "isp": "Lancom Ltd.",
+    "org": "Lancom Ltd",
+    "as": "AS35816 Lancom Ltd.",
+    "query": "31.28.244.97"
   },
   "1.52.49.63": {
     "status": "success",
