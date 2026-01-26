@@ -399,21 +399,21 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "87.103.208.169"
   },
-  "118.71.57.250": {
+  "114.170.87.74": {
     "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "HN",
-    "regionName": "Hanoi",
-    "city": "Hanoi",
-    "zip": "",
-    "lat": 21.0278,
-    "lon": 105.834,
-    "timezone": "Asia/Bangkok",
-    "isp": "Vietnam Internet Network Information Center",
-    "org": "",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "118.71.57.250"
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "42",
+    "regionName": "Nagasaki",
+    "city": "Nagasaki",
+    "zip": "850-0031",
+    "lat": 32.7481,
+    "lon": 129.8816,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "Open Computer Network",
+    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
+    "query": "114.170.87.74"
   },
   "113.155.100.54": {
     "status": "success",
@@ -431,6 +431,22 @@
     "as": "AS18126 Chubu Telecommunications Company, Inc.",
     "query": "113.155.100.54"
   },
+  "118.71.57.250": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "HN",
+    "regionName": "Hanoi",
+    "city": "Hanoi",
+    "zip": "",
+    "lat": 21.0278,
+    "lon": 105.834,
+    "timezone": "Asia/Bangkok",
+    "isp": "Vietnam Internet Network Information Center",
+    "org": "",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "118.71.57.250"
+  },
   "183.82.207.100": {
     "status": "success",
     "country": "India",
@@ -446,22 +462,6 @@
     "org": "Beam Telecom Pvt Ltd",
     "as": "AS24309 Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA",
     "query": "183.82.207.100"
-  },
-  "119.24.254.96": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "28",
-    "regionName": "Hyōgo",
-    "city": "Kobe",
-    "zip": "650-0011",
-    "lat": 34.6922,
-    "lon": 135.1816,
-    "timezone": "Asia/Tokyo",
-    "isp": "HCT",
-    "org": "Jupiter Telecommunications Co., Ltd.",
-    "as": "AS9617 JCOM Co., Ltd.",
-    "query": "119.24.254.96"
   },
   "37.140.60.106": {
     "status": "success",
@@ -479,22 +479,6 @@
     "as": "AS8369 Intersvyaz-2 JSC",
     "query": "37.140.60.106"
   },
-  "58.186.28.169": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "SG",
-    "regionName": "Ho Chi Minh",
-    "city": "Ho Chi Minh City",
-    "zip": "700000",
-    "lat": 10.822,
-    "lon": 106.6257,
-    "timezone": "Asia/Ho_Chi_Minh",
-    "isp": "FPT Telecom Company",
-    "org": "Vietnam Internet Network Information Center",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "58.186.28.169"
-  },
   "49.228.113.157": {
     "status": "success",
     "country": "Thailand",
@@ -510,6 +494,22 @@
     "org": "",
     "as": "AS133481 AIS Fibre",
     "query": "49.228.113.157"
+  },
+  "58.186.28.169": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "SG",
+    "regionName": "Ho Chi Minh",
+    "city": "Ho Chi Minh City",
+    "zip": "700000",
+    "lat": 10.822,
+    "lon": 106.6257,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "isp": "FPT Telecom Company",
+    "org": "Vietnam Internet Network Information Center",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "58.186.28.169"
   },
   "115.136.105.76": {
     "status": "success",
@@ -607,6 +607,22 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "175.124.82.169"
   },
+  "78.29.43.182": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "CHE",
+    "regionName": "Chelyabinsk Oblast",
+    "city": "Chelyabinsk",
+    "zip": "",
+    "lat": 55.1952,
+    "lon": 61.339,
+    "timezone": "Asia/Yekaterinburg",
+    "isp": "Intersvyaz-2 JSC",
+    "org": "Intersvyaz-2 JSC",
+    "as": "AS8369 Intersvyaz-2 JSC",
+    "query": "78.29.43.182"
+  },
   "175.120.168.213": {
     "status": "success",
     "country": "South Korea",
@@ -654,5 +670,37 @@
     "org": "JSC VolgaTelecom Samara branch",
     "as": "AS12389 PJSC Rostelecom",
     "query": "88.200.214.48"
+  },
+  "122.254.245.109": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Nam-gu",
+    "zip": "484",
+    "lat": 35.1362,
+    "lon": 129.0783,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "TBROAD NakdongDongnamSeobusan",
+    "as": "AS17857 SK Broadband Co Ltd",
+    "query": "122.254.245.109"
+  },
+  "211.207.14.91": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "28",
+    "regionName": "Incheon",
+    "city": "Namdong-gu",
+    "zip": "216",
+    "lat": 37.4135,
+    "lon": 126.7153,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "211.207.14.91"
   }
 }
