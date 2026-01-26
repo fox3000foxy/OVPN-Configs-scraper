@@ -671,6 +671,22 @@
     "as": "AS33991 Igra-Service LLC",
     "query": "91.132.22.148"
   },
+  "90.189.196.154": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "NVS",
+    "regionName": "Novosibirsk Oblast",
+    "city": "Novosibirsk",
+    "zip": "630000",
+    "lat": 55.0226,
+    "lon": 82.9317,
+    "timezone": "Asia/Novosibirsk",
+    "isp": "Rostelecom networks",
+    "org": "OJSC Sibirtelecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "90.189.196.154"
+  },
   "38.25.18.16": {
     "status": "success",
     "country": "Peru",
