@@ -175,6 +175,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "119.196.49.82"
   },
+  "223.132.208.135": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "21",
+    "regionName": "Gifu",
+    "city": "Gifu",
+    "zip": "500-8821",
+    "lat": 35.4256,
+    "lon": 136.7614,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "223.132.208.135"
+  },
   "218.145.107.33": {
     "status": "success",
     "country": "South Korea",
@@ -479,22 +495,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "59.146.35.86"
   },
-  "202.148.240.143": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "12",
-    "regionName": "Chiba",
-    "city": "Ichikawa",
-    "zip": "272-0031",
-    "lat": 35.7233,
-    "lon": 139.9132,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM",
-    "org": "Jupiter Telecommunications Co., Ltd.",
-    "as": "AS23788 JCOM Co., Ltd.",
-    "query": "202.148.240.143"
-  },
   "118.156.120.153": {
     "status": "success",
     "country": "Japan",
@@ -543,22 +543,6 @@
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "42.150.189.160"
   },
-  "133.32.132.108": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0071",
-    "lat": 35.6837,
-    "lon": 139.6805,
-    "timezone": "Asia/Tokyo",
-    "isp": "ARTERIA Networks Corporation",
-    "org": "",
-    "as": "AS2519 ARTERIA Networks Corporation",
-    "query": "133.32.132.108"
-  },
   "1.52.5.203": {
     "status": "success",
     "country": "Vietnam",
@@ -591,6 +575,22 @@
     "as": "AS17573 SK Broadband Co Ltd",
     "query": "203.175.32.228"
   },
+  "115.124.252.21": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "44",
+    "regionName": "Oita",
+    "city": "Ōita",
+    "zip": "870-0831",
+    "lat": 33.229,
+    "lon": 131.6039,
+    "timezone": "Asia/Tokyo",
+    "isp": "QTnet, Inc.",
+    "org": "QTnet, Inc.",
+    "as": "AS7679 QTnet,Inc.",
+    "query": "115.124.252.21"
+  },
   "220.76.63.6": {
     "status": "success",
     "country": "South Korea",
@@ -622,6 +622,22 @@
     "org": "JSC Ufanet",
     "as": "AS24955 JSC Ufanet",
     "query": "77.79.169.41"
+  },
+  "202.148.240.143": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "12",
+    "regionName": "Chiba",
+    "city": "Ichikawa",
+    "zip": "272-0031",
+    "lat": 35.7233,
+    "lon": 139.9132,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM",
+    "org": "Jupiter Telecommunications Co., Ltd.",
+    "as": "AS23788 JCOM Co., Ltd.",
+    "query": "202.148.240.143"
   },
   "42.118.117.81": {
     "status": "success",
