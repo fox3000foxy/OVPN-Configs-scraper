@@ -479,22 +479,6 @@
     "as": "AS18403 FPT Telecom Company",
     "query": "118.68.132.152"
   },
-  "37.22.254.48": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KEM",
-    "regionName": "Kemerovo Oblast",
-    "city": "Tashtagol",
-    "zip": "652990",
-    "lat": 52.7699,
-    "lon": 87.8823,
-    "timezone": "Asia/Novokuznetsk",
-    "isp": "Rostelecom networks",
-    "org": "JSC Rostelecom regional branch Siberia",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "37.22.254.48"
-  },
   "118.69.85.114": {
     "status": "success",
     "country": "Vietnam",
