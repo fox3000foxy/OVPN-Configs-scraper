@@ -191,22 +191,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "218.145.181.197"
   },
-  "180.68.118.32": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "26",
-    "regionName": "Busan",
-    "city": "Busan",
-    "zip": "462",
-    "lat": 35.2582,
-    "lon": 129.0948,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "180.68.118.32"
-  },
   "211.221.198.244": {
     "status": "success",
     "country": "South Korea",
@@ -222,6 +206,22 @@
     "org": "sudogwonseobubonbu",
     "as": "AS4766 Korea Telecom",
     "query": "211.221.198.244"
+  },
+  "180.68.118.32": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Busan",
+    "zip": "462",
+    "lat": 35.2582,
+    "lon": 129.0948,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "180.68.118.32"
   },
   "211.185.142.92": {
     "status": "success",
@@ -639,22 +639,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "94.245.150.104"
   },
-  "94.190.121.226": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "SVE",
-    "regionName": "Sverdlovsk Oblast",
-    "city": "Pervouralsk",
-    "zip": "623109",
-    "lat": 56.9045,
-    "lon": 59.9367,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "VPN (PPTP) and non-VPN customers Lesnoy Sverdlovsk reg. Interra Ltd.",
-    "org": "\"Interra\" Ltd.",
-    "as": "AS48524 INTERRA telecommunications group, Ltd.",
-    "query": "94.190.121.226"
-  },
   "31.40.209.216": {
     "status": "success",
     "country": "Russia",
@@ -670,6 +654,22 @@
     "org": "Miranda-Media Ltd",
     "as": "AS201776 Miranda-Media Ltd",
     "query": "31.40.209.216"
+  },
+  "94.190.121.226": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "SVE",
+    "regionName": "Sverdlovsk Oblast",
+    "city": "Pervouralsk",
+    "zip": "623109",
+    "lat": 56.9045,
+    "lon": 59.9367,
+    "timezone": "Asia/Yekaterinburg",
+    "isp": "VPN (PPTP) and non-VPN customers Lesnoy Sverdlovsk reg. Interra Ltd.",
+    "org": "\"Interra\" Ltd.",
+    "as": "AS48524 INTERRA telecommunications group, Ltd.",
+    "query": "94.190.121.226"
   },
   "211.244.206.212": {
     "status": "success",
