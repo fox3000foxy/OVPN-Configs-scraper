@@ -255,6 +255,38 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "36.13.6.150"
   },
+  "211.46.41.23": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Gwangjin-gu",
+    "zip": "049",
+    "lat": 37.547,
+    "lon": 127.0958,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Korea Telecom",
+    "as": "AS4766 Korea Telecom",
+    "query": "211.46.41.23"
+  },
+  "87.103.208.169": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KEM",
+    "regionName": "Kemerovo Oblast",
+    "city": "Novokuznetsk",
+    "zip": "654014",
+    "lat": 53.7575,
+    "lon": 87.136,
+    "timezone": "Asia/Novokuznetsk",
+    "isp": "Kuzbass Network",
+    "org": "OJSC Rostelecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "87.103.208.169"
+  },
   "124.212.183.144": {
     "status": "success",
     "country": "Japan",
@@ -270,22 +302,6 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "124.212.183.144"
-  },
-  "118.240.3.52": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "12",
-    "regionName": "Chiba",
-    "city": "Ichikawa",
-    "zip": "272-0811",
-    "lat": 35.7203,
-    "lon": 139.947,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "118.240.3.52"
   },
   "222.97.129.40": {
     "status": "success",
@@ -335,22 +351,6 @@
     "as": "AS39785 Axioma, LLC",
     "query": "95.170.177.6"
   },
-  "153.144.240.2": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "08",
-    "regionName": "Ibaraki",
-    "city": "Mito",
-    "zip": "310-0851",
-    "lat": 36.3566,
-    "lon": 140.4623,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "NTT Communications Corporation",
-    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
-    "query": "153.144.240.2"
-  },
   "112.184.70.55": {
     "status": "success",
     "country": "South Korea",
@@ -366,6 +366,22 @@
     "org": "Korea Telecom",
     "as": "AS4766 Korea Telecom",
     "query": "112.184.70.55"
+  },
+  "150.249.68.92": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Katsushika",
+    "zip": "124-0011",
+    "lat": 35.734,
+    "lon": 139.831,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc.",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "150.249.68.92"
   },
   "219.28.235.168": {
     "status": "success",
@@ -414,22 +430,6 @@
     "org": "JCOM Co., Ltd",
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "119.175.4.233"
-  },
-  "59.10.11.241": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Seocho-gu",
-    "zip": "066",
-    "lat": 37.4906,
-    "lon": 127.0168,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "59.10.11.241"
   },
   "202.67.19.82": {
     "status": "success",
@@ -495,6 +495,38 @@
     "as": "AS41843 JSC ER-Telecom Holding",
     "query": "188.232.231.247"
   },
+  "58.70.127.223": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Osaka",
+    "zip": "530-0041",
+    "lat": 34.6967,
+    "lon": 135.5154,
+    "timezone": "Asia/Tokyo",
+    "isp": "OPTAGE Inc.",
+    "org": "OPTAGE Inc.",
+    "as": "AS17511 OPTAGE Inc.",
+    "query": "58.70.127.223"
+  },
+  "153.144.240.2": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "08",
+    "regionName": "Ibaraki",
+    "city": "Mito",
+    "zip": "310-0851",
+    "lat": 36.3566,
+    "lon": 140.4623,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "NTT Communications Corporation",
+    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
+    "query": "153.144.240.2"
+  },
   "220.26.103.76": {
     "status": "success",
     "country": "Japan",
@@ -558,22 +590,6 @@
     "org": "",
     "as": "AS12389 PJSC Rostelecom",
     "query": "95.70.55.29"
-  },
-  "178.187.5.200": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "ALT",
-    "regionName": "Altai Krai",
-    "city": "Zarinsk",
-    "zip": "659100",
-    "lat": 53.7116,
-    "lon": 84.9535,
-    "timezone": "Asia/Barnaul",
-    "isp": "OJSC \"Sibirtelecom\"",
-    "org": "Sibirtelecom Co.",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "178.187.5.200"
   },
   "151.0.18.120": {
     "status": "success",
