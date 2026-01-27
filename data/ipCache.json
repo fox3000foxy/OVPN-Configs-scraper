@@ -239,21 +239,21 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "222.4.112.69"
   },
-  "220.57.96.201": {
+  "36.13.6.150": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
+    "region": "11",
+    "regionName": "Saitama",
+    "city": "Honchō",
+    "zip": "335-0021",
+    "lat": 35.8103,
+    "lon": 139.6696,
     "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan nation-wide Network of SOFTBANK Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "220.57.96.201"
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "36.13.6.150"
   },
   "220.26.103.76": {
     "status": "success",
@@ -415,6 +415,22 @@
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "119.175.4.233"
   },
+  "116.126.61.163": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Yongin-si",
+    "zip": "16940",
+    "lat": 37.298,
+    "lon": 127.0777,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "116.126.61.163"
+  },
   "59.10.11.241": {
     "status": "success",
     "country": "South Korea",
@@ -479,22 +495,6 @@
     "as": "AS41843 JSC ER-Telecom Holding",
     "query": "188.232.231.247"
   },
-  "121.181.197.225": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "27",
-    "regionName": "Daegu",
-    "city": "Buk-gu",
-    "zip": "414",
-    "lat": 35.9206,
-    "lon": 128.5561,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "121.181.197.225"
-  },
   "78.29.43.182": {
     "status": "success",
     "country": "Russia",
@@ -511,21 +511,21 @@
     "as": "AS8369 Intersvyaz-2 JSC",
     "query": "78.29.43.182"
   },
-  "126.221.40.75": {
+  "85.140.86.136": {
     "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.221.40.75"
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "UD",
+    "regionName": "Udmurtiya Republic",
+    "city": "Izhevsk",
+    "zip": "426006",
+    "lat": 56.8501,
+    "lon": 53.1937,
+    "timezone": "Europe/Samara",
+    "isp": "MTS OSJ",
+    "org": "",
+    "as": "AS39001 MTS PJSC",
+    "query": "85.140.86.136"
   },
   "95.70.55.29": {
     "status": "success",
@@ -607,6 +607,22 @@
     "as": "AS33991 Igra-Service LLC",
     "query": "91.220.87.58"
   },
+  "5.100.81.48": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Vladivostok",
+    "zip": "690001",
+    "lat": 43.1068,
+    "lon": 131.8692,
+    "timezone": "Asia/Vladivostok",
+    "isp": "VLADLINK",
+    "org": "VladLink LTD",
+    "as": "AS42038 Krivets Sergey Sergeevich",
+    "query": "5.100.81.48"
+  },
   "176.116.188.23": {
     "status": "success",
     "country": "Russia",
@@ -638,5 +654,21 @@
     "org": "JSC Zap-Sib TransTeleCom",
     "as": "AS21127 Joint Stock Company TransTeleCom",
     "query": "109.171.35.158"
+  },
+  "176.116.186.64": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KK",
+    "regionName": "Khakasiya Republic",
+    "city": "Abakan",
+    "zip": "655017",
+    "lat": 53.72,
+    "lon": 91.4324,
+    "timezone": "Asia/Krasnoyarsk",
+    "isp": "Orion telecom",
+    "org": "Kristelecom Ltd",
+    "as": "AS50427 Orion Telecom LLC",
+    "query": "176.116.186.64"
   }
 }
