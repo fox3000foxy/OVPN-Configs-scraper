@@ -415,22 +415,6 @@
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "119.175.4.233"
   },
-  "116.126.61.163": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Yongin-si",
-    "zip": "16940",
-    "lat": 37.298,
-    "lon": 127.0777,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "116.126.61.163"
-  },
   "59.10.11.241": {
     "status": "success",
     "country": "South Korea",
@@ -542,6 +526,22 @@
     "org": "Intersvyaz-2 JSC",
     "as": "AS8369 Intersvyaz-2 JSC",
     "query": "78.29.43.182"
+  },
+  "126.221.40.75": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.221.40.75"
   },
   "95.70.55.29": {
     "status": "success",
