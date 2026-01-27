@@ -239,22 +239,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "14.57.196.103"
   },
-  "112.170.21.41": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Seongnam-si",
-    "zip": "135",
-    "lat": 37.377,
-    "lon": 127.1091,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "112.170.21.41"
-  },
   "117.55.152.142": {
     "status": "success",
     "country": "South Korea",
@@ -286,6 +270,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "125.139.49.108"
+  },
+  "112.170.21.41": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Seongnam-si",
+    "zip": "135",
+    "lat": 37.377,
+    "lon": 127.1091,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "112.170.21.41"
   },
   "219.100.37.102": {
     "status": "success",
@@ -367,6 +367,22 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "182.171.116.240"
   },
+  "222.144.35.76": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "01",
+    "regionName": "Hokkaido",
+    "city": "Sapporo",
+    "zip": "064-0801",
+    "lat": 43.0456,
+    "lon": 141.3522,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "Open Computer Network",
+    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
+    "query": "222.144.35.76"
+  },
   "133.238.167.250": {
     "status": "success",
     "country": "Japan",
@@ -431,37 +447,21 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "153.210.10.148"
   },
-  "176.193.230.49": {
+  "223.206.138.2": {
     "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "MOW",
-    "regionName": "Moscow",
-    "city": "Moscow",
-    "zip": "127474",
-    "lat": 55.7487,
-    "lon": 37.6187,
-    "timezone": "Europe/Moscow",
-    "isp": "Net By Net Holding LLC",
-    "org": "Net By Net Holding LLC",
-    "as": "AS12714 PJSC MegaFon",
-    "query": "176.193.230.49"
-  },
-  "106.168.67.207": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Yokohama",
-    "zip": "231-0841",
-    "lat": 35.4337,
-    "lon": 139.6499,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "106.168.67.207"
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "40",
+    "regionName": "Khon Kaen",
+    "city": "Khon Kaen",
+    "zip": "40000",
+    "lat": 16.2916,
+    "lon": 102.6161,
+    "timezone": "Asia/Bangkok",
+    "isp": "Triple T Broadband Public Company Limited",
+    "org": "Triple T Broadband Public Company Limited",
+    "as": "AS45758 Triple T Broadband Public Company Limited",
+    "query": "223.206.138.2"
   },
   "221.145.176.163": {
     "status": "success",
@@ -559,6 +559,22 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.103.55.59"
   },
+  "31.130.57.70": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "MOW",
+    "regionName": "Moscow",
+    "city": "Moscow",
+    "zip": "127474",
+    "lat": 55.7487,
+    "lon": 37.6187,
+    "timezone": "Europe/Moscow",
+    "isp": "Kom lan Ltd",
+    "org": "Kom lan Ltd",
+    "as": "AS49583 Kom lan Ltd",
+    "query": "31.130.57.70"
+  },
   "141.223.28.169": {
     "status": "success",
     "country": "South Korea",
@@ -591,21 +607,21 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "211.210.49.180"
   },
-  "220.86.41.55": {
+  "121.134.54.22": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
     "region": "11",
     "regionName": "Seoul",
-    "city": "Gangseo-gu",
-    "zip": "077",
-    "lat": 37.5438,
-    "lon": 126.8538,
+    "city": "Gangnam-gu",
+    "zip": "061",
+    "lat": 37.5093,
+    "lon": 127.0465,
     "timezone": "Asia/Seoul",
     "isp": "Korea Telecom",
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
-    "query": "220.86.41.55"
+    "query": "121.134.54.22"
   },
   "221.145.64.185": {
     "status": "success",
@@ -654,6 +670,22 @@
     "org": "Boranet",
     "as": "AS17598 LG HelloVision Corp.",
     "query": "61.41.230.185"
+  },
+  "90.189.196.154": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "NVS",
+    "regionName": "Novosibirsk Oblast",
+    "city": "Novosibirsk",
+    "zip": "630000",
+    "lat": 55.0226,
+    "lon": 82.9317,
+    "timezone": "Asia/Novosibirsk",
+    "isp": "Rostelecom networks",
+    "org": "OJSC Sibirtelecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "90.189.196.154"
   },
   "82.215.99.145": {
     "status": "success",
