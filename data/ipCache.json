@@ -191,22 +191,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "118.237.134.168"
   },
-  "60.108.146.236": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan Nation-wide Network of Softbank Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "60.108.146.236"
-  },
   "118.33.153.180": {
     "status": "success",
     "country": "South Korea",
@@ -222,6 +206,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "118.33.153.180"
+  },
+  "60.108.146.236": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.108.146.236"
   },
   "219.100.37.50": {
     "status": "success",
@@ -623,20 +623,20 @@
     "as": "AS57123 OOO Garant",
     "query": "31.130.198.167"
   },
-  "218.158.68.238": {
+  "80.3.208.251": {
     "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "50",
-    "regionName": "Sejong-si",
-    "city": "Sejong",
-    "zip": "301",
-    "lat": 36.5916,
-    "lon": 127.2916,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Korea Telecom",
-    "as": "AS4766 Korea Telecom",
-    "query": "218.158.68.238"
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "region": "ENG",
+    "regionName": "England",
+    "city": "Gateshead",
+    "zip": "NE9",
+    "lat": 54.9313,
+    "lon": -1.5855,
+    "timezone": "Europe/London",
+    "isp": "Virgin Media",
+    "org": "",
+    "as": "AS5089 Virgin Media Limited",
+    "query": "80.3.208.251"
   }
 }
