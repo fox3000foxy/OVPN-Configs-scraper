@@ -463,22 +463,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.103.55.59"
   },
-  "31.130.57.70": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "MOW",
-    "regionName": "Moscow",
-    "city": "Moscow",
-    "zip": "127474",
-    "lat": 55.7487,
-    "lon": 37.6187,
-    "timezone": "Europe/Moscow",
-    "isp": "Kom lan Ltd",
-    "org": "Kom lan Ltd",
-    "as": "AS49583 Kom lan Ltd",
-    "query": "31.130.57.70"
-  },
   "211.210.49.180": {
     "status": "success",
     "country": "South Korea",
