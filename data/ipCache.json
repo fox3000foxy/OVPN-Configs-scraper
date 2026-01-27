@@ -415,6 +415,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "210.178.110.239"
   },
+  "60.144.85.226": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.144.85.226"
+  },
   "178.34.136.197": {
     "status": "success",
     "country": "Russia",
@@ -446,22 +462,6 @@
     "org": "SOFTBANK Corp",
     "as": "AS17676 SoftBank Corp.",
     "query": "126.159.87.12"
-  },
-  "115.38.0.195": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "22",
-    "regionName": "Shizuoka",
-    "city": "Shizuoka",
-    "zip": "420-0831",
-    "lat": 34.9804,
-    "lon": 138.3854,
-    "timezone": "Asia/Tokyo",
-    "isp": "Chubu Telecommunications Company, Inc.",
-    "org": "Chubu Telecommunications Co., Inc.",
-    "as": "AS18126 Chubu Telecommunications Company, Inc.",
-    "query": "115.38.0.195"
   },
   "118.68.132.152": {
     "status": "success",
@@ -591,22 +591,6 @@
     "as": "AS18403 FPT Telecom Company",
     "query": "42.114.41.104"
   },
-  "1.236.146.57": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Goyang-si",
-    "zip": "10461",
-    "lat": 37.661,
-    "lon": 126.8324,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "1.236.146.57"
-  },
   "39.114.102.23": {
     "status": "success",
     "country": "South Korea",
@@ -638,6 +622,22 @@
     "org": "",
     "as": "AS12389 PJSC Rostelecom",
     "query": "94.245.150.104"
+  },
+  "1.252.99.217": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Busanjin-gu",
+    "zip": "473",
+    "lat": 35.1469,
+    "lon": 129.0381,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "SK Broadband Co Ltd",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "1.252.99.217"
   },
   "31.40.209.216": {
     "status": "success",
