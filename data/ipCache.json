@@ -655,6 +655,22 @@
     "as": "AS3786 LG DACOM Corporation",
     "query": "112.218.21.132"
   },
+  "211.244.251.223": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Eunpyeong-gu",
+    "zip": "033",
+    "lat": 37.6053,
+    "lon": 126.9231,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "211.244.251.223"
+  },
   "197.49.230.95": {
     "status": "success",
     "country": "Egypt",
