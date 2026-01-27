@@ -95,6 +95,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.109"
   },
+  "103.14.26.91": {
+    "status": "success",
+    "country": "Mexico",
+    "countryCode": "MX",
+    "region": "CMX",
+    "regionName": "Mexico City",
+    "city": "Mexico City",
+    "zip": "03020",
+    "lat": 19.4324,
+    "lon": -99.1229,
+    "timezone": "America/Mexico_City",
+    "isp": "Latitude.sh",
+    "org": "Latitude.sh",
+    "as": "AS396356 Latitude.sh",
+    "query": "103.14.26.91"
+  },
   "153.206.173.142": {
     "status": "success",
     "country": "Japan",
@@ -206,22 +222,6 @@
     "org": "Korea Telecom",
     "as": "AS4766 Korea Telecom",
     "query": "222.109.124.1"
-  },
-  "133.175.174.202": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chuo",
-    "zip": "103-0000",
-    "lat": 35.6812,
-    "lon": 139.774,
-    "timezone": "Asia/Tokyo",
-    "isp": "ARTERIA Networks Corporation",
-    "org": "Toray Industries, Inc.",
-    "as": "AS2519 ARTERIA Networks Corporation",
-    "query": "133.175.174.202"
   },
   "182.237.221.37": {
     "status": "success",
@@ -351,22 +351,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.102"
   },
-  "126.88.128.168": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.88.128.168"
-  },
   "182.168.207.13": {
     "status": "success",
     "country": "Japan",
@@ -479,6 +463,22 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "220.57.84.30"
   },
+  "153.209.166.46": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Yokohama",
+    "zip": "231-0841",
+    "lat": 35.4337,
+    "lon": 139.6499,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "Open Computer Network",
+    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
+    "query": "153.209.166.46"
+  },
   "211.192.121.212": {
     "status": "success",
     "country": "South Korea",
@@ -575,21 +575,21 @@
     "as": "AS207713 GLOBAL INTERNET SOLUTIONS LLC",
     "query": "130.49.213.93"
   },
-  "116.104.179.217": {
+  "60.68.172.110": {
     "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "HN",
-    "regionName": "Hanoi",
-    "city": "Hanoi",
-    "zip": "100000",
-    "lat": 21.0184,
-    "lon": 105.8461,
-    "timezone": "Asia/Bangkok",
-    "isp": "Viettel Group",
-    "org": "VIETTEL",
-    "as": "AS7552 Viettel Group",
-    "query": "116.104.179.217"
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.68.172.110"
   },
   "122.254.148.83": {
     "status": "success",
