@@ -255,6 +255,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "211.198.67.197"
   },
+  "211.184.24.38": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Suwon",
+    "zip": "164",
+    "lat": 37.2872,
+    "lon": 127.0116,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "211.184.24.38"
+  },
   "219.100.37.102": {
     "status": "success",
     "country": "Japan",
@@ -335,6 +351,22 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "118.241.184.72"
   },
+  "218.148.187.249": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Goyang-si",
+    "zip": "103",
+    "lat": 37.6792,
+    "lon": 126.8183,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "KORNET",
+    "as": "AS4766 Korea Telecom",
+    "query": "218.148.187.249"
+  },
   "5.137.210.152": {
     "status": "success",
     "country": "Russia",
@@ -399,21 +431,37 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "90.149.251.147"
   },
-  "118.21.74.117": {
+  "220.100.45.229": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Osaka",
-    "zip": "540-0002",
-    "lat": 34.6937,
-    "lon": 135.502,
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Yokohama",
+    "zip": "231-0841",
+    "lat": 35.4337,
+    "lon": 139.6499,
     "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "NTT Communications Corporation",
-    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
-    "query": "118.21.74.117"
+    "isp": "Internet Initiative Japan",
+    "org": "Internet Initiative Japan Inc.",
+    "as": "AS2497 Internet Initiative Japan Inc.",
+    "query": "220.100.45.229"
+  },
+  "218.250.109.210": {
+    "status": "success",
+    "country": "Hong Kong",
+    "countryCode": "HK",
+    "region": "KKC",
+    "regionName": "Kowloon City",
+    "city": "Ma Tau Wai Estate",
+    "zip": "",
+    "lat": 22.3238,
+    "lon": 114.187,
+    "timezone": "Asia/Hong_Kong",
+    "isp": "Pccw IMS",
+    "org": "PCCW Limited",
+    "as": "AS4760 HKT Limited",
+    "query": "218.250.109.210"
   },
   "60.79.244.225": {
     "status": "success",
@@ -478,22 +526,6 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "221.164.117.21"
-  },
-  "221.159.197.158": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "42",
-    "regionName": "Gangwon-do",
-    "city": "Yangyang-gun",
-    "zip": "250",
-    "lat": 38.1383,
-    "lon": 128.6104,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "221.159.197.158"
   },
   "58.232.223.120": {
     "status": "success",
@@ -575,22 +607,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "58.226.80.192"
   },
-  "42.118.117.81": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "SG",
-    "regionName": "Ho Chi Minh",
-    "city": "Ho Chi Minh City",
-    "zip": "700000",
-    "lat": 10.822,
-    "lon": 106.6257,
-    "timezone": "Asia/Ho_Chi_Minh",
-    "isp": "FPT Telecom Company",
-    "org": "FPTDYNAMICIP",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "42.118.117.81"
-  },
   "94.51.9.32": {
     "status": "success",
     "country": "Russia",
@@ -671,22 +687,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "5.143.89.139"
   },
-  "94.41.132.73": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "ORE",
-    "regionName": "Orenburg Oblast",
-    "city": "Orenburg",
-    "zip": "460004",
-    "lat": 51.7675,
-    "lon": 55.0977,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "JSC \"Ufanet\"",
-    "org": "JSC Ufanet",
-    "as": "AS41704 JSC Ufanet",
-    "query": "94.41.132.73"
-  },
   "176.49.173.21": {
     "status": "success",
     "country": "Russia",
@@ -702,21 +702,5 @@
     "org": "OJSC Sibirtelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "176.49.173.21"
-  },
-  "95.70.32.205": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KHA",
-    "regionName": "Khabarovsk",
-    "city": "Khabarovsk",
-    "zip": "680000",
-    "lat": 48.4817,
-    "lon": 135.083,
-    "timezone": "Asia/Vladivostok",
-    "isp": "KHT RU",
-    "org": "",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "95.70.32.205"
   }
 }
