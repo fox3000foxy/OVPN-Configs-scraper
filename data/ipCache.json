@@ -223,22 +223,6 @@
     "as": "AS9354 Community Network Center Inc.",
     "query": "221.118.47.135"
   },
-  "27.83.68.134": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Nihonbashi-Kayabachō",
-    "zip": "103-0025",
-    "lat": 35.6792,
-    "lon": 139.779,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "27.83.68.134"
-  },
   "220.57.96.201": {
     "status": "success",
     "country": "Japan",
@@ -286,6 +270,22 @@
     "org": "Japan nation-wide Network of SOFTBANK Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "220.26.103.76"
+  },
+  "124.212.183.144": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "08",
+    "regionName": "Ibaraki",
+    "city": "Inashiki",
+    "zip": "300-0511",
+    "lat": 35.9591,
+    "lon": 140.3415,
+    "timezone": "Asia/Tokyo",
+    "isp": "DION (KDDI CORPORATION)",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "124.212.183.144"
   },
   "118.240.3.52": {
     "status": "success",
@@ -447,22 +447,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "114.201.13.246"
   },
-  "125.204.108.29": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "24",
-    "regionName": "Mie",
-    "city": "Ise",
-    "zip": "516-0021",
-    "lat": 34.4929,
-    "lon": 136.7059,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "NTT Communications Corporation",
-    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
-    "query": "125.204.108.29"
-  },
   "118.71.57.250": {
     "status": "success",
     "country": "Vietnam",
@@ -526,6 +510,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "121.181.197.225"
+  },
+  "45.80.187.100": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "SG",
+    "regionName": "Ho Chi Minh",
+    "city": "Ho Chi Minh City",
+    "zip": "700000",
+    "lat": 10.822,
+    "lon": 106.6257,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "isp": "PacketHub S.A.",
+    "org": "Packethub S.A",
+    "as": "AS136787 PacketHub S.A.",
+    "query": "45.80.187.100"
   },
   "78.29.43.182": {
     "status": "success",
