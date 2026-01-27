@@ -399,22 +399,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "220.118.140.30"
   },
-  "124.195.164.150": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "30",
-    "regionName": "Daejeon",
-    "city": "Daejeon",
-    "zip": "35242",
-    "lat": 36.3566,
-    "lon": 127.3849,
-    "timezone": "Asia/Seoul",
-    "isp": "CMB Daejeon Broadcasting Co, .Ltd",
-    "org": "Cmbi Netdj",
-    "as": "AS38684 CMB Daejeon Broadcasting Co,.Ltd",
-    "query": "124.195.164.150"
-  },
   "125.11.100.23": {
     "status": "success",
     "country": "Japan",
@@ -479,21 +463,21 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "211.210.49.180"
   },
-  "121.134.54.22": {
+  "220.86.41.55": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
     "region": "11",
     "regionName": "Seoul",
-    "city": "Gangnam-gu",
-    "zip": "061",
-    "lat": 37.5093,
-    "lon": 127.0465,
+    "city": "Gangseo-gu",
+    "zip": "077",
+    "lat": 37.5438,
+    "lon": 126.8538,
     "timezone": "Asia/Seoul",
     "isp": "Korea Telecom",
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
-    "query": "121.134.54.22"
+    "query": "220.86.41.55"
   },
   "211.217.217.150": {
     "status": "success",
@@ -574,22 +558,6 @@
     "org": "Korea Telecom",
     "as": "AS4766 Korea Telecom",
     "query": "221.145.64.185"
-  },
-  "90.189.196.154": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "NVS",
-    "regionName": "Novosibirsk Oblast",
-    "city": "Novosibirsk",
-    "zip": "630000",
-    "lat": 55.0226,
-    "lon": 82.9317,
-    "timezone": "Asia/Novosibirsk",
-    "isp": "Rostelecom networks",
-    "org": "OJSC Sibirtelecom",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "90.189.196.154"
   },
   "82.215.99.145": {
     "status": "success",
