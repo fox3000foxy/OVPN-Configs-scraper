@@ -175,22 +175,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "183.99.115.65"
   },
-  "153.218.43.203": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "05",
-    "regionName": "Akita",
-    "city": "Akita",
-    "zip": "010-0021",
-    "lat": 39.7046,
-    "lon": 140.1289,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "Open Computer Network",
-    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
-    "query": "153.218.43.203"
-  },
   "101.128.133.100": {
     "status": "success",
     "country": "Japan",
@@ -206,6 +190,22 @@
     "org": "Internet Initiative Japan Inc.",
     "as": "AS2497 Internet Initiative Japan Inc.",
     "query": "101.128.133.100"
+  },
+  "153.218.43.203": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "05",
+    "regionName": "Akita",
+    "city": "Akita",
+    "zip": "010-0021",
+    "lat": 39.7046,
+    "lon": 140.1289,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "Open Computer Network",
+    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
+    "query": "153.218.43.203"
   },
   "211.112.158.69": {
     "status": "success",
@@ -303,22 +303,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.50"
   },
-  "118.241.184.72": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Nukui",
-    "zip": "176-0021",
-    "lat": 35.7366,
-    "lon": 139.6335,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc.",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "118.241.184.72"
-  },
   "59.7.207.18": {
     "status": "success",
     "country": "South Korea",
@@ -335,21 +319,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "59.7.207.18"
   },
-  "122.103.113.207": {
+  "118.241.184.72": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
     "region": "13",
     "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0071",
-    "lat": 35.6837,
-    "lon": 139.6805,
+    "city": "Nukui",
+    "zip": "176-0021",
+    "lat": 35.7366,
+    "lon": 139.6335,
     "timezone": "Asia/Tokyo",
-    "isp": "ARTERIA Networks Corporation",
-    "org": "ARTERIA Networks Corporation",
-    "as": "AS2519 ARTERIA Networks Corporation",
-    "query": "122.103.113.207"
+    "isp": "Sony Network Communications Inc.",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "118.241.184.72"
   },
   "5.137.210.152": {
     "status": "success",
@@ -414,6 +398,22 @@
     "org": "Sony Network Communications Inc.",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "90.149.251.147"
+  },
+  "118.21.74.117": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Osaka",
+    "zip": "540-0002",
+    "lat": 34.6937,
+    "lon": 135.502,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "NTT Communications Corporation",
+    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
+    "query": "118.21.74.117"
   },
   "60.79.244.225": {
     "status": "success",
@@ -718,21 +718,5 @@
     "org": "OJSC Sibirtelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "176.49.173.21"
-  },
-  "5.143.110.140": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PRI",
-    "regionName": "Primorye",
-    "city": "Vladivostok",
-    "zip": "690001",
-    "lat": 43.1068,
-    "lon": 131.8692,
-    "timezone": "Asia/Vladivostok",
-    "isp": "PJSC Rostelecom Far East Region",
-    "org": "Rostelecom Nets",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "5.143.110.140"
   }
 }
