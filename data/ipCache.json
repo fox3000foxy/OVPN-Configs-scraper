@@ -575,22 +575,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "95.70.55.29"
   },
-  "103.120.201.220": {
-    "status": "success",
-    "country": "Bangladesh",
-    "countryCode": "BD",
-    "region": "B",
-    "regionName": "Chittagong",
-    "city": "Comilla",
-    "zip": "3500",
-    "lat": 23.3522,
-    "lon": 91.0593,
-    "timezone": "Asia/Dhaka",
-    "isp": "Carnival Internet",
-    "org": "",
-    "as": "AS63526 Systems Solutions & development Technologies Limited",
-    "query": "103.120.201.220"
-  },
   "188.232.231.247": {
     "status": "success",
     "country": "Russia",
@@ -606,6 +590,22 @@
     "org": "CJSC \"ER-Telecom Holding\" Omsk Branch",
     "as": "AS41843 JSC ER-Telecom Holding",
     "query": "188.232.231.247"
+  },
+  "103.120.201.220": {
+    "status": "success",
+    "country": "Bangladesh",
+    "countryCode": "BD",
+    "region": "B",
+    "regionName": "Chittagong",
+    "city": "Comilla",
+    "zip": "3500",
+    "lat": 23.3522,
+    "lon": 91.0593,
+    "timezone": "Asia/Dhaka",
+    "isp": "Carnival Internet",
+    "org": "",
+    "as": "AS63526 Systems Solutions & development Technologies Limited",
+    "query": "103.120.201.220"
   },
   "91.220.87.58": {
     "status": "success",
@@ -686,5 +686,21 @@
     "org": "",
     "as": "AS5089 Virgin Media Limited",
     "query": "80.3.208.251"
+  },
+  "5.143.98.46": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Vladivostok",
+    "zip": "690001",
+    "lat": 43.1068,
+    "lon": 131.8692,
+    "timezone": "Asia/Vladivostok",
+    "isp": "PJSC Rostelecom",
+    "org": "PJSC Rostelecom Far East Region",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "5.143.98.46"
   }
 }
