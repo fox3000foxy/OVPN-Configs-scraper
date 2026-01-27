@@ -431,6 +431,22 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "153.210.10.148"
   },
+  "176.193.230.49": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "MOW",
+    "regionName": "Moscow",
+    "city": "Moscow",
+    "zip": "127474",
+    "lat": 55.7487,
+    "lon": 37.6187,
+    "timezone": "Europe/Moscow",
+    "isp": "Net By Net Holding LLC",
+    "org": "Net By Net Holding LLC",
+    "as": "AS12714 PJSC MegaFon",
+    "query": "176.193.230.49"
+  },
   "106.168.67.207": {
     "status": "success",
     "country": "Japan",
@@ -494,6 +510,22 @@
     "org": "Infoline Ltd.",
     "as": "AS8416 InfoLada Ltd",
     "query": "178.163.69.1"
+  },
+  "124.195.164.150": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "30",
+    "regionName": "Daejeon",
+    "city": "Daejeon",
+    "zip": "35242",
+    "lat": 36.3566,
+    "lon": 127.3849,
+    "timezone": "Asia/Seoul",
+    "isp": "CMB Daejeon Broadcasting Co, .Ltd",
+    "org": "Cmbi Netdj",
+    "as": "AS38684 CMB Daejeon Broadcasting Co,.Ltd",
+    "query": "124.195.164.150"
   },
   "59.138.16.13": {
     "status": "success",
