@@ -287,6 +287,22 @@
     "as": "AS20001 Charter Communications Inc",
     "query": "104.172.238.112"
   },
+  "113.148.186.91": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "26",
+    "regionName": "Kyoto",
+    "city": "Uji",
+    "zip": "611-0041",
+    "lat": 34.8992,
+    "lon": 135.7859,
+    "timezone": "Asia/Tokyo",
+    "isp": "DION (KDDI CORPORATION)",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "113.148.186.91"
+  },
   "119.235.113.226": {
     "status": "success",
     "country": "Turkmenistan",
@@ -367,6 +383,22 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "106.136.145.112"
   },
+  "176.193.230.49": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "MOW",
+    "regionName": "Moscow",
+    "city": "Moscow",
+    "zip": "127474",
+    "lat": 55.7487,
+    "lon": 37.6187,
+    "timezone": "Europe/Moscow",
+    "isp": "Net By Net Holding LLC",
+    "org": "Net By Net Holding LLC",
+    "as": "AS12714 PJSC MegaFon",
+    "query": "176.193.230.49"
+  },
   "106.168.67.207": {
     "status": "success",
     "country": "Japan",
@@ -382,22 +414,6 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "106.168.67.207"
-  },
-  "58.123.224.213": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Anyang-si",
-    "zip": "139",
-    "lat": 37.4027,
-    "lon": 126.9257,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "SK Broadband Co Ltd",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "58.123.224.213"
   },
   "221.145.176.163": {
     "status": "success",
@@ -511,22 +527,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "222.227.165.89"
   },
-  "178.163.69.1": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "SAM",
-    "regionName": "Samara Oblast",
-    "city": "Tolyatti",
-    "zip": "445008",
-    "lat": 53.5323,
-    "lon": 49.3435,
-    "timezone": "Europe/Samara",
-    "isp": "Infoline networks",
-    "org": "Infoline Ltd.",
-    "as": "AS8416 InfoLada Ltd",
-    "query": "178.163.69.1"
-  },
   "211.210.49.180": {
     "status": "success",
     "country": "South Korea",
@@ -590,6 +590,22 @@
     "org": "Boranet",
     "as": "AS17598 LG HelloVision Corp.",
     "query": "61.41.230.185"
+  },
+  "178.163.69.1": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "SAM",
+    "regionName": "Samara Oblast",
+    "city": "Tolyatti",
+    "zip": "445008",
+    "lat": 53.5323,
+    "lon": 49.3435,
+    "timezone": "Europe/Samara",
+    "isp": "Infoline networks",
+    "org": "Infoline Ltd.",
+    "as": "AS8416 InfoLada Ltd",
+    "query": "178.163.69.1"
   },
   "221.145.64.185": {
     "status": "success",
