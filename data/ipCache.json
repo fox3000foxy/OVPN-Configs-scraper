@@ -1,4 +1,20 @@
 {
+  "66.42.62.241": {
+    "status": "success",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "region": "05",
+    "regionName": "South West",
+    "city": "Singapore",
+    "zip": "627753",
+    "lat": 1.32123,
+    "lon": 103.695,
+    "timezone": "Asia/Singapore",
+    "isp": "SGP VULTR",
+    "org": "",
+    "as": "AS20473 The Constant Company, LLC",
+    "query": "66.42.62.241"
+  },
   "219.100.37.101": {
     "status": "success",
     "country": "Japan",
@@ -255,21 +271,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "125.139.49.108"
   },
-  "104.172.238.112": {
+  "182.169.54.9": {
     "status": "success",
-    "country": "United States",
-    "countryCode": "US",
-    "region": "CA",
-    "regionName": "California",
-    "city": "Los Angeles",
-    "zip": "90016",
-    "lat": 34.0337,
-    "lon": -118.3509,
-    "timezone": "America/Los_Angeles",
-    "isp": "Charter Communications",
-    "org": "Spectrum",
-    "as": "AS20001 Charter Communications Inc",
-    "query": "104.172.238.112"
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tokyo",
+    "zip": "151-0071",
+    "lat": 35.6837,
+    "lon": 139.6805,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "182.169.54.9"
   },
   "220.102.233.254": {
     "status": "success",
@@ -479,21 +495,21 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "211.210.49.180"
   },
-  "121.134.54.22": {
+  "220.86.41.55": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
     "region": "11",
     "regionName": "Seoul",
-    "city": "Gangnam-gu",
-    "zip": "061",
-    "lat": 37.5093,
-    "lon": 127.0465,
+    "city": "Gangseo-gu",
+    "zip": "077",
+    "lat": 37.5438,
+    "lon": 126.8538,
     "timezone": "Asia/Seoul",
     "isp": "Korea Telecom",
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
-    "query": "121.134.54.22"
+    "query": "220.86.41.55"
   },
   "37.110.83.193": {
     "status": "success",
