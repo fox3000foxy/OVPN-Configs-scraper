@@ -447,6 +447,22 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "178.34.136.197"
   },
+  "118.71.36.23": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "HN",
+    "regionName": "Hanoi",
+    "city": "Hanoi",
+    "zip": "",
+    "lat": 21.0278,
+    "lon": 105.834,
+    "timezone": "Asia/Bangkok",
+    "isp": "FPT Telecom Company",
+    "org": "FPTDYNAMICIP",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "118.71.36.23"
+  },
   "126.159.87.12": {
     "status": "success",
     "country": "Japan",
@@ -511,6 +527,22 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.232.152.53"
   },
+  "121.130.161.46": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Dongdaemun",
+    "zip": "025",
+    "lat": 37.5709,
+    "lon": 127.044,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "121.130.161.46"
+  },
   "180.64.122.35": {
     "status": "success",
     "country": "South Korea",
@@ -543,22 +575,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "221.164.120.204"
   },
-  "221.170.21.130": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Noborito",
-    "zip": "214-0011",
-    "lat": 35.6364,
-    "lon": 139.5465,
-    "timezone": "Asia/Tokyo",
-    "isp": "NEC BIGLOBE Ltd.",
-    "org": "BIGLOBE",
-    "as": "AS2518 BIGLOBE Inc.",
-    "query": "221.170.21.130"
-  },
   "118.86.155.227": {
     "status": "success",
     "country": "Japan",
@@ -574,6 +590,22 @@
     "org": "Jupiter Telecommunications Co., Ltd.",
     "as": "AS4721 JCOM Co., Ltd.",
     "query": "118.86.155.227"
+  },
+  "221.170.21.130": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Noborito",
+    "zip": "214-0011",
+    "lat": 35.6364,
+    "lon": 139.5465,
+    "timezone": "Asia/Tokyo",
+    "isp": "NEC BIGLOBE Ltd.",
+    "org": "BIGLOBE",
+    "as": "AS2518 BIGLOBE Inc.",
+    "query": "221.170.21.130"
   },
   "220.80.124.229": {
     "status": "success",
@@ -654,22 +686,6 @@
     "org": "SK Broadband Co Ltd",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.252.99.217"
-  },
-  "31.40.209.216": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KDA",
-    "regionName": "Krasnodar Krai",
-    "city": "Taman'",
-    "zip": "353555",
-    "lat": 45.212,
-    "lon": 36.7103,
-    "timezone": "Europe/Moscow",
-    "isp": "Miranda-Media Ltd",
-    "org": "Miranda-Media Ltd",
-    "as": "AS201776 Miranda-Media Ltd",
-    "query": "31.40.209.216"
   },
   "94.190.121.226": {
     "status": "success",
