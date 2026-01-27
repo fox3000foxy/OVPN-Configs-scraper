@@ -686,21 +686,5 @@
     "org": "",
     "as": "AS5089 Virgin Media Limited",
     "query": "80.3.208.251"
-  },
-  "5.143.98.46": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PRI",
-    "regionName": "Primorye",
-    "city": "Vladivostok",
-    "zip": "690001",
-    "lat": 43.1068,
-    "lon": 131.8692,
-    "timezone": "Asia/Vladivostok",
-    "isp": "PJSC Rostelecom",
-    "org": "PJSC Rostelecom Far East Region",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "5.143.98.46"
   }
 }
