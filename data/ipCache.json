@@ -670,5 +670,21 @@
     "org": "OJSC Sibirtelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "95.190.186.24"
+  },
+  "80.3.208.251": {
+    "status": "success",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "region": "ENG",
+    "regionName": "England",
+    "city": "Gateshead",
+    "zip": "NE9",
+    "lat": 54.9313,
+    "lon": -1.5855,
+    "timezone": "Europe/London",
+    "isp": "Virgin Media",
+    "org": "",
+    "as": "AS5089 Virgin Media Limited",
+    "query": "80.3.208.251"
   }
 }
