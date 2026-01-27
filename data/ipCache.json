@@ -367,22 +367,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "182.168.207.13"
   },
-  "103.152.178.62": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-0001",
-    "lat": 35.694,
-    "lon": 139.754,
-    "timezone": "Asia/Tokyo",
-    "isp": "Ayao Takata",
-    "org": "SDCC-East01",
-    "as": "AS38074 SDCC Japan-West Area",
-    "query": "103.152.178.62"
-  },
   "60.122.102.169": {
     "status": "success",
     "country": "Japan",
@@ -495,22 +479,6 @@
     "as": "AS17511 OPTAGE Inc.",
     "query": "119.231.28.172"
   },
-  "202.91.149.49": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "24",
-    "regionName": "Mie",
-    "city": "Matsusaka",
-    "zip": "515-0001",
-    "lat": 34.6003,
-    "lon": 136.5592,
-    "timezone": "Asia/Tokyo",
-    "isp": "Matsusaka CATV Station Co., Ltd.",
-    "org": "MCTV",
-    "as": "AS10019 Matsusaka Cable-TV Station Inc.",
-    "query": "202.91.149.49"
-  },
   "77.34.167.20": {
     "status": "success",
     "country": "Russia",
@@ -526,6 +494,22 @@
     "org": "",
     "as": "AS12389 PJSC Rostelecom",
     "query": "77.34.167.20"
+  },
+  "202.91.149.49": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "24",
+    "regionName": "Mie",
+    "city": "Matsusaka",
+    "zip": "515-0001",
+    "lat": 34.6003,
+    "lon": 136.5592,
+    "timezone": "Asia/Tokyo",
+    "isp": "Matsusaka CATV Station Co., Ltd.",
+    "org": "MCTV",
+    "as": "AS10019 Matsusaka Cable-TV Station Inc.",
+    "query": "202.91.149.49"
   },
   "211.177.129.51": {
     "status": "success",
@@ -670,6 +654,22 @@
     "org": "LLC \"KomTehCentr\"",
     "as": "AS12668 LLC \"KomTehCentr\"",
     "query": "94.31.224.105"
+  },
+  "212.164.24.82": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "OMS",
+    "regionName": "Omsk Oblast",
+    "city": "Omsk",
+    "zip": "644000",
+    "lat": 54.9896,
+    "lon": 73.3729,
+    "timezone": "Asia/Omsk",
+    "isp": "PJSC Rostelecom",
+    "org": "OJSC Sibirtelecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "212.164.24.82"
   },
   "49.161.255.175": {
     "status": "success",
