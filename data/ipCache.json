@@ -479,22 +479,6 @@
     "as": "AS9595 NTT-ME Corporation",
     "query": "115.65.166.243"
   },
-  "126.93.66.150": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "26",
-    "regionName": "Kyoto",
-    "city": "Kyōtango",
-    "zip": "624-0922",
-    "lat": 35.6062,
-    "lon": 135.044,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.93.66.150"
-  },
   "118.21.74.117": {
     "status": "success",
     "country": "Japan",
@@ -511,21 +495,21 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "118.21.74.117"
   },
-  "126.74.193.170": {
+  "60.80.243.29": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
+    "region": "08",
+    "regionName": "Ibaraki",
+    "city": "Koga",
+    "zip": "306-0016",
+    "lat": 36.1833,
+    "lon": 139.717,
     "timezone": "Asia/Tokyo",
     "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
     "as": "AS17676 SoftBank Corp.",
-    "query": "126.74.193.170"
+    "query": "60.80.243.29"
   },
   "221.164.117.21": {
     "status": "success",
@@ -559,21 +543,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "221.159.197.158"
   },
-  "175.201.195.240": {
+  "39.111.1.5": {
     "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "47",
-    "regionName": "Gyeongsangbuk-do",
-    "city": "Sangju",
-    "zip": "372",
-    "lat": 36.4169,
-    "lon": 128.1618,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "175.201.195.240"
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "12",
+    "regionName": "Chiba",
+    "city": "Chiba",
+    "zip": "260-0021",
+    "lat": 35.6029,
+    "lon": 140.1187,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "39.111.1.5"
   },
   "58.232.223.120": {
     "status": "success",
@@ -606,6 +590,22 @@
     "org": "",
     "as": "AS8369 Intersvyaz-2 JSC",
     "query": "37.140.24.30"
+  },
+  "119.171.136.236": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Yokohama",
+    "zip": "231-0841",
+    "lat": 35.4337,
+    "lon": 139.6499,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM Co., Ltd.",
+    "org": "JCOM Co., Ltd",
+    "as": "AS9824 JCOM Co., Ltd.",
+    "query": "119.171.136.236"
   },
   "58.226.80.192": {
     "status": "success",
@@ -782,5 +782,21 @@
     "org": "OJSC \"North-West Telecom\"",
     "as": "AS12389 PJSC Rostelecom",
     "query": "178.64.115.194"
+  },
+  "5.143.104.42": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Vladivostok",
+    "zip": "690001",
+    "lat": 43.1068,
+    "lon": 131.8692,
+    "timezone": "Asia/Vladivostok",
+    "isp": "PJSC Rostelecom Far East Region",
+    "org": "Rostelecom Nets",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "5.143.104.42"
   }
 }
