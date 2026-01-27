@@ -271,22 +271,6 @@
     "as": "AS20001 Charter Communications Inc",
     "query": "104.172.238.112"
   },
-  "119.235.113.226": {
-    "status": "success",
-    "country": "Turkmenistan",
-    "countryCode": "TM",
-    "region": "S",
-    "regionName": "Ashgabat",
-    "city": "Ashgabat",
-    "zip": "",
-    "lat": 37.9601,
-    "lon": 58.3261,
-    "timezone": "Asia/Ashgabat",
-    "isp": "State Company of Electro Communications Turkmentelecom",
-    "org": "State Company of Electro Communications Turkmentelecom",
-    "as": "AS20661 State Company of Electro Communications Turkmentelecom",
-    "query": "119.235.113.226"
-  },
   "220.102.233.254": {
     "status": "success",
     "country": "Japan",
@@ -302,6 +286,22 @@
     "org": "BIGLOBE",
     "as": "AS2518 BIGLOBE Inc.",
     "query": "220.102.233.254"
+  },
+  "119.235.113.226": {
+    "status": "success",
+    "country": "Turkmenistan",
+    "countryCode": "TM",
+    "region": "S",
+    "regionName": "Ashgabat",
+    "city": "Ashgabat",
+    "zip": "",
+    "lat": 37.9601,
+    "lon": 58.3261,
+    "timezone": "Asia/Ashgabat",
+    "isp": "State Company of Electro Communications Turkmentelecom",
+    "org": "State Company of Electro Communications Turkmentelecom",
+    "as": "AS20661 State Company of Electro Communications Turkmentelecom",
+    "query": "119.235.113.226"
   },
   "182.171.116.240": {
     "status": "success",
@@ -495,22 +495,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.134.54.22"
   },
-  "37.110.83.193": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "MOW",
-    "regionName": "Moscow",
-    "city": "Moscow",
-    "zip": "127474",
-    "lat": 55.7487,
-    "lon": 37.6187,
-    "timezone": "Europe/Moscow",
-    "isp": "NCNET",
-    "org": "",
-    "as": "AS42610 PJSC Rostelecom",
-    "query": "37.110.83.193"
-  },
   "211.217.217.150": {
     "status": "success",
     "country": "South Korea",
@@ -526,6 +510,22 @@
     "org": "Korea Telecom",
     "as": "AS4766 Korea Telecom",
     "query": "211.217.217.150"
+  },
+  "37.110.83.193": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "MOW",
+    "regionName": "Moscow",
+    "city": "Moscow",
+    "zip": "127474",
+    "lat": 55.7487,
+    "lon": 37.6187,
+    "timezone": "Europe/Moscow",
+    "isp": "NCNET",
+    "org": "",
+    "as": "AS42610 PJSC Rostelecom",
+    "query": "37.110.83.193"
   },
   "61.41.230.185": {
     "status": "success",
@@ -574,6 +574,22 @@
     "org": "Korea Telecom",
     "as": "AS4766 Korea Telecom",
     "query": "221.145.64.185"
+  },
+  "90.189.196.154": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "NVS",
+    "regionName": "Novosibirsk Oblast",
+    "city": "Novosibirsk",
+    "zip": "630000",
+    "lat": 55.0226,
+    "lon": 82.9317,
+    "timezone": "Asia/Novosibirsk",
+    "isp": "Rostelecom networks",
+    "org": "OJSC Sibirtelecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "90.189.196.154"
   },
   "82.215.99.145": {
     "status": "success",
