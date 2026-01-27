@@ -527,6 +527,22 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.26.195.172"
   },
+  "58.232.223.120": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "46",
+    "regionName": "Jeollanam-do",
+    "city": "Suncheon-si",
+    "zip": "57922",
+    "lat": 34.9716,
+    "lon": 127.461,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "58.232.223.120"
+  },
   "37.140.24.30": {
     "status": "success",
     "country": "Russia",
@@ -591,22 +607,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "176.49.161.173"
   },
-  "110.11.245.32": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Mapo-gu",
-    "zip": "039",
-    "lat": 37.5681,
-    "lon": 126.8998,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "SK Broadband Co Ltd",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "110.11.245.32"
-  },
   "115.20.191.50": {
     "status": "success",
     "country": "South Korea",
@@ -655,22 +655,6 @@
     "as": "AS3786 LG DACOM Corporation",
     "query": "112.218.21.132"
   },
-  "211.244.251.223": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Eunpyeong-gu",
-    "zip": "033",
-    "lat": 37.6053,
-    "lon": 126.9231,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "211.244.251.223"
-  },
   "197.49.230.95": {
     "status": "success",
     "country": "Egypt",
@@ -686,22 +670,6 @@
     "org": "",
     "as": "AS8452 TE-AS",
     "query": "197.49.230.95"
-  },
-  "117.220.144.29": {
-    "status": "success",
-    "country": "India",
-    "countryCode": "IN",
-    "region": "PB",
-    "regionName": "Punjab",
-    "city": "Sangrur",
-    "zip": "148001",
-    "lat": 30.2446,
-    "lon": 75.848,
-    "timezone": "Asia/Kolkata",
-    "isp": "BB-Multiplay-General",
-    "org": "BB Multiplay General",
-    "as": "AS9829 National Internet Backbone",
-    "query": "117.220.144.29"
   },
   "94.41.132.73": {
     "status": "success",
@@ -751,22 +719,6 @@
     "as": "AS42038 Krivets Sergey Sergeevich",
     "query": "109.126.58.68"
   },
-  "178.64.115.194": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KYA",
-    "regionName": "Krasnoyarsk Krai",
-    "city": "Krasnoyarsk",
-    "zip": "660049",
-    "lat": 56.0374,
-    "lon": 92.9314,
-    "timezone": "Asia/Krasnoyarsk",
-    "isp": "PJSC Rostelecom",
-    "org": "OJSC \"North-West Telecom\"",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "178.64.115.194"
-  },
   "94.245.128.71": {
     "status": "success",
     "country": "Russia",
@@ -798,6 +750,22 @@
     "org": "Rostelecom Nets",
     "as": "AS12389 PJSC Rostelecom",
     "query": "5.143.110.140"
+  },
+  "178.64.115.194": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KYA",
+    "regionName": "Krasnoyarsk Krai",
+    "city": "Krasnoyarsk",
+    "zip": "660049",
+    "lat": 56.0374,
+    "lon": 92.9314,
+    "timezone": "Asia/Krasnoyarsk",
+    "isp": "PJSC Rostelecom",
+    "org": "OJSC \"North-West Telecom\"",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "178.64.115.194"
   },
   "5.143.104.42": {
     "status": "success",
