@@ -415,6 +415,22 @@
     "as": "AS133481 AIS Fibre",
     "query": "184.82.88.132"
   },
+  "113.22.108.29": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "SG",
+    "regionName": "Ho Chi Minh",
+    "city": "Ho Chi Minh City",
+    "zip": "700000",
+    "lat": 10.822,
+    "lon": 106.6257,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "isp": "FPT Telecom Company",
+    "org": "Vietnam Internet Network Information Center",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "113.22.108.29"
+  },
   "5.35.54.110": {
     "status": "success",
     "country": "Russia",
@@ -702,5 +718,21 @@
     "org": "OJSC VolgaTelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "95.71.228.108"
+  },
+  "183.103.84.180": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Buk-gu",
+    "zip": "466",
+    "lat": 35.1996,
+    "lon": 128.9874,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "183.103.84.180"
   }
 }
