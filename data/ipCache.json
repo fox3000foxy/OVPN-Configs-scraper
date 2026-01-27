@@ -415,22 +415,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "59.146.35.86"
   },
-  "90.149.251.147": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "01",
-    "regionName": "Hokkaido",
-    "city": "Sapporo",
-    "zip": "065-0011",
-    "lat": 43.0763,
-    "lon": 141.3654,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "90.149.251.147"
-  },
   "202.148.240.143": {
     "status": "success",
     "country": "Japan",
@@ -447,21 +431,21 @@
     "as": "AS23788 JCOM Co., Ltd.",
     "query": "202.148.240.143"
   },
-  "203.175.32.228": {
+  "90.149.251.147": {
     "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "26",
-    "regionName": "Busan",
-    "city": "Seo-gu",
-    "zip": "492",
-    "lat": 35.1231,
-    "lon": 129.0184,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS17573 SK Broadband Co Ltd",
-    "query": "203.175.32.228"
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "01",
+    "regionName": "Hokkaido",
+    "city": "Sapporo",
+    "zip": "065-0011",
+    "lat": 43.0763,
+    "lon": 141.3654,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "90.149.251.147"
   },
   "58.235.123.214": {
     "status": "success",
@@ -591,22 +575,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "175.201.195.240"
   },
-  "126.26.195.172": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.26.195.172"
-  },
   "58.232.223.120": {
     "status": "success",
     "country": "South Korea",
@@ -654,6 +622,22 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "58.226.80.192"
+  },
+  "42.118.117.81": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "SG",
+    "regionName": "Ho Chi Minh",
+    "city": "Ho Chi Minh City",
+    "zip": "700000",
+    "lat": 10.822,
+    "lon": 106.6257,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "isp": "FPT Telecom Company",
+    "org": "FPTDYNAMICIP",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "42.118.117.81"
   },
   "94.51.9.32": {
     "status": "success",
@@ -782,5 +766,21 @@
     "org": "Rostelecom Nets",
     "as": "AS12389 PJSC Rostelecom",
     "query": "5.143.110.140"
+  },
+  "178.64.115.194": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KYA",
+    "regionName": "Krasnoyarsk Krai",
+    "city": "Krasnoyarsk",
+    "zip": "660049",
+    "lat": 56.0374,
+    "lon": 92.9314,
+    "timezone": "Asia/Krasnoyarsk",
+    "isp": "PJSC Rostelecom",
+    "org": "OJSC \"North-West Telecom\"",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "178.64.115.194"
   }
 }
