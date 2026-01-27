@@ -287,22 +287,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.171.190.235"
   },
-  "75.76.243.108": {
-    "status": "success",
-    "country": "United States",
-    "countryCode": "US",
-    "region": "OH",
-    "regionName": "Ohio",
-    "city": "Columbus",
-    "zip": "43081",
-    "lat": 40.1149,
-    "lon": -82.9054,
-    "timezone": "America/New_York",
-    "isp": "Breezeline",
-    "org": "Breezeline",
-    "as": "AS11776 Breezeline",
-    "query": "75.76.243.108"
-  },
   "103.152.178.62": {
     "status": "success",
     "country": "Japan",
@@ -574,22 +558,6 @@
     "org": "SK Broadband Co Ltd",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "211.202.214.160"
-  },
-  "59.16.137.225": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Gimpo-si",
-    "zip": "100",
-    "lat": 37.7542,
-    "lon": 126.557,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "59.16.137.225"
   },
   "5.143.99.194": {
     "status": "success",
