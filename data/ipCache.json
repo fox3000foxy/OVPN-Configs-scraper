@@ -239,22 +239,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.50"
   },
-  "221.118.47.135": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "01",
-    "regionName": "Hokkaido",
-    "city": "Miyoshichō",
-    "zip": "090-0061",
-    "lat": 43.8243,
-    "lon": 143.903,
-    "timezone": "Asia/Tokyo",
-    "isp": "AITAI",
-    "org": "AITAI-NET(Himawari Network Inc.)",
-    "as": "AS9354 Community Network Center Inc.",
-    "query": "221.118.47.135"
-  },
   "220.57.96.201": {
     "status": "success",
     "country": "Japan",
@@ -287,6 +271,22 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.241.23.14"
   },
+  "87.103.208.169": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KEM",
+    "regionName": "Kemerovo Oblast",
+    "city": "Novokuznetsk",
+    "zip": "654014",
+    "lat": 53.7575,
+    "lon": 87.136,
+    "timezone": "Asia/Novokuznetsk",
+    "isp": "Kuzbass Network",
+    "org": "OJSC Rostelecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "87.103.208.169"
+  },
   "124.212.183.144": {
     "status": "success",
     "country": "Japan",
@@ -302,22 +302,6 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "124.212.183.144"
-  },
-  "118.240.3.52": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "12",
-    "regionName": "Chiba",
-    "city": "Ichikawa",
-    "zip": "272-0811",
-    "lat": 35.7203,
-    "lon": 139.947,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "118.240.3.52"
   },
   "1.240.128.118": {
     "status": "success",
@@ -462,6 +446,22 @@
     "org": "Japan Nation-wide Network of Softbank Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "60.73.214.202"
+  },
+  "119.47.102.55": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "33",
+    "regionName": "Okayama",
+    "city": "Okayama",
+    "zip": "700-0831",
+    "lat": 34.6591,
+    "lon": 133.9337,
+    "timezone": "Asia/Tokyo",
+    "isp": "Okayama Network Inc.",
+    "org": "Okayama Network Inc.",
+    "as": "AS18129 OKAYAMA NETWORK INC.",
+    "query": "119.47.102.55"
   },
   "95.53.232.230": {
     "status": "success",
@@ -622,6 +622,22 @@
     "org": "Vladivostokskaya Set LTD",
     "as": "AS42038 Krivets Sergey Sergeevich",
     "query": "109.126.5.40"
+  },
+  "95.190.186.24": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KEM",
+    "regionName": "Kemerovo Oblast",
+    "city": "Berëzovskiy",
+    "zip": "",
+    "lat": 55.6695,
+    "lon": 86.2749,
+    "timezone": "Asia/Novokuznetsk",
+    "isp": "Rostelecom networks",
+    "org": "OJSC Sibirtelecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "95.190.186.24"
   },
   "80.3.208.251": {
     "status": "success",
