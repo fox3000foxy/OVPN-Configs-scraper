@@ -143,6 +143,22 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "118.237.134.168"
   },
+  "118.33.153.180": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Guri-si",
+    "zip": "11927",
+    "lat": 37.5945,
+    "lon": 127.1321,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "118.33.153.180"
+  },
   "60.108.146.236": {
     "status": "success",
     "country": "Japan",
@@ -430,22 +446,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "59.10.11.241"
-  },
-  "222.109.180.8": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Seongdong-gu",
-    "zip": "047",
-    "lat": 37.5511,
-    "lon": 127.0387,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Sudogwonseobubonbu",
-    "as": "AS4766 Korea Telecom",
-    "query": "222.109.180.8"
   },
   "221.164.120.204": {
     "status": "success",
