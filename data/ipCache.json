@@ -606,21 +606,5 @@
     "org": "",
     "as": "AS57164 Viacheslav Fitiunin",
     "query": "151.0.18.120"
-  },
-  "2.61.191.139": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KK",
-    "regionName": "Khakasiya Republic",
-    "city": "Chernogorsk",
-    "zip": "655138",
-    "lat": 53.8288,
-    "lon": 91.3095,
-    "timezone": "Asia/Krasnoyarsk",
-    "isp": "Rostelecom networks",
-    "org": "OJSC Sibirtelecom",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "2.61.191.139"
   }
 }
