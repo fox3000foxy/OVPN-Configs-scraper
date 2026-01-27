@@ -303,6 +303,22 @@
     "as": "AS20661 State Company of Electro Communications Turkmentelecom",
     "query": "119.235.113.226"
   },
+  "220.102.233.254": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "12",
+    "regionName": "Chiba",
+    "city": "Nagareyama",
+    "zip": "270-0151",
+    "lat": 35.8566,
+    "lon": 139.9185,
+    "timezone": "Asia/Tokyo",
+    "isp": "NEC BIGLOBE Ltd.",
+    "org": "BIGLOBE",
+    "as": "AS2518 BIGLOBE Inc.",
+    "query": "220.102.233.254"
+  },
   "182.171.116.240": {
     "status": "success",
     "country": "Japan",
@@ -334,22 +350,6 @@
     "org": "",
     "as": "AS44724 Octopusnet LTD",
     "query": "95.154.89.139"
-  },
-  "101.1.240.208": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "36",
-    "regionName": "Tokushima",
-    "city": "Tokushima",
-    "zip": "770-0811",
-    "lat": 34.0714,
-    "lon": 134.573,
-    "timezone": "Asia/Tokyo",
-    "isp": "STNet, Incorporated",
-    "org": "STNet, Incorporated",
-    "as": "AS7522 STNet, Incorporated",
-    "query": "101.1.240.208"
   },
   "176.193.230.49": {
     "status": "success",
