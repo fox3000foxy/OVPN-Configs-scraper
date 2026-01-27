@@ -271,6 +271,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.102"
   },
+  "185.124.155.182": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "NVS",
+    "regionName": "Novosibirsk Oblast",
+    "city": "Novosibirsk",
+    "zip": "",
+    "lat": 54.9833,
+    "lon": 82.8964,
+    "timezone": "Asia/Novosibirsk",
+    "isp": "KrasPromStroy, LLC",
+    "org": "",
+    "as": "AS12737 KrasPromStroy, LLC",
+    "query": "185.124.155.182"
+  },
   "219.100.37.50": {
     "status": "success",
     "country": "Japan",
@@ -639,22 +655,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "176.49.161.173"
   },
-  "115.20.191.50": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Nowon-gu",
-    "zip": "018",
-    "lat": 37.6289,
-    "lon": 127.0648,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "115.20.191.50"
-  },
   "211.205.218.20": {
     "status": "success",
     "country": "South Korea",
@@ -783,22 +783,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "95.70.32.205"
   },
-  "94.245.128.71": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "SA",
-    "regionName": "Sakha",
-    "city": "Yakutsk",
-    "zip": "677000",
-    "lat": 62.0313,
-    "lon": 129.7325,
-    "timezone": "Asia/Yakutsk",
-    "isp": "Sakhatelecom",
-    "org": "",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "94.245.128.71"
-  },
   "5.143.110.140": {
     "status": "success",
     "country": "Russia",
@@ -814,21 +798,5 @@
     "org": "Rostelecom Nets",
     "as": "AS12389 PJSC Rostelecom",
     "query": "5.143.110.140"
-  },
-  "178.64.115.194": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KYA",
-    "regionName": "Krasnoyarsk Krai",
-    "city": "Krasnoyarsk",
-    "zip": "660049",
-    "lat": 56.0374,
-    "lon": 92.9314,
-    "timezone": "Asia/Krasnoyarsk",
-    "isp": "PJSC Rostelecom",
-    "org": "OJSC \"North-West Telecom\"",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "178.64.115.194"
   }
 }
