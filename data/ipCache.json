@@ -175,22 +175,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.1.42.49"
   },
-  "59.139.128.191": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "02",
-    "regionName": "Aomori",
-    "city": "Kuroishi",
-    "zip": "036-0351",
-    "lat": 40.6485,
-    "lon": 140.5872,
-    "timezone": "Asia/Tokyo",
-    "isp": "DION (KDDI CORPORATION)",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "59.139.128.191"
-  },
   "218.145.181.197": {
     "status": "success",
     "country": "South Korea",
@@ -207,22 +191,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "218.145.181.197"
   },
-  "180.68.118.32": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "26",
-    "regionName": "Busan",
-    "city": "Busan",
-    "zip": "462",
-    "lat": 35.2582,
-    "lon": 129.0948,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "180.68.118.32"
-  },
   "211.221.198.244": {
     "status": "success",
     "country": "South Korea",
@@ -238,6 +206,22 @@
     "org": "sudogwonseobubonbu",
     "as": "AS4766 Korea Telecom",
     "query": "211.221.198.244"
+  },
+  "180.68.118.32": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Busan",
+    "zip": "462",
+    "lat": 35.2582,
+    "lon": 129.0948,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "180.68.118.32"
   },
   "211.185.142.92": {
     "status": "success",
@@ -334,6 +318,22 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "114.206.223.158"
+  },
+  "125.199.40.49": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tokyo",
+    "zip": "151-0071",
+    "lat": 35.6837,
+    "lon": 139.6805,
+    "timezone": "Asia/Tokyo",
+    "isp": "NEC BIGLOBE Ltd.",
+    "org": "BIGLOBE",
+    "as": "AS2518 BIGLOBE Inc.",
+    "query": "125.199.40.49"
   },
   "49.49.199.103": {
     "status": "success",
@@ -511,22 +511,6 @@
     "as": "AS18403 FPT Telecom Company",
     "query": "118.69.85.114"
   },
-  "180.198.178.2": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "23",
-    "regionName": "Aichi",
-    "city": "Ichinomiya",
-    "zip": "491-0351",
-    "lat": 35.3055,
-    "lon": 136.8131,
-    "timezone": "Asia/Tokyo",
-    "isp": "Chubu Telecommunications Company, Inc.",
-    "org": "Chubu Telecommunications Co., Inc.",
-    "as": "AS18126 Chubu Telecommunications Company, Inc.",
-    "query": "180.198.178.2"
-  },
   "180.64.122.35": {
     "status": "success",
     "country": "South Korea",
@@ -574,6 +558,22 @@
     "org": "BIGLOBE",
     "as": "AS2518 BIGLOBE Inc.",
     "query": "221.170.21.130"
+  },
+  "118.86.155.227": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "12",
+    "regionName": "Chiba",
+    "city": "Nagareyama",
+    "zip": "270-0161",
+    "lat": 35.8373,
+    "lon": 139.9138,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM",
+    "org": "Jupiter Telecommunications Co., Ltd.",
+    "as": "AS4721 JCOM Co., Ltd.",
+    "query": "118.86.155.227"
   },
   "220.80.124.229": {
     "status": "success",
@@ -655,6 +655,22 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "39.114.102.23"
   },
+  "211.218.238.66": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Seocho-gu",
+    "zip": "066",
+    "lat": 37.4906,
+    "lon": 127.0168,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "KORNET",
+    "as": "AS4766 Korea Telecom",
+    "query": "211.218.238.66"
+  },
   "94.245.150.104": {
     "status": "success",
     "country": "Russia",
@@ -670,6 +686,22 @@
     "org": "",
     "as": "AS12389 PJSC Rostelecom",
     "query": "94.245.150.104"
+  },
+  "94.190.121.226": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "SVE",
+    "regionName": "Sverdlovsk Oblast",
+    "city": "Pervouralsk",
+    "zip": "623109",
+    "lat": 56.9045,
+    "lon": 59.9367,
+    "timezone": "Asia/Yekaterinburg",
+    "isp": "VPN (PPTP) and non-VPN customers Lesnoy Sverdlovsk reg. Interra Ltd.",
+    "org": "\"Interra\" Ltd.",
+    "as": "AS48524 INTERRA telecommunications group, Ltd.",
+    "query": "94.190.121.226"
   },
   "31.40.209.216": {
     "status": "success",
