@@ -223,6 +223,22 @@
     "as": "AS9354 Community Network Center Inc.",
     "query": "221.118.47.135"
   },
+  "222.4.112.69": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "34",
+    "regionName": "Hiroshima",
+    "city": "Fukuyama",
+    "zip": "720-0841",
+    "lat": 34.4804,
+    "lon": 133.3716,
+    "timezone": "Asia/Tokyo",
+    "isp": "DION (KDDI CORPORATION)",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "222.4.112.69"
+  },
   "220.57.96.201": {
     "status": "success",
     "country": "Japan",
@@ -238,22 +254,6 @@
     "org": "Japan nation-wide Network of SOFTBANK Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "220.57.96.201"
-  },
-  "119.173.41.25": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Komone",
-    "zip": "173-0031",
-    "lat": 35.7458,
-    "lon": 139.6911,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM Co., Ltd.",
-    "org": "JCOM Co., Ltd",
-    "as": "AS9824 JCOM Co., Ltd.",
-    "query": "119.173.41.25"
   },
   "220.26.103.76": {
     "status": "success",
@@ -415,6 +415,22 @@
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "119.175.4.233"
   },
+  "116.126.61.163": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Yongin-si",
+    "zip": "16940",
+    "lat": 37.298,
+    "lon": 127.0777,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "116.126.61.163"
+  },
   "59.10.11.241": {
     "status": "success",
     "country": "South Korea",
@@ -479,22 +495,6 @@
     "as": "AS41843 JSC ER-Telecom Holding",
     "query": "188.232.231.247"
   },
-  "184.22.115.122": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "40",
-    "regionName": "Khon Kaen",
-    "city": "Khon Kaen",
-    "zip": "40160",
-    "lat": 16.4467,
-    "lon": 102.833,
-    "timezone": "Asia/Bangkok",
-    "isp": "AIS-Fibre",
-    "org": "",
-    "as": "AS133481 AIS Fibre",
-    "query": "184.22.115.122"
-  },
   "121.181.197.225": {
     "status": "success",
     "country": "South Korea",
@@ -543,22 +543,6 @@
     "as": "AS8369 Intersvyaz-2 JSC",
     "query": "78.29.43.182"
   },
-  "126.221.40.75": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.221.40.75"
-  },
   "95.70.55.29": {
     "status": "success",
     "country": "Russia",
@@ -606,5 +590,21 @@
     "org": "",
     "as": "AS57164 Viacheslav Fitiunin",
     "query": "151.0.18.120"
+  },
+  "2.61.191.139": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KK",
+    "regionName": "Khakasiya Republic",
+    "city": "Chernogorsk",
+    "zip": "655138",
+    "lat": 53.8288,
+    "lon": 91.3095,
+    "timezone": "Asia/Krasnoyarsk",
+    "isp": "Rostelecom networks",
+    "org": "OJSC Sibirtelecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "2.61.191.139"
   }
 }
