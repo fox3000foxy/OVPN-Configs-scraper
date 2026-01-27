@@ -319,22 +319,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "182.171.116.240"
   },
-  "61.47.212.110": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "28",
-    "regionName": "Incheon",
-    "city": "Incheon",
-    "zip": "223",
-    "lat": 37.4667,
-    "lon": 126.622,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "TBROAD SaeromNamdongSeohae",
-    "as": "AS17597 SK Broadband Co Ltd",
-    "query": "61.47.212.110"
-  },
   "95.154.89.139": {
     "status": "success",
     "country": "Russia",
@@ -350,6 +334,22 @@
     "org": "",
     "as": "AS44724 Octopusnet LTD",
     "query": "95.154.89.139"
+  },
+  "1.177.124.54": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Busan",
+    "zip": "472",
+    "lat": 35.1659,
+    "lon": 129.0542,
+    "timezone": "Asia/Seoul",
+    "isp": "LG HelloVision Corp.",
+    "org": "CJ Hellovision",
+    "as": "AS9845 LG HelloVision Corp.",
+    "query": "1.177.124.54"
   },
   "60.145.145.27": {
     "status": "success",
