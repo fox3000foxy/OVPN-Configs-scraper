@@ -495,21 +495,21 @@
     "as": "AS133481 AIS Fibre",
     "query": "184.82.158.40"
   },
-  "218.157.88.247": {
+  "95.53.232.230": {
     "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "29",
-    "regionName": "Gwangju",
-    "city": "Buk-gu",
-    "zip": "612",
-    "lat": 35.1571,
-    "lon": 126.8997,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "KORNET",
-    "as": "AS4766 Korea Telecom",
-    "query": "218.157.88.247"
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "VLG",
+    "regionName": "Vologda Oblast",
+    "city": "Gryazovets",
+    "zip": "162001",
+    "lat": 58.8819,
+    "lon": 40.2456,
+    "timezone": "Europe/Moscow",
+    "isp": "Rostelecom networks",
+    "org": "OJSC North-West Telecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "95.53.232.230"
   },
   "175.194.115.126": {
     "status": "success",
