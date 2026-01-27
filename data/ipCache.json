@@ -271,22 +271,6 @@
     "as": "AS20001 Charter Communications Inc",
     "query": "104.172.238.112"
   },
-  "113.148.186.91": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "26",
-    "regionName": "Kyoto",
-    "city": "Uji",
-    "zip": "611-0041",
-    "lat": 34.8992,
-    "lon": 135.7859,
-    "timezone": "Asia/Tokyo",
-    "isp": "DION (KDDI CORPORATION)",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "113.148.186.91"
-  },
   "119.235.113.226": {
     "status": "success",
     "country": "Turkmenistan",
@@ -350,22 +334,6 @@
     "org": "",
     "as": "AS44724 Octopusnet LTD",
     "query": "95.154.89.139"
-  },
-  "176.193.230.49": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "MOW",
-    "regionName": "Moscow",
-    "city": "Moscow",
-    "zip": "127474",
-    "lat": 55.7487,
-    "lon": 37.6187,
-    "timezone": "Europe/Moscow",
-    "isp": "Net By Net Holding LLC",
-    "org": "Net By Net Holding LLC",
-    "as": "AS12714 PJSC MegaFon",
-    "query": "176.193.230.49"
   },
   "60.145.145.27": {
     "status": "success",
@@ -606,22 +574,6 @@
     "org": "Korea Telecom",
     "as": "AS4766 Korea Telecom",
     "query": "221.145.64.185"
-  },
-  "212.164.38.239": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "NVS",
-    "regionName": "Novosibirsk Oblast",
-    "city": "Novosibirsk",
-    "zip": "630000",
-    "lat": 55.0226,
-    "lon": 82.9317,
-    "timezone": "Asia/Novosibirsk",
-    "isp": "Rostelecom networks",
-    "org": "OJSC Sibirtelecom",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "212.164.38.239"
   },
   "82.215.99.145": {
     "status": "success",
