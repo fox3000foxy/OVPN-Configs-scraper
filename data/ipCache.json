@@ -191,22 +191,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "118.237.134.168"
   },
-  "118.33.153.180": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Guri-si",
-    "zip": "11927",
-    "lat": 37.5945,
-    "lon": 127.1321,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "118.33.153.180"
-  },
   "60.108.146.236": {
     "status": "success",
     "country": "Japan",
@@ -222,6 +206,22 @@
     "org": "Japan Nation-wide Network of Softbank Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "60.108.146.236"
+  },
+  "118.33.153.180": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Guri-si",
+    "zip": "11927",
+    "lat": 37.5945,
+    "lon": 127.1321,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "118.33.153.180"
   },
   "219.100.37.50": {
     "status": "success",
@@ -351,6 +351,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "221.157.130.155"
   },
+  "95.170.177.6": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KYA",
+    "regionName": "Krasnoyarsk Krai",
+    "city": "Krasnoyarsk",
+    "zip": "660049",
+    "lat": 56.0374,
+    "lon": 92.9314,
+    "timezone": "Asia/Krasnoyarsk",
+    "isp": "Axioma, LLC",
+    "org": "Axioma, LLC",
+    "as": "AS39785 Axioma, LLC",
+    "query": "95.170.177.6"
+  },
   "112.184.70.55": {
     "status": "success",
     "country": "South Korea",
@@ -398,6 +414,22 @@
     "org": "Sudogwonseobubonbu",
     "as": "AS4766 Korea Telecom",
     "query": "222.109.180.8"
+  },
+  "217.29.181.61": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "UD",
+    "regionName": "Udmurtiya Republic",
+    "city": "Izhevsk",
+    "zip": "426006",
+    "lat": 56.85,
+    "lon": 53.2025,
+    "timezone": "Europe/Samara",
+    "isp": "MARK-ITT",
+    "org": "",
+    "as": "AS3226 OOO \"NI\"",
+    "query": "217.29.181.61"
   },
   "184.22.10.76": {
     "status": "success",
@@ -495,22 +527,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "95.70.55.29"
   },
-  "115.136.105.76": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "43",
-    "regionName": "North Chungcheong",
-    "city": "Chungju",
-    "zip": "273",
-    "lat": 36.977,
-    "lon": 127.926,
-    "timezone": "Asia/Seoul",
-    "isp": "LG POWERCOMM",
-    "org": "Xpeed",
-    "as": "AS17858 LG POWERCOMM",
-    "query": "115.136.105.76"
-  },
   "188.232.231.247": {
     "status": "success",
     "country": "Russia",
@@ -607,22 +623,6 @@
     "as": "AS42038 Krivets Sergey Sergeevich",
     "query": "109.126.5.40"
   },
-  "31.130.198.167": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "SVE",
-    "regionName": "Sverdlovsk Oblast",
-    "city": "Pervouralsk",
-    "zip": "623109",
-    "lat": 56.9045,
-    "lon": 59.9367,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "OOO Garant",
-    "org": "Garant",
-    "as": "AS57123 OOO Garant",
-    "query": "31.130.198.167"
-  },
   "80.3.208.251": {
     "status": "success",
     "country": "United Kingdom",
@@ -638,5 +638,37 @@
     "org": "",
     "as": "AS5089 Virgin Media Limited",
     "query": "80.3.208.251"
+  },
+  "5.143.98.46": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Vladivostok",
+    "zip": "690001",
+    "lat": 43.1068,
+    "lon": 131.8692,
+    "timezone": "Asia/Vladivostok",
+    "isp": "PJSC Rostelecom",
+    "org": "PJSC Rostelecom Far East Region",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "5.143.98.46"
+  },
+  "60.114.212.188": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.114.212.188"
   }
 }
