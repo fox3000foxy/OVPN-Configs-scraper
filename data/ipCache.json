@@ -335,37 +335,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "220.76.63.6"
   },
-  "125.247.190.47": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Goyang-si",
-    "zip": "104",
-    "lat": 37.6392,
-    "lon": 126.8375,
-    "timezone": "Asia/Seoul",
-    "isp": "DACOM-PUBNETPLUS",
-    "org": "LG Uplus",
-    "as": "AS9316 DACOM-PUBNETPLUS",
-    "query": "125.247.190.47"
-  },
-  "126.79.216.134": {
+  "180.196.40.192": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "08",
-    "regionName": "Ibaraki",
-    "city": "Tsukuba",
-    "zip": "305-0811",
-    "lat": 36.0833,
-    "lon": 140.117,
+    "region": "22",
+    "regionName": "Shizuoka",
+    "city": "Shizuoka",
+    "zip": "420-0861",
+    "lat": 34.9882,
+    "lon": 138.3742,
     "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.79.216.134"
+    "isp": "Chubu Telecommunications Company, Inc.",
+    "org": "Chubu Telecommunications Co., Inc.",
+    "as": "AS18126 Chubu Telecommunications Company, Inc.",
+    "query": "180.196.40.192"
   },
   "49.228.97.132": {
     "status": "success",
@@ -463,6 +447,22 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "125.204.108.29"
   },
+  "125.247.190.47": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Goyang-si",
+    "zip": "104",
+    "lat": 37.6392,
+    "lon": 126.8375,
+    "timezone": "Asia/Seoul",
+    "isp": "DACOM-PUBNETPLUS",
+    "org": "LG Uplus",
+    "as": "AS9316 DACOM-PUBNETPLUS",
+    "query": "125.247.190.47"
+  },
   "175.135.210.151": {
     "status": "success",
     "country": "Japan",
@@ -494,6 +494,22 @@
     "org": "",
     "as": "AS18134 JCOM Co., Ltd.",
     "query": "219.100.26.85"
+  },
+  "42.118.125.22": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "SG",
+    "regionName": "Ho Chi Minh",
+    "city": "Ho Chi Minh City",
+    "zip": "700000",
+    "lat": 10.822,
+    "lon": 106.6257,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "isp": "FPT Telecom Company",
+    "org": "FPTDYNAMICIP",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "42.118.125.22"
   },
   "121.160.25.238": {
     "status": "success",
@@ -558,6 +574,22 @@
     "org": "LG POWERCOMM",
     "as": "AS17858 LG POWERCOMM",
     "query": "49.167.12.160"
+  },
+  "123.213.125.37": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Uijeongbu-si",
+    "zip": "118",
+    "lat": 37.7396,
+    "lon": 127.0539,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "SK Broadband Co Ltd",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "123.213.125.37"
   },
   "182.222.218.16": {
     "status": "success",
