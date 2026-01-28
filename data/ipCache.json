@@ -495,22 +495,6 @@
     "as": "AS10010 TOKAI Communications Corporation",
     "query": "182.20.96.41"
   },
-  "27.139.122.85": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Shinjuku",
-    "zip": "160-0021",
-    "lat": 35.6918,
-    "lon": 139.7002,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM Co., Ltd.",
-    "org": "Jupiter Telecommunication Co. Ltd",
-    "as": "AS9824 JCOM Co., Ltd.",
-    "query": "27.139.122.85"
-  },
   "182.253.212.121": {
     "status": "success",
     "country": "Indonesia",
@@ -559,6 +543,38 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.251.45.198"
   },
+  "113.153.86.227": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Suita",
+    "zip": "564-0021",
+    "lat": 34.7595,
+    "lon": 135.5329,
+    "timezone": "Asia/Tokyo",
+    "isp": "DION (KDDI CORPORATION)",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "113.153.86.227"
+  },
+  "58.70.127.223": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Osaka",
+    "zip": "530-0041",
+    "lat": 34.6967,
+    "lon": 135.5154,
+    "timezone": "Asia/Tokyo",
+    "isp": "OPTAGE Inc.",
+    "org": "OPTAGE Inc.",
+    "as": "AS17511 OPTAGE Inc.",
+    "query": "58.70.127.223"
+  },
   "212.164.38.237": {
     "status": "success",
     "country": "Russia",
@@ -574,22 +590,6 @@
     "org": "OJSC Sibirtelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "212.164.38.237"
-  },
-  "94.125.101.43": {
-    "status": "success",
-    "country": "Germany",
-    "countryCode": "DE",
-    "region": "HE",
-    "regionName": "Hesse",
-    "city": "Frankfurt Am Main",
-    "zip": "",
-    "lat": 50.1109,
-    "lon": 8.6821,
-    "timezone": "Europe/Berlin",
-    "isp": "Baykov Ilya Sergeevich",
-    "org": "\"Yug-Link\" Ltd",
-    "as": "AS41745 Baykov Ilya Sergeevich",
-    "query": "94.125.101.43"
   },
   "121.161.37.187": {
     "status": "success",
@@ -639,6 +639,22 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "211.204.251.153"
   },
+  "1.241.4.195": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Seoul",
+    "zip": "04625",
+    "lat": 37.5614,
+    "lon": 126.996,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "1.241.4.195"
+  },
   "77.35.249.88": {
     "status": "success",
     "country": "Russia",
@@ -654,37 +670,5 @@
     "org": "",
     "as": "AS12389 PJSC Rostelecom",
     "query": "77.35.249.88"
-  },
-  "188.132.184.249": {
-    "status": "success",
-    "country": "Türkiye",
-    "countryCode": "TR",
-    "region": "34",
-    "regionName": "Istanbul",
-    "city": "Istanbul",
-    "zip": "34080",
-    "lat": 41.0329,
-    "lon": 28.9529,
-    "timezone": "Europe/Istanbul",
-    "isp": "Ultahost, Inc.",
-    "org": "Ultahost Hosting VE Veri Merkezi Ltd. STI",
-    "as": "AS214036 Ultahost, Inc.",
-    "query": "188.132.184.249"
-  },
-  "1.52.244.85": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "SG",
-    "regionName": "Ho Chi Minh",
-    "city": "Ho Chi Minh City",
-    "zip": "700000",
-    "lat": 10.822,
-    "lon": 106.6257,
-    "timezone": "Asia/Ho_Chi_Minh",
-    "isp": "FPT Telecom Company",
-    "org": "Vietnam Internet Network Information Center",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "1.52.244.85"
   }
 }
