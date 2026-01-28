@@ -143,22 +143,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.113.239.82"
   },
-  "122.210.185.27": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Yokohama",
-    "zip": "231-0841",
-    "lat": 35.4337,
-    "lon": 139.6499,
-    "timezone": "Asia/Tokyo",
-    "isp": "ARTERIA Networks Corporation",
-    "org": "UCOM Corporation",
-    "as": "AS17506 ARTERIA Networks Corporation",
-    "query": "122.210.185.27"
-  },
   "131.147.142.132": {
     "status": "success",
     "country": "Japan",
@@ -174,6 +158,22 @@
     "org": "Sony Network Communications Inc.",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "131.147.142.132"
+  },
+  "122.210.185.27": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Yokohama",
+    "zip": "231-0841",
+    "lat": 35.4337,
+    "lon": 139.6499,
+    "timezone": "Asia/Tokyo",
+    "isp": "ARTERIA Networks Corporation",
+    "org": "UCOM Corporation",
+    "as": "AS17506 ARTERIA Networks Corporation",
+    "query": "122.210.185.27"
   },
   "118.240.68.160": {
     "status": "success",
@@ -766,5 +766,21 @@
     "org": "BAN-BAN Networks Co.LTD",
     "as": "AS7524 ITEC HANKYU HANSHIN CO.,LTD.",
     "query": "202.216.83.48"
+  },
+  "45.140.95.66": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KHA",
+    "regionName": "Khabarovsk",
+    "city": "Khabarovsk",
+    "zip": "680000",
+    "lat": 48.4817,
+    "lon": 135.083,
+    "timezone": "Asia/Vladivostok",
+    "isp": "JSC \"Redcom-lnternet\"",
+    "org": "Redcom Retail Services",
+    "as": "AS8749 JSC Redcom-lnternet",
+    "query": "45.140.95.66"
   }
 }
