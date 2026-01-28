@@ -303,22 +303,6 @@
     "as": "AS59127 Newmedia Corporation",
     "query": "61.44.175.142"
   },
-  "219.100.37.50": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftEther",
-    "org": "SoftEther Corporation",
-    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.50"
-  },
   "61.255.91.50": {
     "status": "success",
     "country": "South Korea",
@@ -495,6 +479,22 @@
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "27.139.98.101"
   },
+  "218.158.68.238": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "50",
+    "regionName": "Sejong-si",
+    "city": "Sejong",
+    "zip": "301",
+    "lat": 36.5916,
+    "lon": 127.2916,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Korea Telecom",
+    "as": "AS4766 Korea Telecom",
+    "query": "218.158.68.238"
+  },
   "175.177.49.119": {
     "status": "success",
     "country": "Japan",
@@ -574,6 +574,22 @@
     "org": "SK Broadband Co Ltd",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "58.125.209.98"
+  },
+  "81.177.60.0": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "STA",
+    "regionName": "Stavropol Kray",
+    "city": "Stavropol",
+    "zip": "355000",
+    "lat": 45.0424,
+    "lon": 41.9707,
+    "timezone": "Europe/Moscow",
+    "isp": "OOO Set network",
+    "org": "OOOSET",
+    "as": "AS48176 MTS PJSC",
+    "query": "81.177.60.0"
   },
   "221.140.133.139": {
     "status": "success",
