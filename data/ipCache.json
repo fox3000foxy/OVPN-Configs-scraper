@@ -159,6 +159,22 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "106.159.72.208"
   },
+  "182.169.54.9": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tokyo",
+    "zip": "151-0071",
+    "lat": 35.6837,
+    "lon": 139.6805,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "182.169.54.9"
+  },
   "221.147.114.46": {
     "status": "success",
     "country": "South Korea",
@@ -335,22 +351,6 @@
     "as": "AS9770 LG HelloVision Corp.",
     "query": "113.52.211.252"
   },
-  "182.169.54.9": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0071",
-    "lat": 35.6837,
-    "lon": 139.6805,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "182.169.54.9"
-  },
   "5.149.218.158": {
     "status": "success",
     "country": "Ukraine",
@@ -382,6 +382,22 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.50"
+  },
+  "73.197.44.96": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NJ",
+    "regionName": "New Jersey",
+    "city": "Plainfield",
+    "zip": "07060",
+    "lat": 40.6129,
+    "lon": -74.416,
+    "timezone": "America/New_York",
+    "isp": "Comcast Cable Communications, LLC",
+    "org": "Comcast IP Services, L.L.C.",
+    "as": "AS7922 Comcast Cable Communications, LLC",
+    "query": "73.197.44.96"
   },
   "95.31.42.25": {
     "status": "success",
@@ -495,6 +511,22 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.206.11.243"
   },
+  "119.170.133.181": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "40",
+    "regionName": "Fukuoka",
+    "city": "Kego",
+    "zip": "810-0021",
+    "lat": 33.5854,
+    "lon": 130.4018,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM Co., Ltd.",
+    "org": "JCOM Co., Ltd",
+    "as": "AS9824 JCOM Co., Ltd.",
+    "query": "119.170.133.181"
+  },
   "106.243.71.229": {
     "status": "success",
     "country": "South Korea",
@@ -510,6 +542,38 @@
     "org": "Boranet",
     "as": "AS3786 LG DACOM Corporation",
     "query": "106.243.71.229"
+  },
+  "219.99.243.172": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "23",
+    "regionName": "Aichi",
+    "city": "Anjo",
+    "zip": "446-0041",
+    "lat": 34.9596,
+    "lon": 137.0783,
+    "timezone": "Asia/Tokyo",
+    "isp": "KATCH Network Inc.",
+    "org": "KATCH",
+    "as": "AS59108 KATCH NETWORK INC.",
+    "query": "219.99.243.172"
+  },
+  "113.10.62.80": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Gangnam-gu",
+    "zip": "061",
+    "lat": 37.5093,
+    "lon": 127.0465,
+    "timezone": "Asia/Seoul",
+    "isp": "KangNam CableTV",
+    "org": "DLIVE Gangnam Cable TV",
+    "as": "AS9943 KangNam CableTV",
+    "query": "113.10.62.80"
   },
   "61.44.169.103": {
     "status": "success",
@@ -702,21 +766,5 @@
     "org": "PJSC Rostelecom Far East Region",
     "as": "AS12389 PJSC Rostelecom",
     "query": "5.143.97.7"
-  },
-  "175.130.73.32": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "10",
-    "regionName": "Gunma",
-    "city": "Isesaki",
-    "zip": "372-0811",
-    "lat": 36.3186,
-    "lon": 139.1895,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "175.130.73.32"
   }
 }
