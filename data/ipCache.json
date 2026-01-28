@@ -367,6 +367,22 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "36.13.6.150"
   },
+  "211.46.41.23": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Gwangjin-gu",
+    "zip": "049",
+    "lat": 37.547,
+    "lon": 127.0958,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Korea Telecom",
+    "as": "AS4766 Korea Telecom",
+    "query": "211.46.41.23"
+  },
   "133.149.90.83": {
     "status": "success",
     "country": "Japan",
@@ -479,22 +495,6 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "114.161.4.252"
   },
-  "113.154.223.222": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "11",
-    "regionName": "Saitama",
-    "city": "Koshigaya",
-    "zip": "343-0851",
-    "lat": 35.8895,
-    "lon": 139.7934,
-    "timezone": "Asia/Tokyo",
-    "isp": "DION (KDDI CORPORATION)",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "113.154.223.222"
-  },
   "92.203.159.128": {
     "status": "success",
     "country": "Japan",
@@ -510,6 +510,22 @@
     "org": "Sony Network Communications Inc.",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "92.203.159.128"
+  },
+  "113.154.223.222": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "11",
+    "regionName": "Saitama",
+    "city": "Koshigaya",
+    "zip": "343-0851",
+    "lat": 35.8895,
+    "lon": 139.7934,
+    "timezone": "Asia/Tokyo",
+    "isp": "DION (KDDI CORPORATION)",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "113.154.223.222"
   },
   "221.164.120.204": {
     "status": "success",
@@ -591,38 +607,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.251.45.198"
   },
-  "212.164.38.237": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "NVS",
-    "regionName": "Novosibirsk Oblast",
-    "city": "Novosibirsk",
-    "zip": "630000",
-    "lat": 55.0226,
-    "lon": 82.9317,
-    "timezone": "Asia/Novosibirsk",
-    "isp": "Rostelecom networks",
-    "org": "OJSC Sibirtelecom",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "212.164.38.237"
-  },
-  "58.236.216.134": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "28",
-    "regionName": "Incheon",
-    "city": "Incheon",
-    "zip": "220",
-    "lat": 37.4585,
-    "lon": 126.7015,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "58.236.216.134"
-  },
   "125.138.94.61": {
     "status": "success",
     "country": "South Korea",
@@ -638,6 +622,22 @@
     "org": "Korea Telecom",
     "as": "AS4766 Korea Telecom",
     "query": "125.138.94.61"
+  },
+  "95.190.186.24": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KEM",
+    "regionName": "Kemerovo Oblast",
+    "city": "Berëzovskiy",
+    "zip": "",
+    "lat": 55.6695,
+    "lon": 86.2749,
+    "timezone": "Asia/Novokuznetsk",
+    "isp": "Rostelecom networks",
+    "org": "OJSC Sibirtelecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "95.190.186.24"
   },
   "114.201.13.246": {
     "status": "success",
@@ -671,6 +671,22 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "39.118.87.231"
   },
+  "159.253.171.30": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KHA",
+    "regionName": "Khabarovsk",
+    "city": "Khabarovsk",
+    "zip": "680000",
+    "lat": 48.4817,
+    "lon": 135.083,
+    "timezone": "Asia/Vladivostok",
+    "isp": "JSC \"Redcom-lnternet\"",
+    "org": "JSC \"Redcom-lnternet\"",
+    "as": "AS8749 JSC Redcom-lnternet",
+    "query": "159.253.171.30"
+  },
   "77.35.249.88": {
     "status": "success",
     "country": "Russia",
@@ -686,5 +702,37 @@
     "org": "",
     "as": "AS12389 PJSC Rostelecom",
     "query": "77.35.249.88"
+  },
+  "188.132.184.249": {
+    "status": "success",
+    "country": "Türkiye",
+    "countryCode": "TR",
+    "region": "34",
+    "regionName": "Istanbul",
+    "city": "Istanbul",
+    "zip": "34080",
+    "lat": 41.0329,
+    "lon": 28.9529,
+    "timezone": "Europe/Istanbul",
+    "isp": "Ultahost, Inc.",
+    "org": "Ultahost Hosting VE Veri Merkezi Ltd. STI",
+    "as": "AS214036 Ultahost, Inc.",
+    "query": "188.132.184.249"
+  },
+  "1.52.244.85": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "SG",
+    "regionName": "Ho Chi Minh",
+    "city": "Ho Chi Minh City",
+    "zip": "700000",
+    "lat": 10.822,
+    "lon": 106.6257,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "isp": "FPT Telecom Company",
+    "org": "Vietnam Internet Network Information Center",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "1.52.244.85"
   }
 }
