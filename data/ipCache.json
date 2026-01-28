@@ -175,22 +175,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "182.169.54.9"
   },
-  "221.147.114.46": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Seoul",
-    "zip": "045",
-    "lat": 37.5656,
-    "lon": 126.978,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "221.147.114.46"
-  },
   "121.142.148.62": {
     "status": "success",
     "country": "South Korea",
@@ -222,6 +206,22 @@
     "org": "",
     "as": "AS18403 FPT Telecom Company",
     "query": "113.22.131.194"
+  },
+  "121.152.58.166": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "44",
+    "regionName": "Chungcheongnam-do",
+    "city": "Cheonan",
+    "zip": "310",
+    "lat": 36.8242,
+    "lon": 127.1293,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "121.152.58.166"
   },
   "124.144.23.224": {
     "status": "success",
@@ -479,22 +479,6 @@
     "as": "AS44724 Octopusnet LTD",
     "query": "95.154.89.139"
   },
-  "58.95.72.44": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "40",
-    "regionName": "Fukuoka",
-    "city": "Fukuoka",
-    "zip": "812-0011",
-    "lat": 33.5752,
-    "lon": 130.4198,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "NTT Communications Corporation",
-    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
-    "query": "58.95.72.44"
-  },
   "126.206.11.243": {
     "status": "success",
     "country": "Japan",
@@ -670,22 +654,6 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.238.83.71"
-  },
-  "61.11.207.28": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "05",
-    "regionName": "Akita",
-    "city": "Akita",
-    "zip": "010-0051",
-    "lat": 39.7046,
-    "lon": 140.1289,
-    "timezone": "Asia/Tokyo",
-    "isp": "Cable Networks Akita Co., ltd.",
-    "org": "Cable Networks Akita Co., Ltd.",
-    "as": "AS23783 Cable Networks Akita Co.,ltd.",
-    "query": "61.11.207.28"
   },
   "213.230.86.103": {
     "status": "success",
