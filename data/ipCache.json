@@ -335,22 +335,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "222.14.193.1"
   },
-  "90.150.249.120": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "TYU",
-    "regionName": "Tyumen Oblast",
-    "city": "Tyumen",
-    "zip": "625000",
-    "lat": 57.1533,
-    "lon": 65.5418,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "Rostelecom networks",
-    "org": "Dynamic distribution IPs for broadband services",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "90.150.249.120"
-  },
   "180.196.40.192": {
     "status": "success",
     "country": "Japan",
@@ -366,6 +350,22 @@
     "org": "Chubu Telecommunications Co., Inc.",
     "as": "AS18126 Chubu Telecommunications Company, Inc.",
     "query": "180.196.40.192"
+  },
+  "90.150.249.120": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "TYU",
+    "regionName": "Tyumen Oblast",
+    "city": "Tyumen",
+    "zip": "625000",
+    "lat": 57.1533,
+    "lon": 65.5418,
+    "timezone": "Asia/Yekaterinburg",
+    "isp": "Rostelecom networks",
+    "org": "Dynamic distribution IPs for broadband services",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "90.150.249.120"
   },
   "126.28.181.40": {
     "status": "success",
@@ -431,22 +431,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "106.150.72.118"
   },
-  "125.247.190.47": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Goyang-si",
-    "zip": "104",
-    "lat": 37.6392,
-    "lon": 126.8375,
-    "timezone": "Asia/Seoul",
-    "isp": "DACOM-PUBNETPLUS",
-    "org": "LG Uplus",
-    "as": "AS9316 DACOM-PUBNETPLUS",
-    "query": "125.247.190.47"
-  },
   "112.185.246.157": {
     "status": "success",
     "country": "South Korea",
@@ -462,6 +446,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "112.185.246.157"
+  },
+  "218.158.68.238": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "50",
+    "regionName": "Sejong-si",
+    "city": "Sejong",
+    "zip": "301",
+    "lat": 36.5916,
+    "lon": 127.2916,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Korea Telecom",
+    "as": "AS4766 Korea Telecom",
+    "query": "218.158.68.238"
   },
   "27.139.98.101": {
     "status": "success",
@@ -510,22 +510,6 @@
     "org": "",
     "as": "AS133481 AIS Fibre",
     "query": "49.228.50.122"
-  },
-  "61.77.87.231": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Gwangju",
-    "zip": "127",
-    "lat": 37.3661,
-    "lon": 127.2255,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "61.77.87.231"
   },
   "221.147.224.183": {
     "status": "success",
