@@ -111,6 +111,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.208"
   },
+  "153.206.173.142": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Yokohama",
+    "zip": "231-0841",
+    "lat": 35.4337,
+    "lon": 139.6499,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "Open Computer Network",
+    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
+    "query": "153.206.173.142"
+  },
   "133.218.27.146": {
     "status": "success",
     "country": "Japan",
@@ -126,22 +142,6 @@
     "org": "Rikei Corporation",
     "as": "AS2497 Internet Initiative Japan Inc.",
     "query": "133.218.27.146"
-  },
-  "218.145.181.197": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Gangnam-gu",
-    "zip": "060",
-    "lat": 37.5245,
-    "lon": 127.0354,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "218.145.181.197"
   },
   "183.176.178.218": {
     "status": "success",
@@ -447,22 +447,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "220.57.84.30"
   },
-  "153.209.166.46": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Yokohama",
-    "zip": "231-0841",
-    "lat": 35.4337,
-    "lon": 139.6499,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "Open Computer Network",
-    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
-    "query": "153.209.166.46"
-  },
   "119.231.28.172": {
     "status": "success",
     "country": "Japan",
@@ -575,22 +559,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "211.177.129.51"
   },
-  "125.133.161.106": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "28",
-    "regionName": "Incheon",
-    "city": "Incheon",
-    "zip": "220",
-    "lat": 37.4585,
-    "lon": 126.7015,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Korea Telecom",
-    "as": "AS4766 Korea Telecom",
-    "query": "125.133.161.106"
-  },
   "60.68.172.110": {
     "status": "success",
     "country": "Japan",
@@ -606,6 +574,22 @@
     "org": "Japan Nation-wide Network of Softbank Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "60.68.172.110"
+  },
+  "125.133.161.106": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "28",
+    "regionName": "Incheon",
+    "city": "Incheon",
+    "zip": "220",
+    "lat": 37.4585,
+    "lon": 126.7015,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Korea Telecom",
+    "as": "AS4766 Korea Telecom",
+    "query": "125.133.161.106"
   },
   "37.113.121.232": {
     "status": "success",
@@ -782,22 +766,6 @@
     "org": "JSC \"Redcom-lnternet\"",
     "as": "AS8749 JSC Redcom-lnternet",
     "query": "159.253.170.182"
-  },
-  "210.157.192.124": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "12",
-    "regionName": "Chiba",
-    "city": "Narashino",
-    "zip": "275-0013",
-    "lat": 35.6818,
-    "lon": 140.042,
-    "timezone": "Asia/Tokyo",
-    "isp": "Rakuten Mobile, Inc.",
-    "org": "RMN",
-    "as": "AS138384 Rakuten Mobile Network, Inc.",
-    "query": "210.157.192.124"
   },
   "85.173.127.107": {
     "status": "success",
