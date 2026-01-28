@@ -159,6 +159,22 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "111.238.189.171"
   },
+  "220.212.128.195": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "ULTINA",
+    "as": "AS4725 SoftBank Corp.",
+    "query": "220.212.128.195"
+  },
   "175.209.13.17": {
     "status": "success",
     "country": "South Korea",
@@ -415,22 +431,6 @@
     "as": "AS39785 Axioma, LLC",
     "query": "95.170.177.6"
   },
-  "112.184.70.55": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "45",
-    "regionName": "Jeollabuk-do",
-    "city": "Jeonju",
-    "zip": "549",
-    "lat": 35.8345,
-    "lon": 127.1057,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Korea Telecom",
-    "as": "AS4766 Korea Telecom",
-    "query": "112.184.70.55"
-  },
   "124.254.221.7": {
     "status": "success",
     "country": "South Korea",
@@ -527,22 +527,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "221.164.120.204"
   },
-  "14.3.77.8": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Yokohama",
-    "zip": "231-0841",
-    "lat": 35.4337,
-    "lon": 139.6499,
-    "timezone": "Asia/Tokyo",
-    "isp": "ASAHI Net, Inc.",
-    "org": "ASAHI",
-    "as": "AS4685 Asahi Net",
-    "query": "14.3.77.8"
-  },
   "118.71.57.250": {
     "status": "success",
     "country": "Vietnam",
@@ -558,6 +542,22 @@
     "org": "",
     "as": "AS18403 FPT Telecom Company",
     "query": "118.71.57.250"
+  },
+  "113.22.224.57": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "SG",
+    "regionName": "Ho Chi Minh",
+    "city": "Ho Chi Minh City",
+    "zip": "700000",
+    "lat": 10.822,
+    "lon": 106.6257,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "isp": "Vietnam Internet Network Information Center",
+    "org": "",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "113.22.224.57"
   },
   "95.70.55.29": {
     "status": "success",
@@ -623,22 +623,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "58.236.216.134"
   },
-  "59.4.220.59": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "48",
-    "regionName": "Gyeongsangnam-do",
-    "city": "Geochang-gun",
-    "zip": "50124",
-    "lat": 35.7282,
-    "lon": 127.8989,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "59.4.220.59"
-  },
   "125.138.94.61": {
     "status": "success",
     "country": "South Korea",
@@ -670,5 +654,21 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "114.201.13.246"
+  },
+  "39.118.87.231": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Seongnam-si",
+    "zip": "136",
+    "lat": 37.3564,
+    "lon": 127.1128,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "39.118.87.231"
   }
 }
