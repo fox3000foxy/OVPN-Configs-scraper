@@ -287,6 +287,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.50"
   },
+  "103.152.178.62": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-0001",
+    "lat": 35.694,
+    "lon": 139.754,
+    "timezone": "Asia/Tokyo",
+    "isp": "Ayao Takata",
+    "org": "SDCC-East01",
+    "as": "AS38074 SDCC Japan-West Area",
+    "query": "103.152.178.62"
+  },
   "91.219.203.117": {
     "status": "success",
     "country": "Russia",
@@ -479,22 +495,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "59.140.6.12"
   },
-  "183.82.233.229": {
-    "status": "success",
-    "country": "India",
-    "countryCode": "IN",
-    "region": "TS",
-    "regionName": "Telangana",
-    "city": "Hyderabad",
-    "zip": "500001",
-    "lat": 17.3843,
-    "lon": 78.4583,
-    "timezone": "Asia/Kolkata",
-    "isp": "ACT Fibernet",
-    "org": "Beam Telecom Pvt Ltd",
-    "as": "AS55577 Atria Convergence Technologies Ltd.,",
-    "query": "183.82.233.229"
-  },
   "1.53.65.117": {
     "status": "success",
     "country": "Vietnam",
@@ -591,21 +591,21 @@
     "as": "AS2518 BIGLOBE Inc.",
     "query": "111.168.74.48"
   },
-  "42.118.112.99": {
+  "5.166.164.92": {
     "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "SG",
-    "regionName": "Ho Chi Minh",
-    "city": "Ho Chi Minh City",
-    "zip": "700000",
-    "lat": 10.822,
-    "lon": 106.6257,
-    "timezone": "Asia/Ho_Chi_Minh",
-    "isp": "FPT Telecom Company",
-    "org": "Vietnam Internet Network Information Center",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "42.118.112.99"
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PER",
+    "regionName": "Perm Krai",
+    "city": "Perm",
+    "zip": "614000",
+    "lat": 58.0047,
+    "lon": 56.2514,
+    "timezone": "Asia/Yekaterinburg",
+    "isp": "OJSC \"ER-Telecom\" Perm'",
+    "org": "JSC \"ER-Telecom Holding\"",
+    "as": "AS12768 JSC ER-Telecom Holding",
+    "query": "5.166.164.92"
   },
   "86.102.254.44": {
     "status": "success",
@@ -638,22 +638,6 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "221.163.122.165"
-  },
-  "175.208.253.225": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Songpa-gu",
-    "zip": "058",
-    "lat": 37.4818,
-    "lon": 127.1392,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "175.208.253.225"
   },
   "182.228.199.67": {
     "status": "success",
