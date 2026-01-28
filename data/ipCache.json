@@ -415,6 +415,22 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "116.123.228.25"
   },
+  "220.92.38.76": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "48",
+    "regionName": "Gyeongsangnam-do",
+    "city": "Changwon",
+    "zip": "511",
+    "lat": 35.2733,
+    "lon": 128.653,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "220.92.38.76"
+  },
   "180.199.28.130": {
     "status": "success",
     "country": "Japan",
@@ -575,22 +591,6 @@
     "as": "AS7552 Viettel Group",
     "query": "27.66.253.97"
   },
-  "203.232.73.99": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Gwangmyeong",
-    "zip": "142",
-    "lat": 37.4796,
-    "lon": 126.8746,
-    "timezone": "Asia/Seoul",
-    "isp": "KORNET",
-    "org": "naebuBBH VD(KTchungnambonbujang)",
-    "as": "AS4766 Korea Telecom",
-    "query": "203.232.73.99"
-  },
   "125.186.91.205": {
     "status": "success",
     "country": "South Korea",
@@ -671,21 +671,21 @@
     "as": "AS15880 Private entrepreneur Chikalin Anatoly Nikolaevich",
     "query": "46.175.37.209"
   },
-  "188.232.162.193": {
+  "179.6.168.57": {
     "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "OMS",
-    "regionName": "Omsk Oblast",
-    "city": "Omsk",
-    "zip": "644000",
-    "lat": 54.9896,
-    "lon": 73.3729,
-    "timezone": "Asia/Omsk",
-    "isp": "JSC \"ER-Telecom Holding\"",
-    "org": "CJSC \"ER-Telecom Holding\" Omsk Branch",
-    "as": "AS41843 JSC ER-Telecom Holding",
-    "query": "188.232.162.193"
+    "country": "Peru",
+    "countryCode": "PE",
+    "region": "LIM",
+    "regionName": "Lima region",
+    "city": "Independencia",
+    "zip": "",
+    "lat": -11.99,
+    "lon": -77.0458,
+    "timezone": "America/Lima",
+    "isp": "America Movil Peru S.A.C.",
+    "org": "America Movil Peru S.A.C",
+    "as": "AS12252 America Movil Peru S.A.C.",
+    "query": "179.6.168.57"
   },
   "176.51.129.117": {
     "status": "success",
