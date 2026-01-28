@@ -191,22 +191,6 @@
     "as": "AS17858 LG POWERCOMM",
     "query": "49.174.10.156"
   },
-  "183.99.115.65": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Seongnam-si",
-    "zip": "134",
-    "lat": 37.4062,
-    "lon": 127.1077,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "183.99.115.65"
-  },
   "219.100.37.102": {
     "status": "success",
     "country": "Japan",
@@ -302,6 +286,22 @@
     "org": "SK Broadband Co Ltd",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "222.237.109.55"
+  },
+  "14.42.68.244": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Goyang-si",
+    "zip": "103",
+    "lat": 37.6792,
+    "lon": 126.8183,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "14.42.68.244"
   },
   "180.196.40.192": {
     "status": "success",
@@ -527,22 +527,6 @@
     "as": "AS17858 LG POWERCOMM",
     "query": "182.222.218.16"
   },
-  "85.140.86.136": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "UD",
-    "regionName": "Udmurtiya Republic",
-    "city": "Izhevsk",
-    "zip": "426006",
-    "lat": 56.8501,
-    "lon": 53.1937,
-    "timezone": "Europe/Samara",
-    "isp": "MTS OSJ",
-    "org": "",
-    "as": "AS39001 MTS PJSC",
-    "query": "85.140.86.136"
-  },
   "221.140.133.139": {
     "status": "success",
     "country": "South Korea",
@@ -558,6 +542,22 @@
     "org": "SK Broadband Co Ltd",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "221.140.133.139"
+  },
+  "85.140.86.136": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "UD",
+    "regionName": "Udmurtiya Republic",
+    "city": "Izhevsk",
+    "zip": "426006",
+    "lat": 56.8501,
+    "lon": 53.1937,
+    "timezone": "Europe/Samara",
+    "isp": "MTS OSJ",
+    "org": "",
+    "as": "AS39001 MTS PJSC",
+    "query": "85.140.86.136"
   },
   "46.42.179.184": {
     "status": "success",
