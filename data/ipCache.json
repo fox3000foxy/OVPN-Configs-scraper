@@ -527,6 +527,22 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "113.154.223.222"
   },
+  "112.184.70.55": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "45",
+    "regionName": "Jeollabuk-do",
+    "city": "Jeonju",
+    "zip": "549",
+    "lat": 35.8345,
+    "lon": 127.1057,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Korea Telecom",
+    "as": "AS4766 Korea Telecom",
+    "query": "112.184.70.55"
+  },
   "221.164.120.204": {
     "status": "success",
     "country": "South Korea",
@@ -702,37 +718,5 @@
     "org": "Ultahost Hosting VE Veri Merkezi Ltd. STI",
     "as": "AS214036 Ultahost, Inc.",
     "query": "188.132.184.249"
-  },
-  "1.52.244.85": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "SG",
-    "regionName": "Ho Chi Minh",
-    "city": "Ho Chi Minh City",
-    "zip": "700000",
-    "lat": 10.822,
-    "lon": 106.6257,
-    "timezone": "Asia/Ho_Chi_Minh",
-    "isp": "FPT Telecom Company",
-    "org": "Vietnam Internet Network Information Center",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "1.52.244.85"
-  },
-  "2.63.200.52": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "NVS",
-    "regionName": "Novosibirsk Oblast",
-    "city": "Novosibirsk",
-    "zip": "630000",
-    "lat": 55.0226,
-    "lon": 82.9317,
-    "timezone": "Asia/Novosibirsk",
-    "isp": "JSC Rostelecom regional branch \"Siberia\"",
-    "org": "JSC Rostelecom . Rostov",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "2.63.200.52"
   }
 }
