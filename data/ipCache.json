@@ -47,22 +47,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.82"
   },
-  "219.100.37.4": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftEther",
-    "org": "SoftEther Corporation",
-    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.4"
-  },
   "219.100.37.15": {
     "status": "success",
     "country": "Japan",
@@ -175,22 +159,6 @@
     "as": "AS4725 SoftBank Corp.",
     "query": "220.212.128.195"
   },
-  "175.209.13.17": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Gangdong-gu",
-    "zip": "053",
-    "lat": 37.536,
-    "lon": 127.1426,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "175.209.13.17"
-  },
   "115.78.10.208": {
     "status": "success",
     "country": "Vietnam",
@@ -206,6 +174,22 @@
     "org": "",
     "as": "AS7552 Viettel Group",
     "query": "115.78.10.208"
+  },
+  "175.209.13.17": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Gangdong-gu",
+    "zip": "053",
+    "lat": 37.536,
+    "lon": 127.1426,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "175.209.13.17"
   },
   "118.33.153.180": {
     "status": "success",
@@ -670,5 +654,37 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "39.118.87.231"
+  },
+  "77.35.249.88": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Vladivostok",
+    "zip": "690001",
+    "lat": 43.1068,
+    "lon": 131.8692,
+    "timezone": "Asia/Vladivostok",
+    "isp": "Rostelecom networks",
+    "org": "",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "77.35.249.88"
+  },
+  "188.132.184.249": {
+    "status": "success",
+    "country": "Türkiye",
+    "countryCode": "TR",
+    "region": "34",
+    "regionName": "Istanbul",
+    "city": "Istanbul",
+    "zip": "34080",
+    "lat": 41.0329,
+    "lon": 28.9529,
+    "timezone": "Europe/Istanbul",
+    "isp": "Ultahost, Inc.",
+    "org": "Ultahost Hosting VE Veri Merkezi Ltd. STI",
+    "as": "AS214036 Ultahost, Inc.",
+    "query": "188.132.184.249"
   }
 }
