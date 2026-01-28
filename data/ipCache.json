@@ -255,22 +255,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.102"
   },
-  "118.71.36.23": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "HN",
-    "regionName": "Hanoi",
-    "city": "Hanoi",
-    "zip": "",
-    "lat": 21.0278,
-    "lon": 105.834,
-    "timezone": "Asia/Bangkok",
-    "isp": "FPT Telecom Company",
-    "org": "FPTDYNAMICIP",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "118.71.36.23"
-  },
   "180.149.180.47": {
     "status": "success",
     "country": "Japan",
@@ -303,6 +287,22 @@
     "as": "AS59533 Lukyanov Evgeniy Vladimirovich PE",
     "query": "91.219.203.117"
   },
+  "118.71.36.23": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "HN",
+    "regionName": "Hanoi",
+    "city": "Hanoi",
+    "zip": "",
+    "lat": 21.0278,
+    "lon": 105.834,
+    "timezone": "Asia/Bangkok",
+    "isp": "FPT Telecom Company",
+    "org": "FPTDYNAMICIP",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "118.71.36.23"
+  },
   "49.49.199.103": {
     "status": "success",
     "country": "Thailand",
@@ -318,22 +318,6 @@
     "org": "Triple T Broadband Public Company Limited",
     "as": "AS45758 Triple T Broadband Public Company Limited",
     "query": "49.49.199.103"
-  },
-  "210.174.55.239": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "12",
-    "regionName": "Chiba",
-    "city": "Matsudo",
-    "zip": "271-0091",
-    "lat": 35.7834,
-    "lon": 139.8958,
-    "timezone": "Asia/Tokyo",
-    "isp": "Japan Network Information Center",
-    "org": "SO-Net Service",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "210.174.55.239"
   },
   "221.49.114.110": {
     "status": "success",
