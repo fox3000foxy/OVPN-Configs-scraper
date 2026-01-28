@@ -559,22 +559,6 @@
     "as": "AS45758 Triple T Broadband Public Company Limited",
     "query": "223.207.236.27"
   },
-  "130.49.213.93": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "ORE",
-    "regionName": "Orenburg Oblast",
-    "city": "Mayachnaya",
-    "zip": "",
-    "lat": 51.3255,
-    "lon": 54.9572,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "Global Internet Solutions LLC",
-    "org": "Global Internet Solutions LLC",
-    "as": "AS207713 GLOBAL INTERNET SOLUTIONS LLC",
-    "query": "130.49.213.93"
-  },
   "60.68.172.110": {
     "status": "success",
     "country": "Japan",
@@ -654,22 +638,6 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "39.119.183.162"
-  },
-  "176.50.156.238": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "ALT",
-    "regionName": "Altai Krai",
-    "city": "Barnaul",
-    "zip": "656002",
-    "lat": 53.362,
-    "lon": 83.7279,
-    "timezone": "Asia/Barnaul",
-    "isp": "OJSC \"Sibirtelecom\"",
-    "org": "Sibirtelecom Co.",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "176.50.156.238"
   },
   "94.31.224.105": {
     "status": "success",
@@ -766,6 +734,22 @@
     "org": "JSC \"Redcom-lnternet\"",
     "as": "AS8749 JSC Redcom-lnternet",
     "query": "159.253.170.182"
+  },
+  "210.157.192.124": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "12",
+    "regionName": "Chiba",
+    "city": "Narashino",
+    "zip": "275-0013",
+    "lat": 35.6818,
+    "lon": 140.042,
+    "timezone": "Asia/Tokyo",
+    "isp": "Rakuten Mobile, Inc.",
+    "org": "RMN",
+    "as": "AS138384 Rakuten Mobile Network, Inc.",
+    "query": "210.157.192.124"
   },
   "110.4.148.70": {
     "status": "success",
