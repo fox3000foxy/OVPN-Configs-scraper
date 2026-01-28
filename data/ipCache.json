@@ -623,22 +623,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "90.188.179.121"
   },
-  "77.79.147.4": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "BA",
-    "regionName": "Bashkortostan Republic",
-    "city": "Ufa",
-    "zip": "450000",
-    "lat": 54.7431,
-    "lon": 55.9678,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "JSC \"Ufanet\"",
-    "org": "JSC Ufanet",
-    "as": "AS24955 JSC Ufanet",
-    "query": "77.79.147.4"
-  },
   "178.218.99.215": {
     "status": "success",
     "country": "Russia",
