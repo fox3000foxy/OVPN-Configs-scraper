@@ -319,22 +319,6 @@
     "as": "AS45758 Triple T Broadband Public Company Limited",
     "query": "49.49.199.103"
   },
-  "210.174.55.239": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "12",
-    "regionName": "Chiba",
-    "city": "Matsudo",
-    "zip": "271-0091",
-    "lat": 35.7834,
-    "lon": 139.8958,
-    "timezone": "Asia/Tokyo",
-    "isp": "Japan Network Information Center",
-    "org": "SO-Net Service",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "210.174.55.239"
-  },
   "221.49.114.110": {
     "status": "success",
     "country": "Japan",
