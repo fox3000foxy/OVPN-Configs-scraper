@@ -255,6 +255,22 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "61.255.91.50"
   },
+  "124.212.183.144": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "08",
+    "regionName": "Ibaraki",
+    "city": "Inashiki",
+    "zip": "300-0511",
+    "lat": 35.9591,
+    "lon": 140.3415,
+    "timezone": "Asia/Tokyo",
+    "isp": "DION (KDDI CORPORATION)",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "124.212.183.144"
+  },
   "118.240.3.52": {
     "status": "success",
     "country": "Japan",
@@ -303,21 +319,37 @@
     "as": "AS4766 Korea Telecom",
     "query": "14.42.68.244"
   },
-  "180.196.40.192": {
+  "126.79.216.134": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "22",
-    "regionName": "Shizuoka",
-    "city": "Shizuoka",
-    "zip": "420-0861",
-    "lat": 34.9882,
-    "lon": 138.3742,
+    "region": "08",
+    "regionName": "Ibaraki",
+    "city": "Tsukuba",
+    "zip": "305-0811",
+    "lat": 36.0833,
+    "lon": 140.117,
     "timezone": "Asia/Tokyo",
-    "isp": "Chubu Telecommunications Company, Inc.",
-    "org": "Chubu Telecommunications Co., Inc.",
-    "as": "AS18126 Chubu Telecommunications Company, Inc.",
-    "query": "180.196.40.192"
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.79.216.134"
+  },
+  "1.55.20.162": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "HN",
+    "regionName": "Hanoi",
+    "city": "Hanoi",
+    "zip": "100000",
+    "lat": 21.0184,
+    "lon": 105.8461,
+    "timezone": "Asia/Bangkok",
+    "isp": "FPT Telecom Company",
+    "org": "Vietnam Internet Network Information Center",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "1.55.20.162"
   },
   "126.130.116.116": {
     "status": "success",
@@ -334,22 +366,6 @@
     "org": "SOFTBANK Corp",
     "as": "AS17676 SoftBank Corp.",
     "query": "126.130.116.116"
-  },
-  "60.105.147.180": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan Nation-wide Network of Softbank Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "60.105.147.180"
   },
   "125.204.108.29": {
     "status": "success",
@@ -414,6 +430,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "211.51.185.36"
+  },
+  "217.175.14.88": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KDA",
+    "regionName": "Krasnodar Krai",
+    "city": "Taman'",
+    "zip": "353555",
+    "lat": 45.212,
+    "lon": 36.7103,
+    "timezone": "Europe/Moscow",
+    "isp": "CrystalNET Plus",
+    "org": "",
+    "as": "AS25591 BCLan LLC",
+    "query": "217.175.14.88"
   },
   "121.160.25.238": {
     "status": "success",
@@ -511,6 +543,22 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "123.213.125.37"
   },
+  "58.125.209.98": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "49",
+    "regionName": "Jeju-do",
+    "city": "Jeju City",
+    "zip": "631",
+    "lat": 33.5109,
+    "lon": 126.5264,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "SK Broadband Co Ltd",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "58.125.209.98"
+  },
   "182.222.218.16": {
     "status": "success",
     "country": "South Korea",
@@ -542,22 +590,6 @@
     "org": "SK Broadband Co Ltd",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "221.140.133.139"
-  },
-  "85.140.86.136": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "UD",
-    "regionName": "Udmurtiya Republic",
-    "city": "Izhevsk",
-    "zip": "426006",
-    "lat": 56.8501,
-    "lon": 53.1937,
-    "timezone": "Europe/Samara",
-    "isp": "MTS OSJ",
-    "org": "",
-    "as": "AS39001 MTS PJSC",
-    "query": "85.140.86.136"
   },
   "46.42.179.184": {
     "status": "success",
@@ -606,22 +638,6 @@
     "org": "",
     "as": "AS44724 Octopusnet LTD",
     "query": "95.154.65.250"
-  },
-  "5.143.89.139": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PRI",
-    "regionName": "Primorye",
-    "city": "Vladivostok",
-    "zip": "690001",
-    "lat": 43.1068,
-    "lon": 131.8692,
-    "timezone": "Asia/Vladivostok",
-    "isp": "Rostelecom networks",
-    "org": "OJSC Rostelecom Far-East Region",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "5.143.89.139"
   },
   "185.3.181.36": {
     "status": "success",
