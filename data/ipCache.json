@@ -287,22 +287,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "61.255.91.50"
   },
-  "90.150.249.120": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "TYU",
-    "regionName": "Tyumen Oblast",
-    "city": "Tyumen",
-    "zip": "625000",
-    "lat": 57.1533,
-    "lon": 65.5418,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "Rostelecom networks",
-    "org": "Dynamic distribution IPs for broadband services",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "90.150.249.120"
-  },
   "118.240.3.52": {
     "status": "success",
     "country": "Japan",
@@ -335,6 +319,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "220.76.63.6"
   },
+  "113.155.82.28": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "23",
+    "regionName": "Aichi",
+    "city": "Inazawa",
+    "zip": "495-0021",
+    "lat": 35.2497,
+    "lon": 136.7857,
+    "timezone": "Asia/Tokyo",
+    "isp": "KDDI",
+    "org": "DION (KDDI CORPORATION)",
+    "as": "AS18126 Chubu Telecommunications Company, Inc.",
+    "query": "113.155.82.28"
+  },
   "180.196.40.192": {
     "status": "success",
     "country": "Japan",
@@ -350,22 +350,6 @@
     "org": "Chubu Telecommunications Co., Inc.",
     "as": "AS18126 Chubu Telecommunications Company, Inc.",
     "query": "180.196.40.192"
-  },
-  "49.228.97.132": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "10",
-    "regionName": "Bangkok",
-    "city": "Bangkok",
-    "zip": "10120",
-    "lat": 13.7101,
-    "lon": 100.4543,
-    "timezone": "Asia/Bangkok",
-    "isp": "Advanced Wireless Network Company Limited",
-    "org": "AIS Fibre",
-    "as": "AS133481 AIS Fibre",
-    "query": "49.228.97.132"
   },
   "175.196.129.126": {
     "status": "success",
@@ -543,6 +527,22 @@
     "as": "AS133481 AIS Fibre",
     "query": "49.228.246.254"
   },
+  "5.18.178.64": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "SPE",
+    "regionName": "St.-Petersburg",
+    "city": "St Petersburg",
+    "zip": "190990",
+    "lat": 59.8983,
+    "lon": 30.2618,
+    "timezone": "Europe/Moscow",
+    "isp": "Z-Telecom",
+    "org": "JSC ER-Telecom",
+    "as": "AS41733 JSC ER-Telecom Holding",
+    "query": "5.18.178.64"
+  },
   "14.47.236.6": {
     "status": "success",
     "country": "South Korea",
@@ -670,22 +670,6 @@
     "org": "",
     "as": "AS44724 Octopusnet LTD",
     "query": "95.154.65.250"
-  },
-  "164.138.90.217": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KHA",
-    "regionName": "Khabarovsk",
-    "city": "Khabarovsk",
-    "zip": "680000",
-    "lat": 48.4817,
-    "lon": 135.083,
-    "timezone": "Asia/Vladivostok",
-    "isp": "JSC \"Redcom-lnternet\"",
-    "org": "Redcom BB Unlim",
-    "as": "AS8749 JSC Redcom-lnternet",
-    "query": "164.138.90.217"
   },
   "5.143.89.139": {
     "status": "success",
