@@ -47,6 +47,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.82"
   },
+  "219.100.37.4": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftEther",
+    "org": "SoftEther Corporation",
+    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
+    "query": "219.100.37.4"
+  },
   "219.100.37.15": {
     "status": "success",
     "country": "Japan",
@@ -670,21 +686,5 @@
     "org": "",
     "as": "AS12389 PJSC Rostelecom",
     "query": "77.35.249.88"
-  },
-  "188.132.184.249": {
-    "status": "success",
-    "country": "Türkiye",
-    "countryCode": "TR",
-    "region": "34",
-    "regionName": "Istanbul",
-    "city": "Istanbul",
-    "zip": "34080",
-    "lat": 41.0329,
-    "lon": 28.9529,
-    "timezone": "Europe/Istanbul",
-    "isp": "Ultahost, Inc.",
-    "org": "Ultahost Hosting VE Veri Merkezi Ltd. STI",
-    "as": "AS214036 Ultahost, Inc.",
-    "query": "188.132.184.249"
   }
 }
