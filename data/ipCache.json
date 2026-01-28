@@ -175,22 +175,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "182.169.54.9"
   },
-  "221.147.114.46": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Seoul",
-    "zip": "045",
-    "lat": 37.5656,
-    "lon": 126.978,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "221.147.114.46"
-  },
   "121.142.148.62": {
     "status": "success",
     "country": "South Korea",
@@ -351,22 +335,6 @@
     "as": "AS9770 LG HelloVision Corp.",
     "query": "113.52.211.252"
   },
-  "5.149.218.158": {
-    "status": "success",
-    "country": "Ukraine",
-    "countryCode": "UA",
-    "region": "40",
-    "regionName": "Sebastopol City",
-    "city": "Sevastopol",
-    "zip": "90022",
-    "lat": 44.6089,
-    "lon": 33.53,
-    "timezone": "Europe/Simferopol",
-    "isp": "Lancom Ltd.",
-    "org": "Lancom Ltd",
-    "as": "AS35816 Lancom Ltd.",
-    "query": "5.149.218.158"
-  },
   "219.100.37.50": {
     "status": "success",
     "country": "Japan",
@@ -495,6 +463,22 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.206.11.243"
   },
+  "1.66.34.134": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Osaka",
+    "zip": "530-0041",
+    "lat": 34.6967,
+    "lon": 135.5154,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Docomo, inc.",
+    "org": "NTTDoCoMo",
+    "as": "AS9605 NTT DOCOMO, INC.",
+    "query": "1.66.34.134"
+  },
   "119.170.133.181": {
     "status": "success",
     "country": "Japan",
@@ -543,6 +527,22 @@
     "as": "AS45758 Triple T Broadband Public Company Limited",
     "query": "223.207.223.127"
   },
+  "113.10.62.80": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Gangnam-gu",
+    "zip": "061",
+    "lat": 37.5093,
+    "lon": 127.0465,
+    "timezone": "Asia/Seoul",
+    "isp": "KangNam CableTV",
+    "org": "DLIVE Gangnam Cable TV",
+    "as": "AS9943 KangNam CableTV",
+    "query": "113.10.62.80"
+  },
   "61.44.169.103": {
     "status": "success",
     "country": "Japan",
@@ -558,22 +558,6 @@
     "org": "New Media Co., Ltd",
     "as": "AS59127 Newmedia Corporation",
     "query": "61.44.169.103"
-  },
-  "45.165.151.206": {
-    "status": "success",
-    "country": "Brazil",
-    "countryCode": "BR",
-    "region": "SP",
-    "regionName": "São Paulo",
-    "city": "Mairiporã",
-    "zip": "07600",
-    "lat": -23.3219,
-    "lon": -46.5849,
-    "timezone": "America/Sao_Paulo",
-    "isp": "CSI SOLUCOES TECNOLOGICAS LTDA",
-    "org": "CSI SOLUCOES TECNOLOGICAS LTDA",
-    "as": "AS268678 CSI SOLUCOES TECNOLOGICAS LTDA",
-    "query": "45.165.151.206"
   },
   "222.112.76.46": {
     "status": "success",
