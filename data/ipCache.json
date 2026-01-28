@@ -367,22 +367,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "90.150.249.120"
   },
-  "126.28.181.40": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.28.181.40"
-  },
   "1.55.20.162": {
     "status": "success",
     "country": "Vietnam",
@@ -398,6 +382,22 @@
     "org": "Vietnam Internet Network Information Center",
     "as": "AS18403 FPT Telecom Company",
     "query": "1.55.20.162"
+  },
+  "126.28.181.40": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.28.181.40"
   },
   "106.150.72.118": {
     "status": "success",
@@ -447,22 +447,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "112.185.246.157"
   },
-  "218.158.68.238": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "50",
-    "regionName": "Sejong-si",
-    "city": "Sejong",
-    "zip": "301",
-    "lat": 36.5916,
-    "lon": 127.2916,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Korea Telecom",
-    "as": "AS4766 Korea Telecom",
-    "query": "218.158.68.238"
-  },
   "27.139.98.101": {
     "status": "success",
     "country": "Japan",
@@ -478,6 +462,22 @@
     "org": "Jupiter Telecommunication Co. Ltd",
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "27.139.98.101"
+  },
+  "218.158.68.238": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "50",
+    "regionName": "Sejong-si",
+    "city": "Sejong",
+    "zip": "301",
+    "lat": 36.5916,
+    "lon": 127.2916,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Korea Telecom",
+    "as": "AS4766 Korea Telecom",
+    "query": "218.158.68.238"
   },
   "175.177.49.119": {
     "status": "success",
@@ -670,21 +670,5 @@
     "org": "SK Broadband Co Ltd",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "123.213.125.37"
-  },
-  "31.200.233.129": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PRI",
-    "regionName": "Primorye",
-    "city": "Nakhodka",
-    "zip": "692902",
-    "lat": 42.8318,
-    "lon": 132.9223,
-    "timezone": "Asia/Vladivostok",
-    "isp": "ISP Podryad Nets",
-    "org": "",
-    "as": "AS196949 Natalia Sergeevna Filicheva",
-    "query": "31.200.233.129"
   }
 }
