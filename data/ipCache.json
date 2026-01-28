@@ -191,22 +191,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "183.99.115.65"
   },
-  "211.184.24.38": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Suwon",
-    "zip": "164",
-    "lat": 37.2872,
-    "lon": 127.0116,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "211.184.24.38"
-  },
   "185.124.155.182": {
     "status": "success",
     "country": "Russia",
@@ -303,6 +287,22 @@
     "as": "AS59127 Newmedia Corporation",
     "query": "61.44.175.142"
   },
+  "61.255.91.50": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "28",
+    "regionName": "Incheon",
+    "city": "Incheon",
+    "zip": "221",
+    "lat": 37.4723,
+    "lon": 126.6594,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "SK Broadband Co Ltd",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "61.255.91.50"
+  },
   "222.14.193.1": {
     "status": "success",
     "country": "Japan",
@@ -335,21 +335,21 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "90.150.249.120"
   },
-  "60.79.244.225": {
+  "1.55.20.162": {
     "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan Nation-wide Network of Softbank Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "60.79.244.225"
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "HN",
+    "regionName": "Hanoi",
+    "city": "Hanoi",
+    "zip": "100000",
+    "lat": 21.0184,
+    "lon": 105.8461,
+    "timezone": "Asia/Bangkok",
+    "isp": "FPT Telecom Company",
+    "org": "Vietnam Internet Network Information Center",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "1.55.20.162"
   },
   "116.64.168.73": {
     "status": "success",
@@ -382,6 +382,22 @@
     "org": "Japan Nation-wide Network of Softbank Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "60.80.243.29"
+  },
+  "106.150.72.118": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "11",
+    "regionName": "Saitama",
+    "city": "Daimon",
+    "zip": "336-0963",
+    "lat": 35.8815,
+    "lon": 139.7334,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "106.150.72.118"
   },
   "125.247.190.47": {
     "status": "success",
@@ -559,6 +575,22 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "58.125.209.98"
   },
+  "221.140.133.139": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Yongin-si",
+    "zip": "168",
+    "lat": 37.3104,
+    "lon": 127.0672,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "SK Broadband Co Ltd",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "221.140.133.139"
+  },
   "188.132.184.249": {
     "status": "success",
     "country": "Türkiye",
@@ -575,22 +607,6 @@
     "as": "AS214036 Ultahost, Inc.",
     "query": "188.132.184.249"
   },
-  "77.79.147.4": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "BA",
-    "regionName": "Bashkortostan Republic",
-    "city": "Ufa",
-    "zip": "450000",
-    "lat": 54.7431,
-    "lon": 55.9678,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "JSC \"Ufanet\"",
-    "org": "JSC Ufanet",
-    "as": "AS24955 JSC Ufanet",
-    "query": "77.79.147.4"
-  },
   "90.188.179.121": {
     "status": "success",
     "country": "Russia",
@@ -606,6 +622,22 @@
     "org": "OJSC Sibirtelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "90.188.179.121"
+  },
+  "77.79.147.4": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "BA",
+    "regionName": "Bashkortostan Republic",
+    "city": "Ufa",
+    "zip": "450000",
+    "lat": 54.7431,
+    "lon": 55.9678,
+    "timezone": "Asia/Yekaterinburg",
+    "isp": "JSC \"Ufanet\"",
+    "org": "JSC Ufanet",
+    "as": "AS24955 JSC Ufanet",
+    "query": "77.79.147.4"
   },
   "178.218.99.215": {
     "status": "success",
@@ -655,6 +687,22 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "2.61.228.96"
   },
+  "123.213.125.37": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Uijeongbu-si",
+    "zip": "118",
+    "lat": 37.7396,
+    "lon": 127.0539,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "SK Broadband Co Ltd",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "123.213.125.37"
+  },
   "31.200.233.129": {
     "status": "success",
     "country": "Russia",
@@ -671,20 +719,20 @@
     "as": "AS196949 Natalia Sergeevna Filicheva",
     "query": "31.200.233.129"
   },
-  "93.125.107.128": {
+  "212.124.5.167": {
     "status": "success",
-    "country": "Belarus",
-    "countryCode": "BY",
-    "region": "HM",
-    "regionName": "Minsk City",
-    "city": "Minsk",
-    "zip": "220025",
-    "lat": 53.901,
-    "lon": 27.5707,
-    "timezone": "Europe/Minsk",
-    "isp": "Cosmos TV Jllc",
-    "org": "JCLL \"Cosmos TV\"",
-    "as": "AS31143 COSMOS TV JLLC",
-    "query": "93.125.107.128"
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "IVA",
+    "regionName": "Ivanovo Oblast",
+    "city": "Ivanovo",
+    "zip": "153000",
+    "lat": 57.0006,
+    "lon": 40.972,
+    "timezone": "Europe/Moscow",
+    "isp": "Macroregional Center",
+    "org": "OJSC Rostelecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "212.124.5.167"
   }
 }
