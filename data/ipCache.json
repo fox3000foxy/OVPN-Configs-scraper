@@ -303,22 +303,6 @@
     "as": "AS4134 CHINANET-BACKBONE",
     "query": "219.147.27.214"
   },
-  "120.51.50.19": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "01",
-    "regionName": "Hokkaido",
-    "city": "Sapporo",
-    "zip": "065-0011",
-    "lat": 43.0763,
-    "lon": 141.3654,
-    "timezone": "Asia/Tokyo",
-    "isp": "ARTERIA Networks Corporation",
-    "org": "ARTERIA Networks Corporation",
-    "as": "AS2519 ARTERIA Networks Corporation",
-    "query": "120.51.50.19"
-  },
   "113.52.211.252": {
     "status": "success",
     "country": "South Korea",
@@ -334,6 +318,22 @@
     "org": "HVSilla",
     "as": "AS9770 LG HelloVision Corp.",
     "query": "113.52.211.252"
+  },
+  "120.51.50.19": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "01",
+    "regionName": "Hokkaido",
+    "city": "Sapporo",
+    "zip": "065-0011",
+    "lat": 43.0763,
+    "lon": 141.3654,
+    "timezone": "Asia/Tokyo",
+    "isp": "ARTERIA Networks Corporation",
+    "org": "ARTERIA Networks Corporation",
+    "as": "AS2519 ARTERIA Networks Corporation",
+    "query": "120.51.50.19"
   },
   "219.100.37.50": {
     "status": "success",
@@ -479,21 +479,21 @@
     "as": "AS2518 BIGLOBE Inc.",
     "query": "133.209.158.229"
   },
-  "119.170.133.181": {
+  "218.152.228.104": {
     "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "40",
-    "regionName": "Fukuoka",
-    "city": "Kego",
-    "zip": "810-0021",
-    "lat": 33.5854,
-    "lon": 130.4018,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM Co., Ltd.",
-    "org": "JCOM Co., Ltd",
-    "as": "AS9824 JCOM Co., Ltd.",
-    "query": "119.170.133.181"
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Yongsan-gu",
+    "zip": "043",
+    "lat": 37.5332,
+    "lon": 126.9692,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "218.152.228.104"
   },
   "106.243.71.229": {
     "status": "success",
@@ -639,22 +639,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "58.122.224.175"
   },
-  "213.230.86.103": {
-    "status": "success",
-    "country": "Uzbekistan",
-    "countryCode": "UZ",
-    "region": "TK",
-    "regionName": "Tashkent",
-    "city": "Tashkent",
-    "zip": "",
-    "lat": 41.2615,
-    "lon": 69.2177,
-    "timezone": "Asia/Tashkent",
-    "isp": "\"Uzbektelekom\" Joint Stock Company",
-    "org": "Uztelecom",
-    "as": "AS8193 Uzbektelekom Joint Stock Company",
-    "query": "213.230.86.103"
-  },
   "101.235.81.130": {
     "status": "success",
     "country": "South Korea",
@@ -670,6 +654,22 @@
     "org": "DLIVE Jungrang Cable TV",
     "as": "AS10036 DLIVE",
     "query": "101.235.81.130"
+  },
+  "213.230.86.103": {
+    "status": "success",
+    "country": "Uzbekistan",
+    "countryCode": "UZ",
+    "region": "TK",
+    "regionName": "Tashkent",
+    "city": "Tashkent",
+    "zip": "",
+    "lat": 41.2615,
+    "lon": 69.2177,
+    "timezone": "Asia/Tashkent",
+    "isp": "\"Uzbektelekom\" Joint Stock Company",
+    "org": "Uztelecom",
+    "as": "AS8193 Uzbektelekom Joint Stock Company",
+    "query": "213.230.86.103"
   },
   "82.162.121.22": {
     "status": "success",
