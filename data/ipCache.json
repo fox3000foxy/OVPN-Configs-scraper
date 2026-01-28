@@ -639,6 +639,22 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.238.83.71"
   },
+  "58.122.224.175": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Eunpyeong-gu",
+    "zip": "033",
+    "lat": 37.6053,
+    "lon": 126.9231,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "58.122.224.175"
+  },
   "213.230.86.103": {
     "status": "success",
     "country": "Uzbekistan",
@@ -671,22 +687,6 @@
     "as": "AS10036 DLIVE",
     "query": "101.235.81.130"
   },
-  "5.143.99.151": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PRI",
-    "regionName": "Primorye",
-    "city": "Vladivostok",
-    "zip": "690001",
-    "lat": 43.1068,
-    "lon": 131.8692,
-    "timezone": "Asia/Vladivostok",
-    "isp": "PJSC Rostelecom",
-    "org": "PJSC Rostelecom Far East Region",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "5.143.99.151"
-  },
   "82.162.121.22": {
     "status": "success",
     "country": "Russia",
@@ -703,7 +703,7 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "82.162.121.22"
   },
-  "5.143.97.7": {
+  "5.143.99.151": {
     "status": "success",
     "country": "Russia",
     "countryCode": "RU",
@@ -717,6 +717,6 @@
     "isp": "PJSC Rostelecom",
     "org": "PJSC Rostelecom Far East Region",
     "as": "AS12389 PJSC Rostelecom",
-    "query": "5.143.97.7"
+    "query": "5.143.99.151"
   }
 }
