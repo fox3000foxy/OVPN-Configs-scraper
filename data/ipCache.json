@@ -351,22 +351,6 @@
     "as": "AS10019 Matsusaka Cable-TV Station Inc.",
     "query": "175.28.24.204"
   },
-  "113.144.29.135": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Nakano City",
-    "zip": "164-0011",
-    "lat": 35.7027,
-    "lon": 139.6749,
-    "timezone": "Asia/Tokyo",
-    "isp": "DION (KDDI CORPORATION)",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "113.144.29.135"
-  },
   "59.5.151.170": {
     "status": "success",
     "country": "South Korea",
@@ -543,6 +527,22 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.117.63.212"
   },
+  "60.126.217.205": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.126.217.205"
+  },
   "221.164.120.204": {
     "status": "success",
     "country": "South Korea",
@@ -574,38 +574,6 @@
     "org": "Jeonnambonbujang",
     "as": "AS4766 Korea Telecom",
     "query": "121.148.48.93"
-  },
-  "111.168.74.48": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "24",
-    "regionName": "Mie",
-    "city": "Tsu",
-    "zip": "514-0011",
-    "lat": 34.7361,
-    "lon": 136.522,
-    "timezone": "Asia/Tokyo",
-    "isp": "BIGLOBE Inc.",
-    "org": "BIGLOBE",
-    "as": "AS2518 BIGLOBE Inc.",
-    "query": "111.168.74.48"
-  },
-  "5.166.164.92": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PER",
-    "regionName": "Perm Krai",
-    "city": "Perm",
-    "zip": "614000",
-    "lat": 58.0047,
-    "lon": 56.2514,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "OJSC \"ER-Telecom\" Perm'",
-    "org": "JSC \"ER-Telecom Holding\"",
-    "as": "AS12768 JSC ER-Telecom Holding",
-    "query": "5.166.164.92"
   },
   "42.118.112.99": {
     "status": "success",
@@ -654,6 +622,22 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "221.163.122.165"
+  },
+  "175.208.253.225": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Songpa-gu",
+    "zip": "058",
+    "lat": 37.4818,
+    "lon": 127.1392,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "175.208.253.225"
   },
   "182.228.199.67": {
     "status": "success",
@@ -718,6 +702,22 @@
     "org": "Rostelecom Nets",
     "as": "AS12389 PJSC Rostelecom",
     "query": "5.143.111.119"
+  },
+  "188.132.184.249": {
+    "status": "success",
+    "country": "Türkiye",
+    "countryCode": "TR",
+    "region": "34",
+    "regionName": "Istanbul",
+    "city": "Istanbul",
+    "zip": "34080",
+    "lat": 41.0329,
+    "lon": 28.9529,
+    "timezone": "Europe/Istanbul",
+    "isp": "Ultahost, Inc.",
+    "org": "Ultahost Hosting VE Veri Merkezi Ltd. STI",
+    "as": "AS214036 Ultahost, Inc.",
+    "query": "188.132.184.249"
   },
   "175.196.122.188": {
     "status": "success",
