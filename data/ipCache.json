@@ -287,22 +287,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.50"
   },
-  "103.152.178.62": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-0001",
-    "lat": 35.694,
-    "lon": 139.754,
-    "timezone": "Asia/Tokyo",
-    "isp": "Ayao Takata",
-    "org": "SDCC-East01",
-    "as": "AS38074 SDCC Japan-West Area",
-    "query": "103.152.178.62"
-  },
   "50.47.103.146": {
     "status": "success",
     "country": "United States",
@@ -319,21 +303,21 @@
     "as": "AS20055 Wholesail networks LLC",
     "query": "50.47.103.146"
   },
-  "36.13.6.150": {
+  "103.152.178.62": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "11",
-    "regionName": "Saitama",
-    "city": "Honchō",
-    "zip": "335-0021",
-    "lat": 35.8103,
-    "lon": 139.6696,
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-0001",
+    "lat": 35.694,
+    "lon": 139.754,
     "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "36.13.6.150"
+    "isp": "Ayao Takata",
+    "org": "SDCC-East01",
+    "as": "AS38074 SDCC Japan-West Area",
+    "query": "103.152.178.62"
   },
   "126.241.23.14": {
     "status": "success",
@@ -495,6 +479,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "59.16.219.106"
   },
+  "182.20.96.41": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Takashimadaira",
+    "zip": "175-0081",
+    "lat": 35.7931,
+    "lon": 139.6606,
+    "timezone": "Asia/Tokyo",
+    "isp": "TOKAI Communications Corporation",
+    "org": "TOKAI",
+    "as": "AS10010 TOKAI Communications Corporation",
+    "query": "182.20.96.41"
+  },
   "27.139.122.85": {
     "status": "success",
     "country": "Japan",
@@ -511,21 +511,21 @@
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "27.139.122.85"
   },
-  "118.71.57.250": {
+  "182.253.212.121": {
     "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "HN",
-    "regionName": "Hanoi",
-    "city": "Hanoi",
-    "zip": "",
-    "lat": 21.0278,
-    "lon": 105.834,
-    "timezone": "Asia/Bangkok",
-    "isp": "Vietnam Internet Network Information Center",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "region": "JK",
+    "regionName": "Jakarta",
+    "city": "Jakarta",
+    "zip": "12910",
+    "lat": -6.2121,
+    "lon": 106.8319,
+    "timezone": "Asia/Jakarta",
+    "isp": "BIZNET",
     "org": "",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "118.71.57.250"
+    "as": "AS17451 BIZNET NETWORKS",
+    "query": "182.253.212.121"
   },
   "95.70.55.29": {
     "status": "success",
@@ -639,22 +639,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "211.204.251.153"
   },
-  "159.253.171.30": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KHA",
-    "regionName": "Khabarovsk",
-    "city": "Khabarovsk",
-    "zip": "680000",
-    "lat": 48.4817,
-    "lon": 135.083,
-    "timezone": "Asia/Vladivostok",
-    "isp": "JSC \"Redcom-lnternet\"",
-    "org": "JSC \"Redcom-lnternet\"",
-    "as": "AS8749 JSC Redcom-lnternet",
-    "query": "159.253.171.30"
-  },
   "77.35.249.88": {
     "status": "success",
     "country": "Russia",
@@ -686,5 +670,21 @@
     "org": "Ultahost Hosting VE Veri Merkezi Ltd. STI",
     "as": "AS214036 Ultahost, Inc.",
     "query": "188.132.184.249"
+  },
+  "1.52.244.85": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "SG",
+    "regionName": "Ho Chi Minh",
+    "city": "Ho Chi Minh City",
+    "zip": "700000",
+    "lat": 10.822,
+    "lon": 106.6257,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "isp": "FPT Telecom Company",
+    "org": "Vietnam Internet Network Information Center",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "1.52.244.85"
   }
 }
