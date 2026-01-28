@@ -191,22 +191,6 @@
     "as": "AS17506 ARTERIA Networks Corporation",
     "query": "122.210.185.27"
   },
-  "1.246.154.63": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "43",
-    "regionName": "North Chungcheong",
-    "city": "Cheongju-si",
-    "zip": "284",
-    "lat": 36.637,
-    "lon": 127.4339,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "SK Broadband Co Ltd",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "1.246.154.63"
-  },
   "219.75.211.89": {
     "status": "success",
     "country": "Japan",
@@ -463,6 +447,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "220.92.38.76"
   },
+  "1.239.79.205": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Seongnam-si",
+    "zip": "133",
+    "lat": 37.4331,
+    "lon": 127.1375,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "1.239.79.205"
+  },
   "95.71.228.108": {
     "status": "success",
     "country": "Russia",
@@ -607,6 +607,22 @@
     "as": "AS12768 JSC ER-Telecom Holding",
     "query": "5.166.164.92"
   },
+  "42.118.112.99": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "SG",
+    "regionName": "Ho Chi Minh",
+    "city": "Ho Chi Minh City",
+    "zip": "700000",
+    "lat": 10.822,
+    "lon": 106.6257,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "isp": "FPT Telecom Company",
+    "org": "Vietnam Internet Network Information Center",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "42.118.112.99"
+  },
   "86.102.254.44": {
     "status": "success",
     "country": "Russia",
@@ -655,6 +671,22 @@
     "as": "AS17858 LG POWERCOMM",
     "query": "182.228.199.67"
   },
+  "87.225.127.162": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KHA",
+    "regionName": "Khabarovsk",
+    "city": "Khabarovsk",
+    "zip": "680000",
+    "lat": 48.4817,
+    "lon": 135.083,
+    "timezone": "Asia/Vladivostok",
+    "isp": "Rostelecom networks",
+    "org": "",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "87.225.127.162"
+  },
   "121.135.45.119": {
     "status": "success",
     "country": "South Korea",
@@ -686,22 +718,6 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "218.235.89.115"
-  },
-  "1.220.0.57": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Areannamkwaengi",
-    "zip": "129",
-    "lat": 37.0745,
-    "lon": 127.3264,
-    "timezone": "Asia/Seoul",
-    "isp": "LG DACOM Corporation",
-    "org": "LG Uplus",
-    "as": "AS3786 LG DACOM Corporation",
-    "query": "1.220.0.57"
   },
   "5.143.111.119": {
     "status": "success",
@@ -766,21 +782,5 @@
     "org": "OJSC Rostelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "176.51.129.117"
-  },
-  "202.216.83.48": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "28",
-    "regionName": "Hyōgo",
-    "city": "Kakogawa",
-    "zip": "676-0804",
-    "lat": 34.7718,
-    "lon": 134.8256,
-    "timezone": "Asia/Tokyo",
-    "isp": "BAN",
-    "org": "BAN-BAN Networks Co.LTD",
-    "as": "AS7524 ITEC HANKYU HANSHIN CO.,LTD.",
-    "query": "202.216.83.48"
   }
 }
