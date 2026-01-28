@@ -447,22 +447,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "112.185.246.157"
   },
-  "27.139.98.101": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Shinjuku",
-    "zip": "160-0021",
-    "lat": 35.6918,
-    "lon": 139.7002,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM Co., Ltd.",
-    "org": "Jupiter Telecommunication Co. Ltd",
-    "as": "AS9824 JCOM Co., Ltd.",
-    "query": "27.139.98.101"
-  },
   "218.158.68.238": {
     "status": "success",
     "country": "South Korea",
@@ -478,6 +462,22 @@
     "org": "Korea Telecom",
     "as": "AS4766 Korea Telecom",
     "query": "218.158.68.238"
+  },
+  "27.139.98.101": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Shinjuku",
+    "zip": "160-0021",
+    "lat": 35.6918,
+    "lon": 139.7002,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM Co., Ltd.",
+    "org": "Jupiter Telecommunication Co. Ltd",
+    "as": "AS9824 JCOM Co., Ltd.",
+    "query": "27.139.98.101"
   },
   "175.177.49.119": {
     "status": "success",
