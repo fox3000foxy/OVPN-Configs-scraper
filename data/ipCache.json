@@ -543,22 +543,6 @@
     "as": "AS59108 KATCH NETWORK INC.",
     "query": "219.99.243.172"
   },
-  "113.10.62.80": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Gangnam-gu",
-    "zip": "061",
-    "lat": 37.5093,
-    "lon": 127.0465,
-    "timezone": "Asia/Seoul",
-    "isp": "KangNam CableTV",
-    "org": "DLIVE Gangnam Cable TV",
-    "as": "AS9943 KangNam CableTV",
-    "query": "113.10.62.80"
-  },
   "61.44.169.103": {
     "status": "success",
     "country": "Japan",
