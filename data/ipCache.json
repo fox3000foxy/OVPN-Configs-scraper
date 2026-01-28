@@ -175,6 +175,22 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "180.68.118.32"
   },
+  "211.221.198.244": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Yongin-si",
+    "zip": "171",
+    "lat": 37.1522,
+    "lon": 127.1752,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "sudogwonseobubonbu",
+    "as": "AS4766 Korea Telecom",
+    "query": "211.221.198.244"
+  },
   "114.206.223.158": {
     "status": "success",
     "country": "South Korea",
@@ -270,22 +286,6 @@
     "org": "Lukjanova Lydia Andreevna PE",
     "as": "AS59533 Lukyanov Evgeniy Vladimirovich PE",
     "query": "91.219.203.117"
-  },
-  "118.71.36.23": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "HN",
-    "regionName": "Hanoi",
-    "city": "Hanoi",
-    "zip": "",
-    "lat": 21.0278,
-    "lon": 105.834,
-    "timezone": "Asia/Bangkok",
-    "isp": "FPT Telecom Company",
-    "org": "FPTDYNAMICIP",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "118.71.36.23"
   },
   "180.149.180.47": {
     "status": "success",
@@ -463,22 +463,6 @@
     "as": "AS17858 LG POWERCOMM",
     "query": "115.140.214.190"
   },
-  "36.14.133.245": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "20",
-    "regionName": "Nagano",
-    "city": "Okaya Shi",
-    "zip": "394-0021",
-    "lat": 36.071,
-    "lon": 138.0434,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "36.14.133.245"
-  },
   "112.185.50.153": {
     "status": "success",
     "country": "South Korea",
@@ -526,22 +510,6 @@
     "org": "Vietnam Internet Network Information Center",
     "as": "AS18403 FPT Telecom Company",
     "query": "1.53.186.97"
-  },
-  "185.130.83.204": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "TOM",
-    "regionName": "Tomsk Oblast",
-    "city": "Tomsk",
-    "zip": "634000",
-    "lat": 56.4884,
-    "lon": 84.948,
-    "timezone": "Asia/Tomsk",
-    "isp": "JSC \"ER-Telecom Holding\"",
-    "org": "JSC \"ER-Telecom Holding\" Tomsk Branch",
-    "as": "AS56981 JSC ER-Telecom Holding",
-    "query": "185.130.83.204"
   },
   "190.120.228.141": {
     "status": "success",
@@ -623,21 +591,21 @@
     "as": "AS48524 INTERRA telecommunications group, Ltd.",
     "query": "94.190.121.226"
   },
-  "95.104.177.158": {
+  "39.123.54.41": {
     "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "SAR",
-    "regionName": "Saratov Oblast",
-    "city": "Saratov",
-    "zip": "410040",
-    "lat": 51.5356,
-    "lon": 46.0264,
-    "timezone": "Europe/Saratov",
-    "isp": "MTS PJSC",
-    "org": "",
-    "as": "AS29190 MTS PJSC",
-    "query": "95.104.177.158"
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Yongsan-gu",
+    "zip": "043",
+    "lat": 37.5332,
+    "lon": 126.9692,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "39.123.54.41"
   },
   "109.110.46.232": {
     "status": "success",
