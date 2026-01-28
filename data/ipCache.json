@@ -415,22 +415,6 @@
     "as": "AS9316 DACOM-PUBNETPLUS",
     "query": "125.247.190.47"
   },
-  "124.140.211.196": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Machida",
-    "zip": "194-0041",
-    "lat": 35.5652,
-    "lon": 139.4642,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM Co., Ltd.",
-    "org": "Jupiter Telecommunication Co. Ltd",
-    "as": "AS9824 JCOM Co., Ltd.",
-    "query": "124.140.211.196"
-  },
   "175.135.210.151": {
     "status": "success",
     "country": "Japan",
@@ -495,6 +479,22 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.110.43.151"
   },
+  "49.228.246.254": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "50",
+    "regionName": "Chiang Mai",
+    "city": "Chiang Mai",
+    "zip": "50000",
+    "lat": 18.7857,
+    "lon": 98.9736,
+    "timezone": "Asia/Bangkok",
+    "isp": "Advanced Wireless Network Company Limited",
+    "org": "",
+    "as": "AS133481 AIS Fibre",
+    "query": "49.228.246.254"
+  },
   "14.47.236.6": {
     "status": "success",
     "country": "South Korea",
@@ -558,22 +558,6 @@
     "org": "SK Broadband Co Ltd",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "123.213.125.37"
-  },
-  "58.125.209.98": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "49",
-    "regionName": "Jeju-do",
-    "city": "Jeju City",
-    "zip": "631",
-    "lat": 33.5109,
-    "lon": 126.5264,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "SK Broadband Co Ltd",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "58.125.209.98"
   },
   "221.140.133.139": {
     "status": "success",
@@ -686,21 +670,5 @@
     "org": "JSC \"ER-Telecom Holding\" Nizhny Novgorod",
     "as": "AS42682 JSC ER-Telecom Holding",
     "query": "5.166.213.161"
-  },
-  "31.200.238.193": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PRI",
-    "regionName": "Primorye",
-    "city": "Vladivostok",
-    "zip": "690001",
-    "lat": 43.1068,
-    "lon": 131.8692,
-    "timezone": "Asia/Vladivostok",
-    "isp": "ISP Podryad Nets",
-    "org": "",
-    "as": "AS196949 Natalia Sergeevna Filicheva",
-    "query": "31.200.238.193"
   }
 }
