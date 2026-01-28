@@ -255,22 +255,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.102"
   },
-  "180.149.180.47": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "11",
-    "regionName": "Saitama",
-    "city": "Kawaguchi",
-    "zip": "332-0031",
-    "lat": 35.8147,
-    "lon": 139.7289,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM Co., Ltd.",
-    "org": "JCOM",
-    "as": "AS4721 JCOM Co., Ltd.",
-    "query": "180.149.180.47"
-  },
   "91.219.203.117": {
     "status": "success",
     "country": "Russia",
@@ -302,6 +286,22 @@
     "org": "FPTDYNAMICIP",
     "as": "AS18403 FPT Telecom Company",
     "query": "118.71.36.23"
+  },
+  "180.149.180.47": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "11",
+    "regionName": "Saitama",
+    "city": "Kawaguchi",
+    "zip": "332-0031",
+    "lat": 35.8147,
+    "lon": 139.7289,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM Co., Ltd.",
+    "org": "JCOM",
+    "as": "AS4721 JCOM Co., Ltd.",
+    "query": "180.149.180.47"
   },
   "49.49.199.103": {
     "status": "success",
@@ -543,22 +543,6 @@
     "as": "AS56981 JSC ER-Telecom Holding",
     "query": "185.130.83.204"
   },
-  "133.106.158.212": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Sumiyoshi",
-    "zip": "135-0002",
-    "lat": 35.6887,
-    "lon": 139.815,
-    "timezone": "Asia/Tokyo",
-    "isp": "Rakuten Mobile, Inc.",
-    "org": "RMN",
-    "as": "AS138384 Rakuten Mobile Network, Inc.",
-    "query": "133.106.158.212"
-  },
   "190.120.228.141": {
     "status": "success",
     "country": "Argentina",
@@ -575,22 +559,6 @@
     "as": "AS263812 SONDATECH S.A.S.",
     "query": "190.120.228.141"
   },
-  "27.66.253.97": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "HN",
-    "regionName": "Hanoi",
-    "city": "Hanoi",
-    "zip": "100000",
-    "lat": 21.0184,
-    "lon": 105.8461,
-    "timezone": "Asia/Bangkok",
-    "isp": "Viettel Group",
-    "org": "VIETTEL",
-    "as": "AS7552 Viettel Group",
-    "query": "27.66.253.97"
-  },
   "77.106.61.33": {
     "status": "success",
     "country": "Russia",
@@ -606,6 +574,22 @@
     "org": "",
     "as": "AS12389 PJSC Rostelecom",
     "query": "77.106.61.33"
+  },
+  "42.117.234.186": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "HN",
+    "regionName": "Hanoi",
+    "city": "Hanoi",
+    "zip": "100000",
+    "lat": 21.0184,
+    "lon": 105.8461,
+    "timezone": "Asia/Bangkok",
+    "isp": "FPT Telecom Company",
+    "org": "FPTDYNAMICIP",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "42.117.234.186"
   },
   "125.186.91.205": {
     "status": "success",
@@ -686,6 +670,22 @@
     "org": "Private entrepreneur Chikalin Anatoly Nikolaevich",
     "as": "AS15880 Private entrepreneur Chikalin Anatoly Nikolaevich",
     "query": "46.175.37.209"
+  },
+  "88.206.47.4": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "CHE",
+    "regionName": "Chelyabinsk Oblast",
+    "city": "Chelyabinsk",
+    "zip": "454000",
+    "lat": 55.1586,
+    "lon": 61.4296,
+    "timezone": "Asia/Yekaterinburg",
+    "isp": "Intersvyaz-2 JSC",
+    "org": "",
+    "as": "AS8369 Intersvyaz-2 JSC",
+    "query": "88.206.47.4"
   },
   "179.6.168.57": {
     "status": "success",
