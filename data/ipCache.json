@@ -79,6 +79,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.16"
   },
+  "158.247.187.166": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "KY",
+    "regionName": "Kentucky",
+    "city": "Frankfort",
+    "zip": "40601",
+    "lat": 38.2281,
+    "lon": -84.8697,
+    "timezone": "America/New_York",
+    "isp": "Frankfort Plant Board",
+    "org": "Frankfort Plant Board",
+    "as": "AS26133 Frankfort Plant Board",
+    "query": "158.247.187.166"
+  },
   "219.100.37.208": {
     "status": "success",
     "country": "Japan",
@@ -335,6 +351,38 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "90.150.249.120"
   },
+  "180.196.40.192": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "22",
+    "regionName": "Shizuoka",
+    "city": "Shizuoka",
+    "zip": "420-0861",
+    "lat": 34.9882,
+    "lon": 138.3742,
+    "timezone": "Asia/Tokyo",
+    "isp": "Chubu Telecommunications Company, Inc.",
+    "org": "Chubu Telecommunications Co., Inc.",
+    "as": "AS18126 Chubu Telecommunications Company, Inc.",
+    "query": "180.196.40.192"
+  },
+  "126.28.181.40": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.28.181.40"
+  },
   "1.55.20.162": {
     "status": "success",
     "country": "Vietnam",
@@ -367,22 +415,6 @@
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "116.64.168.73"
   },
-  "60.80.243.29": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "08",
-    "regionName": "Ibaraki",
-    "city": "Koga",
-    "zip": "306-0016",
-    "lat": 36.1833,
-    "lon": 139.717,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan Nation-wide Network of Softbank Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "60.80.243.29"
-  },
   "106.150.72.118": {
     "status": "success",
     "country": "Japan",
@@ -414,22 +446,6 @@
     "org": "LG Uplus",
     "as": "AS9316 DACOM-PUBNETPLUS",
     "query": "125.247.190.47"
-  },
-  "124.140.211.196": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Machida",
-    "zip": "194-0041",
-    "lat": 35.5652,
-    "lon": 139.4642,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM Co., Ltd.",
-    "org": "Jupiter Telecommunication Co. Ltd",
-    "as": "AS9824 JCOM Co., Ltd.",
-    "query": "124.140.211.196"
   },
   "112.185.246.157": {
     "status": "success",
@@ -591,22 +607,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "221.140.133.139"
   },
-  "188.132.184.249": {
-    "status": "success",
-    "country": "Türkiye",
-    "countryCode": "TR",
-    "region": "34",
-    "regionName": "Istanbul",
-    "city": "Istanbul",
-    "zip": "34080",
-    "lat": 41.0329,
-    "lon": 28.9529,
-    "timezone": "Europe/Istanbul",
-    "isp": "Ultahost, Inc.",
-    "org": "Ultahost Hosting VE Veri Merkezi Ltd. STI",
-    "as": "AS214036 Ultahost, Inc.",
-    "query": "188.132.184.249"
-  },
   "90.188.179.121": {
     "status": "success",
     "country": "Russia",
@@ -718,21 +718,5 @@
     "org": "",
     "as": "AS196949 Natalia Sergeevna Filicheva",
     "query": "31.200.233.129"
-  },
-  "212.124.5.167": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "IVA",
-    "regionName": "Ivanovo Oblast",
-    "city": "Ivanovo",
-    "zip": "153000",
-    "lat": 57.0006,
-    "lon": 40.972,
-    "timezone": "Europe/Moscow",
-    "isp": "Macroregional Center",
-    "org": "OJSC Rostelecom",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "212.124.5.167"
   }
 }
