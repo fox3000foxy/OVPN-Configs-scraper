@@ -191,6 +191,22 @@
     "as": "AS17858 LG POWERCOMM",
     "query": "49.174.10.156"
   },
+  "183.99.115.65": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Seongnam-si",
+    "zip": "134",
+    "lat": 37.4062,
+    "lon": 127.1077,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "183.99.115.65"
+  },
   "185.124.155.182": {
     "status": "success",
     "country": "Russia",
@@ -222,22 +238,6 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.102"
-  },
-  "59.7.207.18": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Goyang-si",
-    "zip": "10461",
-    "lat": 37.661,
-    "lon": 126.8324,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "59.7.207.18"
   },
   "219.100.37.50": {
     "status": "success",
@@ -511,6 +511,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.160.25.238"
   },
+  "49.228.246.254": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "50",
+    "regionName": "Chiang Mai",
+    "city": "Chiang Mai",
+    "zip": "50000",
+    "lat": 18.7857,
+    "lon": 98.9736,
+    "timezone": "Asia/Bangkok",
+    "isp": "Advanced Wireless Network Company Limited",
+    "org": "",
+    "as": "AS133481 AIS Fibre",
+    "query": "49.228.246.254"
+  },
   "14.47.236.6": {
     "status": "success",
     "country": "South Korea",
@@ -623,21 +639,21 @@
     "as": "AS44724 Octopusnet LTD",
     "query": "95.154.65.250"
   },
-  "218.158.68.238": {
+  "164.138.90.217": {
     "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "50",
-    "regionName": "Sejong-si",
-    "city": "Sejong",
-    "zip": "301",
-    "lat": 36.5916,
-    "lon": 127.2916,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Korea Telecom",
-    "as": "AS4766 Korea Telecom",
-    "query": "218.158.68.238"
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KHA",
+    "regionName": "Khabarovsk",
+    "city": "Khabarovsk",
+    "zip": "680000",
+    "lat": 48.4817,
+    "lon": 135.083,
+    "timezone": "Asia/Vladivostok",
+    "isp": "JSC \"Redcom-lnternet\"",
+    "org": "Redcom BB Unlim",
+    "as": "AS8749 JSC Redcom-lnternet",
+    "query": "164.138.90.217"
   },
   "5.143.89.139": {
     "status": "success",
@@ -654,22 +670,6 @@
     "org": "OJSC Rostelecom Far-East Region",
     "as": "AS12389 PJSC Rostelecom",
     "query": "5.143.89.139"
-  },
-  "164.138.90.217": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KHA",
-    "regionName": "Khabarovsk",
-    "city": "Khabarovsk",
-    "zip": "680000",
-    "lat": 48.4817,
-    "lon": 135.083,
-    "timezone": "Asia/Vladivostok",
-    "isp": "JSC \"Redcom-lnternet\"",
-    "org": "Redcom BB Unlim",
-    "as": "AS8749 JSC Redcom-lnternet",
-    "query": "164.138.90.217"
   },
   "185.3.181.36": {
     "status": "success",
