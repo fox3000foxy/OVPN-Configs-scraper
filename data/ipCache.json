@@ -671,22 +671,6 @@
     "as": "AS17858 LG POWERCOMM",
     "query": "182.228.199.67"
   },
-  "87.225.127.162": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KHA",
-    "regionName": "Khabarovsk",
-    "city": "Khabarovsk",
-    "zip": "680000",
-    "lat": 48.4817,
-    "lon": 135.083,
-    "timezone": "Asia/Vladivostok",
-    "isp": "Rostelecom networks",
-    "org": "",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "87.225.127.162"
-  },
   "121.135.45.119": {
     "status": "success",
     "country": "South Korea",
@@ -782,5 +766,21 @@
     "org": "OJSC Rostelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "176.51.129.117"
+  },
+  "202.216.83.48": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "28",
+    "regionName": "Hyōgo",
+    "city": "Kakogawa",
+    "zip": "676-0804",
+    "lat": 34.7718,
+    "lon": 134.8256,
+    "timezone": "Asia/Tokyo",
+    "isp": "BAN",
+    "org": "BAN-BAN Networks Co.LTD",
+    "as": "AS7524 ITEC HANKYU HANSHIN CO.,LTD.",
+    "query": "202.216.83.48"
   }
 }
