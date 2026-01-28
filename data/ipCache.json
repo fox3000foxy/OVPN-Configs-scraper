@@ -111,21 +111,21 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.204"
   },
-  "60.36.150.117": {
+  "60.113.239.82": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Miharadai",
-    "zip": "590-0111",
-    "lat": 34.4996,
-    "lon": 135.5485,
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
     "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "NTT Communications Corporation",
-    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
-    "query": "60.36.150.117"
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.113.239.82"
   },
   "126.1.42.49": {
     "status": "success",
@@ -158,6 +158,22 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "59.139.128.191"
+  },
+  "122.210.185.27": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Yokohama",
+    "zip": "231-0841",
+    "lat": 35.4337,
+    "lon": 139.6499,
+    "timezone": "Asia/Tokyo",
+    "isp": "ARTERIA Networks Corporation",
+    "org": "UCOM Corporation",
+    "as": "AS17506 ARTERIA Networks Corporation",
+    "query": "122.210.185.27"
   },
   "180.68.118.32": {
     "status": "success",
@@ -223,22 +239,6 @@
     "as": "AS34858 Telezon-Seti LLC",
     "query": "192.145.96.207"
   },
-  "122.210.185.27": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Yokohama",
-    "zip": "231-0841",
-    "lat": 35.4337,
-    "lon": 139.6499,
-    "timezone": "Asia/Tokyo",
-    "isp": "ARTERIA Networks Corporation",
-    "org": "UCOM Corporation",
-    "as": "AS17506 ARTERIA Networks Corporation",
-    "query": "122.210.185.27"
-  },
   "103.152.178.62": {
     "status": "success",
     "country": "Japan",
@@ -302,22 +302,6 @@
     "org": "JCOM",
     "as": "AS4721 JCOM Co., Ltd.",
     "query": "180.149.180.47"
-  },
-  "49.49.199.103": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "74",
-    "regionName": "Samut Sakhon",
-    "city": "Samut Sakhon",
-    "zip": "74000",
-    "lat": 13.5341,
-    "lon": 100.286,
-    "timezone": "Asia/Bangkok",
-    "isp": "Triple T Broadband Public Company Limited",
-    "org": "Triple T Broadband Public Company Limited",
-    "as": "AS45758 Triple T Broadband Public Company Limited",
-    "query": "49.49.199.103"
   },
   "221.49.114.110": {
     "status": "success",
@@ -462,6 +446,22 @@
     "org": "Xpeed",
     "as": "AS17858 LG POWERCOMM",
     "query": "115.140.214.190"
+  },
+  "1.239.79.205": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Seongnam-si",
+    "zip": "133",
+    "lat": 37.4331,
+    "lon": 127.1375,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "1.239.79.205"
   },
   "112.185.50.153": {
     "status": "success",
@@ -654,22 +654,6 @@
     "org": "",
     "as": "AS8369 Intersvyaz-2 JSC",
     "query": "88.206.47.4"
-  },
-  "179.6.168.57": {
-    "status": "success",
-    "country": "Peru",
-    "countryCode": "PE",
-    "region": "LIM",
-    "regionName": "Lima region",
-    "city": "Independencia",
-    "zip": "",
-    "lat": -11.99,
-    "lon": -77.0458,
-    "timezone": "America/Lima",
-    "isp": "America Movil Peru S.A.C.",
-    "org": "America Movil Peru S.A.C",
-    "as": "AS12252 America Movil Peru S.A.C.",
-    "query": "179.6.168.57"
   },
   "176.51.129.117": {
     "status": "success",
