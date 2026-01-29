@@ -271,22 +271,6 @@
     "as": "AS35816 Lancom Ltd.",
     "query": "5.149.218.158"
   },
-  "103.152.178.62": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-0001",
-    "lat": 35.694,
-    "lon": 139.754,
-    "timezone": "Asia/Tokyo",
-    "isp": "Ayao Takata",
-    "org": "SDCC-East01",
-    "as": "AS38074 SDCC Japan-West Area",
-    "query": "103.152.178.62"
-  },
   "119.235.113.226": {
     "status": "success",
     "country": "Turkmenistan",
@@ -366,6 +350,22 @@
     "org": "TBROAD SaeromNamdongSeohae",
     "as": "AS17597 SK Broadband Co Ltd",
     "query": "61.47.212.110"
+  },
+  "103.152.178.62": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-0001",
+    "lat": 35.694,
+    "lon": 139.754,
+    "timezone": "Asia/Tokyo",
+    "isp": "Ayao Takata",
+    "org": "SDCC-East01",
+    "as": "AS38074 SDCC Japan-West Area",
+    "query": "103.152.178.62"
   },
   "95.154.89.139": {
     "status": "success",
@@ -462,6 +462,22 @@
     "org": "Sony Network Communications Inc.",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "160.86.46.9"
+  },
+  "126.129.242.85": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.129.242.85"
   },
   "221.145.176.163": {
     "status": "success",
@@ -591,21 +607,21 @@
     "as": "AS17939 miyazaki cabletelevision network Co.,LTD",
     "query": "218.216.32.95"
   },
-  "220.86.41.55": {
+  "211.104.222.191": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Gangseo-gu",
-    "zip": "077",
-    "lat": 37.5438,
-    "lon": 126.8538,
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Seo-gu",
+    "zip": "492",
+    "lat": 35.1231,
+    "lon": 129.0184,
     "timezone": "Asia/Seoul",
     "isp": "Korea Telecom",
-    "org": "Kornet",
+    "org": "Korea Telecom",
     "as": "AS4766 Korea Telecom",
-    "query": "220.86.41.55"
+    "query": "211.104.222.191"
   },
   "116.44.113.68": {
     "status": "success",
@@ -719,21 +735,21 @@
     "as": "AS22773 Cox Communications Inc.",
     "query": "70.187.167.138"
   },
-  "82.162.53.8": {
+  "212.164.178.207": {
     "status": "success",
     "country": "Russia",
     "countryCode": "RU",
-    "region": "PRI",
-    "regionName": "Primorye",
-    "city": "Bolshoy Kamen",
-    "zip": "692806",
-    "lat": 43.1193,
-    "lon": 132.3596,
-    "timezone": "Asia/Vladivostok",
-    "isp": "Primorye NET",
-    "org": "",
+    "region": "NVS",
+    "regionName": "Novosibirsk Oblast",
+    "city": "Novosibirsk",
+    "zip": "630000",
+    "lat": 55.0226,
+    "lon": 82.9317,
+    "timezone": "Asia/Novosibirsk",
+    "isp": "Rostelecom networks",
+    "org": "OJSC Sibirtelecom",
     "as": "AS12389 PJSC Rostelecom",
-    "query": "82.162.53.8"
+    "query": "212.164.178.207"
   },
   "212.164.38.239": {
     "status": "success",
@@ -750,22 +766,6 @@
     "org": "OJSC Sibirtelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "212.164.38.239"
-  },
-  "212.164.178.207": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "NVS",
-    "regionName": "Novosibirsk Oblast",
-    "city": "Novosibirsk",
-    "zip": "630000",
-    "lat": 55.0226,
-    "lon": 82.9317,
-    "timezone": "Asia/Novosibirsk",
-    "isp": "Rostelecom networks",
-    "org": "OJSC Sibirtelecom",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "212.164.178.207"
   },
   "95.104.240.54": {
     "status": "success",
