@@ -303,6 +303,22 @@
     "as": "AS12737 KrasPromStroy, LLC",
     "query": "185.124.155.182"
   },
+  "103.152.178.62": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-0001",
+    "lat": 35.694,
+    "lon": 139.754,
+    "timezone": "Asia/Tokyo",
+    "isp": "Ayao Takata",
+    "org": "SDCC-East01",
+    "as": "AS38074 SDCC Japan-West Area",
+    "query": "103.152.178.62"
+  },
   "219.100.37.102": {
     "status": "success",
     "country": "Japan",
@@ -367,22 +383,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "61.255.91.50"
   },
-  "49.167.12.160": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "44",
-    "regionName": "Chungcheongnam-do",
-    "city": "Tangjin",
-    "zip": "317",
-    "lat": 36.8951,
-    "lon": 126.625,
-    "timezone": "Asia/Seoul",
-    "isp": "LG POWERCOMM",
-    "org": "LG POWERCOMM",
-    "as": "AS17858 LG POWERCOMM",
-    "query": "49.167.12.160"
-  },
   "119.237.158.32": {
     "status": "success",
     "country": "Hong Kong",
@@ -398,6 +398,22 @@
     "org": "Hong Kong Telecommunications (HKT) Limited",
     "as": "AS4760 HKT Limited",
     "query": "119.237.158.32"
+  },
+  "49.167.12.160": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "44",
+    "regionName": "Chungcheongnam-do",
+    "city": "Tangjin",
+    "zip": "317",
+    "lat": 36.8951,
+    "lon": 126.625,
+    "timezone": "Asia/Seoul",
+    "isp": "LG POWERCOMM",
+    "org": "LG POWERCOMM",
+    "as": "AS17858 LG POWERCOMM",
+    "query": "49.167.12.160"
   },
   "222.14.54.111": {
     "status": "success",
@@ -447,22 +463,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "14.51.87.179"
   },
-  "122.103.113.207": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0071",
-    "lat": 35.6837,
-    "lon": 139.6805,
-    "timezone": "Asia/Tokyo",
-    "isp": "ARTERIA Networks Corporation",
-    "org": "ARTERIA Networks Corporation",
-    "as": "AS2519 ARTERIA Networks Corporation",
-    "query": "122.103.113.207"
-  },
   "116.64.168.73": {
     "status": "success",
     "country": "Japan",
@@ -478,6 +478,22 @@
     "org": "Jupiter Telecommunication Co. Ltd",
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "116.64.168.73"
+  },
+  "122.103.113.207": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tokyo",
+    "zip": "151-0071",
+    "lat": 35.6837,
+    "lon": 139.6805,
+    "timezone": "Asia/Tokyo",
+    "isp": "ARTERIA Networks Corporation",
+    "org": "ARTERIA Networks Corporation",
+    "as": "AS2519 ARTERIA Networks Corporation",
+    "query": "122.103.113.207"
   },
   "122.133.194.209": {
     "status": "success",
@@ -607,22 +623,6 @@
     "as": "AS9316 DACOM-PUBNETPLUS",
     "query": "125.247.190.47"
   },
-  "121.133.173.79": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Seongnam-si",
-    "zip": "135",
-    "lat": 37.377,
-    "lon": 127.1091,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "121.133.173.79"
-  },
   "24.253.99.103": {
     "status": "success",
     "country": "United States",
@@ -702,21 +702,5 @@
     "org": "OJSC Far Eastern Telecommunications Company Amursky st.",
     "as": "AS12389 PJSC Rostelecom",
     "query": "79.105.117.59"
-  },
-  "126.214.222.143": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.214.222.143"
   }
 }
