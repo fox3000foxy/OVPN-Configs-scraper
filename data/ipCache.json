@@ -559,22 +559,6 @@
     "as": "AS9605 NTT DOCOMO, INC.",
     "query": "1.66.34.134"
   },
-  "153.144.240.2": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "08",
-    "regionName": "Ibaraki",
-    "city": "Mito",
-    "zip": "310-0851",
-    "lat": 36.3566,
-    "lon": 140.4623,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "NTT Communications Corporation",
-    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
-    "query": "153.144.240.2"
-  },
   "133.149.90.83": {
     "status": "success",
     "country": "Japan",
@@ -590,6 +574,22 @@
     "org": "Marubeni OKI Network Solutions Inc.",
     "as": "AS9354 Community Network Center Inc.",
     "query": "133.149.90.83"
+  },
+  "153.144.240.2": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "08",
+    "regionName": "Ibaraki",
+    "city": "Mito",
+    "zip": "310-0851",
+    "lat": 36.3566,
+    "lon": 140.4623,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "NTT Communications Corporation",
+    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
+    "query": "153.144.240.2"
   },
   "222.114.218.186": {
     "status": "success",
