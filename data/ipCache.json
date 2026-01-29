@@ -511,21 +511,21 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "175.122.73.80"
   },
-  "14.39.218.24": {
+  "221.158.167.4": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Yeongdeungpo-gu",
-    "zip": "073",
-    "lat": 37.5156,
-    "lon": 126.9111,
+    "region": "44",
+    "regionName": "Chungcheongnam-do",
+    "city": "Boryeong",
+    "zip": "334",
+    "lat": 36.352,
+    "lon": 126.6023,
     "timezone": "Asia/Seoul",
     "isp": "Korea Telecom",
-    "org": "Kornet",
+    "org": "Korea Telecom",
     "as": "AS4766 Korea Telecom",
-    "query": "14.39.218.24"
+    "query": "221.158.167.4"
   },
   "222.119.6.4": {
     "status": "success",
@@ -591,22 +591,6 @@
     "as": "AS42038 Krivets Sergey Sergeevich",
     "query": "46.37.129.89"
   },
-  "175.124.82.169": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Dongdaemun",
-    "zip": "024",
-    "lat": 37.5841,
-    "lon": 127.0616,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "SK Broadband Co Ltd",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "175.124.82.169"
-  },
   "99.235.28.174": {
     "status": "success",
     "country": "Canada",
@@ -654,5 +638,21 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.251.45.198"
+  },
+  "14.39.218.24": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Yeongdeungpo-gu",
+    "zip": "073",
+    "lat": 37.5156,
+    "lon": 126.9111,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "14.39.218.24"
   }
 }
