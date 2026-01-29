@@ -159,6 +159,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "221.144.197.228"
   },
+  "115.78.10.208": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "SG",
+    "regionName": "Ho Chi Minh",
+    "city": "Ho Chi Minh City",
+    "zip": "700000",
+    "lat": 10.822,
+    "lon": 106.6257,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "isp": "VIETELftth",
+    "org": "",
+    "as": "AS7552 Viettel Group",
+    "query": "115.78.10.208"
+  },
   "118.33.153.180": {
     "status": "success",
     "country": "South Korea",
@@ -174,6 +190,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "118.33.153.180"
+  },
+  "126.109.156.167": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.109.156.167"
   },
   "153.151.248.167": {
     "status": "success",
@@ -238,6 +270,22 @@
     "org": "Japan nation-wide Network of SOFTBANK Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "220.57.96.201"
+  },
+  "119.24.254.96": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "28",
+    "regionName": "Hyōgo",
+    "city": "Kobe",
+    "zip": "650-0011",
+    "lat": 34.6922,
+    "lon": 135.1816,
+    "timezone": "Asia/Tokyo",
+    "isp": "HCT",
+    "org": "Jupiter Telecommunications Co., Ltd.",
+    "as": "AS9617 JCOM Co., Ltd.",
+    "query": "119.24.254.96"
   },
   "95.170.177.6": {
     "status": "success",
@@ -335,6 +383,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "14.42.68.244"
   },
+  "121.151.184.154": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "47",
+    "regionName": "Gyeongsangbuk-do",
+    "city": "Pohang",
+    "zip": "37774",
+    "lat": 36.0305,
+    "lon": 129.3729,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "121.151.184.154"
+  },
   "95.70.55.29": {
     "status": "success",
     "country": "Russia",
@@ -398,54 +462,6 @@
     "org": "JCOM Co., Ltd",
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "119.175.44.34"
-  },
-  "112.184.70.55": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "45",
-    "regionName": "Jeollabuk-do",
-    "city": "Jeonju",
-    "zip": "549",
-    "lat": 35.8345,
-    "lon": 127.1057,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Korea Telecom",
-    "as": "AS4766 Korea Telecom",
-    "query": "112.184.70.55"
-  },
-  "211.37.56.176": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Seongdong-gu",
-    "zip": "047",
-    "lat": 37.5511,
-    "lon": 127.0387,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "211.37.56.176"
-  },
-  "222.4.112.69": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "34",
-    "regionName": "Hiroshima",
-    "city": "Fukuyama",
-    "zip": "720-0841",
-    "lat": 34.4804,
-    "lon": 133.3716,
-    "timezone": "Asia/Tokyo",
-    "isp": "DION (KDDI CORPORATION)",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "222.4.112.69"
   },
   "61.206.78.196": {
     "status": "success",
@@ -606,6 +622,22 @@
     "org": "Korea Telecom",
     "as": "AS4766 Korea Telecom",
     "query": "222.114.218.186"
+  },
+  "122.203.244.115": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Seongdong-gu",
+    "zip": "047",
+    "lat": 37.5511,
+    "lon": 127.0387,
+    "timezone": "Asia/Seoul",
+    "isp": "DACOM-PUBNETPLUS",
+    "org": "Pubnetplus",
+    "as": "AS9316 DACOM-PUBNETPLUS",
+    "query": "122.203.244.115"
   },
   "78.29.43.182": {
     "status": "success",
