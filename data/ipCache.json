@@ -239,22 +239,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "59.7.207.18"
   },
-  "185.124.155.182": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "NVS",
-    "regionName": "Novosibirsk Oblast",
-    "city": "Novosibirsk",
-    "zip": "",
-    "lat": 54.9833,
-    "lon": 82.8964,
-    "timezone": "Asia/Novosibirsk",
-    "isp": "KrasPromStroy, LLC",
-    "org": "",
-    "as": "AS12737 KrasPromStroy, LLC",
-    "query": "185.124.155.182"
-  },
   "183.99.115.65": {
     "status": "success",
     "country": "South Korea",
@@ -270,6 +254,22 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "183.99.115.65"
+  },
+  "185.124.155.182": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "NVS",
+    "regionName": "Novosibirsk Oblast",
+    "city": "Novosibirsk",
+    "zip": "",
+    "lat": 54.9833,
+    "lon": 82.8964,
+    "timezone": "Asia/Novosibirsk",
+    "isp": "KrasPromStroy, LLC",
+    "org": "",
+    "as": "AS12737 KrasPromStroy, LLC",
+    "query": "185.124.155.182"
   },
   "218.148.187.249": {
     "status": "success",
@@ -334,22 +334,6 @@
     "org": "Dynamic distribution IPs for broadband services",
     "as": "AS12389 PJSC Rostelecom",
     "query": "90.150.249.120"
-  },
-  "125.143.53.182": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Hwaseong-si",
-    "zip": "184",
-    "lat": 37.2072,
-    "lon": 126.8168,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "125.143.53.182"
   },
   "49.167.12.160": {
     "status": "success",
@@ -511,22 +495,6 @@
     "as": "AS18403 FPT Telecom Company",
     "query": "1.53.159.141"
   },
-  "115.124.252.21": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "44",
-    "regionName": "Oita",
-    "city": "Ōita",
-    "zip": "870-0831",
-    "lat": 33.229,
-    "lon": 131.6039,
-    "timezone": "Asia/Tokyo",
-    "isp": "QTnet, Inc.",
-    "org": "QTnet, Inc.",
-    "as": "AS7679 QTnet,Inc.",
-    "query": "115.124.252.21"
-  },
   "2.61.228.96": {
     "status": "success",
     "country": "Russia",
@@ -542,6 +510,22 @@
     "org": "OJSC Sibirtelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "2.61.228.96"
+  },
+  "27.139.98.101": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Shinjuku",
+    "zip": "160-0021",
+    "lat": 35.6918,
+    "lon": 139.7002,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM Co., Ltd.",
+    "org": "Jupiter Telecommunication Co. Ltd",
+    "as": "AS9824 JCOM Co., Ltd.",
+    "query": "27.139.98.101"
   },
   "125.247.190.47": {
     "status": "success",
@@ -574,22 +558,6 @@
     "org": "NTT Communications Corporation",
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "118.21.15.118"
-  },
-  "27.139.98.101": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Shinjuku",
-    "zip": "160-0021",
-    "lat": 35.6918,
-    "lon": 139.7002,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM Co., Ltd.",
-    "org": "Jupiter Telecommunication Co. Ltd",
-    "as": "AS9824 JCOM Co., Ltd.",
-    "query": "27.139.98.101"
   },
   "24.253.99.103": {
     "status": "success",
