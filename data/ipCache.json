@@ -367,22 +367,6 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "153.151.220.10"
   },
-  "119.237.158.32": {
-    "status": "success",
-    "country": "Hong Kong",
-    "countryCode": "HK",
-    "region": "NKT",
-    "regionName": "Kwai Tsing District",
-    "city": "Kau Wa Keng",
-    "zip": "",
-    "lat": 22.3459,
-    "lon": 114.137,
-    "timezone": "Asia/Hong_Kong",
-    "isp": "Hong Kong Telecommunications (HKT) Limited Mass Internet",
-    "org": "Hong Kong Telecommunications (HKT) Limited",
-    "as": "AS4760 HKT Limited",
-    "query": "119.237.158.32"
-  },
   "49.167.12.160": {
     "status": "success",
     "country": "South Korea",
@@ -398,6 +382,22 @@
     "org": "LG POWERCOMM",
     "as": "AS17858 LG POWERCOMM",
     "query": "49.167.12.160"
+  },
+  "119.237.158.32": {
+    "status": "success",
+    "country": "Hong Kong",
+    "countryCode": "HK",
+    "region": "NKT",
+    "regionName": "Kwai Tsing District",
+    "city": "Kau Wa Keng",
+    "zip": "",
+    "lat": 22.3459,
+    "lon": 114.137,
+    "timezone": "Asia/Hong_Kong",
+    "isp": "Hong Kong Telecommunications (HKT) Limited Mass Internet",
+    "org": "Hong Kong Telecommunications (HKT) Limited",
+    "as": "AS4760 HKT Limited",
+    "query": "119.237.158.32"
   },
   "222.14.54.111": {
     "status": "success",
