@@ -127,22 +127,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.208"
   },
-  "104.28.204.107": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Kawasaki",
-    "zip": "210-0835",
-    "lat": 35.5181,
-    "lon": 139.7226,
-    "timezone": "Asia/Tokyo",
-    "isp": "Cloudflare, Inc.",
-    "org": "Cloudflare WARP",
-    "as": "AS13335 Cloudflare, Inc.",
-    "query": "104.28.204.107"
-  },
   "219.100.37.204": {
     "status": "success",
     "country": "Japan",
@@ -158,6 +142,22 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.204"
+  },
+  "104.28.204.107": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Kawasaki",
+    "zip": "210-0835",
+    "lat": 35.5181,
+    "lon": 139.7226,
+    "timezone": "Asia/Tokyo",
+    "isp": "Cloudflare, Inc.",
+    "org": "Cloudflare WARP",
+    "as": "AS13335 Cloudflare, Inc.",
+    "query": "104.28.204.107"
   },
   "60.113.239.82": {
     "status": "success",
