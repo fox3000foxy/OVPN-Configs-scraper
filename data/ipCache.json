@@ -479,21 +479,21 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "92.126.30.1"
   },
-  "118.106.70.46": {
+  "111.105.129.245": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "23",
-    "regionName": "Aichi",
-    "city": "Nagoya",
-    "zip": "462-0841",
-    "lat": 35.1926,
-    "lon": 136.906,
+    "region": "28",
+    "regionName": "Hyōgo",
+    "city": "Kobe",
+    "zip": "650-0011",
+    "lat": 34.6922,
+    "lon": 135.1816,
     "timezone": "Asia/Tokyo",
-    "isp": "Chubu Telecommunications Company, Inc.",
-    "org": "Chubu Telecommunications Co., Inc.",
-    "as": "AS18126 Chubu Telecommunications Company, Inc.",
-    "query": "118.106.70.46"
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "111.105.129.245"
   },
   "115.22.254.150": {
     "status": "success",
@@ -590,6 +590,22 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "58.123.159.246"
+  },
+  "31.162.154.144": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KHM",
+    "regionName": "Khanty-Mansia",
+    "city": "Sovetskiy",
+    "zip": "628240",
+    "lat": 61.3642,
+    "lon": 63.5723,
+    "timezone": "Asia/Yekaterinburg",
+    "isp": "Rostelecom networks",
+    "org": "Dynamic distribution IPs for broadband services",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "31.162.154.144"
   },
   "14.232.189.40": {
     "status": "success",
