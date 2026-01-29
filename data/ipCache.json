@@ -431,6 +431,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "14.51.87.179"
   },
+  "116.64.168.73": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Kamimizo",
+    "zip": "252-0241",
+    "lat": 35.5687,
+    "lon": 139.3603,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM Co., Ltd.",
+    "org": "Jupiter Telecommunication Co. Ltd",
+    "as": "AS9824 JCOM Co., Ltd.",
+    "query": "116.64.168.73"
+  },
   "122.103.113.207": {
     "status": "success",
     "country": "Japan",
@@ -574,22 +590,6 @@
     "org": "",
     "as": "AS44724 Octopusnet LTD",
     "query": "95.154.65.250"
-  },
-  "212.14.208.62": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "MAG",
-    "regionName": "Magadan Oblast",
-    "city": "Magadan",
-    "zip": "685000",
-    "lat": 59.5686,
-    "lon": 150.8133,
-    "timezone": "Asia/Magadan",
-    "isp": "Telephone&Telegraph Station",
-    "org": "Far East Telecommunications Company",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "212.14.208.62"
   },
   "5.143.106.40": {
     "status": "success",
