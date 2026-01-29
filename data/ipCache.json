@@ -367,22 +367,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "114.204.37.77"
   },
-  "220.92.38.76": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "48",
-    "regionName": "Gyeongsangnam-do",
-    "city": "Changwon",
-    "zip": "511",
-    "lat": 35.2733,
-    "lon": 128.653,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "220.92.38.76"
-  },
   "116.34.216.160": {
     "status": "success",
     "country": "South Korea",
@@ -447,22 +431,6 @@
     "as": "AS328242 IP Labs Communications (Pty) Ltd",
     "query": "102.23.168.42"
   },
-  "171.4.236.153": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "50",
-    "regionName": "Chiang Mai",
-    "city": "Chiang Mai",
-    "zip": "50210",
-    "lat": 18.8514,
-    "lon": 99.0412,
-    "timezone": "Asia/Bangkok",
-    "isp": "Triple T Broadband Public Company Limited",
-    "org": "Triple T Broadband Public Company Limited",
-    "as": "AS45758 Triple T Broadband Public Company Limited",
-    "query": "171.4.236.153"
-  },
   "218.223.224.245": {
     "status": "success",
     "country": "Japan",
@@ -478,6 +446,22 @@
     "org": "Japan Network Information Center",
     "as": "AS18283 Chupicom Inc.",
     "query": "218.223.224.245"
+  },
+  "171.4.236.153": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "50",
+    "regionName": "Chiang Mai",
+    "city": "Chiang Mai",
+    "zip": "50210",
+    "lat": 18.8514,
+    "lon": 99.0412,
+    "timezone": "Asia/Bangkok",
+    "isp": "Triple T Broadband Public Company Limited",
+    "org": "Triple T Broadband Public Company Limited",
+    "as": "AS45758 Triple T Broadband Public Company Limited",
+    "query": "171.4.236.153"
   },
   "203.140.246.210": {
     "status": "success",
@@ -623,22 +607,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "31.162.154.144"
   },
-  "2.62.30.56": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KEM",
-    "regionName": "Kemerovo Oblast",
-    "city": "Novokuznetsk",
-    "zip": "654014",
-    "lat": 53.7575,
-    "lon": 87.136,
-    "timezone": "Asia/Novokuznetsk",
-    "isp": "Rostelecom networks",
-    "org": "OJSC Rostelecom",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "2.62.30.56"
-  },
   "14.232.189.40": {
     "status": "success",
     "country": "Vietnam",
@@ -654,6 +622,22 @@
     "org": "Vietnam Posts and Telecommunications Group",
     "as": "AS45899 VNPT Corp",
     "query": "14.232.189.40"
+  },
+  "2.62.30.56": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KEM",
+    "regionName": "Kemerovo Oblast",
+    "city": "Novokuznetsk",
+    "zip": "654014",
+    "lat": 53.7575,
+    "lon": 87.136,
+    "timezone": "Asia/Novokuznetsk",
+    "isp": "Rostelecom networks",
+    "org": "OJSC Rostelecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "2.62.30.56"
   },
   "5.141.48.38": {
     "status": "success",
