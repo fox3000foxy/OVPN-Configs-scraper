@@ -383,6 +383,22 @@
     "as": "AS17858 LG POWERCOMM",
     "query": "116.34.216.160"
   },
+  "78.63.51.6": {
+    "status": "success",
+    "country": "Lithuania",
+    "countryCode": "LT",
+    "region": "PN",
+    "regionName": "Panevėžys",
+    "city": "Panevezys",
+    "zip": "38082",
+    "lat": 55.7309,
+    "lon": 24.3526,
+    "timezone": "Europe/Vilnius",
+    "isp": "Telia Lietuva",
+    "org": "Telia Lietuva, AB",
+    "as": "AS8764 Telia Lietuva, AB",
+    "query": "78.63.51.6"
+  },
   "1.53.194.142": {
     "status": "success",
     "country": "Vietnam",
@@ -414,22 +430,6 @@
     "org": "IPComms",
     "as": "AS328242 IP Labs Communications (Pty) Ltd",
     "query": "102.23.168.42"
-  },
-  "126.90.30.188": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.90.30.188"
   },
   "171.4.236.153": {
     "status": "success",
