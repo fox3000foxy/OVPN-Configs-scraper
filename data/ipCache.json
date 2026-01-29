@@ -175,6 +175,22 @@
     "as": "AS17506 ARTERIA Networks Corporation",
     "query": "122.210.185.27"
   },
+  "126.1.42.49": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.1.42.49"
+  },
   "131.147.142.132": {
     "status": "success",
     "country": "Japan",
@@ -399,6 +415,22 @@
     "as": "AS17858 LG POWERCOMM",
     "query": "116.34.216.160"
   },
+  "36.14.133.245": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "20",
+    "regionName": "Nagano",
+    "city": "Okaya Shi",
+    "zip": "394-0021",
+    "lat": 36.071,
+    "lon": 138.0434,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "36.14.133.245"
+  },
   "220.92.38.76": {
     "status": "success",
     "country": "South Korea",
@@ -462,38 +494,6 @@
     "org": "IPComms",
     "as": "AS328242 IP Labs Communications (Pty) Ltd",
     "query": "102.23.168.42"
-  },
-  "218.223.224.245": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "34",
-    "regionName": "Hiroshima",
-    "city": "Hiroshima",
-    "zip": "730-0841",
-    "lat": 34.3895,
-    "lon": 132.4527,
-    "timezone": "Asia/Tokyo",
-    "isp": "Chupicom Inc.",
-    "org": "Japan Network Information Center",
-    "as": "AS18283 Chupicom Inc.",
-    "query": "218.223.224.245"
-  },
-  "171.4.236.153": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "50",
-    "regionName": "Chiang Mai",
-    "city": "Chiang Mai",
-    "zip": "50210",
-    "lat": 18.8514,
-    "lon": 99.0412,
-    "timezone": "Asia/Bangkok",
-    "isp": "Triple T Broadband Public Company Limited",
-    "org": "Triple T Broadband Public Company Limited",
-    "as": "AS45758 Triple T Broadband Public Company Limited",
-    "query": "171.4.236.153"
   },
   "203.140.246.210": {
     "status": "success",
