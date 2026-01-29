@@ -559,6 +559,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.167.90.44"
   },
+  "116.121.181.6": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Suwon",
+    "zip": "165",
+    "lat": 37.2677,
+    "lon": 127.0457,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "116.121.181.6"
+  },
   "222.119.6.4": {
     "status": "success",
     "country": "South Korea",
@@ -607,21 +623,21 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "180.57.87.28"
   },
-  "121.161.37.187": {
+  "14.186.98.252": {
     "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Goyang-si",
-    "zip": "104",
-    "lat": 37.6392,
-    "lon": 126.8375,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "121.161.37.187"
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "SG",
+    "regionName": "Ho Chi Minh",
+    "city": "Ho Chi Minh City",
+    "zip": "700000",
+    "lat": 10.822,
+    "lon": 106.6257,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "isp": "VNPT",
+    "org": "Vietnam Posts and Telecommunications Group",
+    "as": "AS45899 VNPT Corp",
+    "query": "14.186.98.252"
   },
   "46.37.129.89": {
     "status": "success",
@@ -654,5 +670,37 @@
     "org": "Rogers Cable Inc. GRNSBR",
     "as": "AS812 Rogers Communications Canada Inc.",
     "query": "99.235.28.174"
+  },
+  "94.245.172.40": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "SA",
+    "regionName": "Sakha",
+    "city": "Yakutsk",
+    "zip": "677000",
+    "lat": 62.0313,
+    "lon": 129.7325,
+    "timezone": "Asia/Yakutsk",
+    "isp": "Sakhatelecom",
+    "org": "",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "94.245.172.40"
+  },
+  "1.251.45.198": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "47",
+    "regionName": "Gyeongsangbuk-do",
+    "city": "Gyeongsan-si",
+    "zip": "385",
+    "lat": 35.8395,
+    "lon": 128.7655,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "1.251.45.198"
   }
 }
