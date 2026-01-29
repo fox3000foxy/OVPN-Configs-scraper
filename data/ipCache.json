@@ -734,5 +734,21 @@
     "org": "",
     "as": "AS196949 Natalia Sergeevna Filicheva",
     "query": "31.200.233.129"
+  },
+  "79.105.117.59": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "AMU",
+    "regionName": "Amur Oblast",
+    "city": "Blagoveshchensk",
+    "zip": "675000",
+    "lat": 50.2828,
+    "lon": 127.5299,
+    "timezone": "Asia/Yakutsk",
+    "isp": "Rostelecom networks",
+    "org": "OJSC Far Eastern Telecommunications Company Amursky st.",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "79.105.117.59"
   }
 }
