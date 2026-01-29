@@ -159,21 +159,21 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.113.239.82"
   },
-  "126.1.42.49": {
+  "60.36.150.117": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Miharadai",
+    "zip": "590-0111",
+    "lat": 34.4996,
+    "lon": 135.5485,
     "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.1.42.49"
+    "isp": "NTT Communications Corporation",
+    "org": "NTT Communications Corporation",
+    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
+    "query": "60.36.150.117"
   },
   "122.210.185.27": {
     "status": "success",
@@ -207,22 +207,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.246.154.63"
   },
-  "60.36.150.117": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Miharadai",
-    "zip": "590-0111",
-    "lat": 34.4996,
-    "lon": 135.5485,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "NTT Communications Corporation",
-    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
-    "query": "60.36.150.117"
-  },
   "115.65.23.149": {
     "status": "success",
     "country": "Japan",
@@ -255,21 +239,21 @@
     "as": "AS38074 SDCC Japan-West Area",
     "query": "103.152.178.62"
   },
-  "221.49.114.110": {
+  "219.100.37.102": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
     "region": "13",
     "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
     "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan nation-wide Network of SOFTBANK BB Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "221.49.114.110"
+    "isp": "SoftEther",
+    "org": "SoftEther Corporation",
+    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
+    "query": "219.100.37.102"
   },
   "1.232.152.53": {
     "status": "success",
@@ -286,6 +270,22 @@
     "org": "SK Broadband Co Ltd",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.232.152.53"
+  },
+  "133.203.3.237": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "04",
+    "regionName": "Miyagi",
+    "city": "Dainohara",
+    "zip": "981-0911",
+    "lat": 38.2921,
+    "lon": 140.8796,
+    "timezone": "Asia/Tokyo",
+    "isp": "BIGLOBE Inc.",
+    "org": "NEC BIGLOBE Ltd.",
+    "as": "AS2518 BIGLOBE Inc.",
+    "query": "133.203.3.237"
   },
   "118.69.85.114": {
     "status": "success",
@@ -431,6 +431,22 @@
     "as": "AS18403 FPT Telecom Company",
     "query": "1.53.186.97"
   },
+  "58.95.83.60": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "40",
+    "regionName": "Fukuoka",
+    "city": "Meinohama",
+    "zip": "819-0001",
+    "lat": 33.5895,
+    "lon": 130.3197,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "NTT Communications Corporation",
+    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
+    "query": "58.95.83.60"
+  },
   "220.125.51.211": {
     "status": "success",
     "country": "South Korea",
@@ -479,6 +495,38 @@
     "as": "AS4766 Korea Telecom",
     "query": "211.194.240.41"
   },
+  "59.140.6.12": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "04",
+    "regionName": "Miyagi",
+    "city": "Masuda",
+    "zip": "981-1221",
+    "lat": 38.1805,
+    "lon": 140.8679,
+    "timezone": "Asia/Tokyo",
+    "isp": "DION (KDDI CORPORATION)",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "59.140.6.12"
+  },
+  "94.190.121.226": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "SVE",
+    "regionName": "Sverdlovsk Oblast",
+    "city": "Pervouralsk",
+    "zip": "623109",
+    "lat": 56.9045,
+    "lon": 59.9367,
+    "timezone": "Asia/Yekaterinburg",
+    "isp": "VPN (PPTP) and non-VPN customers Lesnoy Sverdlovsk reg. Interra Ltd.",
+    "org": "\"Interra\" Ltd.",
+    "as": "AS48524 INTERRA telecommunications group, Ltd.",
+    "query": "94.190.121.226"
+  },
   "92.126.30.1": {
     "status": "success",
     "country": "Russia",
@@ -510,6 +558,22 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.236.146.57"
+  },
+  "175.114.235.3": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Seoul",
+    "zip": "045",
+    "lat": 37.5656,
+    "lon": 126.978,
+    "timezone": "Asia/Seoul",
+    "isp": "broadNnet",
+    "org": "",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "175.114.235.3"
   },
   "109.110.46.232": {
     "status": "success",
@@ -591,22 +655,6 @@
     "as": "AS9595 NTT-ME Corporation",
     "query": "124.44.10.44"
   },
-  "218.235.89.115": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Yongsan-gu",
-    "zip": "044",
-    "lat": 37.5157,
-    "lon": 126.9702,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "218.235.89.115"
-  },
   "1.252.99.217": {
     "status": "success",
     "country": "South Korea",
@@ -623,22 +671,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.252.99.217"
   },
-  "149.40.62.53": {
-    "status": "success",
-    "country": "United States",
-    "countryCode": "US",
-    "region": "WA",
-    "regionName": "Washington",
-    "city": "Seattle",
-    "zip": "98160",
-    "lat": 47.6109,
-    "lon": -122.3303,
-    "timezone": "America/Los_Angeles",
-    "isp": "Datacamp Limited",
-    "org": "Datacamp Limited",
-    "as": "AS212238 Datacamp Limited",
-    "query": "149.40.62.53"
-  },
   "176.51.129.117": {
     "status": "success",
     "country": "Russia",
@@ -654,6 +686,22 @@
     "org": "OJSC Rostelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "176.51.129.117"
+  },
+  "77.34.10.122": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Vladivostok",
+    "zip": "690001",
+    "lat": 43.1068,
+    "lon": 131.8692,
+    "timezone": "Asia/Vladivostok",
+    "isp": "PJSC Rostelecom",
+    "org": "",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "77.34.10.122"
   },
   "178.185.151.117": {
     "status": "success",
