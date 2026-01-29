@@ -447,22 +447,6 @@
     "as": "AS48043 Ozyorsk Telecom CJSC.",
     "query": "185.190.42.79"
   },
-  "176.208.33.18": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "NVS",
-    "regionName": "Novosibirsk Oblast",
-    "city": "Novosibirsk",
-    "zip": "630000",
-    "lat": 55.0226,
-    "lon": 82.9317,
-    "timezone": "Asia/Novosibirsk",
-    "isp": "PJSC Rostelecom",
-    "org": "JSC Rostelecom regional branch \"Siberia\"",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "176.208.33.18"
-  },
   "176.193.230.49": {
     "status": "success",
     "country": "Russia",
