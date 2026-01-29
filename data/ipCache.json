@@ -399,22 +399,6 @@
     "as": "AS7522 STNet, Incorporated",
     "query": "101.1.240.208"
   },
-  "118.108.56.233": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0071",
-    "lat": 35.6837,
-    "lon": 139.6805,
-    "timezone": "Asia/Tokyo",
-    "isp": "BIGLOBE Inc.",
-    "org": "BIGLOBE",
-    "as": "AS2518 BIGLOBE Inc.",
-    "query": "118.108.56.233"
-  },
   "119.238.79.106": {
     "status": "success",
     "country": "Japan",
@@ -430,6 +414,22 @@
     "org": "BIGLOBE",
     "as": "AS2518 BIGLOBE Inc.",
     "query": "119.238.79.106"
+  },
+  "118.108.56.233": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tokyo",
+    "zip": "151-0071",
+    "lat": 35.6837,
+    "lon": 139.6805,
+    "timezone": "Asia/Tokyo",
+    "isp": "BIGLOBE Inc.",
+    "org": "BIGLOBE",
+    "as": "AS2518 BIGLOBE Inc.",
+    "query": "118.108.56.233"
   },
   "1.66.34.134": {
     "status": "success",
@@ -671,22 +671,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "77.35.42.209"
   },
-  "118.37.33.91": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Gangseo-gu",
-    "zip": "076",
-    "lat": 37.5438,
-    "lon": 126.8538,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Sudogwonseobubonbu",
-    "as": "AS4766 Korea Telecom",
-    "query": "118.37.33.91"
-  },
   "49.175.89.36": {
     "status": "success",
     "country": "South Korea",
@@ -703,22 +687,6 @@
     "as": "AS17858 LG POWERCOMM",
     "query": "49.175.89.36"
   },
-  "115.140.205.9": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "30",
-    "regionName": "Daejeon",
-    "city": "Yuseong-gu",
-    "zip": "340",
-    "lat": 36.3924,
-    "lon": 127.4106,
-    "timezone": "Asia/Seoul",
-    "isp": "LG POWERCOMM",
-    "org": "Xpeed",
-    "as": "AS17858 LG POWERCOMM",
-    "query": "115.140.205.9"
-  },
   "86.102.10.37": {
     "status": "success",
     "country": "Russia",
@@ -734,5 +702,21 @@
     "org": "",
     "as": "AS12389 PJSC Rostelecom",
     "query": "86.102.10.37"
+  },
+  "115.140.205.9": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "30",
+    "regionName": "Daejeon",
+    "city": "Yuseong-gu",
+    "zip": "340",
+    "lat": 36.3924,
+    "lon": 127.4106,
+    "timezone": "Asia/Seoul",
+    "isp": "LG POWERCOMM",
+    "org": "Xpeed",
+    "as": "AS17858 LG POWERCOMM",
+    "query": "115.140.205.9"
   }
 }
