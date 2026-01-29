@@ -207,6 +207,22 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "111.238.189.171"
   },
+  "124.255.80.220": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "23",
+    "regionName": "Aichi",
+    "city": "Nagoya",
+    "zip": "461-0001",
+    "lat": 35.1796,
+    "lon": 136.9166,
+    "timezone": "Asia/Tokyo",
+    "isp": "FreeBit Co., Ltd.",
+    "org": "FreeBit Co., Ltd.",
+    "as": "AS10013 FreeBit Co.,Ltd.",
+    "query": "124.255.80.220"
+  },
   "118.240.68.160": {
     "status": "success",
     "country": "Japan",
@@ -287,22 +303,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "121.106.148.235"
   },
-  "219.100.37.102": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftEther",
-    "org": "SoftEther Corporation",
-    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.102"
-  },
   "5.143.108.24": {
     "status": "success",
     "country": "Russia",
@@ -319,22 +319,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "5.143.108.24"
   },
-  "221.45.99.215": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan nation-wide Network of SOFTBANK BB Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "221.45.99.215"
-  },
   "112.220.30.58": {
     "status": "success",
     "country": "South Korea",
@@ -350,6 +334,22 @@
     "org": "Boranet",
     "as": "AS3786 LG DACOM Corporation",
     "query": "112.220.30.58"
+  },
+  "221.45.99.215": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan nation-wide Network of SOFTBANK BB Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "221.45.99.215"
   },
   "222.109.72.106": {
     "status": "success",
@@ -399,21 +399,21 @@
     "as": "AS9697 LG HelloVision Corp.",
     "query": "110.46.158.118"
   },
-  "218.156.164.98": {
+  "61.74.29.57": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Goyang-si",
-    "zip": "103",
-    "lat": 37.6792,
-    "lon": 126.8183,
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Seongdong-gu",
+    "zip": "047",
+    "lat": 37.5511,
+    "lon": 127.0387,
     "timezone": "Asia/Seoul",
     "isp": "Korea Telecom",
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
-    "query": "218.156.164.98"
+    "query": "61.74.29.57"
   },
   "58.150.189.252": {
     "status": "success",
@@ -462,6 +462,38 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "121.153.139.209"
+  },
+  "116.34.216.160": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Gwangju",
+    "zip": "127",
+    "lat": 37.3661,
+    "lon": 127.2255,
+    "timezone": "Asia/Seoul",
+    "isp": "LG POWERCOMM",
+    "org": "Xpeed",
+    "as": "AS17858 LG POWERCOMM",
+    "query": "116.34.216.160"
+  },
+  "78.63.51.6": {
+    "status": "success",
+    "country": "Lithuania",
+    "countryCode": "LT",
+    "region": "PN",
+    "regionName": "Panevėžys",
+    "city": "Panevezys",
+    "zip": "38082",
+    "lat": 55.7309,
+    "lon": 24.3526,
+    "timezone": "Europe/Vilnius",
+    "isp": "Telia Lietuva",
+    "org": "Telia Lietuva, AB",
+    "as": "AS8764 Telia Lietuva, AB",
+    "query": "78.63.51.6"
   },
   "73.235.216.47": {
     "status": "success",
@@ -591,22 +623,6 @@
     "as": "AS42038 Krivets Sergey Sergeevich",
     "query": "46.37.129.89"
   },
-  "99.235.28.174": {
-    "status": "success",
-    "country": "Canada",
-    "countryCode": "CA",
-    "region": "ON",
-    "regionName": "Ontario",
-    "city": "Brampton",
-    "zip": "L7A",
-    "lat": 43.693,
-    "lon": -79.8365,
-    "timezone": "America/Toronto",
-    "isp": "Rogers Communications Canada Inc.",
-    "org": "Rogers Cable Inc. GRNSBR",
-    "as": "AS812 Rogers Communications Canada Inc.",
-    "query": "99.235.28.174"
-  },
   "94.245.172.40": {
     "status": "success",
     "country": "Russia",
@@ -623,6 +639,22 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "94.245.172.40"
   },
+  "99.235.28.174": {
+    "status": "success",
+    "country": "Canada",
+    "countryCode": "CA",
+    "region": "ON",
+    "regionName": "Ontario",
+    "city": "Brampton",
+    "zip": "L7A",
+    "lat": 43.693,
+    "lon": -79.8365,
+    "timezone": "America/Toronto",
+    "isp": "Rogers Communications Canada Inc.",
+    "org": "Rogers Cable Inc. GRNSBR",
+    "as": "AS812 Rogers Communications Canada Inc.",
+    "query": "99.235.28.174"
+  },
   "1.251.45.198": {
     "status": "success",
     "country": "South Korea",
@@ -638,21 +670,5 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.251.45.198"
-  },
-  "14.39.218.24": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Yeongdeungpo-gu",
-    "zip": "073",
-    "lat": 37.5156,
-    "lon": 126.9111,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "14.39.218.24"
   }
 }
