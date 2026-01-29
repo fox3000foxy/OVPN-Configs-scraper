@@ -367,6 +367,22 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "114.204.37.77"
   },
+  "220.92.38.76": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "48",
+    "regionName": "Gyeongsangnam-do",
+    "city": "Changwon",
+    "zip": "511",
+    "lat": 35.2733,
+    "lon": 128.653,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "220.92.38.76"
+  },
   "116.34.216.160": {
     "status": "success",
     "country": "South Korea",
@@ -670,6 +686,22 @@
     "org": "JSC Rostelecom regional branch Siberia",
     "as": "AS12389 PJSC Rostelecom",
     "query": "5.137.74.168"
+  },
+  "91.232.203.145": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "STA",
+    "regionName": "Stavropol Kray",
+    "city": "Stavropol",
+    "zip": "356230",
+    "lat": 44.9993,
+    "lon": 41.9179,
+    "timezone": "Europe/Moscow",
+    "isp": "Kvartal Plus Ltd",
+    "org": "FS - normalniy provider",
+    "as": "AS49325 Kvartal Plus Ltd",
+    "query": "91.232.203.145"
   },
   "176.51.129.117": {
     "status": "success",
