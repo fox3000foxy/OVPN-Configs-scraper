@@ -367,22 +367,6 @@
     "as": "AS7522 STNet, Incorporated",
     "query": "101.1.240.208"
   },
-  "60.155.235.197": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan Nation-wide Network of Softbank Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "60.155.235.197"
-  },
   "118.108.56.233": {
     "status": "success",
     "country": "Japan",
