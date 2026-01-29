@@ -143,22 +143,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.204"
   },
-  "104.28.204.107": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Kawasaki",
-    "zip": "210-0835",
-    "lat": 35.5181,
-    "lon": 139.7226,
-    "timezone": "Asia/Tokyo",
-    "isp": "Cloudflare, Inc.",
-    "org": "Cloudflare WARP",
-    "as": "AS13335 Cloudflare, Inc.",
-    "query": "104.28.204.107"
-  },
   "60.113.239.82": {
     "status": "success",
     "country": "Japan",
@@ -191,22 +175,6 @@
     "as": "AS17506 ARTERIA Networks Corporation",
     "query": "122.210.185.27"
   },
-  "131.147.142.132": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Wada",
-    "zip": "166-0011",
-    "lat": 35.6945,
-    "lon": 139.6524,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "131.147.142.132"
-  },
   "219.75.211.89": {
     "status": "success",
     "country": "Japan",
@@ -222,6 +190,22 @@
     "org": "K-Opticom Corporation",
     "as": "AS17511 OPTAGE Inc.",
     "query": "219.75.211.89"
+  },
+  "131.147.142.132": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Wada",
+    "zip": "166-0011",
+    "lat": 35.6945,
+    "lon": 139.6524,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "131.147.142.132"
   },
   "211.104.232.96": {
     "status": "success",
@@ -335,6 +319,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.50"
   },
+  "113.144.29.135": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Nakano City",
+    "zip": "164-0011",
+    "lat": 35.7027,
+    "lon": 139.6749,
+    "timezone": "Asia/Tokyo",
+    "isp": "DION (KDDI CORPORATION)",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "113.144.29.135"
+  },
   "115.22.171.164": {
     "status": "success",
     "country": "South Korea",
@@ -350,6 +350,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "115.22.171.164"
+  },
+  "36.14.74.224": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Machida",
+    "zip": "194-0041",
+    "lat": 35.5652,
+    "lon": 139.4642,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "36.14.74.224"
   },
   "114.204.37.77": {
     "status": "success",
