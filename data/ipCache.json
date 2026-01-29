@@ -255,22 +255,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "183.99.115.65"
   },
-  "185.124.155.182": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "NVS",
-    "regionName": "Novosibirsk Oblast",
-    "city": "Novosibirsk",
-    "zip": "",
-    "lat": 54.9833,
-    "lon": 82.8964,
-    "timezone": "Asia/Novosibirsk",
-    "isp": "KrasPromStroy, LLC",
-    "org": "",
-    "as": "AS12737 KrasPromStroy, LLC",
-    "query": "185.124.155.182"
-  },
   "218.148.187.249": {
     "status": "success",
     "country": "South Korea",
@@ -286,6 +270,22 @@
     "org": "KORNET",
     "as": "AS4766 Korea Telecom",
     "query": "218.148.187.249"
+  },
+  "185.124.155.182": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "NVS",
+    "regionName": "Novosibirsk Oblast",
+    "city": "Novosibirsk",
+    "zip": "",
+    "lat": 54.9833,
+    "lon": 82.8964,
+    "timezone": "Asia/Novosibirsk",
+    "isp": "KrasPromStroy, LLC",
+    "org": "",
+    "as": "AS12737 KrasPromStroy, LLC",
+    "query": "185.124.155.182"
   },
   "219.100.37.102": {
     "status": "success",
@@ -542,22 +542,6 @@
     "org": "LG Uplus",
     "as": "AS9316 DACOM-PUBNETPLUS",
     "query": "125.247.190.47"
-  },
-  "118.21.15.118": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Atsugi",
-    "zip": "243-0011",
-    "lat": 35.4427,
-    "lon": 139.3719,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "NTT Communications Corporation",
-    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
-    "query": "118.21.15.118"
   },
   "24.253.99.103": {
     "status": "success",
