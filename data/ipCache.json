@@ -207,22 +207,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.109.156.167"
   },
-  "153.151.248.167": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0071",
-    "lat": 35.6837,
-    "lon": 139.6805,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "Open Computer Network",
-    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
-    "query": "153.151.248.167"
-  },
   "47.20.212.7": {
     "status": "success",
     "country": "United States",
@@ -286,6 +270,22 @@
     "org": "Jupiter Telecommunications Co., Ltd.",
     "as": "AS9617 JCOM Co., Ltd.",
     "query": "119.24.254.96"
+  },
+  "124.212.183.144": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "08",
+    "regionName": "Ibaraki",
+    "city": "Inashiki",
+    "zip": "300-0511",
+    "lat": 35.9591,
+    "lon": 140.3415,
+    "timezone": "Asia/Tokyo",
+    "isp": "DION (KDDI CORPORATION)",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "124.212.183.144"
   },
   "95.170.177.6": {
     "status": "success",
@@ -463,6 +463,22 @@
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "119.175.44.34"
   },
+  "211.37.56.176": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Seongdong-gu",
+    "zip": "047",
+    "lat": 37.5511,
+    "lon": 127.0387,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "211.37.56.176"
+  },
   "61.206.78.196": {
     "status": "success",
     "country": "Japan",
@@ -511,22 +527,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.216.249.148"
   },
-  "150.249.68.92": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Katsushika",
-    "zip": "124-0011",
-    "lat": 35.734,
-    "lon": 139.831,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc.",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "150.249.68.92"
-  },
   "121.181.197.225": {
     "status": "success",
     "country": "South Korea",
@@ -559,21 +559,21 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "77.35.57.164"
   },
-  "211.46.41.23": {
+  "150.249.68.92": {
     "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Gwangjin-gu",
-    "zip": "049",
-    "lat": 37.547,
-    "lon": 127.0958,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Korea Telecom",
-    "as": "AS4766 Korea Telecom",
-    "query": "211.46.41.23"
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Katsushika",
+    "zip": "124-0011",
+    "lat": 35.734,
+    "lon": 139.831,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc.",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "150.249.68.92"
   },
   "1.66.34.134": {
     "status": "success",
@@ -718,5 +718,21 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.255.215.116"
+  },
+  "5.137.206.227": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "NVS",
+    "regionName": "Novosibirsk Oblast",
+    "city": "Novosibirsk",
+    "zip": "630000",
+    "lat": 55.0226,
+    "lon": 82.9317,
+    "timezone": "Asia/Novosibirsk",
+    "isp": "Rostelecom networks",
+    "org": "JSC Rostelecom regional branch Siberia",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "5.137.206.227"
   }
 }
