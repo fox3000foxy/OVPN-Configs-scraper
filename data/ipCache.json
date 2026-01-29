@@ -175,22 +175,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "14.57.196.103"
   },
-  "220.71.51.172": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Yeongdeungpo-gu",
-    "zip": "072",
-    "lat": 37.5247,
-    "lon": 126.9133,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Sudogwongangbukbonbujang",
-    "as": "AS4766 Korea Telecom",
-    "query": "220.71.51.172"
-  },
   "169.211.139.99": {
     "status": "success",
     "country": "South Korea",
@@ -271,6 +255,22 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "182.169.54.9"
   },
+  "112.170.21.41": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Seongnam-si",
+    "zip": "135",
+    "lat": 37.377,
+    "lon": 127.1091,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "112.170.21.41"
+  },
   "5.149.218.158": {
     "status": "success",
     "country": "Ukraine",
@@ -334,6 +334,22 @@
     "org": "State Company of Electro Communications Turkmentelecom",
     "as": "AS20661 State Company of Electro Communications Turkmentelecom",
     "query": "119.235.113.226"
+  },
+  "219.100.37.50": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftEther",
+    "org": "SoftEther Corporation",
+    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
+    "query": "219.100.37.50"
   },
   "77.82.17.179": {
     "status": "success",
@@ -575,22 +591,6 @@
     "as": "AS17939 miyazaki cabletelevision network Co.,LTD",
     "query": "218.216.32.95"
   },
-  "42.119.153.58": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "HN",
-    "regionName": "Hanoi",
-    "city": "Hanoi",
-    "zip": "100000",
-    "lat": 21.0184,
-    "lon": 105.8461,
-    "timezone": "Asia/Bangkok",
-    "isp": "FPT Telecom Company",
-    "org": "Vietnam Internet Network Information Center",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "42.119.153.58"
-  },
   "220.86.41.55": {
     "status": "success",
     "country": "South Korea",
@@ -623,22 +623,6 @@
     "as": "AS17858 LG POWERCOMM",
     "query": "116.44.113.68"
   },
-  "91.132.22.148": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KYA",
-    "regionName": "Krasnoyarsk Krai",
-    "city": "Krasnoyarsk",
-    "zip": "660049",
-    "lat": 56.0374,
-    "lon": 92.9314,
-    "timezone": "Asia/Krasnoyarsk",
-    "isp": "Igra-Service LLC",
-    "org": "Netname",
-    "as": "AS33991 Igra-Service LLC",
-    "query": "91.132.22.148"
-  },
   "58.122.224.175": {
     "status": "success",
     "country": "South Korea",
@@ -654,6 +638,22 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "58.122.224.175"
+  },
+  "91.132.22.148": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KYA",
+    "regionName": "Krasnoyarsk Krai",
+    "city": "Krasnoyarsk",
+    "zip": "660049",
+    "lat": 56.0374,
+    "lon": 92.9314,
+    "timezone": "Asia/Krasnoyarsk",
+    "isp": "Igra-Service LLC",
+    "org": "Netname",
+    "as": "AS33991 Igra-Service LLC",
+    "query": "91.132.22.148"
   },
   "180.224.138.7": {
     "status": "success",
@@ -750,5 +750,21 @@
     "org": "OJSC Sibirtelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "212.164.38.239"
+  },
+  "212.164.178.207": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "NVS",
+    "regionName": "Novosibirsk Oblast",
+    "city": "Novosibirsk",
+    "zip": "630000",
+    "lat": 55.0226,
+    "lon": 82.9317,
+    "timezone": "Asia/Novosibirsk",
+    "isp": "Rostelecom networks",
+    "org": "OJSC Sibirtelecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "212.164.178.207"
   }
 }
