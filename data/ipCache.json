@@ -239,22 +239,6 @@
     "as": "AS4725 SoftBank Corp.",
     "query": "220.212.128.195"
   },
-  "222.109.72.106": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Jungnang-gu",
-    "zip": "021",
-    "lat": 37.5859,
-    "lon": 127.1029,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "222.109.72.106"
-  },
   "211.104.232.96": {
     "status": "success",
     "country": "South Korea",
@@ -367,6 +351,38 @@
     "as": "AS3786 LG DACOM Corporation",
     "query": "112.220.30.58"
   },
+  "222.109.72.106": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Jungnang-gu",
+    "zip": "021",
+    "lat": 37.5859,
+    "lon": 127.1029,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "222.109.72.106"
+  },
+  "115.22.171.164": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Busan",
+    "zip": "472",
+    "lat": 35.1659,
+    "lon": 129.0542,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "115.22.171.164"
+  },
   "110.46.158.118": {
     "status": "success",
     "country": "South Korea",
@@ -382,6 +398,22 @@
     "org": "HVHaeundae",
     "as": "AS9697 LG HelloVision Corp.",
     "query": "110.46.158.118"
+  },
+  "218.156.164.98": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Goyang-si",
+    "zip": "103",
+    "lat": 37.6792,
+    "lon": 126.8183,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "218.156.164.98"
   },
   "58.150.189.252": {
     "status": "success",
@@ -542,38 +574,6 @@
     "org": "NTT Communications Corporation",
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "180.57.87.28"
-  },
-  "222.98.61.38": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Yongin-si",
-    "zip": "16940",
-    "lat": 37.298,
-    "lon": 127.0777,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "222.98.61.38"
-  },
-  "118.70.107.155": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "HN",
-    "regionName": "Hanoi",
-    "city": "Hanoi",
-    "zip": "100000",
-    "lat": 21.0184,
-    "lon": 105.8461,
-    "timezone": "Asia/Bangkok",
-    "isp": "Vietnam Internet Network Information Center",
-    "org": "",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "118.70.107.155"
   },
   "46.37.129.89": {
     "status": "success",
