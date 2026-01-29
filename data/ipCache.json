@@ -399,6 +399,22 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "114.204.37.77"
   },
+  "220.92.38.76": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "48",
+    "regionName": "Gyeongsangnam-do",
+    "city": "Changwon",
+    "zip": "511",
+    "lat": 35.2733,
+    "lon": 128.653,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "220.92.38.76"
+  },
   "116.34.216.160": {
     "status": "success",
     "country": "South Korea",
@@ -430,22 +446,6 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "36.14.133.245"
-  },
-  "220.92.38.76": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "48",
-    "regionName": "Gyeongsangnam-do",
-    "city": "Changwon",
-    "zip": "511",
-    "lat": 35.2733,
-    "lon": 128.653,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "220.92.38.76"
   },
   "78.63.51.6": {
     "status": "success",
@@ -734,5 +734,21 @@
     "org": "OJSC Rostelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "176.51.129.117"
+  },
+  "102.187.245.55": {
+    "status": "success",
+    "country": "Egypt",
+    "countryCode": "EG",
+    "region": "GH",
+    "regionName": "Gharbia",
+    "city": "Tanta",
+    "zip": "",
+    "lat": 30.7866,
+    "lon": 31.0004,
+    "timezone": "Africa/Cairo",
+    "isp": "Vodafone Data",
+    "org": "",
+    "as": "AS24835 Vodafone Data",
+    "query": "102.187.245.55"
   }
 }
