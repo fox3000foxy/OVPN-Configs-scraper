@@ -431,6 +431,22 @@
     "as": "AS18403 FPT Telecom Company",
     "query": "1.53.186.97"
   },
+  "220.125.51.211": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "43",
+    "regionName": "North Chungcheong",
+    "city": "Okcheon",
+    "zip": "290",
+    "lat": 36.3044,
+    "lon": 127.5651,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "220.125.51.211"
+  },
   "180.146.97.71": {
     "status": "success",
     "country": "Japan",
@@ -463,22 +479,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "211.194.240.41"
   },
-  "94.190.121.226": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "SVE",
-    "regionName": "Sverdlovsk Oblast",
-    "city": "Pervouralsk",
-    "zip": "623109",
-    "lat": 56.9045,
-    "lon": 59.9367,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "VPN (PPTP) and non-VPN customers Lesnoy Sverdlovsk reg. Interra Ltd.",
-    "org": "\"Interra\" Ltd.",
-    "as": "AS48524 INTERRA telecommunications group, Ltd.",
-    "query": "94.190.121.226"
-  },
   "92.126.30.1": {
     "status": "success",
     "country": "Russia",
@@ -494,22 +494,6 @@
     "org": "OJSC Sibirtelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "92.126.30.1"
-  },
-  "221.163.122.165": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Suwon",
-    "zip": "162",
-    "lat": 37.2963,
-    "lon": 127.0506,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "221.163.122.165"
   },
   "1.236.146.57": {
     "status": "success",
@@ -575,6 +559,22 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "178.34.136.197"
   },
+  "125.136.67.224": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "29",
+    "regionName": "Gwangju",
+    "city": "Gwangju",
+    "zip": "61426",
+    "lat": 35.1496,
+    "lon": 126.9156,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "125.136.67.224"
+  },
   "124.44.10.44": {
     "status": "success",
     "country": "Japan",
@@ -591,21 +591,21 @@
     "as": "AS9595 NTT-ME Corporation",
     "query": "124.44.10.44"
   },
-  "125.136.67.224": {
+  "218.235.89.115": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
-    "region": "29",
-    "regionName": "Gwangju",
-    "city": "Gwangju",
-    "zip": "61426",
-    "lat": 35.1496,
-    "lon": 126.9156,
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Yongsan-gu",
+    "zip": "044",
+    "lat": 37.5157,
+    "lon": 126.9702,
     "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "125.136.67.224"
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "218.235.89.115"
   },
   "1.252.99.217": {
     "status": "success",
@@ -654,22 +654,6 @@
     "org": "OJSC Rostelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "176.51.129.117"
-  },
-  "77.34.10.122": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PRI",
-    "regionName": "Primorye",
-    "city": "Vladivostok",
-    "zip": "690001",
-    "lat": 43.1068,
-    "lon": 131.8692,
-    "timezone": "Asia/Vladivostok",
-    "isp": "PJSC Rostelecom",
-    "org": "",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "77.34.10.122"
   },
   "178.185.151.117": {
     "status": "success",
