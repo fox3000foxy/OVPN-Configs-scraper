@@ -223,22 +223,6 @@
     "as": "AS6128 Cablevision Systems Corp.",
     "query": "47.20.212.7"
   },
-  "103.152.178.62": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-0001",
-    "lat": 35.694,
-    "lon": 139.754,
-    "timezone": "Asia/Tokyo",
-    "isp": "Ayao Takata",
-    "org": "SDCC-East01",
-    "as": "AS38074 SDCC Japan-West Area",
-    "query": "103.152.178.62"
-  },
   "220.57.96.201": {
     "status": "success",
     "country": "Japan",
@@ -495,22 +479,6 @@
     "as": "AS10010 TOKAI Communications Corporation",
     "query": "61.206.78.196"
   },
-  "59.16.219.106": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "28",
-    "regionName": "Incheon",
-    "city": "Bupyeong-gu",
-    "zip": "214",
-    "lat": 37.4902,
-    "lon": 126.7151,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "59.16.219.106"
-  },
   "126.216.249.148": {
     "status": "success",
     "country": "Japan",
@@ -526,6 +494,22 @@
     "org": "SOFTBANK Corp",
     "as": "AS17676 SoftBank Corp.",
     "query": "126.216.249.148"
+  },
+  "59.16.219.106": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "28",
+    "regionName": "Incheon",
+    "city": "Bupyeong-gu",
+    "zip": "214",
+    "lat": 37.4902,
+    "lon": 126.7151,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "59.16.219.106"
   },
   "121.181.197.225": {
     "status": "success",
@@ -575,6 +559,22 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "150.249.68.92"
   },
+  "221.157.130.155": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "27",
+    "regionName": "Daegu",
+    "city": "Dalseo-gu",
+    "zip": "427",
+    "lat": 35.8475,
+    "lon": 128.4805,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Korea Telecom",
+    "as": "AS4766 Korea Telecom",
+    "query": "221.157.130.155"
+  },
   "1.66.34.134": {
     "status": "success",
     "country": "Japan",
@@ -606,6 +606,22 @@
     "org": "Marubeni OKI Network Solutions Inc.",
     "as": "AS9354 Community Network Center Inc.",
     "query": "133.149.90.83"
+  },
+  "218.157.88.247": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "29",
+    "regionName": "Gwangju",
+    "city": "Buk-gu",
+    "zip": "612",
+    "lat": 35.1571,
+    "lon": 126.8997,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "KORNET",
+    "as": "AS4766 Korea Telecom",
+    "query": "218.157.88.247"
   },
   "153.144.240.2": {
     "status": "success",
