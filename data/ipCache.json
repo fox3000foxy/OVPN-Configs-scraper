@@ -383,22 +383,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "61.74.29.57"
   },
-  "110.46.158.118": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "26",
-    "regionName": "Busan",
-    "city": "Haeundae-gu",
-    "zip": "480",
-    "lat": 35.1692,
-    "lon": 129.1738,
-    "timezone": "Asia/Seoul",
-    "isp": "CJ Hello Co",
-    "org": "HVHaeundae",
-    "as": "AS9697 LG HelloVision Corp.",
-    "query": "110.46.158.118"
-  },
   "58.150.189.252": {
     "status": "success",
     "country": "South Korea",
@@ -559,22 +543,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.167.90.44"
   },
-  "116.121.181.6": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Suwon",
-    "zip": "165",
-    "lat": 37.2677,
-    "lon": 127.0457,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "116.121.181.6"
-  },
   "222.119.6.4": {
     "status": "success",
     "country": "South Korea",
@@ -623,21 +591,21 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "180.57.87.28"
   },
-  "46.37.129.89": {
+  "121.161.37.187": {
     "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PRI",
-    "regionName": "Primorye",
-    "city": "Vladivostok",
-    "zip": "690001",
-    "lat": 43.1068,
-    "lon": 131.8692,
-    "timezone": "Asia/Vladivostok",
-    "isp": "Krivets Sergey Sergeevich",
-    "org": "Vladlink LLC",
-    "as": "AS42038 Krivets Sergey Sergeevich",
-    "query": "46.37.129.89"
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Goyang-si",
+    "zip": "104",
+    "lat": 37.6392,
+    "lon": 126.8375,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "121.161.37.187"
   },
   "14.186.98.252": {
     "status": "success",
@@ -654,6 +622,22 @@
     "org": "Vietnam Posts and Telecommunications Group",
     "as": "AS45899 VNPT Corp",
     "query": "14.186.98.252"
+  },
+  "46.37.129.89": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Vladivostok",
+    "zip": "690001",
+    "lat": 43.1068,
+    "lon": 131.8692,
+    "timezone": "Asia/Vladivostok",
+    "isp": "Krivets Sergey Sergeevich",
+    "org": "Vladlink LLC",
+    "as": "AS42038 Krivets Sergey Sergeevich",
+    "query": "46.37.129.89"
   },
   "99.235.28.174": {
     "status": "success",
@@ -686,21 +670,5 @@
     "org": "",
     "as": "AS12389 PJSC Rostelecom",
     "query": "94.245.172.40"
-  },
-  "1.251.45.198": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "47",
-    "regionName": "Gyeongsangbuk-do",
-    "city": "Gyeongsan-si",
-    "zip": "385",
-    "lat": 35.8395,
-    "lon": 128.7655,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "1.251.45.198"
   }
 }
