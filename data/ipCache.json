@@ -223,22 +223,6 @@
     "as": "AS17511 OPTAGE Inc.",
     "query": "219.75.211.89"
   },
-  "1.246.154.63": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "43",
-    "regionName": "North Chungcheong",
-    "city": "Cheongju-si",
-    "zip": "284",
-    "lat": 36.637,
-    "lon": 127.4339,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "SK Broadband Co Ltd",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "1.246.154.63"
-  },
   "211.104.232.96": {
     "status": "success",
     "country": "South Korea",
@@ -254,6 +238,22 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "211.104.232.96"
+  },
+  "1.246.154.63": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "43",
+    "regionName": "North Chungcheong",
+    "city": "Cheongju-si",
+    "zip": "284",
+    "lat": 36.637,
+    "lon": 127.4339,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "SK Broadband Co Ltd",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "1.246.154.63"
   },
   "103.152.178.62": {
     "status": "success",
@@ -431,6 +431,22 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.90.30.188"
   },
+  "171.4.236.153": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "50",
+    "regionName": "Chiang Mai",
+    "city": "Chiang Mai",
+    "zip": "50210",
+    "lat": 18.8514,
+    "lon": 99.0412,
+    "timezone": "Asia/Bangkok",
+    "isp": "Triple T Broadband Public Company Limited",
+    "org": "Triple T Broadband Public Company Limited",
+    "as": "AS45758 Triple T Broadband Public Company Limited",
+    "query": "171.4.236.153"
+  },
   "218.223.224.245": {
     "status": "success",
     "country": "Japan",
@@ -447,21 +463,21 @@
     "as": "AS18283 Chupicom Inc.",
     "query": "218.223.224.245"
   },
-  "59.140.6.12": {
+  "203.140.246.210": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "04",
-    "regionName": "Miyagi",
-    "city": "Masuda",
-    "zip": "981-1221",
-    "lat": 38.1805,
-    "lon": 140.8679,
+    "region": "31",
+    "regionName": "Tottori",
+    "city": "Nakahara",
+    "zip": "719-1131",
+    "lat": 35.2333,
+    "lon": 134.2833,
     "timezone": "Asia/Tokyo",
-    "isp": "DION (KDDI CORPORATION)",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "59.140.6.12"
+    "isp": "Kurashiki Cable TV",
+    "org": "Kurashiki Cable TV Corporation",
+    "as": "AS9622 Kurashiki Cable TV",
+    "query": "203.140.246.210"
   },
   "92.126.30.1": {
     "status": "success",
@@ -479,37 +495,21 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "92.126.30.1"
   },
-  "111.105.129.245": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "28",
-    "regionName": "Hyōgo",
-    "city": "Kobe",
-    "zip": "650-0011",
-    "lat": 34.6922,
-    "lon": 135.1816,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "111.105.129.245"
-  },
-  "115.22.254.150": {
+  "221.160.185.22": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
-    "region": "48",
-    "regionName": "Gyeongsangnam-do",
-    "city": "Hamyang-gun",
-    "zip": "500",
-    "lat": 35.7182,
-    "lon": 127.6803,
+    "region": "43",
+    "regionName": "North Chungcheong",
+    "city": "Cheongju-si",
+    "zip": "285",
+    "lat": 36.6387,
+    "lon": 127.4702,
     "timezone": "Asia/Seoul",
     "isp": "Korea Telecom",
-    "org": "Kornet",
+    "org": "KORNET",
     "as": "AS4766 Korea Telecom",
-    "query": "115.22.254.150"
+    "query": "221.160.185.22"
   },
   "14.41.72.173": {
     "status": "success",
