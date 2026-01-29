@@ -623,22 +623,6 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "180.57.87.28"
   },
-  "14.186.98.252": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "SG",
-    "regionName": "Ho Chi Minh",
-    "city": "Ho Chi Minh City",
-    "zip": "700000",
-    "lat": 10.822,
-    "lon": 106.6257,
-    "timezone": "Asia/Ho_Chi_Minh",
-    "isp": "VNPT",
-    "org": "Vietnam Posts and Telecommunications Group",
-    "as": "AS45899 VNPT Corp",
-    "query": "14.186.98.252"
-  },
   "46.37.129.89": {
     "status": "success",
     "country": "Russia",
@@ -654,6 +638,22 @@
     "org": "Vladlink LLC",
     "as": "AS42038 Krivets Sergey Sergeevich",
     "query": "46.37.129.89"
+  },
+  "14.186.98.252": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "SG",
+    "regionName": "Ho Chi Minh",
+    "city": "Ho Chi Minh City",
+    "zip": "700000",
+    "lat": 10.822,
+    "lon": 106.6257,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "isp": "VNPT",
+    "org": "Vietnam Posts and Telecommunications Group",
+    "as": "AS45899 VNPT Corp",
+    "query": "14.186.98.252"
   },
   "99.235.28.174": {
     "status": "success",
