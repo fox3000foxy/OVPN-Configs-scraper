@@ -223,22 +223,6 @@
     "as": "AS9770 LG HelloVision Corp.",
     "query": "117.55.152.142"
   },
-  "182.169.54.9": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0071",
-    "lat": 35.6837,
-    "lon": 139.6805,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "182.169.54.9"
-  },
   "112.170.21.41": {
     "status": "success",
     "country": "South Korea",
