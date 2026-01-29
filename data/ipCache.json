@@ -223,22 +223,6 @@
     "as": "AS10013 FreeBit Co.,Ltd.",
     "query": "124.255.80.220"
   },
-  "118.240.68.160": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Kamikuratachō",
-    "zip": "244-0816",
-    "lat": 35.3973,
-    "lon": 139.5453,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "118.240.68.160"
-  },
   "220.212.128.195": {
     "status": "success",
     "country": "Japan",
@@ -559,21 +543,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "222.98.176.199"
   },
-  "14.39.218.24": {
+  "121.167.90.44": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Yeongdeungpo-gu",
-    "zip": "073",
-    "lat": 37.5156,
-    "lon": 126.9111,
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Yongin-si",
+    "zip": "168",
+    "lat": 37.3104,
+    "lon": 127.0672,
     "timezone": "Asia/Seoul",
     "isp": "Korea Telecom",
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
-    "query": "14.39.218.24"
+    "query": "121.167.90.44"
   },
   "222.119.6.4": {
     "status": "success",
@@ -654,5 +638,21 @@
     "org": "Vladlink LLC",
     "as": "AS42038 Krivets Sergey Sergeevich",
     "query": "46.37.129.89"
+  },
+  "99.235.28.174": {
+    "status": "success",
+    "country": "Canada",
+    "countryCode": "CA",
+    "region": "ON",
+    "regionName": "Ontario",
+    "city": "Brampton",
+    "zip": "L7A",
+    "lat": 43.693,
+    "lon": -79.8365,
+    "timezone": "America/Toronto",
+    "isp": "Rogers Communications Canada Inc.",
+    "org": "Rogers Cable Inc. GRNSBR",
+    "as": "AS812 Rogers Communications Canada Inc.",
+    "query": "99.235.28.174"
   }
 }
