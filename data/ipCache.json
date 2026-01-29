@@ -351,22 +351,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "90.150.249.120"
   },
-  "153.151.220.10": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Yokohama",
-    "zip": "231-0841",
-    "lat": 35.4337,
-    "lon": 139.6499,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "Open Computer Network",
-    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
-    "query": "153.151.220.10"
-  },
   "49.167.12.160": {
     "status": "success",
     "country": "South Korea",
@@ -495,6 +479,22 @@
     "as": "AS23969 TOT Public Company Limited",
     "query": "101.108.2.217"
   },
+  "193.114.25.44": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "15",
+    "regionName": "Niigata",
+    "city": "Nagaoka",
+    "zip": "940-0061",
+    "lat": 37.4506,
+    "lon": 138.858,
+    "timezone": "Asia/Tokyo",
+    "isp": "NCT Co., ltd.",
+    "org": "NCT",
+    "as": "AS59126 NCT CO.,LTD.",
+    "query": "193.114.25.44"
+  },
   "1.53.159.141": {
     "status": "success",
     "country": "Vietnam",
@@ -526,22 +526,6 @@
     "org": "QTnet, Inc.",
     "as": "AS7679 QTnet,Inc.",
     "query": "115.124.252.21"
-  },
-  "49.228.121.149": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "10",
-    "regionName": "Bangkok",
-    "city": "Bangkok",
-    "zip": "10700",
-    "lat": 13.751,
-    "lon": 100.4873,
-    "timezone": "Asia/Bangkok",
-    "isp": "Advanced Wireless Network Company Limited",
-    "org": "",
-    "as": "AS133481 AIS Fibre",
-    "query": "49.228.121.149"
   },
   "2.61.228.96": {
     "status": "success",
