@@ -654,37 +654,5 @@
     "org": "Vladlink LLC",
     "as": "AS42038 Krivets Sergey Sergeevich",
     "query": "46.37.129.89"
-  },
-  "94.245.172.40": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "SA",
-    "regionName": "Sakha",
-    "city": "Yakutsk",
-    "zip": "677000",
-    "lat": 62.0313,
-    "lon": 129.7325,
-    "timezone": "Asia/Yakutsk",
-    "isp": "Sakhatelecom",
-    "org": "",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "94.245.172.40"
-  },
-  "99.235.28.174": {
-    "status": "success",
-    "country": "Canada",
-    "countryCode": "CA",
-    "region": "ON",
-    "regionName": "Ontario",
-    "city": "Brampton",
-    "zip": "L7A",
-    "lat": 43.693,
-    "lon": -79.8365,
-    "timezone": "America/Toronto",
-    "isp": "Rogers Communications Canada Inc.",
-    "org": "Rogers Cable Inc. GRNSBR",
-    "as": "AS812 Rogers Communications Canada Inc.",
-    "query": "99.235.28.174"
   }
 }
