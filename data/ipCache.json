@@ -175,6 +175,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "14.57.196.103"
   },
+  "220.71.51.172": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Yeongdeungpo-gu",
+    "zip": "072",
+    "lat": 37.5247,
+    "lon": 126.9133,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Sudogwongangbukbonbujang",
+    "as": "AS4766 Korea Telecom",
+    "query": "220.71.51.172"
+  },
   "169.211.139.99": {
     "status": "success",
     "country": "South Korea",
@@ -239,22 +255,6 @@
     "as": "AS9770 LG HelloVision Corp.",
     "query": "117.55.152.142"
   },
-  "112.170.21.41": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Seongnam-si",
-    "zip": "135",
-    "lat": 37.377,
-    "lon": 127.1091,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "112.170.21.41"
-  },
   "5.149.218.158": {
     "status": "success",
     "country": "Ukraine",
@@ -286,22 +286,6 @@
     "org": "SDCC-East01",
     "as": "AS38074 SDCC Japan-West Area",
     "query": "103.152.178.62"
-  },
-  "98.162.241.207": {
-    "status": "success",
-    "country": "United States",
-    "countryCode": "US",
-    "region": "OK",
-    "regionName": "Oklahoma",
-    "city": "Oklahoma City",
-    "zip": "73118",
-    "lat": 35.5189,
-    "lon": -97.5354,
-    "timezone": "America/Chicago",
-    "isp": "Cox Communications Inc.",
-    "org": "Cox Communications",
-    "as": "AS22773 Cox Communications Inc.",
-    "query": "98.162.241.207"
   },
   "219.100.37.102": {
     "status": "success",
@@ -399,22 +383,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "58.123.224.213"
   },
-  "106.136.145.112": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Hasune",
-    "zip": "174-0041",
-    "lat": 35.7927,
-    "lon": 139.6933,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "106.136.145.112"
-  },
   "106.168.67.207": {
     "status": "success",
     "country": "Japan",
@@ -430,6 +398,22 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "106.168.67.207"
+  },
+  "153.166.46.229": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tokyo",
+    "zip": "151-0071",
+    "lat": 35.6837,
+    "lon": 139.6805,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "Open Computer Network",
+    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
+    "query": "153.166.46.229"
   },
   "160.86.46.9": {
     "status": "success",
@@ -575,23 +559,7 @@
     "as": "AS17939 miyazaki cabletelevision network Co.,LTD",
     "query": "218.216.32.95"
   },
-  "37.110.83.193": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "MOW",
-    "regionName": "Moscow",
-    "city": "Moscow",
-    "zip": "127474",
-    "lat": 55.7487,
-    "lon": 37.6187,
-    "timezone": "Europe/Moscow",
-    "isp": "NCNET",
-    "org": "",
-    "as": "AS42610 PJSC Rostelecom",
-    "query": "37.110.83.193"
-  },
-  "1.55.198.147": {
+  "42.119.153.58": {
     "status": "success",
     "country": "Vietnam",
     "countryCode": "VN",
@@ -605,23 +573,7 @@
     "isp": "FPT Telecom Company",
     "org": "Vietnam Internet Network Information Center",
     "as": "AS18403 FPT Telecom Company",
-    "query": "1.55.198.147"
-  },
-  "172.103.241.126": {
-    "status": "success",
-    "country": "Canada",
-    "countryCode": "CA",
-    "region": "BC",
-    "regionName": "British Columbia",
-    "city": "Burnaby",
-    "zip": "V5H",
-    "lat": 49.2292,
-    "lon": -122.9932,
-    "timezone": "America/Vancouver",
-    "isp": "Cipherkey Exchange Corp.",
-    "org": "Cipherkey Exchange Corp",
-    "as": "AS25668 Cipherkey Exchange Corp.",
-    "query": "172.103.241.126"
+    "query": "42.119.153.58"
   },
   "211.104.222.191": {
     "status": "success",
@@ -671,6 +623,22 @@
     "as": "AS33991 Igra-Service LLC",
     "query": "91.132.22.148"
   },
+  "183.111.77.12": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Yeongdeungpo-gu",
+    "zip": "073",
+    "lat": 37.5156,
+    "lon": 126.9111,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "183.111.77.12"
+  },
   "180.224.138.7": {
     "status": "success",
     "country": "South Korea",
@@ -719,6 +687,22 @@
     "as": "AS45899 VNPT Corp",
     "query": "14.176.183.96"
   },
+  "70.187.167.138": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA",
+    "regionName": "California",
+    "city": "Santa Ana",
+    "zip": "92705",
+    "lat": 33.7568,
+    "lon": -117.7938,
+    "timezone": "America/Los_Angeles",
+    "isp": "Cox Communications Inc.",
+    "org": "Cox Communications",
+    "as": "AS22773 Cox Communications Inc.",
+    "query": "70.187.167.138"
+  },
   "82.162.53.8": {
     "status": "success",
     "country": "Russia",
@@ -766,21 +750,5 @@
     "org": "OJSC Sibirtelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "212.164.178.207"
-  },
-  "218.216.222.52": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "23",
-    "regionName": "Aichi",
-    "city": "Toyokawa",
-    "zip": "442-0811",
-    "lat": 34.8127,
-    "lon": 137.4,
-    "timezone": "Asia/Tokyo",
-    "isp": "Community Network Center Incorporated.",
-    "org": "CHUBU CABLE NETWORK COMPANY, INCORPORATED",
-    "as": "AS17698 COMMUNITY NETWORK CENTER INCORPORATED.",
-    "query": "218.216.222.52"
   }
 }
