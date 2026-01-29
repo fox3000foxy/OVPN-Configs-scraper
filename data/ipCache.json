@@ -159,22 +159,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.204"
   },
-  "119.196.49.82": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Gwanak-gu",
-    "zip": "087",
-    "lat": 37.4873,
-    "lon": 126.9227,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Sudogwonseobubonbu",
-    "as": "AS4766 Korea Telecom",
-    "query": "119.196.49.82"
-  },
   "223.132.208.135": {
     "status": "success",
     "country": "Japan",
@@ -190,6 +174,22 @@
     "org": "Sony Network Communications Inc.",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "223.132.208.135"
+  },
+  "119.196.49.82": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Gwanak-gu",
+    "zip": "087",
+    "lat": 37.4873,
+    "lon": 126.9227,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Sudogwonseobubonbu",
+    "as": "AS4766 Korea Telecom",
+    "query": "119.196.49.82"
   },
   "49.174.10.156": {
     "status": "success",
@@ -238,22 +238,6 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "59.7.207.18"
-  },
-  "211.184.24.38": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Suwon",
-    "zip": "164",
-    "lat": 37.2872,
-    "lon": 127.0116,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "211.184.24.38"
   },
   "185.124.155.182": {
     "status": "success",
@@ -350,6 +334,22 @@
     "org": "Dynamic distribution IPs for broadband services",
     "as": "AS12389 PJSC Rostelecom",
     "query": "90.150.249.120"
+  },
+  "125.143.53.182": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Hwaseong-si",
+    "zip": "184",
+    "lat": 37.2072,
+    "lon": 126.8168,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "125.143.53.182"
   },
   "49.167.12.160": {
     "status": "success",
@@ -479,21 +479,21 @@
     "as": "AS23969 TOT Public Company Limited",
     "query": "101.108.2.217"
   },
-  "193.114.25.44": {
+  "124.47.125.245": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "15",
-    "regionName": "Niigata",
-    "city": "Nagaoka",
-    "zip": "940-0061",
-    "lat": 37.4506,
-    "lon": 138.858,
+    "region": "33",
+    "regionName": "Okayama",
+    "city": "Kurashiki",
+    "zip": "710-0841",
+    "lat": 34.5772,
+    "lon": 133.7607,
     "timezone": "Asia/Tokyo",
-    "isp": "NCT Co., ltd.",
-    "org": "NCT",
-    "as": "AS59126 NCT CO.,LTD.",
-    "query": "193.114.25.44"
+    "isp": "Kurashiki Cable TV",
+    "org": "Kurashiki Cable TV Corporation",
+    "as": "AS9622 Kurashiki Cable TV",
+    "query": "124.47.125.245"
   },
   "1.53.159.141": {
     "status": "success",
@@ -543,22 +543,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "2.61.228.96"
   },
-  "5.137.210.152": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "NVS",
-    "regionName": "Novosibirsk Oblast",
-    "city": "Novosibirsk",
-    "zip": "630000",
-    "lat": 55.0226,
-    "lon": 82.9317,
-    "timezone": "Asia/Novosibirsk",
-    "isp": "Rostelecom networks",
-    "org": "JSC Rostelecom regional branch Siberia",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "5.137.210.152"
-  },
   "125.247.190.47": {
     "status": "success",
     "country": "South Korea",
@@ -574,22 +558,6 @@
     "org": "LG Uplus",
     "as": "AS9316 DACOM-PUBNETPLUS",
     "query": "125.247.190.47"
-  },
-  "114.201.3.61": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Dongjak-gu",
-    "zip": "069",
-    "lat": 37.5003,
-    "lon": 126.9565,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "114.201.3.61"
   },
   "118.21.15.118": {
     "status": "success",
