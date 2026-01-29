@@ -255,6 +255,22 @@
     "as": "AS9770 LG HelloVision Corp.",
     "query": "117.55.152.142"
   },
+  "182.169.54.9": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tokyo",
+    "zip": "151-0071",
+    "lat": 35.6837,
+    "lon": 139.6805,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "182.169.54.9"
+  },
   "5.149.218.158": {
     "status": "success",
     "country": "Ukraine",
@@ -591,22 +607,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "220.86.41.55"
   },
-  "211.200.76.47": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Yongin-si",
-    "zip": "168",
-    "lat": 37.3104,
-    "lon": 127.0672,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "SK Broadband Co Ltd",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "211.200.76.47"
-  },
   "116.44.113.68": {
     "status": "success",
     "country": "South Korea",
@@ -638,6 +638,22 @@
     "org": "Netname",
     "as": "AS33991 Igra-Service LLC",
     "query": "91.132.22.148"
+  },
+  "58.122.224.175": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Eunpyeong-gu",
+    "zip": "033",
+    "lat": 37.6053,
+    "lon": 126.9231,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "58.122.224.175"
   },
   "180.224.138.7": {
     "status": "success",
