@@ -207,22 +207,6 @@
     "as": "AS17858 LG POWERCOMM",
     "query": "49.174.10.156"
   },
-  "118.241.184.72": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Nukui",
-    "zip": "176-0021",
-    "lat": 35.7366,
-    "lon": 139.6335,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc.",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "118.241.184.72"
-  },
   "59.7.207.18": {
     "status": "success",
     "country": "South Korea",
@@ -239,21 +223,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "59.7.207.18"
   },
-  "183.99.115.65": {
+  "118.241.184.72": {
     "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Seongnam-si",
-    "zip": "134",
-    "lat": 37.4062,
-    "lon": 127.1077,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "183.99.115.65"
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Nukui",
+    "zip": "176-0021",
+    "lat": 35.7366,
+    "lon": 139.6335,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc.",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "118.241.184.72"
   },
   "218.148.187.249": {
     "status": "success",
@@ -270,6 +254,22 @@
     "org": "KORNET",
     "as": "AS4766 Korea Telecom",
     "query": "218.148.187.249"
+  },
+  "183.99.115.65": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Seongnam-si",
+    "zip": "134",
+    "lat": 37.4062,
+    "lon": 127.1077,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "183.99.115.65"
   },
   "185.124.155.182": {
     "status": "success",
@@ -399,22 +399,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "59.136.2.10"
   },
-  "119.106.76.185": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "11",
-    "regionName": "Saitama",
-    "city": "Dotechō",
-    "zip": "330-9011",
-    "lat": 35.9056,
-    "lon": 139.6209,
-    "timezone": "Asia/Tokyo",
-    "isp": "DION (KDDI CORPORATION)",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "119.106.76.185"
-  },
   "14.51.87.179": {
     "status": "success",
     "country": "South Korea",
@@ -462,6 +446,22 @@
     "org": "ARTERIA Networks Corporation",
     "as": "AS2519 ARTERIA Networks Corporation",
     "query": "122.103.113.207"
+  },
+  "122.133.194.209": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tokyo",
+    "zip": "151-0071",
+    "lat": 35.6837,
+    "lon": 139.6805,
+    "timezone": "Asia/Tokyo",
+    "isp": "NEC BIGLOBE Ltd.",
+    "org": "BIGLOBE",
+    "as": "AS2518 BIGLOBE Inc.",
+    "query": "122.133.194.209"
   },
   "101.108.2.217": {
     "status": "success",
@@ -558,6 +558,38 @@
     "org": "LG Uplus",
     "as": "AS9316 DACOM-PUBNETPLUS",
     "query": "125.247.190.47"
+  },
+  "121.133.173.79": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Seongnam-si",
+    "zip": "135",
+    "lat": 37.377,
+    "lon": 127.1091,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "121.133.173.79"
+  },
+  "94.245.151.70": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "SA",
+    "regionName": "Sakha",
+    "city": "Yakutsk",
+    "zip": "677000",
+    "lat": 62.0313,
+    "lon": 129.7325,
+    "timezone": "Asia/Yakutsk",
+    "isp": "Sakhatelecom",
+    "org": "",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "94.245.151.70"
   },
   "24.253.99.103": {
     "status": "success",
