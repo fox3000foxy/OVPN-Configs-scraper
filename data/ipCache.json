@@ -111,22 +111,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.16"
   },
-  "219.100.37.109": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftEther",
-    "org": "SoftEther Corporation",
-    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.109"
-  },
   "219.100.37.208": {
     "status": "success",
     "country": "Japan",
@@ -142,6 +126,22 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.208"
+  },
+  "219.100.37.109": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftEther",
+    "org": "SoftEther Corporation",
+    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
+    "query": "219.100.37.109"
   },
   "219.100.37.204": {
     "status": "success",
@@ -287,6 +287,38 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "114.206.223.158"
   },
+  "183.180.154.178": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Osaka",
+    "zip": "550-0001",
+    "lat": 34.6892,
+    "lon": 135.4899,
+    "timezone": "Asia/Tokyo",
+    "isp": "ARTERIA Networks Corporation",
+    "org": "ARTERIA Networks Corporation",
+    "as": "AS2519 ARTERIA Networks Corporation",
+    "query": "183.180.154.178"
+  },
+  "210.178.110.239": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "47",
+    "regionName": "Gyeongsangbuk-do",
+    "city": "Gumi",
+    "zip": "392",
+    "lat": 36.1135,
+    "lon": 128.343,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "210.178.110.239"
+  },
   "1.232.152.53": {
     "status": "success",
     "country": "South Korea",
@@ -399,22 +431,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "175.212.255.180"
   },
-  "221.49.92.164": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan nation-wide Network of SOFTBANK BB Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "221.49.92.164"
-  },
   "124.44.10.44": {
     "status": "success",
     "country": "Japan",
@@ -447,37 +463,21 @@
     "as": "AS2518 BIGLOBE Inc.",
     "query": "125.199.40.49"
   },
-  "185.130.83.204": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "TOM",
-    "regionName": "Tomsk Oblast",
-    "city": "Tomsk",
-    "zip": "634000",
-    "lat": 56.4884,
-    "lon": 84.948,
-    "timezone": "Asia/Tomsk",
-    "isp": "JSC \"ER-Telecom Holding\"",
-    "org": "JSC \"ER-Telecom Holding\" Tomsk Branch",
-    "as": "AS56981 JSC ER-Telecom Holding",
-    "query": "185.130.83.204"
-  },
-  "58.95.83.60": {
+  "221.44.227.125": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "40",
-    "regionName": "Fukuoka",
-    "city": "Meinohama",
-    "zip": "819-0001",
-    "lat": 33.5895,
-    "lon": 130.3197,
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
     "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "NTT Communications Corporation",
-    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
-    "query": "58.95.83.60"
+    "isp": "SoftBank Corp.",
+    "org": "Japan nation-wide Network of SOFTBANK BB Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "221.44.227.125"
   },
   "49.228.48.102": {
     "status": "success",
@@ -543,6 +543,22 @@
     "as": "AS48524 INTERRA telecommunications group, Ltd.",
     "query": "94.190.121.226"
   },
+  "39.123.54.41": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Yongsan-gu",
+    "zip": "043",
+    "lat": 37.5332,
+    "lon": 126.9692,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "39.123.54.41"
+  },
   "1.236.146.57": {
     "status": "success",
     "country": "South Korea",
@@ -575,22 +591,6 @@
     "as": "AS196949 Natalia Sergeevna Filicheva",
     "query": "109.110.46.232"
   },
-  "118.223.105.135": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Yangju",
-    "zip": "114",
-    "lat": 37.8119,
-    "lon": 127.08,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "118.223.105.135"
-  },
   "175.114.235.3": {
     "status": "success",
     "country": "South Korea",
@@ -606,6 +606,22 @@
     "org": "",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "175.114.235.3"
+  },
+  "118.223.105.135": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Yangju",
+    "zip": "114",
+    "lat": 37.8119,
+    "lon": 127.08,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "118.223.105.135"
   },
   "125.136.67.224": {
     "status": "success",
@@ -638,6 +654,22 @@
     "org": "SK Broadband Co Ltd",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.252.99.217"
+  },
+  "194.246.95.65": {
+    "status": "success",
+    "country": "Ukraine",
+    "countryCode": "UA",
+    "region": "09",
+    "regionName": "Luhansk",
+    "city": "Luhansk",
+    "zip": "91000",
+    "lat": 48.5679,
+    "lon": 39.319,
+    "timezone": "Europe/Kyiv",
+    "isp": "Dovecom LLC",
+    "org": "Dovecom LLC",
+    "as": "AS202619 Dovecom LLC",
+    "query": "194.246.95.65"
   },
   "176.51.129.117": {
     "status": "success",
@@ -718,21 +750,5 @@
     "org": "DigitalOcean, LLC",
     "as": "AS14061 DigitalOcean, LLC",
     "query": "167.99.213.34"
-  },
-  "77.34.39.203": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PRI",
-    "regionName": "Primorye",
-    "city": "Ussuriysk",
-    "zip": "692500",
-    "lat": 43.8015,
-    "lon": 131.94,
-    "timezone": "Asia/Vladivostok",
-    "isp": "Rostelecom networks",
-    "org": "",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "77.34.39.203"
   }
 }
