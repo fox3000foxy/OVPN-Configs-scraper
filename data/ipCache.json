@@ -639,22 +639,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "31.162.154.144"
   },
-  "14.232.189.40": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "HN",
-    "regionName": "Hanoi",
-    "city": "Hanoi",
-    "zip": "100000",
-    "lat": 21.0184,
-    "lon": 105.8461,
-    "timezone": "Asia/Bangkok",
-    "isp": "VNPT",
-    "org": "Vietnam Posts and Telecommunications Group",
-    "as": "AS45899 VNPT Corp",
-    "query": "14.232.189.40"
-  },
   "2.62.30.56": {
     "status": "success",
     "country": "Russia",
@@ -670,6 +654,22 @@
     "org": "OJSC Rostelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "2.62.30.56"
+  },
+  "14.232.189.40": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "HN",
+    "regionName": "Hanoi",
+    "city": "Hanoi",
+    "zip": "100000",
+    "lat": 21.0184,
+    "lon": 105.8461,
+    "timezone": "Asia/Bangkok",
+    "isp": "VNPT",
+    "org": "Vietnam Posts and Telecommunications Group",
+    "as": "AS45899 VNPT Corp",
+    "query": "14.232.189.40"
   },
   "5.141.48.38": {
     "status": "success",
