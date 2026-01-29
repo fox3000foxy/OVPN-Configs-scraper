@@ -175,22 +175,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "119.196.49.82"
   },
-  "218.145.107.33": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Ansan-si",
-    "zip": "154",
-    "lat": 37.3031,
-    "lon": 126.8214,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "218.145.107.33"
-  },
   "223.132.208.135": {
     "status": "success",
     "country": "Japan",
@@ -207,21 +191,21 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "223.132.208.135"
   },
-  "59.7.207.18": {
+  "218.145.107.33": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
     "region": "41",
     "regionName": "Gyeonggi-do",
-    "city": "Goyang-si",
-    "zip": "10461",
-    "lat": 37.661,
-    "lon": 126.8324,
+    "city": "Ansan-si",
+    "zip": "154",
+    "lat": 37.3031,
+    "lon": 126.8214,
     "timezone": "Asia/Seoul",
     "isp": "Korea Telecom",
-    "org": "",
+    "org": "Kornet",
     "as": "AS4766 Korea Telecom",
-    "query": "59.7.207.18"
+    "query": "218.145.107.33"
   },
   "118.241.184.72": {
     "status": "success",
@@ -239,21 +223,21 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "118.241.184.72"
   },
-  "211.198.67.197": {
+  "59.7.207.18": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
     "region": "41",
     "regionName": "Gyeonggi-do",
-    "city": "Suwon",
-    "zip": "163",
-    "lat": 37.2905,
-    "lon": 126.9877,
+    "city": "Goyang-si",
+    "zip": "10461",
+    "lat": 37.661,
+    "lon": 126.8324,
     "timezone": "Asia/Seoul",
-    "isp": "KORNET",
-    "org": "jinuapateu",
+    "isp": "Korea Telecom",
+    "org": "",
     "as": "AS4766 Korea Telecom",
-    "query": "211.198.67.197"
+    "query": "59.7.207.18"
   },
   "211.184.24.38": {
     "status": "success",
@@ -415,6 +399,22 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "222.14.54.111"
   },
+  "59.136.2.10": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "11",
+    "regionName": "Saitama",
+    "city": "Negishi",
+    "zip": "336-0021",
+    "lat": 35.8553,
+    "lon": 139.6416,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "59.136.2.10"
+  },
   "119.106.76.185": {
     "status": "success",
     "country": "Japan",
@@ -431,21 +431,21 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "119.106.76.185"
   },
-  "59.136.2.10": {
+  "14.51.87.179": {
     "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "11",
-    "regionName": "Saitama",
-    "city": "Negishi",
-    "zip": "336-0021",
-    "lat": 35.8553,
-    "lon": 139.6416,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "59.136.2.10"
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Uiwang",
+    "zip": "160",
+    "lat": 37.3965,
+    "lon": 126.978,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "14.51.87.179"
   },
   "122.103.113.207": {
     "status": "success",
@@ -511,22 +511,6 @@
     "as": "AS7679 QTnet,Inc.",
     "query": "115.124.252.21"
   },
-  "1.66.34.134": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Osaka",
-    "zip": "530-0041",
-    "lat": 34.6967,
-    "lon": 135.5154,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Docomo, inc.",
-    "org": "NTTDoCoMo",
-    "as": "AS9605 NTT DOCOMO, INC.",
-    "query": "1.66.34.134"
-  },
   "49.228.121.149": {
     "status": "success",
     "country": "Thailand",
@@ -574,6 +558,22 @@
     "org": "JSC Rostelecom regional branch Siberia",
     "as": "AS12389 PJSC Rostelecom",
     "query": "5.137.210.152"
+  },
+  "1.66.34.134": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Osaka",
+    "zip": "530-0041",
+    "lat": 34.6967,
+    "lon": 135.5154,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Docomo, inc.",
+    "org": "NTTDoCoMo",
+    "as": "AS9605 NTT DOCOMO, INC.",
+    "query": "1.66.34.134"
   },
   "125.247.190.47": {
     "status": "success",
@@ -670,6 +670,22 @@
     "org": "Cox Communications",
     "as": "AS22773 Cox Communications Inc.",
     "query": "24.253.99.103"
+  },
+  "95.154.65.250": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Vladivostok",
+    "zip": "690001",
+    "lat": 43.1068,
+    "lon": 131.8692,
+    "timezone": "Asia/Vladivostok",
+    "isp": "OCTOPUSNET-NAT",
+    "org": "",
+    "as": "AS44724 Octopusnet LTD",
+    "query": "95.154.65.250"
   },
   "212.14.208.62": {
     "status": "success",
