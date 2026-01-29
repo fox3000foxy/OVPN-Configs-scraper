@@ -367,22 +367,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "86.102.205.225"
   },
-  "98.162.241.207": {
-    "status": "success",
-    "country": "United States",
-    "countryCode": "US",
-    "region": "OK",
-    "regionName": "Oklahoma",
-    "city": "Oklahoma City",
-    "zip": "73118",
-    "lat": 35.5189,
-    "lon": -97.5354,
-    "timezone": "America/Chicago",
-    "isp": "Cox Communications Inc.",
-    "org": "Cox Communications",
-    "as": "AS22773 Cox Communications Inc.",
-    "query": "98.162.241.207"
-  },
   "101.1.240.208": {
     "status": "success",
     "country": "Japan",
@@ -510,6 +494,22 @@
     "org": "Infoline Ltd.",
     "as": "AS8416 InfoLada Ltd",
     "query": "178.163.69.1"
+  },
+  "1.233.71.36": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Areannamkwaengi",
+    "zip": "129",
+    "lat": 37.0745,
+    "lon": 127.3264,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "1.233.71.36"
   },
   "118.223.177.104": {
     "status": "success",
