@@ -239,38 +239,6 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "222.144.35.76"
   },
-  "182.237.221.37": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "45",
-    "regionName": "Jeollabuk-do",
-    "city": "Iksan",
-    "zip": "546",
-    "lat": 35.9579,
-    "lon": 126.9382,
-    "timezone": "Asia/Seoul",
-    "isp": "Keumgang Cable Network",
-    "org": "Kumgang Jungbotongsin(Gunsan)",
-    "as": "AS17583 Keumgang Cable Network",
-    "query": "182.237.221.37"
-  },
-  "133.175.174.202": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chuo",
-    "zip": "103-0000",
-    "lat": 35.6812,
-    "lon": 139.774,
-    "timezone": "Asia/Tokyo",
-    "isp": "ARTERIA Networks Corporation",
-    "org": "Toray Industries, Inc.",
-    "as": "AS2519 ARTERIA Networks Corporation",
-    "query": "133.175.174.202"
-  },
   "169.211.139.99": {
     "status": "success",
     "country": "South Korea",
@@ -351,21 +319,21 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.50"
   },
-  "153.166.46.229": {
+  "153.209.166.46": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0071",
-    "lat": 35.6837,
-    "lon": 139.6805,
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Yokohama",
+    "zip": "231-0841",
+    "lat": 35.4337,
+    "lon": 139.6499,
     "timezone": "Asia/Tokyo",
     "isp": "NTT Communications Corporation",
     "org": "Open Computer Network",
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
-    "query": "153.166.46.229"
+    "query": "153.209.166.46"
   },
   "119.235.113.226": {
     "status": "success",
@@ -382,6 +350,22 @@
     "org": "State Company of Electro Communications Turkmentelecom",
     "as": "AS20661 State Company of Electro Communications Turkmentelecom",
     "query": "119.235.113.226"
+  },
+  "153.166.46.229": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tokyo",
+    "zip": "151-0071",
+    "lat": 35.6837,
+    "lon": 139.6805,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "Open Computer Network",
+    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
+    "query": "153.166.46.229"
   },
   "178.163.69.1": {
     "status": "success",
@@ -494,6 +478,22 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "121.140.51.111"
+  },
+  "119.170.169.113": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "40",
+    "regionName": "Fukuoka",
+    "city": "Chayama",
+    "zip": "814-0111",
+    "lat": 33.5631,
+    "lon": 130.3668,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM Co., Ltd.",
+    "org": "JCOM Co., Ltd",
+    "as": "AS9824 JCOM Co., Ltd.",
+    "query": "119.170.169.113"
   },
   "220.79.246.155": {
     "status": "success",
