@@ -223,6 +223,22 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "118.237.134.168"
   },
+  "91.142.150.3": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "AMU",
+    "regionName": "Amur Oblast",
+    "city": "Blagoveshchensk",
+    "zip": "675000",
+    "lat": 50.266,
+    "lon": 127.536,
+    "timezone": "Asia/Yakutsk",
+    "isp": "LLC Teledyne Systems Limited",
+    "org": "Teledyne Systems Limited",
+    "as": "AS41789 LLC Teledyne Systems Limited",
+    "query": "91.142.150.3"
+  },
   "118.33.153.180": {
     "status": "success",
     "country": "South Korea",
@@ -367,22 +383,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "116.121.181.6"
   },
-  "59.138.182.93": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "11",
-    "regionName": "Saitama",
-    "city": "Tokorozawa",
-    "zip": "359-1161",
-    "lat": 35.7904,
-    "lon": 139.4636,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "59.138.182.93"
-  },
   "223.204.171.55": {
     "status": "success",
     "country": "Thailand",
@@ -511,6 +511,22 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.255.215.116"
   },
+  "113.155.100.54": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "23",
+    "regionName": "Aichi",
+    "city": "Iwakura",
+    "zip": "482-0031",
+    "lat": 35.2943,
+    "lon": 136.8753,
+    "timezone": "Asia/Tokyo",
+    "isp": "KDDI",
+    "org": "DION (KDDI CORPORATION)",
+    "as": "AS18126 Chubu Telecommunications Company, Inc.",
+    "query": "113.155.100.54"
+  },
   "112.172.229.97": {
     "status": "success",
     "country": "South Korea",
@@ -575,21 +591,21 @@
     "as": "AS63526 Systems Solutions & development Technologies Limited",
     "query": "103.120.201.220"
   },
-  "153.160.148.90": {
+  "111.99.88.67": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Osaka",
-    "zip": "550-0001",
-    "lat": 34.6892,
-    "lon": 135.4899,
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Adachi City",
+    "zip": "120-0015",
+    "lat": 35.7627,
+    "lon": 139.8063,
     "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "Open Computer Network",
-    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
-    "query": "153.160.148.90"
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "111.99.88.67"
   },
   "210.222.253.247": {
     "status": "success",
