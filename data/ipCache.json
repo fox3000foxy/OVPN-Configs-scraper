@@ -303,22 +303,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.50"
   },
-  "153.209.166.46": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Yokohama",
-    "zip": "231-0841",
-    "lat": 35.4337,
-    "lon": 139.6499,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "Open Computer Network",
-    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
-    "query": "153.209.166.46"
-  },
   "106.136.145.112": {
     "status": "success",
     "country": "Japan",
@@ -335,21 +319,21 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "106.136.145.112"
   },
-  "106.168.67.207": {
+  "160.86.46.9": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Yokohama",
-    "zip": "231-0841",
-    "lat": 35.4337,
-    "lon": 139.6499,
+    "region": "24",
+    "regionName": "Mie",
+    "city": "Matsusaka",
+    "zip": "515-0001",
+    "lat": 34.6003,
+    "lon": 136.5592,
     "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "106.168.67.207"
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "160.86.46.9"
   },
   "112.170.21.41": {
     "status": "success",
@@ -430,6 +414,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "14.32.161.234"
+  },
+  "110.77.228.134": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "10",
+    "regionName": "Bangkok",
+    "city": "Bangkok",
+    "zip": "10220",
+    "lat": 13.8638,
+    "lon": 100.5998,
+    "timezone": "Asia/Bangkok",
+    "isp": "National Telecom Public Company Limited",
+    "org": "CAT BBviaOnnet",
+    "as": "AS131090 National Telecom Public Company Limited",
+    "query": "110.77.228.134"
   },
   "175.198.160.146": {
     "status": "success",
@@ -718,21 +718,5 @@
     "org": "POL Pppoe Ussk Unlim",
     "as": "AS12389 PJSC Rostelecom",
     "query": "77.35.125.187"
-  },
-  "178.218.98.2": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KHA",
-    "regionName": "Khabarovsk",
-    "city": "Komsomolsk-on-Amur",
-    "zip": "681000",
-    "lat": 50.5467,
-    "lon": 137.0144,
-    "timezone": "Asia/Vladivostok",
-    "isp": "MTS PJSC",
-    "org": "Tinet Inform network",
-    "as": "AS49350 MTS PJSC",
-    "query": "178.218.98.2"
   }
 }
