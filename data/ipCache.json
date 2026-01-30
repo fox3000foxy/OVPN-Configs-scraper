@@ -143,6 +143,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.208"
   },
+  "68.8.191.131": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA",
+    "regionName": "California",
+    "city": "San Diego",
+    "zip": "92115",
+    "lat": 32.7638,
+    "lon": -117.07,
+    "timezone": "America/Los_Angeles",
+    "isp": "Cox Communications Inc.",
+    "org": "Cox Communications Inc.",
+    "as": "AS22773 Cox Communications Inc.",
+    "query": "68.8.191.131"
+  },
   "60.95.76.42": {
     "status": "success",
     "country": "Japan",
@@ -239,22 +255,6 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "222.144.35.76"
   },
-  "182.237.221.37": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "45",
-    "regionName": "Jeollabuk-do",
-    "city": "Iksan",
-    "zip": "546",
-    "lat": 35.9579,
-    "lon": 126.9382,
-    "timezone": "Asia/Seoul",
-    "isp": "Keumgang Cable Network",
-    "org": "Kumgang Jungbotongsin(Gunsan)",
-    "as": "AS17583 Keumgang Cable Network",
-    "query": "182.237.221.37"
-  },
   "133.175.174.202": {
     "status": "success",
     "country": "Japan",
@@ -270,6 +270,22 @@
     "org": "Toray Industries, Inc.",
     "as": "AS2519 ARTERIA Networks Corporation",
     "query": "133.175.174.202"
+  },
+  "182.237.221.37": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "45",
+    "regionName": "Jeollabuk-do",
+    "city": "Iksan",
+    "zip": "546",
+    "lat": 35.9579,
+    "lon": 126.9382,
+    "timezone": "Asia/Seoul",
+    "isp": "Keumgang Cable Network",
+    "org": "Kumgang Jungbotongsin(Gunsan)",
+    "as": "AS17583 Keumgang Cable Network",
+    "query": "182.237.221.37"
   },
   "61.47.212.110": {
     "status": "success",
@@ -351,21 +367,21 @@
     "as": "AS2518 BIGLOBE Inc.",
     "query": "60.239.2.34"
   },
-  "211.52.60.247": {
+  "221.156.186.158": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
-    "region": "30",
-    "regionName": "Daejeon",
-    "city": "Daedeok-gu",
-    "zip": "344",
-    "lat": 36.3653,
-    "lon": 127.4405,
+    "region": "46",
+    "regionName": "Jeollanam-do",
+    "city": "Suncheon",
+    "zip": "579",
+    "lat": 34.9785,
+    "lon": 127.4851,
     "timezone": "Asia/Seoul",
     "isp": "Korea Telecom",
-    "org": "Kornet",
+    "org": "",
     "as": "AS4766 Korea Telecom",
-    "query": "211.52.60.247"
+    "query": "221.156.186.158"
   },
   "175.198.160.146": {
     "status": "success",
@@ -414,6 +430,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "183.111.77.12"
+  },
+  "172.103.241.126": {
+    "status": "success",
+    "country": "Canada",
+    "countryCode": "CA",
+    "region": "BC",
+    "regionName": "British Columbia",
+    "city": "Burnaby",
+    "zip": "V5H",
+    "lat": 49.2292,
+    "lon": -122.9932,
+    "timezone": "America/Vancouver",
+    "isp": "Cipherkey Exchange Corp.",
+    "org": "Cipherkey Exchange Corp",
+    "as": "AS25668 Cipherkey Exchange Corp.",
+    "query": "172.103.241.126"
   },
   "119.170.169.113": {
     "status": "success",
@@ -495,22 +527,6 @@
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "61.24.93.129"
   },
-  "220.100.13.72": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0071",
-    "lat": 35.6837,
-    "lon": 139.6805,
-    "timezone": "Asia/Tokyo",
-    "isp": "Internet Initiative Japan",
-    "org": "Internet Initiative Japan Inc.",
-    "as": "AS2497 Internet Initiative Japan Inc.",
-    "query": "220.100.13.72"
-  },
   "222.102.18.77": {
     "status": "success",
     "country": "South Korea",
@@ -542,22 +558,6 @@
     "org": "Open Computer Network",
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "114.175.159.86"
-  },
-  "118.222.200.243": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "26",
-    "regionName": "Busan",
-    "city": "Gijang-gun",
-    "zip": "460",
-    "lat": 35.2751,
-    "lon": 129.2158,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "118.222.200.243"
   },
   "115.140.205.9": {
     "status": "success",
