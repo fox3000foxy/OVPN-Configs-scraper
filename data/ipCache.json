@@ -383,6 +383,22 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "114.206.223.158"
   },
+  "77.34.167.20": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Vladivostok",
+    "zip": "690001",
+    "lat": 43.1068,
+    "lon": 131.8692,
+    "timezone": "Asia/Vladivostok",
+    "isp": "Rostelecom networks",
+    "org": "",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "77.34.167.20"
+  },
   "125.55.110.221": {
     "status": "success",
     "country": "Japan",
