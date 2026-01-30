@@ -431,6 +431,22 @@
     "as": "AS23788 JCOM Co., Ltd.",
     "query": "202.148.240.143"
   },
+  "106.150.72.118": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "11",
+    "regionName": "Saitama",
+    "city": "Daimon",
+    "zip": "336-0963",
+    "lat": 35.8815,
+    "lon": 139.7334,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "106.150.72.118"
+  },
   "222.14.54.111": {
     "status": "success",
     "country": "Japan",
@@ -462,22 +478,6 @@
     "org": "Japan Nation-wide Network of Softbank Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "60.80.243.29"
-  },
-  "106.150.72.118": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "11",
-    "regionName": "Saitama",
-    "city": "Daimon",
-    "zip": "336-0963",
-    "lat": 35.8815,
-    "lon": 139.7334,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "106.150.72.118"
   },
   "60.105.147.180": {
     "status": "success",
@@ -574,6 +574,22 @@
     "org": "Vietnam Internet Network Information Center",
     "as": "AS18403 FPT Telecom Company",
     "query": "1.53.159.141"
+  },
+  "122.103.113.207": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tokyo",
+    "zip": "151-0071",
+    "lat": 35.6837,
+    "lon": 139.6805,
+    "timezone": "Asia/Tokyo",
+    "isp": "ARTERIA Networks Corporation",
+    "org": "ARTERIA Networks Corporation",
+    "as": "AS2519 ARTERIA Networks Corporation",
+    "query": "122.103.113.207"
   },
   "222.117.186.129": {
     "status": "success",
@@ -686,5 +702,21 @@
     "org": "",
     "as": "AS12389 PJSC Rostelecom",
     "query": "77.34.137.75"
+  },
+  "2.61.228.96": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KK",
+    "regionName": "Khakasiya Republic",
+    "city": "Abakan",
+    "zip": "655000",
+    "lat": 53.72,
+    "lon": 91.4324,
+    "timezone": "Asia/Krasnoyarsk",
+    "isp": "Rostelecom networks",
+    "org": "OJSC Sibirtelecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "2.61.228.96"
   }
 }
