@@ -367,6 +367,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "14.51.87.179"
   },
+  "123.213.125.37": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Uijeongbu-si",
+    "zip": "118",
+    "lat": 37.7396,
+    "lon": 127.0539,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "SK Broadband Co Ltd",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "123.213.125.37"
+  },
   "1.66.34.134": {
     "status": "success",
     "country": "Japan",
@@ -431,22 +447,6 @@
     "as": "AS23788 JCOM Co., Ltd.",
     "query": "202.148.240.143"
   },
-  "106.150.72.118": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "11",
-    "regionName": "Saitama",
-    "city": "Daimon",
-    "zip": "336-0963",
-    "lat": 35.8815,
-    "lon": 139.7334,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "106.150.72.118"
-  },
   "222.14.54.111": {
     "status": "success",
     "country": "Japan",
@@ -462,6 +462,22 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "222.14.54.111"
+  },
+  "106.150.72.118": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "11",
+    "regionName": "Saitama",
+    "city": "Daimon",
+    "zip": "336-0963",
+    "lat": 35.8815,
+    "lon": 139.7334,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "106.150.72.118"
   },
   "60.80.243.29": {
     "status": "success",
@@ -623,21 +639,21 @@
     "as": "AS2519 ARTERIA Networks Corporation",
     "query": "134.180.165.217"
   },
-  "123.109.218.207": {
+  "121.160.25.238": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
     "region": "11",
     "regionName": "Seoul",
-    "city": "Seoul",
-    "zip": "04524",
-    "lat": 37.5658,
-    "lon": 126.978,
+    "city": "Dongdaemun",
+    "zip": "02543",
+    "lat": 37.5841,
+    "lon": 127.0616,
     "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "TBROAD JongnoJungguSeodaemunGangseo",
-    "as": "AS38095 SK Broadband Co Ltd",
-    "query": "123.109.218.207"
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "121.160.25.238"
   },
   "58.226.80.192": {
     "status": "success",
@@ -654,22 +670,6 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "58.226.80.192"
-  },
-  "81.2.58.239": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "MOW",
-    "regionName": "Moscow",
-    "city": "Moscow",
-    "zip": "144700",
-    "lat": 55.7558,
-    "lon": 37.6173,
-    "timezone": "Europe/Moscow",
-    "isp": "PJSC Rostelecom",
-    "org": "POL Pppoe Spsk Unlim",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "81.2.58.239"
   },
   "176.211.236.43": {
     "status": "success",
@@ -703,6 +703,22 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "77.34.137.75"
   },
+  "109.171.35.158": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "OMS",
+    "regionName": "Omsk Oblast",
+    "city": "Omsk",
+    "zip": "644000",
+    "lat": 54.9914,
+    "lon": 73.3645,
+    "timezone": "Asia/Omsk",
+    "isp": "ZSTTK",
+    "org": "JSC Zap-Sib TransTeleCom",
+    "as": "AS21127 Joint Stock Company TransTeleCom",
+    "query": "109.171.35.158"
+  },
   "2.61.228.96": {
     "status": "success",
     "country": "Russia",
@@ -718,5 +734,21 @@
     "org": "OJSC Sibirtelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "2.61.228.96"
+  },
+  "5.143.105.117": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Vladivostok",
+    "zip": "690001",
+    "lat": 43.1068,
+    "lon": 131.8692,
+    "timezone": "Asia/Vladivostok",
+    "isp": "PJSC Rostelecom Far East Region",
+    "org": "Rostelecom Nets",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "5.143.105.117"
   }
 }
