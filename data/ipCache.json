@@ -303,6 +303,22 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.254.167.49"
   },
+  "220.125.51.211": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "43",
+    "regionName": "North Chungcheong",
+    "city": "Okcheon",
+    "zip": "290",
+    "lat": 36.3044,
+    "lon": 127.5651,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "220.125.51.211"
+  },
   "184.22.21.114": {
     "status": "success",
     "country": "Thailand",
@@ -527,22 +543,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "118.222.77.14"
   },
-  "222.238.92.106": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Pyeongtaek-si",
-    "zip": "179",
-    "lat": 36.9871,
-    "lon": 126.9339,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "SK Broadband Co Ltd",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "222.238.92.106"
-  },
   "5.143.111.119": {
     "status": "success",
     "country": "Russia",
@@ -670,5 +670,21 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "58.123.159.246"
+  },
+  "1.53.186.97": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "SG",
+    "regionName": "Ho Chi Minh",
+    "city": "Ho Chi Minh City",
+    "zip": "700000",
+    "lat": 10.822,
+    "lon": 106.6257,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "isp": "FPT Telecom Company",
+    "org": "Vietnam Internet Network Information Center",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "1.53.186.97"
   }
 }
