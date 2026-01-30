@@ -271,22 +271,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.50"
   },
-  "119.173.41.25": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Komone",
-    "zip": "173-0031",
-    "lat": 35.7458,
-    "lon": 139.6911,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM Co., Ltd.",
-    "org": "JCOM Co., Ltd",
-    "as": "AS9824 JCOM Co., Ltd.",
-    "query": "119.173.41.25"
-  },
   "14.42.68.244": {
     "status": "success",
     "country": "South Korea",
@@ -303,6 +287,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "14.42.68.244"
   },
+  "119.173.41.25": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Komone",
+    "zip": "173-0031",
+    "lat": 35.7458,
+    "lon": 139.6911,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM Co., Ltd.",
+    "org": "JCOM Co., Ltd",
+    "as": "AS9824 JCOM Co., Ltd.",
+    "query": "119.173.41.25"
+  },
   "123.213.125.37": {
     "status": "success",
     "country": "South Korea",
@@ -318,6 +318,22 @@
     "org": "SK Broadband Co Ltd",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "123.213.125.37"
+  },
+  "222.109.180.8": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Seongdong-gu",
+    "zip": "047",
+    "lat": 37.5511,
+    "lon": 127.0387,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Sudogwonseobubonbu",
+    "as": "AS4766 Korea Telecom",
+    "query": "222.109.180.8"
   },
   "103.120.201.220": {
     "status": "success",
@@ -527,22 +543,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.144.100.82"
   },
-  "112.168.207.62": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Yeoju",
-    "zip": "126",
-    "lat": 37.2994,
-    "lon": 127.6363,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "112.168.207.62"
-  },
   "175.198.57.28": {
     "status": "success",
     "country": "South Korea",
@@ -590,22 +590,6 @@
     "org": "VIETEL",
     "as": "AS7552 Viettel Group",
     "query": "171.246.86.141"
-  },
-  "92.37.142.45": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KHA",
-    "regionName": "Khabarovsk",
-    "city": "Khabarovsk",
-    "zip": "680000",
-    "lat": 48.4817,
-    "lon": 135.083,
-    "timezone": "Asia/Vladivostok",
-    "isp": "Rostelecom networks",
-    "org": "",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "92.37.142.45"
   },
   "114.201.13.246": {
     "status": "success",
@@ -671,6 +655,22 @@
     "as": "AS42038 Krivets Sergey Sergeevich",
     "query": "109.126.5.40"
   },
+  "160.249.27.161": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Osaka",
+    "zip": "530-0041",
+    "lat": 34.6967,
+    "lon": 135.5154,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT DOCOMO, INC.",
+    "org": "NTT Docomo, inc.",
+    "as": "AS9605 NTT DOCOMO, INC.",
+    "query": "160.249.27.161"
+  },
   "2.62.253.37": {
     "status": "success",
     "country": "Russia",
@@ -686,6 +686,22 @@
     "org": "OJSC Sibirtelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "2.62.253.37"
+  },
+  "92.37.142.45": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KHA",
+    "regionName": "Khabarovsk",
+    "city": "Khabarovsk",
+    "zip": "680000",
+    "lat": 48.4817,
+    "lon": 135.083,
+    "timezone": "Asia/Vladivostok",
+    "isp": "Rostelecom networks",
+    "org": "",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "92.37.142.45"
   },
   "130.255.48.81": {
     "status": "success",
@@ -734,21 +750,5 @@
     "org": "",
     "as": "AS5089 Virgin Media Limited",
     "query": "80.3.208.251"
-  },
-  "220.149.127.202": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Guri-si",
-    "zip": "01707",
-    "lat": 37.6302,
-    "lon": 127.075,
-    "timezone": "Asia/Seoul",
-    "isp": "Korean Education Network",
-    "org": "Seoul National University of Science and Technology",
-    "as": "AS3786 LG DACOM Corporation",
-    "query": "220.149.127.202"
   }
 }
