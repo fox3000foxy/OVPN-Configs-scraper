@@ -191,22 +191,6 @@
     "as": "AS4725 SoftBank Corp.",
     "query": "220.212.128.195"
   },
-  "115.78.10.208": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "SG",
-    "regionName": "Ho Chi Minh",
-    "city": "Ho Chi Minh City",
-    "zip": "700000",
-    "lat": 10.822,
-    "lon": 106.6257,
-    "timezone": "Asia/Ho_Chi_Minh",
-    "isp": "VIETELftth",
-    "org": "",
-    "as": "AS7552 Viettel Group",
-    "query": "115.78.10.208"
-  },
   "121.106.148.235": {
     "status": "success",
     "country": "Japan",
@@ -222,6 +206,22 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "121.106.148.235"
+  },
+  "115.78.10.208": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "SG",
+    "regionName": "Ho Chi Minh",
+    "city": "Ho Chi Minh City",
+    "zip": "700000",
+    "lat": 10.822,
+    "lon": 106.6257,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "isp": "VIETELftth",
+    "org": "",
+    "as": "AS7552 Viettel Group",
+    "query": "115.78.10.208"
   },
   "91.142.150.3": {
     "status": "success",
@@ -383,6 +383,22 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.73.214.202"
   },
+  "110.46.158.118": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Haeundae-gu",
+    "zip": "480",
+    "lat": 35.1692,
+    "lon": 129.1738,
+    "timezone": "Asia/Seoul",
+    "isp": "CJ Hello Co",
+    "org": "HVHaeundae",
+    "as": "AS9697 LG HelloVision Corp.",
+    "query": "110.46.158.118"
+  },
   "58.150.189.252": {
     "status": "success",
     "country": "South Korea",
@@ -527,6 +543,22 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "5.137.206.227"
   },
+  "123.48.24.198": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "22",
+    "regionName": "Shizuoka",
+    "city": "Shizuoka",
+    "zip": "420-0831",
+    "lat": 34.9804,
+    "lon": 138.3854,
+    "timezone": "Asia/Tokyo",
+    "isp": "Chubu Telecommunications Company, Inc.",
+    "org": "Chubu Telecommunications Co., Inc.",
+    "as": "AS18126 Chubu Telecommunications Company, Inc.",
+    "query": "123.48.24.198"
+  },
   "1.255.215.116": {
     "status": "success",
     "country": "South Korea",
@@ -558,38 +590,6 @@
     "org": "Truenet Hisp",
     "as": "AS17552 True Online",
     "query": "171.97.195.208"
-  },
-  "123.48.24.198": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "22",
-    "regionName": "Shizuoka",
-    "city": "Shizuoka",
-    "zip": "420-0831",
-    "lat": 34.9804,
-    "lon": 138.3854,
-    "timezone": "Asia/Tokyo",
-    "isp": "Chubu Telecommunications Company, Inc.",
-    "org": "Chubu Telecommunications Co., Inc.",
-    "as": "AS18126 Chubu Telecommunications Company, Inc.",
-    "query": "123.48.24.198"
-  },
-  "118.71.57.250": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "HN",
-    "regionName": "Hanoi",
-    "city": "Hanoi",
-    "zip": "",
-    "lat": 21.0278,
-    "lon": 105.834,
-    "timezone": "Asia/Bangkok",
-    "isp": "Vietnam Internet Network Information Center",
-    "org": "",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "118.71.57.250"
   },
   "42.127.224.34": {
     "status": "success",
@@ -702,5 +702,37 @@
     "org": "Vietnam Internet Network Information Center",
     "as": "AS18403 FPT Telecom Company",
     "query": "42.115.99.240"
+  },
+  "110.11.8.13": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "46",
+    "regionName": "Jeollanam-do",
+    "city": "Naju",
+    "zip": "582",
+    "lat": 35.0223,
+    "lon": 126.7897,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "110.11.8.13"
+  },
+  "46.37.132.36": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Vladivostok",
+    "zip": "690001",
+    "lat": 43.1068,
+    "lon": 131.8692,
+    "timezone": "Asia/Vladivostok",
+    "isp": "VLADLINK",
+    "org": "VladLink LTD",
+    "as": "AS42038 Krivets Sergey Sergeevich",
+    "query": "46.37.132.36"
   }
 }
