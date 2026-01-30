@@ -271,6 +271,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.50"
   },
+  "126.221.40.75": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.221.40.75"
+  },
   "14.42.68.244": {
     "status": "success",
     "country": "South Korea",
@@ -366,22 +382,6 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "218.38.253.108"
-  },
-  "106.166.161.3": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Negoya",
-    "zip": "257-0004",
-    "lat": 35.3623,
-    "lon": 139.2592,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "106.166.161.3"
   },
   "121.130.115.119": {
     "status": "success",
@@ -623,22 +623,6 @@
     "as": "AS39812 Closed Joint Stock Company Radiotelephone",
     "query": "130.255.48.81"
   },
-  "24.130.208.249": {
-    "status": "success",
-    "country": "United States",
-    "countryCode": "US",
-    "region": "CA",
-    "regionName": "California",
-    "city": "Sunnyvale",
-    "zip": "94085",
-    "lat": 37.386,
-    "lon": -122.0144,
-    "timezone": "America/Los_Angeles",
-    "isp": "Comcast Cable Communications",
-    "org": "Comcast Cable Communications Holdings, Inc",
-    "as": "AS7922 Comcast Cable Communications, LLC",
-    "query": "24.130.208.249"
-  },
   "80.3.208.251": {
     "status": "success",
     "country": "United Kingdom",
@@ -670,21 +654,5 @@
     "org": "JSC Ufanet",
     "as": "AS24955 JSC Ufanet",
     "query": "77.79.147.4"
-  },
-  "126.214.222.143": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.214.222.143"
   }
 }
