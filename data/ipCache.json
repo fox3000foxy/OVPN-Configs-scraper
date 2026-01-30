@@ -415,22 +415,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "59.29.151.252"
   },
-  "221.158.167.4": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "44",
-    "regionName": "Chungcheongnam-do",
-    "city": "Boryeong",
-    "zip": "334",
-    "lat": 36.352,
-    "lon": 126.6023,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Korea Telecom",
-    "as": "AS4766 Korea Telecom",
-    "query": "221.158.167.4"
-  },
   "211.37.56.176": {
     "status": "success",
     "country": "South Korea",
@@ -446,6 +430,22 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "211.37.56.176"
+  },
+  "221.158.167.4": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "44",
+    "regionName": "Chungcheongnam-do",
+    "city": "Boryeong",
+    "zip": "334",
+    "lat": 36.352,
+    "lon": 126.6023,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Korea Telecom",
+    "as": "AS4766 Korea Telecom",
+    "query": "221.158.167.4"
   },
   "1.66.34.134": {
     "status": "success",
