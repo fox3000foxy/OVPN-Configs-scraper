@@ -319,22 +319,6 @@
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "119.173.41.25"
   },
-  "218.158.68.238": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "50",
-    "regionName": "Sejong-si",
-    "city": "Sejong",
-    "zip": "301",
-    "lat": 36.5916,
-    "lon": 127.2916,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Korea Telecom",
-    "as": "AS4766 Korea Telecom",
-    "query": "218.158.68.238"
-  },
   "123.213.125.37": {
     "status": "success",
     "country": "South Korea",
@@ -543,6 +527,22 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "178.68.110.135"
   },
+  "42.112.13.234": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "HN",
+    "regionName": "Hanoi",
+    "city": "Hanoi",
+    "zip": "100000",
+    "lat": 21.0184,
+    "lon": 105.8461,
+    "timezone": "Asia/Bangkok",
+    "isp": "Vietnam Internet Network Information Center",
+    "org": "",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "42.112.13.234"
+  },
   "112.168.207.62": {
     "status": "success",
     "country": "South Korea",
@@ -719,20 +719,20 @@
     "as": "AS5089 Virgin Media Limited",
     "query": "80.3.208.251"
   },
-  "126.214.222.143": {
+  "153.206.208.44": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
+    "region": "11",
+    "regionName": "Saitama",
+    "city": "Negishi",
+    "zip": "336-0021",
+    "lat": 35.8553,
+    "lon": 139.6416,
     "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.214.222.143"
+    "isp": "NTT Communications Corporation",
+    "org": "Open Computer Network",
+    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
+    "query": "153.206.208.44"
   }
 }
