@@ -431,22 +431,6 @@
     "as": "AS33991 Igra-Service LLC",
     "query": "91.132.22.148"
   },
-  "58.136.178.76": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "10",
-    "regionName": "Bangkok",
-    "city": "Bangkok",
-    "zip": "10110",
-    "lat": 13.7101,
-    "lon": 100.4543,
-    "timezone": "Asia/Bangkok",
-    "isp": "AIS-Fibre",
-    "org": "",
-    "as": "AS133481 AIS Fibre",
-    "query": "58.136.178.76"
-  },
   "119.170.169.113": {
     "status": "success",
     "country": "Japan",
@@ -510,6 +494,22 @@
     "org": "LG POWERCOMM",
     "as": "AS17858 LG POWERCOMM",
     "query": "49.164.173.80"
+  },
+  "61.24.93.129": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tokyo",
+    "zip": "151-0071",
+    "lat": 35.6837,
+    "lon": 139.6805,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM Co., Ltd.",
+    "org": "JCOM Co., Ltd",
+    "as": "AS9824 JCOM Co., Ltd.",
+    "query": "61.24.93.129"
   },
   "59.27.231.45": {
     "status": "success",
