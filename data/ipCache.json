@@ -143,6 +143,22 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "111.97.191.114"
   },
+  "60.108.146.236": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.108.146.236"
+  },
   "119.196.49.82": {
     "status": "success",
     "country": "South Korea",
@@ -622,22 +638,6 @@
     "org": "Comcast Cable Communications Holdings, Inc",
     "as": "AS7922 Comcast Cable Communications, LLC",
     "query": "24.130.208.249"
-  },
-  "188.186.186.127": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "TYU",
-    "regionName": "Tyumen Oblast",
-    "city": "Zavodoukovsk",
-    "zip": "627142",
-    "lat": 56.5072,
-    "lon": 66.5491,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "JSC \"ER-Telecom Holding\"",
-    "org": "JSC \"ER-Telecom Holding\" Tyumen' branch",
-    "as": "AS41682 JSC ER-Telecom Holding",
-    "query": "188.186.186.127"
   },
   "80.3.208.251": {
     "status": "success",
