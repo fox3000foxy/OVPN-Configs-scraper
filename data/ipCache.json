@@ -399,6 +399,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "61.75.115.245"
   },
+  "119.47.102.55": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "33",
+    "regionName": "Okayama",
+    "city": "Okayama",
+    "zip": "700-0831",
+    "lat": 34.6591,
+    "lon": 133.9337,
+    "timezone": "Asia/Tokyo",
+    "isp": "Okayama Network Inc.",
+    "org": "Okayama Network Inc.",
+    "as": "AS18129 OKAYAMA NETWORK INC.",
+    "query": "119.47.102.55"
+  },
   "1.240.128.118": {
     "status": "success",
     "country": "South Korea",
@@ -430,22 +446,6 @@
     "org": "Korea Telecom",
     "as": "AS4766 Korea Telecom",
     "query": "112.185.17.25"
-  },
-  "95.53.232.230": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "VLG",
-    "regionName": "Vologda Oblast",
-    "city": "Gryazovets",
-    "zip": "162001",
-    "lat": 58.8819,
-    "lon": 40.2456,
-    "timezone": "Europe/Moscow",
-    "isp": "Rostelecom networks",
-    "org": "OJSC North-West Telecom",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "95.53.232.230"
   },
   "150.249.171.78": {
     "status": "success",
@@ -750,5 +750,21 @@
     "org": "OJSC Rostelecom Macroregional Branch South",
     "as": "AS12389 PJSC Rostelecom",
     "query": "46.159.34.5"
+  },
+  "220.149.127.202": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Guri-si",
+    "zip": "01707",
+    "lat": 37.6302,
+    "lon": 127.075,
+    "timezone": "Asia/Seoul",
+    "isp": "Korean Education Network",
+    "org": "Seoul National University of Science and Technology",
+    "as": "AS3786 LG DACOM Corporation",
+    "query": "220.149.127.202"
   }
 }
