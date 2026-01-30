@@ -367,22 +367,6 @@
     "as": "AS3786 LG DACOM Corporation",
     "query": "58.150.189.252"
   },
-  "218.146.133.8": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "48",
-    "regionName": "Gyeongsangnam-do",
-    "city": "Gimhae",
-    "zip": "509",
-    "lat": 35.2342,
-    "lon": 128.8777,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "218.146.133.8"
-  },
   "222.98.176.199": {
     "status": "success",
     "country": "South Korea",
