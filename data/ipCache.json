@@ -351,6 +351,22 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.254.167.49"
   },
+  "220.125.51.211": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "43",
+    "regionName": "North Chungcheong",
+    "city": "Okcheon",
+    "zip": "290",
+    "lat": 36.3044,
+    "lon": 127.5651,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "220.125.51.211"
+  },
   "211.228.134.146": {
     "status": "success",
     "country": "South Korea",
@@ -559,22 +575,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "118.222.77.14"
   },
-  "222.238.92.106": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Pyeongtaek-si",
-    "zip": "179",
-    "lat": 36.9871,
-    "lon": 126.9339,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "SK Broadband Co Ltd",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "222.238.92.106"
-  },
   "5.143.111.119": {
     "status": "success",
     "country": "Russia",
@@ -623,21 +623,21 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "79.105.250.60"
   },
-  "211.206.71.126": {
+  "182.228.199.67": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
     "region": "11",
     "regionName": "Seoul",
     "city": "Songpa-gu",
-    "zip": "057",
-    "lat": 37.5049,
-    "lon": 127.1367,
+    "zip": "056",
+    "lat": 37.5108,
+    "lon": 127.1048,
     "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "211.206.71.126"
+    "isp": "LG POWERCOMM",
+    "org": "Xpeed",
+    "as": "AS17858 LG POWERCOMM",
+    "query": "182.228.199.67"
   },
   "175.211.83.86": {
     "status": "success",
@@ -671,6 +671,22 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "222.238.181.128"
   },
+  "211.248.46.56": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "45",
+    "regionName": "Jeollabuk-do",
+    "city": "Jeonju",
+    "zip": "55000",
+    "lat": 35.8237,
+    "lon": 127.1476,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "211.248.46.56"
+  },
   "176.51.129.117": {
     "status": "success",
     "country": "Russia",
@@ -687,38 +703,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "176.51.129.117"
   },
-  "1.53.186.97": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "SG",
-    "regionName": "Ho Chi Minh",
-    "city": "Ho Chi Minh City",
-    "zip": "700000",
-    "lat": 10.822,
-    "lon": 106.6257,
-    "timezone": "Asia/Ho_Chi_Minh",
-    "isp": "FPT Telecom Company",
-    "org": "Vietnam Internet Network Information Center",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "1.53.186.97"
-  },
-  "45.140.95.66": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KHA",
-    "regionName": "Khabarovsk",
-    "city": "Khabarovsk",
-    "zip": "680000",
-    "lat": 48.4817,
-    "lon": 135.083,
-    "timezone": "Asia/Vladivostok",
-    "isp": "JSC \"Redcom-lnternet\"",
-    "org": "Redcom Retail Services",
-    "as": "AS8749 JSC Redcom-lnternet",
-    "query": "45.140.95.66"
-  },
   "1.239.79.205": {
     "status": "success",
     "country": "South Korea",
@@ -734,5 +718,21 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.239.79.205"
+  },
+  "1.53.186.97": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "SG",
+    "regionName": "Ho Chi Minh",
+    "city": "Ho Chi Minh City",
+    "zip": "700000",
+    "lat": 10.822,
+    "lon": 106.6257,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "isp": "FPT Telecom Company",
+    "org": "Vietnam Internet Network Information Center",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "1.53.186.97"
   }
 }
