@@ -383,22 +383,6 @@
     "as": "AS8416 InfoLada Ltd",
     "query": "178.163.69.1"
   },
-  "211.227.46.160": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Goyang-si",
-    "zip": "103",
-    "lat": 37.6792,
-    "lon": 126.8183,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "211.227.46.160"
-  },
   "175.133.128.210": {
     "status": "success",
     "country": "Japan",
@@ -462,6 +446,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "175.198.160.146"
+  },
+  "183.111.77.12": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Yeongdeungpo-gu",
+    "zip": "073",
+    "lat": 37.5156,
+    "lon": 126.9111,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "183.111.77.12"
   },
   "121.140.51.111": {
     "status": "success",
@@ -606,6 +606,22 @@
     "org": "LTD Pool NET",
     "as": "AS12494 OOO \"Post ltd\"",
     "query": "94.124.240.73"
+  },
+  "201.97.13.197": {
+    "status": "success",
+    "country": "Mexico",
+    "countryCode": "MX",
+    "region": "VER",
+    "regionName": "Veracruz",
+    "city": "Poza Rica",
+    "zip": "93320",
+    "lat": 20.52,
+    "lon": -97.4511,
+    "timezone": "America/Mexico_City",
+    "isp": "UNINET",
+    "org": "UNINET",
+    "as": "AS8151 UNINET",
+    "query": "201.97.13.197"
   },
   "176.33.105.126": {
     "status": "success",
