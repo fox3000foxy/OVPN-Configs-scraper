@@ -239,22 +239,6 @@
     "as": "AS17858 LG POWERCOMM",
     "query": "49.174.10.156"
   },
-  "211.198.67.197": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Suwon",
-    "zip": "163",
-    "lat": 37.2905,
-    "lon": 126.9877,
-    "timezone": "Asia/Seoul",
-    "isp": "KORNET",
-    "org": "jinuapateu",
-    "as": "AS4766 Korea Telecom",
-    "query": "211.198.67.197"
-  },
   "183.99.115.65": {
     "status": "success",
     "country": "South Korea",
@@ -383,22 +367,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "14.51.87.179"
   },
-  "119.173.41.197": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Komone",
-    "zip": "173-0031",
-    "lat": 35.7458,
-    "lon": 139.6911,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM Co., Ltd.",
-    "org": "JCOM Co., Ltd",
-    "as": "AS9824 JCOM Co., Ltd.",
-    "query": "119.173.41.197"
-  },
   "1.66.34.134": {
     "status": "success",
     "country": "Japan",
@@ -414,6 +382,22 @@
     "org": "NTTDoCoMo",
     "as": "AS9605 NTT DOCOMO, INC.",
     "query": "1.66.34.134"
+  },
+  "119.173.41.197": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Komone",
+    "zip": "173-0031",
+    "lat": 35.7458,
+    "lon": 139.6911,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM Co., Ltd.",
+    "org": "JCOM Co., Ltd",
+    "as": "AS9824 JCOM Co., Ltd.",
+    "query": "119.173.41.197"
   },
   "178.218.99.215": {
     "status": "success",
@@ -431,21 +415,21 @@
     "as": "AS49350 MTS PJSC",
     "query": "178.218.99.215"
   },
-  "49.228.110.31": {
+  "202.148.240.143": {
     "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "10",
-    "regionName": "Bangkok",
-    "city": "Bangkok",
-    "zip": "10110",
-    "lat": 13.7101,
-    "lon": 100.4543,
-    "timezone": "Asia/Bangkok",
-    "isp": "Advanced Wireless Network Company Limited",
-    "org": "",
-    "as": "AS133481 AIS Fibre",
-    "query": "49.228.110.31"
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "12",
+    "regionName": "Chiba",
+    "city": "Ichikawa",
+    "zip": "272-0031",
+    "lat": 35.7233,
+    "lon": 139.9132,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM",
+    "org": "Jupiter Telecommunications Co., Ltd.",
+    "as": "AS23788 JCOM Co., Ltd.",
+    "query": "202.148.240.143"
   },
   "210.136.243.168": {
     "status": "success",
@@ -511,6 +495,22 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.130.116.116"
   },
+  "60.105.147.180": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.105.147.180"
+  },
   "90.189.217.65": {
     "status": "success",
     "country": "Russia",
@@ -543,22 +543,6 @@
     "as": "AS42532 SIA VEESP",
     "query": "45.43.78.59"
   },
-  "60.122.90.45": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan Nation-wide Network of Softbank Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "60.122.90.45"
-  },
   "112.185.246.157": {
     "status": "success",
     "country": "South Korea",
@@ -574,6 +558,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "112.185.246.157"
+  },
+  "126.90.36.27": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.90.36.27"
   },
   "1.53.159.141": {
     "status": "success",
@@ -591,21 +591,21 @@
     "as": "AS18403 FPT Telecom Company",
     "query": "1.53.159.141"
   },
-  "222.117.186.129": {
+  "218.158.75.206": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Yongin-si",
-    "zip": "16940",
-    "lat": 37.298,
-    "lon": 127.0777,
+    "region": "50",
+    "regionName": "Sejong-si",
+    "city": "Sejong",
+    "zip": "30113",
+    "lat": 36.5916,
+    "lon": 127.2916,
     "timezone": "Asia/Seoul",
     "isp": "Korea Telecom",
-    "org": "",
+    "org": "Korea Telecom",
     "as": "AS4766 Korea Telecom",
-    "query": "222.117.186.129"
+    "query": "218.158.75.206"
   },
   "188.233.57.36": {
     "status": "success",
@@ -654,5 +654,37 @@
     "org": "TBROAD JongnoJungguSeodaemunGangseo",
     "as": "AS38095 SK Broadband Co Ltd",
     "query": "123.109.218.207"
+  },
+  "58.226.80.192": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Geumcheon-gu",
+    "zip": "085",
+    "lat": 37.4784,
+    "lon": 126.8982,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "58.226.80.192"
+  },
+  "81.2.58.239": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "MOW",
+    "regionName": "Moscow",
+    "city": "Moscow",
+    "zip": "144700",
+    "lat": 55.7558,
+    "lon": 37.6173,
+    "timezone": "Europe/Moscow",
+    "isp": "PJSC Rostelecom",
+    "org": "POL Pppoe Spsk Unlim",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "81.2.58.239"
   }
 }
