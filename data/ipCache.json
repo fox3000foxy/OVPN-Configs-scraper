@@ -111,22 +111,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.16"
   },
-  "219.100.37.109": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftEther",
-    "org": "SoftEther Corporation",
-    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.109"
-  },
   "68.8.191.131": {
     "status": "success",
     "country": "United States",
@@ -142,6 +126,22 @@
     "org": "Cox Communications Inc.",
     "as": "AS22773 Cox Communications Inc.",
     "query": "68.8.191.131"
+  },
+  "219.100.37.109": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftEther",
+    "org": "SoftEther Corporation",
+    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
+    "query": "219.100.37.109"
   },
   "219.100.37.208": {
     "status": "success",
@@ -350,6 +350,22 @@
     "org": "Infoline Ltd.",
     "as": "AS8416 InfoLada Ltd",
     "query": "178.163.69.1"
+  },
+  "222.227.165.89": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minamimagome",
+    "zip": "143-0021",
+    "lat": 35.5993,
+    "lon": 139.7075,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "Kddi Corporation",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "222.227.165.89"
   },
   "60.239.2.34": {
     "status": "success",
@@ -575,22 +591,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "95.159.190.166"
   },
-  "118.222.200.243": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "26",
-    "regionName": "Busan",
-    "city": "Gijang-gun",
-    "zip": "460",
-    "lat": 35.2751,
-    "lon": 129.2158,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "118.222.200.243"
-  },
   "115.140.205.9": {
     "status": "success",
     "country": "South Korea",
@@ -622,22 +622,6 @@
     "org": "NTT Communications Corporation",
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "180.57.59.204"
-  },
-  "69.61.36.218": {
-    "status": "success",
-    "country": "United States",
-    "countryCode": "US",
-    "region": "GA",
-    "regionName": "Georgia",
-    "city": "Atlanta",
-    "zip": "30303",
-    "lat": 33.7485,
-    "lon": -84.3871,
-    "timezone": "America/New_York",
-    "isp": "Cyber Wurx LLC",
-    "org": "Cyber Wurx LLC",
-    "as": "AS22653 Cyber Wurx LLC",
-    "query": "69.61.36.218"
   },
   "212.164.38.239": {
     "status": "success",
