@@ -479,22 +479,6 @@
     "as": "AS11664 Techtel LMDS Comunicaciones Interactivas S.A.",
     "query": "186.122.11.104"
   },
-  "119.170.169.113": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "40",
-    "regionName": "Fukuoka",
-    "city": "Chayama",
-    "zip": "814-0111",
-    "lat": 33.5631,
-    "lon": 130.3668,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM Co., Ltd.",
-    "org": "JCOM Co., Ltd",
-    "as": "AS9824 JCOM Co., Ltd.",
-    "query": "119.170.169.113"
-  },
   "118.137.3.34": {
     "status": "success",
     "country": "Indonesia",
@@ -542,6 +526,22 @@
     "org": "JCOM Co., Ltd",
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "61.24.93.129"
+  },
+  "119.170.169.113": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "40",
+    "regionName": "Fukuoka",
+    "city": "Chayama",
+    "zip": "814-0111",
+    "lat": 33.5631,
+    "lon": 130.3668,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM Co., Ltd.",
+    "org": "JCOM Co., Ltd",
+    "as": "AS9824 JCOM Co., Ltd.",
+    "query": "119.170.169.113"
   },
   "59.27.231.45": {
     "status": "success",
@@ -734,5 +734,21 @@
     "org": "POL Pppoe Ussk Unlim",
     "as": "AS12389 PJSC Rostelecom",
     "query": "77.35.125.187"
+  },
+  "178.218.98.2": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KHA",
+    "regionName": "Khabarovsk",
+    "city": "Komsomolsk-on-Amur",
+    "zip": "681000",
+    "lat": 50.5467,
+    "lon": 137.0144,
+    "timezone": "Asia/Vladivostok",
+    "isp": "MTS PJSC",
+    "org": "Tinet Inform network",
+    "as": "AS49350 MTS PJSC",
+    "query": "178.218.98.2"
   }
 }
