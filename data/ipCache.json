@@ -143,6 +143,22 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.113.239.82"
   },
+  "60.36.150.117": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Miharadai",
+    "zip": "590-0111",
+    "lat": 34.4996,
+    "lon": 135.5485,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "NTT Communications Corporation",
+    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
+    "query": "60.36.150.117"
+  },
   "1.246.154.63": {
     "status": "success",
     "country": "South Korea",
@@ -191,22 +207,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "221.49.114.110"
   },
-  "175.28.24.204": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "24",
-    "regionName": "Mie",
-    "city": "Shima",
-    "zip": "517-0201",
-    "lat": 34.4609,
-    "lon": 136.8654,
-    "timezone": "Asia/Tokyo",
-    "isp": "Matsusaka CATV Station Co., Ltd.",
-    "org": "MCTV",
-    "as": "AS10019 Matsusaka Cable-TV Station Inc.",
-    "query": "175.28.24.204"
-  },
   "219.100.37.50": {
     "status": "success",
     "country": "Japan",
@@ -254,22 +254,6 @@
     "org": "Korea Telecom",
     "as": "AS4766 Korea Telecom",
     "query": "121.161.243.192"
-  },
-  "114.204.37.77": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Siheung-si",
-    "zip": "149",
-    "lat": 37.3648,
-    "lon": 126.8009,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "114.204.37.77"
   },
   "1.66.34.134": {
     "status": "success",
@@ -527,22 +511,6 @@
     "as": "AS47165 Omskie kabelnye seti Ltd.",
     "query": "94.137.60.2"
   },
-  "2.62.30.56": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KEM",
-    "regionName": "Kemerovo Oblast",
-    "city": "Novokuznetsk",
-    "zip": "654014",
-    "lat": 53.7575,
-    "lon": 87.136,
-    "timezone": "Asia/Novokuznetsk",
-    "isp": "Rostelecom networks",
-    "org": "OJSC Rostelecom",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "2.62.30.56"
-  },
   "118.222.77.14": {
     "status": "success",
     "country": "South Korea",
@@ -670,5 +638,21 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "124.211.199.109"
+  },
+  "176.51.129.117": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "NVS",
+    "regionName": "Novosibirsk Oblast",
+    "city": "Novosibirsk",
+    "zip": "630000",
+    "lat": 55.0226,
+    "lon": 82.9317,
+    "timezone": "Asia/Novosibirsk",
+    "isp": "Rostelecom networks",
+    "org": "OJSC Rostelecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "176.51.129.117"
   }
 }
