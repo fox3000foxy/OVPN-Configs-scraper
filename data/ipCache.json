@@ -159,6 +159,22 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "111.238.189.171"
   },
+  "220.212.128.195": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "ULTINA",
+    "as": "AS4725 SoftBank Corp.",
+    "query": "220.212.128.195"
+  },
   "175.209.13.17": {
     "status": "success",
     "country": "South Korea",
@@ -351,22 +367,6 @@
     "as": "AS3786 LG DACOM Corporation",
     "query": "58.150.189.252"
   },
-  "126.221.40.75": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.221.40.75"
-  },
   "218.146.133.8": {
     "status": "success",
     "country": "South Korea",
@@ -543,6 +543,22 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.132.187.210"
   },
+  "60.100.196.98": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.100.196.98"
+  },
   "118.71.57.250": {
     "status": "success",
     "country": "Vietnam",
@@ -591,22 +607,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "111.99.88.67"
   },
-  "210.222.253.247": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "44",
-    "regionName": "Chungcheongnam-do",
-    "city": "Tangjin",
-    "zip": "317",
-    "lat": 36.8951,
-    "lon": 126.625,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "210.222.253.247"
-  },
   "14.7.11.249": {
     "status": "success",
     "country": "South Korea",
@@ -622,6 +622,22 @@
     "org": "DACOM-PUBNETPLUS",
     "as": "AS17858 LG POWERCOMM",
     "query": "14.7.11.249"
+  },
+  "210.222.253.247": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "44",
+    "regionName": "Chungcheongnam-do",
+    "city": "Tangjin",
+    "zip": "317",
+    "lat": 36.8951,
+    "lon": 126.625,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "210.222.253.247"
   },
   "176.116.186.64": {
     "status": "success",
@@ -670,21 +686,5 @@
     "org": "Vietnam Internet Network Information Center",
     "as": "AS18403 FPT Telecom Company",
     "query": "42.115.99.240"
-  },
-  "124.110.21.97": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "21",
-    "regionName": "Gifu",
-    "city": "Yamagata",
-    "zip": "502-0005",
-    "lat": 35.4762,
-    "lon": 136.772,
-    "timezone": "Asia/Tokyo",
-    "isp": "ARTERIA Networks Corporation",
-    "org": "ARTERIA Networks Corporation",
-    "as": "AS2519 ARTERIA Networks Corporation",
-    "query": "124.110.21.97"
   }
 }
