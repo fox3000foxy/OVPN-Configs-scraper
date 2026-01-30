@@ -335,6 +335,22 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.73.214.202"
   },
+  "58.150.189.252": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Jongno-gu",
+    "zip": "031",
+    "lat": 37.5692,
+    "lon": 126.9775,
+    "timezone": "Asia/Seoul",
+    "isp": "LG DACOM Corporation",
+    "org": "Boranet",
+    "as": "AS3786 LG DACOM Corporation",
+    "query": "58.150.189.252"
+  },
   "126.221.40.75": {
     "status": "success",
     "country": "Japan",
@@ -575,22 +591,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.251.45.198"
   },
-  "103.120.201.220": {
-    "status": "success",
-    "country": "Bangladesh",
-    "countryCode": "BD",
-    "region": "B",
-    "regionName": "Chittagong",
-    "city": "Comilla",
-    "zip": "3500",
-    "lat": 23.3522,
-    "lon": 91.0593,
-    "timezone": "Asia/Dhaka",
-    "isp": "Carnival Internet",
-    "org": "",
-    "as": "AS63526 Systems Solutions & development Technologies Limited",
-    "query": "103.120.201.220"
-  },
   "111.99.88.67": {
     "status": "success",
     "country": "Japan",
@@ -686,5 +686,21 @@
     "org": "Vietnam Internet Network Information Center",
     "as": "AS18403 FPT Telecom Company",
     "query": "42.115.99.240"
+  },
+  "124.110.21.97": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "21",
+    "regionName": "Gifu",
+    "city": "Yamagata",
+    "zip": "502-0005",
+    "lat": 35.4762,
+    "lon": 136.772,
+    "timezone": "Asia/Tokyo",
+    "isp": "ARTERIA Networks Corporation",
+    "org": "ARTERIA Networks Corporation",
+    "as": "AS2519 ARTERIA Networks Corporation",
+    "query": "124.110.21.97"
   }
 }
