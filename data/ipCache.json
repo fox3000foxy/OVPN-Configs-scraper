@@ -511,21 +511,21 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.255.215.116"
   },
-  "113.155.100.54": {
+  "171.97.195.208": {
     "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "23",
-    "regionName": "Aichi",
-    "city": "Iwakura",
-    "zip": "482-0031",
-    "lat": 35.2943,
-    "lon": 136.8753,
-    "timezone": "Asia/Tokyo",
-    "isp": "KDDI",
-    "org": "DION (KDDI CORPORATION)",
-    "as": "AS18126 Chubu Telecommunications Company, Inc.",
-    "query": "113.155.100.54"
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "50",
+    "regionName": "Chiang Mai",
+    "city": "Chiang Mai",
+    "zip": "50000",
+    "lat": 18.7857,
+    "lon": 98.9736,
+    "timezone": "Asia/Bangkok",
+    "isp": "True Internet Corporation CO. Ltd.",
+    "org": "Truenet Hisp",
+    "as": "AS17552 True Online",
+    "query": "171.97.195.208"
   },
   "60.132.187.210": {
     "status": "success",
@@ -542,22 +542,6 @@
     "org": "Japan Nation-wide Network of Softbank Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "60.132.187.210"
-  },
-  "42.127.224.34": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "11",
-    "regionName": "Saitama",
-    "city": "Chūō",
-    "zip": "335-0001",
-    "lat": 35.8292,
-    "lon": 139.6789,
-    "timezone": "Asia/Tokyo",
-    "isp": "TOKAI Communications Corporation",
-    "org": "TOKAI Communications Corporation",
-    "as": "AS10010 TOKAI Communications Corporation",
-    "query": "42.127.224.34"
   },
   "118.71.57.250": {
     "status": "success",
