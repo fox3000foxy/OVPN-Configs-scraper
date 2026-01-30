@@ -143,22 +143,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "111.97.191.114"
   },
-  "218.148.187.249": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Goyang-si",
-    "zip": "103",
-    "lat": 37.6792,
-    "lon": 126.8183,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "KORNET",
-    "as": "AS4766 Korea Telecom",
-    "query": "218.148.187.249"
-  },
   "218.145.107.33": {
     "status": "success",
     "country": "South Korea",
@@ -174,6 +158,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "218.145.107.33"
+  },
+  "218.148.187.249": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Goyang-si",
+    "zip": "103",
+    "lat": 37.6792,
+    "lon": 126.8183,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "KORNET",
+    "as": "AS4766 Korea Telecom",
+    "query": "218.148.187.249"
   },
   "119.196.49.82": {
     "status": "success",
@@ -366,6 +366,22 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "119.106.76.185"
+  },
+  "14.51.87.179": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Uiwang",
+    "zip": "160",
+    "lat": 37.3965,
+    "lon": 126.978,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "14.51.87.179"
   },
   "119.173.41.197": {
     "status": "success",
