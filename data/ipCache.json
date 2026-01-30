@@ -127,6 +127,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.109"
   },
+  "68.8.191.131": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA",
+    "regionName": "California",
+    "city": "San Diego",
+    "zip": "92115",
+    "lat": 32.7638,
+    "lon": -117.07,
+    "timezone": "America/Los_Angeles",
+    "isp": "Cox Communications Inc.",
+    "org": "Cox Communications Inc.",
+    "as": "AS22773 Cox Communications Inc.",
+    "query": "68.8.191.131"
+  },
   "219.100.37.208": {
     "status": "success",
     "country": "Japan",
@@ -174,6 +190,22 @@
     "org": "Sony Network Communications Inc.",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "92.202.199.250"
+  },
+  "220.150.148.16": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "08",
+    "regionName": "Ibaraki",
+    "city": "Tsukuba",
+    "zip": "305-0021",
+    "lat": 36.096,
+    "lon": 140.1503,
+    "timezone": "Asia/Tokyo",
+    "isp": "ASAHI Net, Inc.",
+    "org": "ASAHI",
+    "as": "AS4685 Asahi Net",
+    "query": "220.150.148.16"
   },
   "118.157.139.36": {
     "status": "success",
@@ -223,22 +255,6 @@
     "as": "AS7522 STNet, Incorporated",
     "query": "183.176.178.218"
   },
-  "27.85.1.30": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Miharadai",
-    "zip": "590-0111",
-    "lat": 34.4996,
-    "lon": 135.5485,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "27.85.1.30"
-  },
   "133.175.174.202": {
     "status": "success",
     "country": "Japan",
@@ -286,6 +302,22 @@
     "org": "Kumgang Jungbotongsin(Gunsan)",
     "as": "AS17583 Keumgang Cable Network",
     "query": "182.237.221.37"
+  },
+  "61.47.212.110": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "28",
+    "regionName": "Incheon",
+    "city": "Incheon",
+    "zip": "223",
+    "lat": 37.4667,
+    "lon": 126.622,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "TBROAD SaeromNamdongSeohae",
+    "as": "AS17597 SK Broadband Co Ltd",
+    "query": "61.47.212.110"
   },
   "219.100.37.50": {
     "status": "success",
@@ -415,37 +447,37 @@
     "as": "AS133481 AIS Fibre",
     "query": "58.136.178.76"
   },
-  "124.143.78.89": {
+  "172.103.241.126": {
+    "status": "success",
+    "country": "Canada",
+    "countryCode": "CA",
+    "region": "BC",
+    "regionName": "British Columbia",
+    "city": "Burnaby",
+    "zip": "V5H",
+    "lat": 49.2292,
+    "lon": -122.9932,
+    "timezone": "America/Vancouver",
+    "isp": "Cipherkey Exchange Corp.",
+    "org": "Cipherkey Exchange Corp",
+    "as": "AS25668 Cipherkey Exchange Corp.",
+    "query": "172.103.241.126"
+  },
+  "119.170.169.113": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "32",
-    "regionName": "Shimane",
-    "city": "Ōdachō-ōda",
-    "zip": "694-0061",
-    "lat": 35.1875,
-    "lon": 132.4483,
+    "region": "40",
+    "regionName": "Fukuoka",
+    "city": "Chayama",
+    "zip": "814-0111",
+    "lat": 33.5631,
+    "lon": 130.3668,
     "timezone": "Asia/Tokyo",
     "isp": "JCOM Co., Ltd.",
-    "org": "Jupiter Telecommunication Co. Ltd",
+    "org": "JCOM Co., Ltd",
     "as": "AS9824 JCOM Co., Ltd.",
-    "query": "124.143.78.89"
-  },
-  "14.47.60.103": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Suwon",
-    "zip": "166",
-    "lat": 37.2506,
-    "lon": 127.0668,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "14.47.60.103"
+    "query": "119.170.169.113"
   },
   "186.122.11.104": {
     "status": "success",
@@ -494,22 +526,6 @@
     "org": "LG POWERCOMM",
     "as": "AS17858 LG POWERCOMM",
     "query": "49.164.173.80"
-  },
-  "220.100.13.72": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0071",
-    "lat": 35.6837,
-    "lon": 139.6805,
-    "timezone": "Asia/Tokyo",
-    "isp": "Internet Initiative Japan",
-    "org": "Internet Initiative Japan Inc.",
-    "as": "AS2497 Internet Initiative Japan Inc.",
-    "query": "220.100.13.72"
   },
   "222.102.18.77": {
     "status": "success",
