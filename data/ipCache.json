@@ -463,6 +463,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "175.198.160.146"
   },
+  "183.111.77.12": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Yeongdeungpo-gu",
+    "zip": "073",
+    "lat": 37.5156,
+    "lon": 126.9111,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "183.111.77.12"
+  },
   "121.140.51.111": {
     "status": "success",
     "country": "South Korea",
@@ -527,22 +543,6 @@
     "as": "AS45758 Triple T Broadband Public Company Limited",
     "query": "171.4.222.120"
   },
-  "183.111.77.12": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Yeongdeungpo-gu",
-    "zip": "073",
-    "lat": 37.5156,
-    "lon": 126.9111,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "183.111.77.12"
-  },
   "172.103.241.126": {
     "status": "success",
     "country": "Canada",
@@ -558,6 +558,22 @@
     "org": "Cipherkey Exchange Corp",
     "as": "AS25668 Cipherkey Exchange Corp.",
     "query": "172.103.241.126"
+  },
+  "58.123.224.213": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Anyang-si",
+    "zip": "139",
+    "lat": 37.4027,
+    "lon": 126.9257,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "SK Broadband Co Ltd",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "58.123.224.213"
   },
   "91.205.236.69": {
     "status": "success",
@@ -622,38 +638,6 @@
     "org": "",
     "as": "AS34984 Superonline Iletisim Hizmetleri A.S.",
     "query": "176.33.105.126"
-  },
-  "1.226.8.88": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "49",
-    "regionName": "Jeju-do",
-    "city": "Jeju City",
-    "zip": "630",
-    "lat": 33.4832,
-    "lon": 126.4837,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "1.226.8.88"
-  },
-  "186.15.99.126": {
-    "status": "success",
-    "country": "Costa Rica",
-    "countryCode": "CR",
-    "region": "SJ",
-    "regionName": "Provincia de San José",
-    "city": "Pérez Zeledón",
-    "zip": "11901",
-    "lat": 9.3237,
-    "lon": -83.7168,
-    "timezone": "America/Costa_Rica",
-    "isp": "Cable Tica",
-    "org": "Cable Tica",
-    "as": "AS52228 Cable Tica",
-    "query": "186.15.99.126"
   },
   "212.164.178.207": {
     "status": "success",
