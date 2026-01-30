@@ -223,22 +223,6 @@
     "as": "AS45758 Triple T Broadband Public Company Limited",
     "query": "49.49.199.103"
   },
-  "183.180.154.178": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Osaka",
-    "zip": "550-0001",
-    "lat": 34.6892,
-    "lon": 135.4899,
-    "timezone": "Asia/Tokyo",
-    "isp": "ARTERIA Networks Corporation",
-    "org": "ARTERIA Networks Corporation",
-    "as": "AS2519 ARTERIA Networks Corporation",
-    "query": "183.180.154.178"
-  },
   "180.68.118.32": {
     "status": "success",
     "country": "South Korea",
@@ -367,22 +351,6 @@
     "as": "AS42610 PJSC Rostelecom",
     "query": "95.84.132.179"
   },
-  "114.206.223.158": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "48",
-    "regionName": "Gyeongsangnam-do",
-    "city": "Yangsan",
-    "zip": "506",
-    "lat": 35.3447,
-    "lon": 129.0299,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "114.206.223.158"
-  },
   "77.34.167.20": {
     "status": "success",
     "country": "Russia",
@@ -398,6 +366,22 @@
     "org": "",
     "as": "AS12389 PJSC Rostelecom",
     "query": "77.34.167.20"
+  },
+  "114.206.223.158": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "48",
+    "regionName": "Gyeongsangnam-do",
+    "city": "Yangsan",
+    "zip": "506",
+    "lat": 35.3447,
+    "lon": 129.0299,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "114.206.223.158"
   },
   "125.55.110.221": {
     "status": "success",
@@ -430,22 +414,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "210.99.65.21"
-  },
-  "59.138.72.73": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "11",
-    "regionName": "Saitama",
-    "city": "Kawaguchi",
-    "zip": "332-0031",
-    "lat": 35.8147,
-    "lon": 139.7289,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "59.138.72.73"
   },
   "221.144.146.230": {
     "status": "success",
@@ -542,6 +510,22 @@
     "org": "Open Computer Network",
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "153.195.76.55"
+  },
+  "49.49.217.177": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "10",
+    "regionName": "Bangkok",
+    "city": "Bangkok",
+    "zip": "10310",
+    "lat": 13.7749,
+    "lon": 100.5197,
+    "timezone": "Asia/Bangkok",
+    "isp": "Triple T Broadband Public Company Limited",
+    "org": "Triple T Broadband Public Company Limited",
+    "as": "AS45758 Triple T Broadband Public Company Limited",
+    "query": "49.49.217.177"
   },
   "190.120.228.141": {
     "status": "success",
