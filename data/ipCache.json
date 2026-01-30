@@ -319,22 +319,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "123.213.125.37"
   },
-  "222.109.180.8": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Seongdong-gu",
-    "zip": "047",
-    "lat": 37.5511,
-    "lon": 127.0387,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Sudogwonseobubonbu",
-    "as": "AS4766 Korea Telecom",
-    "query": "222.109.180.8"
-  },
   "103.120.201.220": {
     "status": "success",
     "country": "Bangladesh",
@@ -543,6 +527,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.144.100.82"
   },
+  "112.168.207.62": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Yeoju",
+    "zip": "126",
+    "lat": 37.2994,
+    "lon": 127.6363,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "112.168.207.62"
+  },
   "175.198.57.28": {
     "status": "success",
     "country": "South Korea",
@@ -735,20 +735,20 @@
     "as": "AS5089 Virgin Media Limited",
     "query": "80.3.208.251"
   },
-  "46.159.34.5": {
+  "220.149.127.202": {
     "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KDA",
-    "regionName": "Krasnodar Krai",
-    "city": "Dzhubga",
-    "zip": "352844",
-    "lat": 44.3207,
-    "lon": 38.7017,
-    "timezone": "Europe/Moscow",
-    "isp": "PAO Rostelecom",
-    "org": "OJSC Rostelecom Macroregional Branch South",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "46.159.34.5"
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Guri-si",
+    "zip": "01707",
+    "lat": 37.6302,
+    "lon": 127.075,
+    "timezone": "Asia/Seoul",
+    "isp": "Korean Education Network",
+    "org": "Seoul National University of Science and Technology",
+    "as": "AS3786 LG DACOM Corporation",
+    "query": "220.149.127.202"
   }
 }
