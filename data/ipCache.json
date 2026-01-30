@@ -351,6 +351,22 @@
     "as": "AS8416 InfoLada Ltd",
     "query": "178.163.69.1"
   },
+  "153.166.46.229": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tokyo",
+    "zip": "151-0071",
+    "lat": 35.6837,
+    "lon": 139.6805,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "Open Computer Network",
+    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
+    "query": "153.166.46.229"
+  },
   "222.227.165.89": {
     "status": "success",
     "country": "Japan",
