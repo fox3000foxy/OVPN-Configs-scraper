@@ -639,22 +639,6 @@
     "as": "AS34984 Superonline Iletisim Hizmetleri A.S.",
     "query": "176.33.105.126"
   },
-  "46.61.92.61": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "ROS",
-    "regionName": "Rostov Oblast",
-    "city": "Rostov-on-Don",
-    "zip": "344000",
-    "lat": 47.2359,
-    "lon": 39.7134,
-    "timezone": "Europe/Moscow",
-    "isp": "BRAS Huawei ME60 (128kusers)",
-    "org": "OJSC Rostelecom Macroregional Branch South",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "46.61.92.61"
-  },
   "1.226.8.88": {
     "status": "success",
     "country": "South Korea",
