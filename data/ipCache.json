@@ -63,22 +63,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.15"
   },
-  "219.100.37.126": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftEther",
-    "org": "SoftEther Corporation",
-    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.126"
-  },
   "219.100.37.109": {
     "status": "success",
     "country": "Japan",
@@ -143,6 +127,22 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.113.239.82"
   },
+  "59.139.128.191": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "02",
+    "regionName": "Aomori",
+    "city": "Kuroishi",
+    "zip": "036-0351",
+    "lat": 40.6485,
+    "lon": 140.5872,
+    "timezone": "Asia/Tokyo",
+    "isp": "DION (KDDI CORPORATION)",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "59.139.128.191"
+  },
   "1.246.154.63": {
     "status": "success",
     "country": "South Korea",
@@ -206,22 +206,6 @@
     "org": "MCTV",
     "as": "AS10019 Matsusaka Cable-TV Station Inc.",
     "query": "175.28.24.204"
-  },
-  "219.100.37.50": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftEther",
-    "org": "SoftEther Corporation",
-    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.50"
   },
   "60.144.85.226": {
     "status": "success",
@@ -383,22 +367,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "59.138.72.73"
   },
-  "184.22.122.231": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "13",
-    "regionName": "Pathum Thani",
-    "city": "Pathum Thani",
-    "zip": "12000",
-    "lat": 14.0435,
-    "lon": 100.6421,
-    "timezone": "Asia/Bangkok",
-    "isp": "AIS-Fibre",
-    "org": "",
-    "as": "AS133481 AIS Fibre",
-    "query": "184.22.122.231"
-  },
   "109.110.46.232": {
     "status": "success",
     "country": "Russia",
@@ -415,21 +383,21 @@
     "as": "AS196949 Natalia Sergeevna Filicheva",
     "query": "109.110.46.232"
   },
-  "37.21.159.52": {
+  "121.156.83.50": {
     "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "TOM",
-    "regionName": "Tomsk Oblast",
-    "city": "Tomsk",
-    "zip": "634009",
-    "lat": 56.4957,
-    "lon": 84.9636,
-    "timezone": "Asia/Tomsk",
-    "isp": "JSC Rostelecom regional branch \"Siberia\"",
-    "org": "JSC Rostelecom regional branch Siberia",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "37.21.159.52"
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Suyeong-gu",
+    "zip": "482",
+    "lat": 35.1513,
+    "lon": 129.1203,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "121.156.83.50"
   },
   "180.198.178.2": {
     "status": "success",
@@ -447,6 +415,38 @@
     "as": "AS18126 Chubu Telecommunications Company, Inc.",
     "query": "180.198.178.2"
   },
+  "60.119.199.206": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.119.199.206"
+  },
+  "126.79.96.108": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.79.96.108"
+  },
   "221.164.120.204": {
     "status": "success",
     "country": "South Korea",
@@ -462,22 +462,6 @@
     "org": "Korea Telecom",
     "as": "AS4766 Korea Telecom",
     "query": "221.164.120.204"
-  },
-  "180.149.180.47": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "11",
-    "regionName": "Saitama",
-    "city": "Kawaguchi",
-    "zip": "332-0031",
-    "lat": 35.8147,
-    "lon": 139.7289,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM Co., Ltd.",
-    "org": "JCOM",
-    "as": "AS4721 JCOM Co., Ltd.",
-    "query": "180.149.180.47"
   },
   "178.49.249.41": {
     "status": "success",
@@ -623,22 +607,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "87.225.127.162"
   },
-  "126.125.49.30": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.125.49.30"
-  },
   "79.105.250.60": {
     "status": "success",
     "country": "Russia",
@@ -686,6 +654,22 @@
     "org": "SK Broadband Co Ltd",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "222.238.181.128"
+  },
+  "124.211.199.109": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Edogawa",
+    "zip": "132-0000",
+    "lat": 35.6907,
+    "lon": 139.8767,
+    "timezone": "Asia/Tokyo",
+    "isp": "DION (KDDI CORPORATION)",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "124.211.199.109"
   },
   "176.51.129.117": {
     "status": "success",
