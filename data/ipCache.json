@@ -223,22 +223,6 @@
     "as": "AS17858 LG POWERCOMM",
     "query": "49.174.10.156"
   },
-  "103.152.178.62": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-0001",
-    "lat": 35.694,
-    "lon": 139.754,
-    "timezone": "Asia/Tokyo",
-    "isp": "Ayao Takata",
-    "org": "SDCC-East01",
-    "as": "AS38074 SDCC Japan-West Area",
-    "query": "103.152.178.62"
-  },
   "183.99.115.65": {
     "status": "success",
     "country": "South Korea",
@@ -254,6 +238,22 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "183.99.115.65"
+  },
+  "103.152.178.62": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-0001",
+    "lat": 35.694,
+    "lon": 139.754,
+    "timezone": "Asia/Tokyo",
+    "isp": "Ayao Takata",
+    "org": "SDCC-East01",
+    "as": "AS38074 SDCC Japan-West Area",
+    "query": "103.152.178.62"
   },
   "185.124.155.182": {
     "status": "success",
@@ -542,22 +542,6 @@
     "org": "OJSC Sibirtelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "90.189.217.65"
-  },
-  "156.244.39.25": {
-    "status": "success",
-    "country": "Peru",
-    "countryCode": "PE",
-    "region": "LMA",
-    "regionName": "Lima Province",
-    "city": "Lima",
-    "zip": "15001",
-    "lat": -12.0464,
-    "lon": -77.0428,
-    "timezone": "America/Lima",
-    "isp": "Kaopu Cloud HK Limited",
-    "org": "Lightnode Limited",
-    "as": "AS138915 Kaopu Cloud HK Limited",
-    "query": "156.244.39.25"
   },
   "112.185.246.157": {
     "status": "success",

@@ -78,12 +78,6 @@ Or download individually:
 | 45.43.78.59 | Latvia | SIA VEESP | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/45.43.78.59.ovpn) |
 
 
-### Peru
-| IP | Country | ISP | Provider | Config |
-|---|---|---|---|---|
-| 156.244.39.25 | Peru | Kaopu Cloud HK Limited | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/156.244.39.25.ovpn) |
-
-
 ### South Korea
 | IP | Country | ISP | Provider | Config |
 |---|---|---|---|---|
