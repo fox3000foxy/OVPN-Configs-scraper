@@ -223,6 +223,22 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "110.15.2.128"
   },
+  "183.99.115.65": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Seongnam-si",
+    "zip": "134",
+    "lat": 37.4062,
+    "lon": 127.1077,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "183.99.115.65"
+  },
   "101.128.133.100": {
     "status": "success",
     "country": "Japan",
@@ -335,22 +351,6 @@
     "as": "AS59127 Newmedia Corporation",
     "query": "61.44.175.142"
   },
-  "1.66.34.134": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Osaka",
-    "zip": "530-0041",
-    "lat": 34.6967,
-    "lon": 135.5154,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Docomo, inc.",
-    "org": "NTTDoCoMo",
-    "as": "AS9605 NTT DOCOMO, INC.",
-    "query": "1.66.34.134"
-  },
   "110.232.8.204": {
     "status": "success",
     "country": "Japan",
@@ -415,21 +415,21 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.119.126.161"
   },
-  "58.232.223.120": {
+  "60.143.120.123": {
     "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "46",
-    "regionName": "Jeollanam-do",
-    "city": "Suncheon-si",
-    "zip": "57922",
-    "lat": 34.9716,
-    "lon": 127.461,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "58.232.223.120"
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.143.120.123"
   },
   "118.106.207.67": {
     "status": "success",
@@ -446,22 +446,6 @@
     "org": "Chubu Telecommunications Co., Inc.",
     "as": "AS18126 Chubu Telecommunications Company, Inc.",
     "query": "118.106.207.67"
-  },
-  "126.116.156.167": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.116.156.167"
   },
   "221.164.117.21": {
     "status": "success",
@@ -543,21 +527,21 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "5.143.104.42"
   },
-  "39.121.154.44": {
+  "188.233.57.36": {
     "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "27",
-    "regionName": "Daegu",
-    "city": "Suseong-gu",
-    "zip": "420",
-    "lat": 35.8699,
-    "lon": 128.6314,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "39.121.154.44"
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "VGG",
+    "regionName": "Volgograd Oblast",
+    "city": "Volgograd",
+    "zip": "400011",
+    "lat": 48.7168,
+    "lon": 44.5035,
+    "timezone": "Europe/Volgograd",
+    "isp": "CJSC \"ER-Telecom Holding\" Volgograd branch",
+    "org": "JSC \"ER-Telecom Holding\" Volgograd Branch",
+    "as": "AS39435 JSC ER-Telecom Holding",
+    "query": "188.233.57.36"
   },
   "222.236.114.192": {
     "status": "success",
@@ -575,21 +559,21 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "222.236.114.192"
   },
-  "94.41.223.139": {
+  "39.121.154.44": {
     "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "BA",
-    "regionName": "Bashkortostan Republic",
-    "city": "Ufa",
-    "zip": "450000",
-    "lat": 54.7431,
-    "lon": 55.9678,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "JSC \"Ufanet\"",
-    "org": "JSC Ufanet",
-    "as": "AS24955 JSC Ufanet",
-    "query": "94.41.223.139"
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "27",
+    "regionName": "Daegu",
+    "city": "Suseong-gu",
+    "zip": "420",
+    "lat": 35.8699,
+    "lon": 128.6314,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "39.121.154.44"
   },
   "211.205.218.20": {
     "status": "success",
@@ -606,6 +590,22 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "211.205.218.20"
+  },
+  "94.140.143.242": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "SVE",
+    "regionName": "Sverdlovsk Oblast",
+    "city": "Yekaterinburg",
+    "zip": "620028",
+    "lat": 56.8577,
+    "lon": 60.6113,
+    "timezone": "Asia/Yekaterinburg",
+    "isp": "MTS EKB B2C 2",
+    "org": "PJSC MTS Sverdlovsk region",
+    "as": "AS8359 MTS PJSC",
+    "query": "94.140.143.242"
   },
   "210.194.10.105": {
     "status": "success",
