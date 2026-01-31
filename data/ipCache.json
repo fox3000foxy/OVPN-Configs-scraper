@@ -303,22 +303,6 @@
     "as": "AS12737 KrasPromStroy, LLC",
     "query": "185.124.155.182"
   },
-  "219.100.37.102": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftEther",
-    "org": "SoftEther Corporation",
-    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.102"
-  },
   "59.146.35.86": {
     "status": "success",
     "country": "Japan",
@@ -334,6 +318,22 @@
     "org": "Sony Network Communications Inc.",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "59.146.35.86"
+  },
+  "219.100.37.102": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftEther",
+    "org": "SoftEther Corporation",
+    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
+    "query": "219.100.37.102"
   },
   "60.119.224.202": {
     "status": "success",
@@ -479,22 +479,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.95.114.100"
   },
-  "42.119.215.192": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "SG",
-    "regionName": "Ho Chi Minh",
-    "city": "Ho Chi Minh City",
-    "zip": "700000",
-    "lat": 10.822,
-    "lon": 106.6257,
-    "timezone": "Asia/Ho_Chi_Minh",
-    "isp": "FPT Telecom Company",
-    "org": "Vietnam Internet Network Information Center",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "42.119.215.192"
-  },
   "112.171.81.250": {
     "status": "success",
     "country": "South Korea",
@@ -526,6 +510,22 @@
     "org": "Korea Telecom",
     "as": "AS4766 Korea Telecom",
     "query": "125.137.135.215"
+  },
+  "42.119.215.192": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "SG",
+    "regionName": "Ho Chi Minh",
+    "city": "Ho Chi Minh City",
+    "zip": "700000",
+    "lat": 10.822,
+    "lon": 106.6257,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "isp": "FPT Telecom Company",
+    "org": "Vietnam Internet Network Information Center",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "42.119.215.192"
   },
   "5.143.104.42": {
     "status": "success",
@@ -686,21 +686,5 @@
     "org": "FPTDYNAMICIP",
     "as": "AS18403 FPT Telecom Company",
     "query": "42.118.117.81"
-  },
-  "37.140.24.30": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "CHE",
-    "regionName": "Chelyabinsk Oblast",
-    "city": "Magnitogorsk",
-    "zip": "455000",
-    "lat": 53.3981,
-    "lon": 59.0066,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "Intersvyaz-2 JSC",
-    "org": "",
-    "as": "AS8369 Intersvyaz-2 JSC",
-    "query": "37.140.24.30"
   }
 }
