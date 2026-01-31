@@ -431,6 +431,22 @@
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "110.135.102.73"
   },
+  "106.165.34.211": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "08",
+    "regionName": "Ibaraki",
+    "city": "Koga",
+    "zip": "306-0021",
+    "lat": 36.2024,
+    "lon": 139.7085,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "106.165.34.211"
+  },
   "221.162.71.6": {
     "status": "success",
     "country": "South Korea",
@@ -446,22 +462,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "221.162.71.6"
-  },
-  "210.136.243.168": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Osaka",
-    "zip": "550-0001",
-    "lat": 34.6892,
-    "lon": 135.4899,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT PC Communications, Inc.",
-    "org": "InfoSphere",
-    "as": "AS2514 NTT PC Communications, Inc.",
-    "query": "210.136.243.168"
   },
   "119.106.76.185": {
     "status": "success",
@@ -654,21 +654,5 @@
     "org": "LG POWERCOMM",
     "as": "AS17858 LG POWERCOMM",
     "query": "182.221.142.49"
-  },
-  "77.82.17.249": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KHA",
-    "regionName": "Khabarovsk",
-    "city": "Khabarovsk",
-    "zip": "680000",
-    "lat": 48.4817,
-    "lon": 135.083,
-    "timezone": "Asia/Vladivostok",
-    "isp": "Rostelecom Khabarovsk branch",
-    "org": "Open Joint Stock Company",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "77.82.17.249"
   }
 }
