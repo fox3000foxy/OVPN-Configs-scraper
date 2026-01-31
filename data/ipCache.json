@@ -143,22 +143,6 @@
     "as": "AS9595 NTT-ME Corporation",
     "query": "115.65.23.149"
   },
-  "49.49.199.103": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "74",
-    "regionName": "Samut Sakhon",
-    "city": "Samut Sakhon",
-    "zip": "74000",
-    "lat": 13.5341,
-    "lon": 100.286,
-    "timezone": "Asia/Bangkok",
-    "isp": "Triple T Broadband Public Company Limited",
-    "org": "Triple T Broadband Public Company Limited",
-    "as": "AS45758 Triple T Broadband Public Company Limited",
-    "query": "49.49.199.103"
-  },
   "180.68.118.32": {
     "status": "success",
     "country": "South Korea",
@@ -190,6 +174,22 @@
     "org": "ARTERIA Networks Corporation",
     "as": "AS2519 ARTERIA Networks Corporation",
     "query": "183.180.154.178"
+  },
+  "49.49.199.103": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "74",
+    "regionName": "Samut Sakhon",
+    "city": "Samut Sakhon",
+    "zip": "74000",
+    "lat": 13.5341,
+    "lon": 100.286,
+    "timezone": "Asia/Bangkok",
+    "isp": "Triple T Broadband Public Company Limited",
+    "org": "Triple T Broadband Public Company Limited",
+    "as": "AS45758 Triple T Broadband Public Company Limited",
+    "query": "49.49.199.103"
   },
   "211.221.198.244": {
     "status": "success",
@@ -543,22 +543,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "90.150.249.232"
   },
-  "126.207.20.168": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.207.20.168"
-  },
   "176.124.116.232": {
     "status": "success",
     "country": "Russia",
@@ -607,6 +591,22 @@
     "as": "AS12252 America Movil Peru S.A.C.",
     "query": "179.6.168.57"
   },
+  "183.98.39.143": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Dongjak-gu",
+    "zip": "069",
+    "lat": 37.5003,
+    "lon": 126.9565,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "jusighwyeusa keiti",
+    "as": "AS4766 Korea Telecom",
+    "query": "183.98.39.143"
+  },
   "79.105.250.60": {
     "status": "success",
     "country": "Russia",
@@ -622,5 +622,21 @@
     "org": "OJSC Far Eastern Telecommunications Company Amursky st.",
     "as": "AS12389 PJSC Rostelecom",
     "query": "79.105.250.60"
+  },
+  "5.143.50.143": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Vladivostok",
+    "zip": "690001",
+    "lat": 43.1068,
+    "lon": 131.8692,
+    "timezone": "Asia/Vladivostok",
+    "isp": "Rostelecom networks",
+    "org": "OJSC Rostelecom Far-East Region",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "5.143.50.143"
   }
 }
