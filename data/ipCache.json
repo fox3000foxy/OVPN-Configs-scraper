@@ -239,6 +239,22 @@
     "as": "AS38074 SDCC Japan-West Area",
     "query": "103.152.178.62"
   },
+  "92.203.159.128": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "12",
+    "regionName": "Chiba",
+    "city": "Ichikawa",
+    "zip": "272-0031",
+    "lat": 35.7233,
+    "lon": 139.9132,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "92.203.159.128"
+  },
   "49.174.10.156": {
     "status": "success",
     "country": "South Korea",
@@ -399,6 +415,22 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "124.212.183.144"
   },
+  "118.32.36.218": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Namyangju",
+    "zip": "122",
+    "lat": 37.6224,
+    "lon": 127.1502,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "118.32.36.218"
+  },
   "49.228.225.242": {
     "status": "success",
     "country": "Thailand",
@@ -431,22 +463,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "218.110.234.120"
   },
-  "121.139.244.222": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Anyang-si",
-    "zip": "14032",
-    "lat": 37.3907,
-    "lon": 126.9167,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "121.139.244.222"
-  },
   "175.135.210.151": {
     "status": "success",
     "country": "Japan",
@@ -463,21 +479,21 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "175.135.210.151"
   },
-  "59.130.13.74": {
+  "184.22.115.86": {
     "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "20",
-    "regionName": "Nagano",
-    "city": "Nagano",
-    "zip": "380-0941",
-    "lat": 36.63,
-    "lon": 138.1795,
-    "timezone": "Asia/Tokyo",
-    "isp": "KDDI",
-    "org": "DION (KDDI CORPORATION)",
-    "as": "AS18126 Chubu Telecommunications Company, Inc.",
-    "query": "59.130.13.74"
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "40",
+    "regionName": "Khon Kaen",
+    "city": "Khon Kaen",
+    "zip": "40160",
+    "lat": 16.4467,
+    "lon": 102.833,
+    "timezone": "Asia/Bangkok",
+    "isp": "AIS-Fibre",
+    "org": "",
+    "as": "AS133481 AIS Fibre",
+    "query": "184.22.115.86"
   },
   "220.123.230.187": {
     "status": "success",
@@ -495,21 +511,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "220.123.230.187"
   },
-  "60.126.10.156": {
+  "180.197.203.57": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
+    "region": "20",
+    "regionName": "Nagano",
+    "city": "Matsumoto",
+    "zip": "390-0811",
+    "lat": 36.2345,
+    "lon": 137.9746,
     "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan Nation-wide Network of Softbank Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "60.126.10.156"
+    "isp": "Chubu Telecommunications Company, Inc.",
+    "org": "Chubu Telecommunications Co., Inc.",
+    "as": "AS18126 Chubu Telecommunications Company, Inc.",
+    "query": "180.197.203.57"
   },
   "121.176.25.124": {
     "status": "success",
