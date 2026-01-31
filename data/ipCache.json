@@ -63,22 +63,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.4"
   },
-  "219.100.37.16": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftEther",
-    "org": "SoftEther Corporation",
-    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.16"
-  },
   "219.100.37.109": {
     "status": "success",
     "country": "Japan",
@@ -158,6 +142,22 @@
     "org": "NTT-ME Corporation",
     "as": "AS9595 NTT-ME Corporation",
     "query": "115.65.23.149"
+  },
+  "59.23.123.76": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "27",
+    "regionName": "Daegu",
+    "city": "Dalseo-gu",
+    "zip": "426",
+    "lat": 35.8619,
+    "lon": 128.4811,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "KT Corporation",
+    "as": "AS4766 Korea Telecom",
+    "query": "59.23.123.76"
   },
   "218.145.181.197": {
     "status": "success",
@@ -335,6 +335,22 @@
     "as": "AS38074 SDCC Japan-West Area",
     "query": "103.152.178.62"
   },
+  "219.100.37.102": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftEther",
+    "org": "SoftEther Corporation",
+    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
+    "query": "219.100.37.102"
+  },
   "95.84.132.179": {
     "status": "success",
     "country": "Russia",
@@ -350,6 +366,22 @@
     "org": "",
     "as": "AS42610 PJSC Rostelecom",
     "query": "95.84.132.179"
+  },
+  "219.100.37.50": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftEther",
+    "org": "SoftEther Corporation",
+    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
+    "query": "219.100.37.50"
   },
   "133.203.3.237": {
     "status": "success",
