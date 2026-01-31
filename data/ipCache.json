@@ -351,6 +351,22 @@
     "as": "AS11776 Breezeline",
     "query": "75.76.243.108"
   },
+  "153.176.130.242": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tokyo",
+    "zip": "151-0071",
+    "lat": 35.6837,
+    "lon": 139.6805,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "Open Computer Network",
+    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
+    "query": "153.176.130.242"
+  },
   "221.152.115.166": {
     "status": "success",
     "country": "South Korea",
@@ -398,22 +414,6 @@
     "org": "Korea Telecom",
     "as": "AS4766 Korea Telecom",
     "query": "222.98.176.199"
-  },
-  "60.119.129.138": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan Nation-wide Network of Softbank Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "60.119.129.138"
   },
   "122.208.249.174": {
     "status": "success",
@@ -591,22 +591,6 @@
     "as": "AS138384 Rakuten Mobile Network, Inc.",
     "query": "133.106.35.73"
   },
-  "37.21.144.175": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "TOM",
-    "regionName": "Tomsk Oblast",
-    "city": "Tomsk",
-    "zip": "634009",
-    "lat": 56.4957,
-    "lon": 84.9636,
-    "timezone": "Asia/Tomsk",
-    "isp": "JSC Rostelecom regional branch \"Siberia\"",
-    "org": "JSC Rostelecom regional branch Siberia",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "37.21.144.175"
-  },
   "116.93.243.44": {
     "status": "success",
     "country": "South Korea",
@@ -623,20 +607,20 @@
     "as": "AS17857 SK Broadband Co Ltd",
     "query": "116.93.243.44"
   },
-  "211.219.73.150": {
+  "37.21.144.175": {
     "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Gangnam-gu",
-    "zip": "062",
-    "lat": 37.4909,
-    "lon": 127.0452,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "KORNET",
-    "as": "AS4766 Korea Telecom",
-    "query": "211.219.73.150"
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "TOM",
+    "regionName": "Tomsk Oblast",
+    "city": "Tomsk",
+    "zip": "634009",
+    "lat": 56.4957,
+    "lon": 84.9636,
+    "timezone": "Asia/Tomsk",
+    "isp": "JSC Rostelecom regional branch \"Siberia\"",
+    "org": "JSC Rostelecom regional branch Siberia",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "37.21.144.175"
   }
 }
