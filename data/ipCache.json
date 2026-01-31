@@ -111,22 +111,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.109"
   },
-  "138.229.146.94": {
-    "status": "success",
-    "country": "United States",
-    "countryCode": "US",
-    "region": "CA",
-    "regionName": "California",
-    "city": "Hesperia",
-    "zip": "92345",
-    "lat": 34.4179,
-    "lon": -117.3064,
-    "timezone": "America/Los_Angeles",
-    "isp": "Charter Communications",
-    "org": "Spectrum",
-    "as": "AS20115 Charter Communications LLC",
-    "query": "138.229.146.94"
-  },
   "126.130.164.3": {
     "status": "success",
     "country": "Japan",
@@ -158,6 +142,22 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "111.238.189.171"
+  },
+  "221.151.151.230": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Guro-gu",
+    "zip": "082",
+    "lat": 37.504,
+    "lon": 126.8717,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "221.151.151.230"
   },
   "220.212.128.195": {
     "status": "success",
@@ -207,6 +207,22 @@
     "as": "AS10013 FreeBit Co.,Ltd.",
     "query": "124.255.80.220"
   },
+  "118.240.68.160": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Kamikuratachō",
+    "zip": "244-0816",
+    "lat": 35.3973,
+    "lon": 139.5453,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "118.240.68.160"
+  },
   "222.109.72.106": {
     "status": "success",
     "country": "South Korea",
@@ -222,6 +238,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "222.109.72.106"
+  },
+  "138.229.146.94": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA",
+    "regionName": "California",
+    "city": "Hesperia",
+    "zip": "92345",
+    "lat": 34.4179,
+    "lon": -117.3064,
+    "timezone": "America/Los_Angeles",
+    "isp": "Charter Communications",
+    "org": "Spectrum",
+    "as": "AS20115 Charter Communications LLC",
+    "query": "138.229.146.94"
   },
   "121.106.148.235": {
     "status": "success",
@@ -270,22 +302,6 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.50"
-  },
-  "1.66.34.134": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Osaka",
-    "zip": "530-0041",
-    "lat": 34.6967,
-    "lon": 135.5154,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Docomo, inc.",
-    "org": "NTTDoCoMo",
-    "as": "AS9605 NTT DOCOMO, INC.",
-    "query": "1.66.34.134"
   },
   "115.22.171.164": {
     "status": "success",
@@ -382,6 +398,22 @@
     "org": "(ju)hyeonsolru",
     "as": "AS4766 Korea Telecom",
     "query": "221.152.115.166"
+  },
+  "60.153.147.72": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.153.147.72"
   },
   "175.193.243.22": {
     "status": "success",
