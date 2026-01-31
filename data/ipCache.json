@@ -239,22 +239,6 @@
     "as": "AS2519 ARTERIA Networks Corporation",
     "query": "133.175.174.202"
   },
-  "103.152.178.62": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-0001",
-    "lat": 35.694,
-    "lon": 139.754,
-    "timezone": "Asia/Tokyo",
-    "isp": "Ayao Takata",
-    "org": "SDCC-East01",
-    "as": "AS38074 SDCC Japan-West Area",
-    "query": "103.152.178.62"
-  },
   "178.163.69.1": {
     "status": "success",
     "country": "Russia",
@@ -286,6 +270,38 @@
     "org": "Cox Communications",
     "as": "AS22773 Cox Communications Inc.",
     "query": "72.213.142.141"
+  },
+  "103.152.178.62": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-0001",
+    "lat": 35.694,
+    "lon": 139.754,
+    "timezone": "Asia/Tokyo",
+    "isp": "Ayao Takata",
+    "org": "SDCC-East01",
+    "as": "AS38074 SDCC Japan-West Area",
+    "query": "103.152.178.62"
+  },
+  "222.227.165.89": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minamimagome",
+    "zip": "143-0021",
+    "lat": 35.5993,
+    "lon": 139.7075,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "Kddi Corporation",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "222.227.165.89"
   },
   "1.66.34.134": {
     "status": "success",
@@ -510,22 +526,6 @@
     "org": "LLC \"KomTehCentr\"",
     "as": "AS12668 LLC \"KomTehCentr\"",
     "query": "94.31.224.105"
-  },
-  "89.235.249.188": {
-    "status": "success",
-    "country": "Estonia",
-    "countryCode": "EE",
-    "region": "37",
-    "regionName": "Harjumaa",
-    "city": "Tallinn",
-    "zip": "",
-    "lat": 59.4381,
-    "lon": 24.7369,
-    "timezone": "Europe/Tallinn",
-    "isp": "INFONET",
-    "org": "",
-    "as": "AS8728 AS INFONET",
-    "query": "89.235.249.188"
   },
   "133.106.154.58": {
     "status": "success",
