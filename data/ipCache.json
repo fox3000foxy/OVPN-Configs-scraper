@@ -351,6 +351,22 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.114.161.188"
   },
+  "110.232.8.204": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Kamariyanishi",
+    "zip": "236-0041",
+    "lat": 35.3472,
+    "lon": 139.591,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM Co., Ltd.",
+    "org": "JCOM",
+    "as": "AS4721 JCOM Co., Ltd.",
+    "query": "110.232.8.204"
+  },
   "60.122.90.45": {
     "status": "success",
     "country": "Japan",
@@ -366,22 +382,6 @@
     "org": "Japan Nation-wide Network of Softbank Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "60.122.90.45"
-  },
-  "126.79.67.234": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.79.67.234"
   },
   "210.136.243.168": {
     "status": "success",
@@ -431,22 +431,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "112.160.139.229"
   },
-  "222.14.54.111": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "47",
-    "regionName": "Okinawa",
-    "city": "Naha",
-    "zip": "900-0021",
-    "lat": 26.2124,
-    "lon": 127.6757,
-    "timezone": "Asia/Tokyo",
-    "isp": "DION (KDDI CORPORATION)",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "222.14.54.111"
-  },
   "59.23.0.74": {
     "status": "success",
     "country": "South Korea",
@@ -478,6 +462,38 @@
     "org": "Jupiter Telecommunication Co. Ltd",
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "116.222.29.22"
+  },
+  "119.173.41.197": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Komone",
+    "zip": "173-0031",
+    "lat": 35.7458,
+    "lon": 139.6911,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM Co., Ltd.",
+    "org": "JCOM Co., Ltd",
+    "as": "AS9824 JCOM Co., Ltd.",
+    "query": "119.173.41.197"
+  },
+  "60.80.243.29": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "08",
+    "regionName": "Ibaraki",
+    "city": "Koga",
+    "zip": "306-0016",
+    "lat": 36.1833,
+    "lon": 139.717,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.80.243.29"
   },
   "5.137.210.152": {
     "status": "success",
@@ -622,6 +638,22 @@
     "org": "OJSC Sibirtelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "90.188.179.121"
+  },
+  "83.167.8.40": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "SVE",
+    "regionName": "Sverdlovsk Oblast",
+    "city": "Yekaterinburg",
+    "zip": "620000",
+    "lat": 56.8421,
+    "lon": 60.5798,
+    "timezone": "Asia/Yekaterinburg",
+    "isp": "INSYS network in Ekaterinbrug",
+    "org": "",
+    "as": "AS28890 INSYS ISP",
+    "query": "83.167.8.40"
   },
   "14.51.87.179": {
     "status": "success",
