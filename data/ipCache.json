@@ -335,22 +335,6 @@
     "as": "AS133481 AIS Fibre",
     "query": "49.228.110.31"
   },
-  "126.114.161.188": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Ōyama-higashichō",
-    "zip": "173-0014",
-    "lat": 35.7497,
-    "lon": 139.706,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.114.161.188"
-  },
   "60.119.224.202": {
     "status": "success",
     "country": "Japan",
@@ -366,6 +350,22 @@
     "org": "Japan Nation-wide Network of Softbank Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "60.119.224.202"
+  },
+  "126.114.161.188": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Ōyama-higashichō",
+    "zip": "173-0014",
+    "lat": 35.7497,
+    "lon": 139.706,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.114.161.188"
   },
   "221.159.197.158": {
     "status": "success",
@@ -414,22 +414,6 @@
     "org": "SOFTBANK Corp",
     "as": "AS17676 SoftBank Corp.",
     "query": "126.79.67.234"
-  },
-  "122.50.43.110": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "40",
-    "regionName": "Fukuoka",
-    "city": "Kitaku",
-    "zip": "807-1154",
-    "lat": 33.7937,
-    "lon": 130.687,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM",
-    "org": "Jupiter Telecommunications Co., Ltd.",
-    "as": "AS18134 JCOM Co., Ltd.",
-    "query": "122.50.43.110"
   },
   "210.136.243.168": {
     "status": "success",
@@ -511,22 +495,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "5.137.210.152"
   },
-  "121.173.27.191": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Gimpo-si",
-    "zip": "100",
-    "lat": 37.7542,
-    "lon": 126.557,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "121.173.27.191"
-  },
   "42.119.215.192": {
     "status": "success",
     "country": "Vietnam",
@@ -558,6 +526,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "211.57.99.39"
+  },
+  "124.216.94.79": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "31",
+    "regionName": "Ulsan",
+    "city": "Buk-gu",
+    "zip": "442",
+    "lat": 35.5988,
+    "lon": 129.3678,
+    "timezone": "Asia/Seoul",
+    "isp": "Ulsan Jung-Ang Broadcasting Network",
+    "org": "Joyful Communication Network",
+    "as": "AS45361 Ulsan Jung-Ang Broadcasting Network",
+    "query": "124.216.94.79"
   },
   "5.143.105.117": {
     "status": "success",
@@ -591,6 +575,22 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.79.244.225"
   },
+  "220.100.45.229": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Yokohama",
+    "zip": "231-0841",
+    "lat": 35.4337,
+    "lon": 139.6499,
+    "timezone": "Asia/Tokyo",
+    "isp": "Internet Initiative Japan",
+    "org": "Internet Initiative Japan Inc.",
+    "as": "AS2497 Internet Initiative Japan Inc.",
+    "query": "220.100.45.229"
+  },
   "122.103.113.207": {
     "status": "success",
     "country": "Japan",
@@ -607,22 +607,6 @@
     "as": "AS2519 ARTERIA Networks Corporation",
     "query": "122.103.113.207"
   },
-  "14.51.87.179": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Uiwang",
-    "zip": "160",
-    "lat": 37.3965,
-    "lon": 126.978,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "14.51.87.179"
-  },
   "94.41.223.139": {
     "status": "success",
     "country": "Russia",
@@ -638,5 +622,21 @@
     "org": "JSC Ufanet",
     "as": "AS24955 JSC Ufanet",
     "query": "94.41.223.139"
+  },
+  "90.188.179.121": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "OMS",
+    "regionName": "Omsk Oblast",
+    "city": "Omsk",
+    "zip": "644000",
+    "lat": 54.9896,
+    "lon": 73.3729,
+    "timezone": "Asia/Omsk",
+    "isp": "Rostelecom networks",
+    "org": "OJSC Sibirtelecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "90.188.179.121"
   }
 }
