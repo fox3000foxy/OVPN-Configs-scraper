@@ -638,5 +638,21 @@
     "org": "SK Broadband Co Ltd",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "211.202.214.160"
+  },
+  "220.147.83.115": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "02",
+    "regionName": "Aomori",
+    "city": "Hirosaki",
+    "zip": "036-8171",
+    "lat": 40.6166,
+    "lon": 140.3936,
+    "timezone": "Asia/Tokyo",
+    "isp": "ARTERIA Networks Corporation",
+    "org": "ARTERIA Networks Corporation",
+    "as": "AS2519 ARTERIA Networks Corporation",
+    "query": "220.147.83.115"
   }
 }
