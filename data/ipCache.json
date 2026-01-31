@@ -207,22 +207,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "92.203.159.128"
   },
-  "49.174.10.156": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Yongin-si",
-    "zip": "169",
-    "lat": 37.298,
-    "lon": 127.0777,
-    "timezone": "Asia/Seoul",
-    "isp": "LG POWERCOMM",
-    "org": "LG POWERCOMM",
-    "as": "AS17858 LG POWERCOMM",
-    "query": "49.174.10.156"
-  },
   "1.66.34.134": {
     "status": "success",
     "country": "Japan",
@@ -367,6 +351,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.138.93.217"
   },
+  "60.91.86.245": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.91.86.245"
+  },
   "175.198.57.28": {
     "status": "success",
     "country": "South Korea",
@@ -398,6 +398,22 @@
     "org": "STNet, Incorporated",
     "as": "AS7522 STNet, Incorporated",
     "query": "202.67.19.82"
+  },
+  "42.112.13.234": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "HN",
+    "regionName": "Hanoi",
+    "city": "Hanoi",
+    "zip": "100000",
+    "lat": 21.0184,
+    "lon": 105.8461,
+    "timezone": "Asia/Bangkok",
+    "isp": "Vietnam Internet Network Information Center",
+    "org": "",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "42.112.13.234"
   },
   "49.228.225.242": {
     "status": "success",
@@ -495,38 +511,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "220.123.230.187"
   },
-  "59.130.13.74": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "20",
-    "regionName": "Nagano",
-    "city": "Nagano",
-    "zip": "380-0941",
-    "lat": 36.63,
-    "lon": 138.1795,
-    "timezone": "Asia/Tokyo",
-    "isp": "KDDI",
-    "org": "DION (KDDI CORPORATION)",
-    "as": "AS18126 Chubu Telecommunications Company, Inc.",
-    "query": "59.130.13.74"
-  },
-  "42.112.66.22": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "SG",
-    "regionName": "Ho Chi Minh",
-    "city": "Ho Chi Minh City",
-    "zip": "700000",
-    "lat": 10.822,
-    "lon": 106.6257,
-    "timezone": "Asia/Ho_Chi_Minh",
-    "isp": "Vietnam Internet Network Information Center",
-    "org": "",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "42.112.66.22"
-  },
   "59.22.22.3": {
     "status": "success",
     "country": "South Korea",
@@ -623,22 +607,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "211.221.86.78"
   },
-  "115.40.206.229": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "48",
-    "regionName": "Gyeongsangnam-do",
-    "city": "Changwon",
-    "zip": "515",
-    "lat": 35.2103,
-    "lon": 128.6712,
-    "timezone": "Asia/Seoul",
-    "isp": "CJ Hello Co",
-    "org": "HVGyeongnam",
-    "as": "AS9845 LG HelloVision Corp.",
-    "query": "115.40.206.229"
-  },
   "175.193.199.161": {
     "status": "success",
     "country": "South Korea",
@@ -654,37 +622,5 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "175.193.199.161"
-  },
-  "188.232.231.247": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "OMS",
-    "regionName": "Omsk Oblast",
-    "city": "Omsk",
-    "zip": "644000",
-    "lat": 54.9896,
-    "lon": 73.3729,
-    "timezone": "Asia/Omsk",
-    "isp": "JSC \"ER-Telecom Holding\"",
-    "org": "CJSC \"ER-Telecom Holding\" Omsk Branch",
-    "as": "AS41843 JSC ER-Telecom Holding",
-    "query": "188.232.231.247"
-  },
-  "123.213.125.37": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Uijeongbu-si",
-    "zip": "118",
-    "lat": 37.7396,
-    "lon": 127.0539,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "SK Broadband Co Ltd",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "123.213.125.37"
   }
 }
