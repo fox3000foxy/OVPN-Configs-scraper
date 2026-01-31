@@ -527,22 +527,6 @@
     "as": "AS9617 JCOM Co., Ltd.",
     "query": "49.251.213.94"
   },
-  "49.228.250.244": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "20",
-    "regionName": "Chon Buri",
-    "city": "Bang Lamung",
-    "zip": "20150",
-    "lat": 13.0508,
-    "lon": 100.9367,
-    "timezone": "Asia/Bangkok",
-    "isp": "Advanced Wireless Network Company Limited",
-    "org": "",
-    "as": "AS133481 AIS Fibre",
-    "query": "49.228.250.244"
-  },
   "112.172.15.116": {
     "status": "success",
     "country": "South Korea",
@@ -575,22 +559,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "118.36.15.104"
   },
-  "116.93.243.44": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "26",
-    "regionName": "Busan",
-    "city": "Nam-gu",
-    "zip": "485",
-    "lat": 35.1271,
-    "lon": 129.1008,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "TBROAD NakdongDongnamSeobusan",
-    "as": "AS17857 SK Broadband Co Ltd",
-    "query": "116.93.243.44"
-  },
   "37.21.144.175": {
     "status": "success",
     "country": "Russia",
@@ -607,6 +575,22 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "37.21.144.175"
   },
+  "116.93.243.44": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Nam-gu",
+    "zip": "485",
+    "lat": 35.1271,
+    "lon": 129.1008,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "TBROAD NakdongDongnamSeobusan",
+    "as": "AS17857 SK Broadband Co Ltd",
+    "query": "116.93.243.44"
+  },
   "211.219.73.150": {
     "status": "success",
     "country": "South Korea",
@@ -622,5 +606,21 @@
     "org": "KORNET",
     "as": "AS4766 Korea Telecom",
     "query": "211.219.73.150"
+  },
+  "211.202.214.160": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Seoul",
+    "zip": "04524",
+    "lat": 37.5658,
+    "lon": 126.978,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "SK Broadband Co Ltd",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "211.202.214.160"
   }
 }
