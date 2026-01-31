@@ -191,22 +191,6 @@
     "as": "AS10013 FreeBit Co.,Ltd.",
     "query": "124.255.80.220"
   },
-  "220.212.128.195": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "ULTINA",
-    "as": "AS4725 SoftBank Corp.",
-    "query": "220.212.128.195"
-  },
   "112.220.30.58": {
     "status": "success",
     "country": "South Korea",
@@ -222,6 +206,22 @@
     "org": "Boranet",
     "as": "AS3786 LG DACOM Corporation",
     "query": "112.220.30.58"
+  },
+  "220.212.128.195": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "ULTINA",
+    "as": "AS4725 SoftBank Corp.",
+    "query": "220.212.128.195"
   },
   "121.106.148.235": {
     "status": "success",
@@ -239,22 +239,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "121.106.148.235"
   },
-  "91.142.150.3": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "AMU",
-    "regionName": "Amur Oblast",
-    "city": "Blagoveshchensk",
-    "zip": "675000",
-    "lat": 50.266,
-    "lon": 127.536,
-    "timezone": "Asia/Yakutsk",
-    "isp": "LLC Teledyne Systems Limited",
-    "org": "Teledyne Systems Limited",
-    "as": "AS41789 LLC Teledyne Systems Limited",
-    "query": "91.142.150.3"
-  },
   "222.109.72.106": {
     "status": "success",
     "country": "South Korea",
@@ -270,6 +254,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "222.109.72.106"
+  },
+  "91.142.150.3": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "AMU",
+    "regionName": "Amur Oblast",
+    "city": "Blagoveshchensk",
+    "zip": "675000",
+    "lat": 50.266,
+    "lon": 127.536,
+    "timezone": "Asia/Yakutsk",
+    "isp": "LLC Teledyne Systems Limited",
+    "org": "Teledyne Systems Limited",
+    "as": "AS41789 LLC Teledyne Systems Limited",
+    "query": "91.142.150.3"
   },
   "219.100.37.50": {
     "status": "success",
@@ -543,21 +543,37 @@
     "as": "AS4766 Korea Telecom",
     "query": "112.172.15.116"
   },
-  "118.36.15.104": {
+  "49.228.235.153": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "10",
+    "regionName": "Bangkok",
+    "city": "Bangkok",
+    "zip": "10110",
+    "lat": 13.7101,
+    "lon": 100.4543,
+    "timezone": "Asia/Bangkok",
+    "isp": "Advanced Wireless Network Company Limited",
+    "org": "AIS Fibre",
+    "as": "AS133481 AIS Fibre",
+    "query": "49.228.235.153"
+  },
+  "61.74.29.57": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Anyang-si",
-    "zip": "140",
-    "lat": 37.3907,
-    "lon": 126.9167,
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Seongdong-gu",
+    "zip": "047",
+    "lat": 37.5511,
+    "lon": 127.0387,
     "timezone": "Asia/Seoul",
     "isp": "Korea Telecom",
-    "org": "Sudogwonseobubonbu",
+    "org": "Kornet",
     "as": "AS4766 Korea Telecom",
-    "query": "118.36.15.104"
+    "query": "61.74.29.57"
   },
   "37.21.144.175": {
     "status": "success",
@@ -622,5 +638,21 @@
     "org": "SK Broadband Co Ltd",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "211.202.214.160"
+  },
+  "116.34.216.160": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Gwangju",
+    "zip": "127",
+    "lat": 37.3661,
+    "lon": 127.2255,
+    "timezone": "Asia/Seoul",
+    "isp": "LG POWERCOMM",
+    "org": "Xpeed",
+    "as": "AS17858 LG POWERCOMM",
+    "query": "116.34.216.160"
   }
 }
