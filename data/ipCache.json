@@ -575,6 +575,22 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.159.87.12"
   },
+  "68.149.154.94": {
+    "status": "success",
+    "country": "Canada",
+    "countryCode": "CA",
+    "region": "AB",
+    "regionName": "Alberta",
+    "city": "Edmonton",
+    "zip": "T6W",
+    "lat": 53.4179,
+    "lon": -113.5785,
+    "timezone": "America/Edmonton",
+    "isp": "Shaw Communications",
+    "org": "Shaw Communications Inc.",
+    "as": "AS6327 Shaw Communications",
+    "query": "68.149.154.94"
+  },
   "58.95.83.60": {
     "status": "success",
     "country": "Japan",
@@ -638,22 +654,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "210.223.99.198"
-  },
-  "114.29.89.80": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "44",
-    "regionName": "Chungcheongnam-do",
-    "city": "Taean-gun",
-    "zip": "321",
-    "lat": 36.7599,
-    "lon": 126.2998,
-    "timezone": "Asia/Seoul",
-    "isp": "CJ Hello Co.",
-    "org": "HVChungnam",
-    "as": "AS38669 LG HelloVision Corp.",
-    "query": "114.29.89.80"
   },
   "219.248.93.154": {
     "status": "success",
