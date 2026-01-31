@@ -111,6 +111,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.208"
   },
+  "120.75.146.85": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "01",
+    "regionName": "Hokkaido",
+    "city": "Sapporo",
+    "zip": "064-0801",
+    "lat": 43.0456,
+    "lon": 141.3522,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc.",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "120.75.146.85"
+  },
   "60.36.150.117": {
     "status": "success",
     "country": "Japan",
@@ -207,6 +223,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "218.145.181.197"
   },
+  "211.185.142.92": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "47",
+    "regionName": "Gyeongsangbuk-do",
+    "city": "Yeongju",
+    "zip": "360",
+    "lat": 36.8226,
+    "lon": 128.6274,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "211.185.142.92"
+  },
   "221.49.114.110": {
     "status": "success",
     "country": "Japan",
@@ -270,22 +302,6 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.50"
-  },
-  "221.144.146.230": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Seoul",
-    "zip": "045",
-    "lat": 37.5656,
-    "lon": 126.978,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "221.144.146.230"
   },
   "219.100.37.102": {
     "status": "success",
@@ -622,37 +638,5 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "39.114.102.23"
-  },
-  "179.6.168.57": {
-    "status": "success",
-    "country": "Peru",
-    "countryCode": "PE",
-    "region": "LIM",
-    "regionName": "Lima region",
-    "city": "Independencia",
-    "zip": "",
-    "lat": -11.99,
-    "lon": -77.0458,
-    "timezone": "America/Lima",
-    "isp": "America Movil Peru S.A.C.",
-    "org": "America Movil Peru S.A.C",
-    "as": "AS12252 America Movil Peru S.A.C.",
-    "query": "179.6.168.57"
-  },
-  "79.105.250.60": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "AMU",
-    "regionName": "Amur Oblast",
-    "city": "Belogorsk",
-    "zip": "676850",
-    "lat": 50.9124,
-    "lon": 128.5124,
-    "timezone": "Asia/Yakutsk",
-    "isp": "Rostelecom networks",
-    "org": "OJSC Far Eastern Telecommunications Company Amursky st.",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "79.105.250.60"
   }
 }
