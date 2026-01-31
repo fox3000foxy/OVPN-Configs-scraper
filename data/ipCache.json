@@ -702,5 +702,21 @@
     "org": "",
     "as": "AS12389 PJSC Rostelecom",
     "query": "92.37.142.38"
+  },
+  "188.168.154.0": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "IRK",
+    "regionName": "Irkutsk Oblast",
+    "city": "Irkutsk",
+    "zip": "664000",
+    "lat": 52.2984,
+    "lon": 104.2903,
+    "timezone": "Asia/Irkutsk",
+    "isp": "TTK-Retail",
+    "org": "",
+    "as": "AS15774 Limited Liability Company TTK-Svyaz",
+    "query": "188.168.154.0"
   }
 }
