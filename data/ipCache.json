@@ -399,38 +399,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "124.212.183.144"
   },
-  "1.240.128.118": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Dobong-gu",
-    "zip": "014",
-    "lat": 37.639,
-    "lon": 127.034,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "1.240.128.118"
-  },
-  "125.204.108.29": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "24",
-    "regionName": "Mie",
-    "city": "Ise",
-    "zip": "516-0021",
-    "lat": 34.4929,
-    "lon": 136.7059,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "NTT Communications Corporation",
-    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
-    "query": "125.204.108.29"
-  },
   "49.228.225.242": {
     "status": "success",
     "country": "Thailand",
@@ -478,6 +446,22 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "175.135.210.151"
+  },
+  "59.130.13.74": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "20",
+    "regionName": "Nagano",
+    "city": "Nagano",
+    "zip": "380-0941",
+    "lat": 36.63,
+    "lon": 138.1795,
+    "timezone": "Asia/Tokyo",
+    "isp": "KDDI",
+    "org": "DION (KDDI CORPORATION)",
+    "as": "AS18126 Chubu Telecommunications Company, Inc.",
+    "query": "59.130.13.74"
   },
   "220.123.230.187": {
     "status": "success",
@@ -542,6 +526,38 @@
     "org": "CTB Media Inc.",
     "as": "AS23780 CTB Media Inc.",
     "query": "211.15.124.149"
+  },
+  "1.240.128.118": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Dobong-gu",
+    "zip": "014",
+    "lat": 37.639,
+    "lon": 127.034,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "1.240.128.118"
+  },
+  "188.186.186.127": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "TYU",
+    "regionName": "Tyumen Oblast",
+    "city": "Zavodoukovsk",
+    "zip": "627142",
+    "lat": 56.5072,
+    "lon": 66.5491,
+    "timezone": "Asia/Yekaterinburg",
+    "isp": "JSC \"ER-Telecom Holding\"",
+    "org": "JSC \"ER-Telecom Holding\" Tyumen' branch",
+    "as": "AS41682 JSC ER-Telecom Holding",
+    "query": "188.186.186.127"
   },
   "211.221.86.78": {
     "status": "success",
@@ -654,21 +670,5 @@
     "org": "Xpeed",
     "as": "AS17858 LG POWERCOMM",
     "query": "122.47.245.200"
-  },
-  "188.186.186.127": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "TYU",
-    "regionName": "Tyumen Oblast",
-    "city": "Zavodoukovsk",
-    "zip": "627142",
-    "lat": 56.5072,
-    "lon": 66.5491,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "JSC \"ER-Telecom Holding\"",
-    "org": "JSC \"ER-Telecom Holding\" Tyumen' branch",
-    "as": "AS41682 JSC ER-Telecom Holding",
-    "query": "188.186.186.127"
   }
 }
