@@ -367,22 +367,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.138.93.217"
   },
-  "1.240.128.118": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Dobong-gu",
-    "zip": "014",
-    "lat": 37.639,
-    "lon": 127.034,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "1.240.128.118"
-  },
   "175.198.57.28": {
     "status": "success",
     "country": "South Korea",
@@ -414,6 +398,22 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "124.212.183.144"
+  },
+  "1.240.128.118": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Dobong-gu",
+    "zip": "014",
+    "lat": 37.639,
+    "lon": 127.034,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "1.240.128.118"
   },
   "125.204.108.29": {
     "status": "success",
@@ -479,22 +479,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "175.135.210.151"
   },
-  "27.139.123.250": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Shinjuku",
-    "zip": "160-0021",
-    "lat": 35.6918,
-    "lon": 139.7002,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM Co., Ltd.",
-    "org": "Jupiter Telecommunication Co. Ltd",
-    "as": "AS9824 JCOM Co., Ltd.",
-    "query": "27.139.123.250"
-  },
   "220.123.230.187": {
     "status": "success",
     "country": "South Korea",
@@ -542,6 +526,38 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "121.176.25.124"
+  },
+  "211.15.124.149": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "44",
+    "regionName": "Oita",
+    "city": "Beppu",
+    "zip": "874-0901",
+    "lat": 33.2676,
+    "lon": 131.495,
+    "timezone": "Asia/Tokyo",
+    "isp": "CTB Media Inc.",
+    "org": "CTB Media Inc.",
+    "as": "AS23780 CTB Media Inc.",
+    "query": "211.15.124.149"
+  },
+  "211.221.86.78": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Yongin-si",
+    "zip": "170",
+    "lat": 37.2728,
+    "lon": 127.1118,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Korea Telecom",
+    "as": "AS4766 Korea Telecom",
+    "query": "211.221.86.78"
   },
   "115.40.206.229": {
     "status": "success",
@@ -591,6 +607,22 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "218.38.253.108"
   },
+  "122.254.245.109": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Nam-gu",
+    "zip": "484",
+    "lat": 35.1362,
+    "lon": 129.0783,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "TBROAD NakdongDongnamSeobusan",
+    "as": "AS17857 SK Broadband Co Ltd",
+    "query": "122.254.245.109"
+  },
   "119.173.41.25": {
     "status": "success",
     "country": "Japan",
@@ -638,37 +670,5 @@
     "org": "JSC \"ER-Telecom Holding\" Tyumen' branch",
     "as": "AS41682 JSC ER-Telecom Holding",
     "query": "188.186.186.127"
-  },
-  "217.175.14.88": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KDA",
-    "regionName": "Krasnodar Krai",
-    "city": "Taman'",
-    "zip": "353555",
-    "lat": 45.212,
-    "lon": 36.7103,
-    "timezone": "Europe/Moscow",
-    "isp": "CrystalNET Plus",
-    "org": "",
-    "as": "AS25591 BCLan LLC",
-    "query": "217.175.14.88"
-  },
-  "90.189.217.65": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "NVS",
-    "regionName": "Novosibirsk Oblast",
-    "city": "Novosibirsk",
-    "zip": "630000",
-    "lat": 55.0226,
-    "lon": 82.9317,
-    "timezone": "Asia/Novosibirsk",
-    "isp": "Rostelecom networks",
-    "org": "OJSC Sibirtelecom",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "90.189.217.65"
   }
 }
