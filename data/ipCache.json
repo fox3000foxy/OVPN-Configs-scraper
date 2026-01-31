@@ -207,22 +207,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "118.240.68.160"
   },
-  "222.109.72.106": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Jungnang-gu",
-    "zip": "021",
-    "lat": 37.5859,
-    "lon": 127.1029,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "222.109.72.106"
-  },
   "138.229.146.94": {
     "status": "success",
     "country": "United States",
@@ -238,6 +222,22 @@
     "org": "Spectrum",
     "as": "AS20115 Charter Communications LLC",
     "query": "138.229.146.94"
+  },
+  "222.109.72.106": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Jungnang-gu",
+    "zip": "021",
+    "lat": 37.5859,
+    "lon": 127.1029,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "222.109.72.106"
   },
   "103.152.178.62": {
     "status": "success",
@@ -351,22 +351,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "175.193.243.22"
   },
-  "150.31.45.162": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6906,
-    "lon": 139.77,
-    "timezone": "Asia/Tokyo",
-    "isp": "Internet Initiative Japan Inc.",
-    "org": "IIJ Internet",
-    "as": "AS2497 Internet Initiative Japan Inc.",
-    "query": "150.31.45.162"
-  },
   "138.64.70.87": {
     "status": "success",
     "country": "Japan",
@@ -463,6 +447,22 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "114.187.7.68"
   },
+  "188.227.9.130": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "SPE",
+    "regionName": "St.-Petersburg",
+    "city": "St Petersburg",
+    "zip": "190990",
+    "lat": 59.8983,
+    "lon": 30.2618,
+    "timezone": "Europe/Moscow",
+    "isp": "JSC \"Severen-Telecom\"",
+    "org": "Prometey LLC",
+    "as": "AS35000 JSC Severen-Telecom",
+    "query": "188.227.9.130"
+  },
   "37.21.144.175": {
     "status": "success",
     "country": "Russia",
@@ -527,6 +527,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "128.134.86.61"
   },
+  "150.31.45.162": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6906,
+    "lon": 139.77,
+    "timezone": "Asia/Tokyo",
+    "isp": "Internet Initiative Japan Inc.",
+    "org": "IIJ Internet",
+    "as": "AS2497 Internet Initiative Japan Inc.",
+    "query": "150.31.45.162"
+  },
   "14.41.72.173": {
     "status": "success",
     "country": "South Korea",
@@ -574,22 +590,6 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "219.241.27.76"
-  },
-  "88.206.10.129": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "CHE",
-    "regionName": "Chelyabinsk Oblast",
-    "city": "Chelyabinsk",
-    "zip": "454000",
-    "lat": 55.1586,
-    "lon": 61.4296,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "Intersvyaz-2 JSC",
-    "org": "",
-    "as": "AS8369 Intersvyaz-2 JSC",
-    "query": "88.206.10.129"
   },
   "94.51.221.124": {
     "status": "success",
