@@ -255,21 +255,21 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "110.15.2.128"
   },
-  "183.99.115.65": {
+  "211.198.67.197": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
     "region": "41",
     "regionName": "Gyeonggi-do",
-    "city": "Seongnam-si",
-    "zip": "134",
-    "lat": 37.4062,
-    "lon": 127.1077,
+    "city": "Suwon",
+    "zip": "163",
+    "lat": 37.2905,
+    "lon": 126.9877,
     "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
+    "isp": "KORNET",
+    "org": "jinuapateu",
     "as": "AS4766 Korea Telecom",
-    "query": "183.99.115.65"
+    "query": "211.198.67.197"
   },
   "211.184.24.38": {
     "status": "success",
@@ -286,6 +286,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "211.184.24.38"
+  },
+  "183.99.115.65": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Seongnam-si",
+    "zip": "134",
+    "lat": 37.4062,
+    "lon": 127.1077,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "183.99.115.65"
   },
   "185.124.155.182": {
     "status": "success",
