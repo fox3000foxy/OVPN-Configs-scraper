@@ -399,6 +399,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "221.159.197.158"
   },
+  "60.122.90.45": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.122.90.45"
+  },
   "126.79.67.234": {
     "status": "success",
     "country": "Japan",
@@ -495,21 +511,21 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "222.14.54.111"
   },
-  "124.214.92.234": {
+  "59.23.0.74": {
     "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "07",
-    "regionName": "Fukushima",
-    "city": "Fukushima",
-    "zip": "960-8101",
-    "lat": 37.7504,
-    "lon": 140.4709,
-    "timezone": "Asia/Tokyo",
-    "isp": "DION (KDDI CORPORATION)",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "124.214.92.234"
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "47",
+    "regionName": "Gyeongsangbuk-do",
+    "city": "Gimcheon",
+    "zip": "396",
+    "lat": 36.1278,
+    "lon": 128.1762,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "59.23.0.74"
   },
   "116.222.29.22": {
     "status": "success",
@@ -527,22 +543,6 @@
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "116.222.29.22"
   },
-  "221.164.120.204": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "26",
-    "regionName": "Busan",
-    "city": "Nam-gu",
-    "zip": "485",
-    "lat": 35.1271,
-    "lon": 129.1008,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Korea Telecom",
-    "as": "AS4766 Korea Telecom",
-    "query": "221.164.120.204"
-  },
   "5.137.210.152": {
     "status": "success",
     "country": "Russia",
@@ -558,22 +558,6 @@
     "org": "JSC Rostelecom regional branch Siberia",
     "as": "AS12389 PJSC Rostelecom",
     "query": "5.137.210.152"
-  },
-  "220.74.125.89": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Ansan-si",
-    "zip": "15345",
-    "lat": 37.3253,
-    "lon": 126.8178,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "KORNET",
-    "as": "AS4766 Korea Telecom",
-    "query": "220.74.125.89"
   },
   "125.137.135.215": {
     "status": "success",
@@ -671,22 +655,6 @@
     "as": "AS2519 ARTERIA Networks Corporation",
     "query": "122.103.113.207"
   },
-  "188.233.57.36": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "VGG",
-    "regionName": "Volgograd Oblast",
-    "city": "Volgograd",
-    "zip": "400011",
-    "lat": 48.7168,
-    "lon": 44.5035,
-    "timezone": "Europe/Volgograd",
-    "isp": "CJSC \"ER-Telecom Holding\" Volgograd branch",
-    "org": "JSC \"ER-Telecom Holding\" Volgograd Branch",
-    "as": "AS39435 JSC ER-Telecom Holding",
-    "query": "188.233.57.36"
-  },
   "14.51.87.179": {
     "status": "success",
     "country": "South Korea",
@@ -703,20 +671,20 @@
     "as": "AS4766 Korea Telecom",
     "query": "14.51.87.179"
   },
-  "46.233.220.7": {
+  "94.41.223.139": {
     "status": "success",
     "country": "Russia",
     "countryCode": "RU",
-    "region": "OMS",
-    "regionName": "Omsk Oblast",
-    "city": "Omsk",
-    "zip": "644000",
-    "lat": 54.9896,
-    "lon": 73.3729,
-    "timezone": "Asia/Omsk",
-    "isp": "Omskie kabelnye seti Ltd",
-    "org": "Omskie kabelnye seti Ltd.",
-    "as": "AS47165 Omskie kabelnye seti Ltd.",
-    "query": "46.233.220.7"
+    "region": "BA",
+    "regionName": "Bashkortostan Republic",
+    "city": "Ufa",
+    "zip": "450000",
+    "lat": 54.7431,
+    "lon": 55.9678,
+    "timezone": "Asia/Yekaterinburg",
+    "isp": "JSC \"Ufanet\"",
+    "org": "JSC Ufanet",
+    "as": "AS24955 JSC Ufanet",
+    "query": "94.41.223.139"
   }
 }
