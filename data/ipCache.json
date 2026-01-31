@@ -207,21 +207,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "218.145.107.33"
   },
-  "110.15.2.128": {
+  "211.198.67.197": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
     "region": "41",
     "regionName": "Gyeonggi-do",
-    "city": "Anseong",
-    "zip": "175",
-    "lat": 37.0138,
-    "lon": 127.2698,
+    "city": "Suwon",
+    "zip": "163",
+    "lat": 37.2905,
+    "lon": 126.9877,
     "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "110.15.2.128"
+    "isp": "KORNET",
+    "org": "jinuapateu",
+    "as": "AS4766 Korea Telecom",
+    "query": "211.198.67.197"
   },
   "211.184.24.38": {
     "status": "success",
