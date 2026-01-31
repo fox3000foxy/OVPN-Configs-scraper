@@ -415,22 +415,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.153.183.126"
   },
-  "222.232.187.118": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Pyeongtaek-si",
-    "zip": "178",
-    "lat": 37.0009,
-    "lon": 127.0859,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "222.232.187.118"
-  },
   "138.64.70.87": {
     "status": "success",
     "country": "Japan",
@@ -575,6 +559,22 @@
     "as": "AS17858 LG POWERCOMM",
     "query": "116.34.216.160"
   },
+  "175.214.2.119": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Suwon",
+    "zip": "163",
+    "lat": 37.2905,
+    "lon": 126.9877,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "175.214.2.119"
+  },
   "219.241.27.76": {
     "status": "success",
     "country": "South Korea",
@@ -639,22 +639,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "94.51.221.124"
   },
-  "84.51.201.202": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "ROS",
-    "regionName": "Rostov Oblast",
-    "city": "Rostov-on-Don",
-    "zip": "344000",
-    "lat": 47.2359,
-    "lon": 39.7134,
-    "timezone": "Europe/Moscow",
-    "isp": "PJSC Rostelecom Macroregional Branch South",
-    "org": "Macroregional South",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "84.51.201.202"
-  },
   "77.82.182.206": {
     "status": "success",
     "country": "Russia",
@@ -670,5 +654,21 @@
     "org": "Rostelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "77.82.182.206"
+  },
+  "92.37.142.38": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KHA",
+    "regionName": "Khabarovsk",
+    "city": "Khabarovsk",
+    "zip": "680000",
+    "lat": 48.4817,
+    "lon": 135.083,
+    "timezone": "Asia/Vladivostok",
+    "isp": "Rostelecom networks",
+    "org": "",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "92.37.142.38"
   }
 }
