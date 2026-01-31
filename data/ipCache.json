@@ -479,22 +479,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "210.178.48.72"
   },
-  "202.91.63.251": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "33",
-    "regionName": "Okayama",
-    "city": "Tsuyama",
-    "zip": "708-0861",
-    "lat": 35.0548,
-    "lon": 134.0209,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kurashiki Cable TV",
-    "org": "Kurashiki Cable TV Corporation",
-    "as": "AS9622 Kurashiki Cable TV",
-    "query": "202.91.63.251"
-  },
   "222.14.54.111": {
     "status": "success",
     "country": "Japan",
@@ -527,6 +511,22 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "124.214.92.234"
   },
+  "116.222.29.22": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Yao",
+    "zip": "581-0041",
+    "lat": 34.6221,
+    "lon": 135.5952,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM Co., Ltd.",
+    "org": "Jupiter Telecommunication Co. Ltd",
+    "as": "AS9824 JCOM Co., Ltd.",
+    "query": "116.222.29.22"
+  },
   "221.164.120.204": {
     "status": "success",
     "country": "South Korea",
@@ -543,22 +543,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "221.164.120.204"
   },
-  "125.143.53.182": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Hwaseong-si",
-    "zip": "184",
-    "lat": 37.2072,
-    "lon": 126.8168,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "125.143.53.182"
-  },
   "5.137.210.152": {
     "status": "success",
     "country": "Russia",
@@ -574,6 +558,22 @@
     "org": "JSC Rostelecom regional branch Siberia",
     "as": "AS12389 PJSC Rostelecom",
     "query": "5.137.210.152"
+  },
+  "220.74.125.89": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Ansan-si",
+    "zip": "15345",
+    "lat": 37.3253,
+    "lon": 126.8178,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "KORNET",
+    "as": "AS4766 Korea Telecom",
+    "query": "220.74.125.89"
   },
   "125.137.135.215": {
     "status": "success",
@@ -686,5 +686,37 @@
     "org": "JSC \"ER-Telecom Holding\" Volgograd Branch",
     "as": "AS39435 JSC ER-Telecom Holding",
     "query": "188.233.57.36"
+  },
+  "14.51.87.179": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Uiwang",
+    "zip": "160",
+    "lat": 37.3965,
+    "lon": 126.978,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "14.51.87.179"
+  },
+  "46.233.220.7": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "OMS",
+    "regionName": "Omsk Oblast",
+    "city": "Omsk",
+    "zip": "644000",
+    "lat": 54.9896,
+    "lon": 73.3729,
+    "timezone": "Asia/Omsk",
+    "isp": "Omskie kabelnye seti Ltd",
+    "org": "Omskie kabelnye seti Ltd.",
+    "as": "AS47165 Omskie kabelnye seti Ltd.",
+    "query": "46.233.220.7"
   }
 }
