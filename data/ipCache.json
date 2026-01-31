@@ -95,6 +95,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.4"
   },
+  "104.28.236.124": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "23",
+    "regionName": "Aichi",
+    "city": "Toyohashi",
+    "zip": "440-0896",
+    "lat": 34.7673,
+    "lon": 137.3854,
+    "timezone": "Asia/Tokyo",
+    "isp": "Cloudflare, Inc.",
+    "org": "Cloudflare WARP",
+    "as": "AS13335 Cloudflare, Inc.",
+    "query": "104.28.236.124"
+  },
   "219.100.37.16": {
     "status": "success",
     "country": "Japan",
@@ -143,6 +159,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.204"
   },
+  "218.148.187.249": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Goyang-si",
+    "zip": "103",
+    "lat": 37.6792,
+    "lon": 126.8183,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "KORNET",
+    "as": "AS4766 Korea Telecom",
+    "query": "218.148.187.249"
+  },
   "118.241.184.72": {
     "status": "success",
     "country": "Japan",
@@ -175,22 +207,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "218.145.107.33"
   },
-  "59.7.207.18": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Goyang-si",
-    "zip": "10461",
-    "lat": 37.661,
-    "lon": 126.8324,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "59.7.207.18"
-  },
   "211.198.67.197": {
     "status": "success",
     "country": "South Korea",
@@ -206,22 +222,6 @@
     "org": "jinuapateu",
     "as": "AS4766 Korea Telecom",
     "query": "211.198.67.197"
-  },
-  "110.15.2.128": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Anseong",
-    "zip": "175",
-    "lat": 37.0138,
-    "lon": 127.2698,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "110.15.2.128"
   },
   "183.99.115.65": {
     "status": "success",
@@ -367,22 +367,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.119.224.202"
   },
-  "223.132.208.135": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "21",
-    "regionName": "Gifu",
-    "city": "Gifu",
-    "zip": "500-8821",
-    "lat": 35.4256,
-    "lon": 136.7614,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "223.132.208.135"
-  },
   "221.159.197.158": {
     "status": "success",
     "country": "South Korea",
@@ -463,38 +447,6 @@
     "as": "AS2514 NTT PC Communications, Inc.",
     "query": "210.136.243.168"
   },
-  "122.251.51.164": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "35",
-    "regionName": "Yamaguchi",
-    "city": "Ube",
-    "zip": "755-0031",
-    "lat": 33.9522,
-    "lon": 131.246,
-    "timezone": "Asia/Tokyo",
-    "isp": "Yamaguchi Cable Vision Co., Ltd",
-    "org": "Yamaguchi Cable Vision Co., Ltd.",
-    "as": "AS18077 Yamaguchi Cable Vision Co.,Ltd",
-    "query": "122.251.51.164"
-  },
-  "210.178.48.72": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Namyangju",
-    "zip": "122",
-    "lat": 37.6224,
-    "lon": 127.1502,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "210.178.48.72"
-  },
   "222.14.54.111": {
     "status": "success",
     "country": "Japan",
@@ -559,21 +511,21 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "5.137.210.152"
   },
-  "125.137.135.215": {
+  "121.173.27.191": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
-    "region": "47",
-    "regionName": "Gyeongsangbuk-do",
-    "city": "Sangju",
-    "zip": "372",
-    "lat": 36.4169,
-    "lon": 128.1618,
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Gimpo-si",
+    "zip": "100",
+    "lat": 37.7542,
+    "lon": 126.557,
     "timezone": "Asia/Seoul",
     "isp": "Korea Telecom",
-    "org": "Korea Telecom",
+    "org": "Kornet",
     "as": "AS4766 Korea Telecom",
-    "query": "125.137.135.215"
+    "query": "121.173.27.191"
   },
   "42.119.215.192": {
     "status": "success",
