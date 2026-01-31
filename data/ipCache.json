@@ -63,6 +63,38 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.4"
   },
+  "219.100.37.15": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftEther",
+    "org": "SoftEther Corporation",
+    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
+    "query": "219.100.37.15"
+  },
+  "219.100.37.126": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftEther",
+    "org": "SoftEther Corporation",
+    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
+    "query": "219.100.37.126"
+  },
   "219.100.37.109": {
     "status": "success",
     "country": "Japan",
@@ -175,6 +207,22 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "180.68.118.32"
   },
+  "211.221.198.244": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Yongin-si",
+    "zip": "171",
+    "lat": 37.1522,
+    "lon": 127.1752,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "sudogwonseobubonbu",
+    "as": "AS4766 Korea Telecom",
+    "query": "211.221.198.244"
+  },
   "218.145.181.197": {
     "status": "success",
     "country": "South Korea",
@@ -222,22 +270,6 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "114.206.223.158"
-  },
-  "210.178.110.239": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "47",
-    "regionName": "Gyeongsangbuk-do",
-    "city": "Gumi",
-    "zip": "392",
-    "lat": 36.1135,
-    "lon": 128.343,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "210.178.110.239"
   },
   "60.144.85.226": {
     "status": "success",
