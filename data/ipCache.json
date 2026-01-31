@@ -511,22 +511,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "112.169.216.245"
   },
-  "94.31.224.105": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "SVE",
-    "regionName": "Sverdlovsk Oblast",
-    "city": "Yekaterinburg",
-    "zip": "620000",
-    "lat": 56.8406,
-    "lon": 60.6257,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "LLC \"KomTehCentr\"",
-    "org": "LLC \"KomTehCentr\"",
-    "as": "AS12668 LLC \"KomTehCentr\"",
-    "query": "94.31.224.105"
-  },
   "133.106.154.58": {
     "status": "success",
     "country": "Japan",
@@ -590,6 +574,22 @@
     "org": "Igra-Service LLC",
     "as": "AS33991 Igra-Service LLC",
     "query": "91.220.87.64"
+  },
+  "86.102.141.13": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "OMS",
+    "regionName": "Omsk Oblast",
+    "city": "Omsk",
+    "zip": "",
+    "lat": 54.9892,
+    "lon": 73.297,
+    "timezone": "Asia/Omsk",
+    "isp": "Primorye NET",
+    "org": "",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "86.102.141.13"
   },
   "115.140.205.9": {
     "status": "success",
