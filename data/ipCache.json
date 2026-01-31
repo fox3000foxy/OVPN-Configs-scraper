@@ -399,22 +399,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "175.193.243.22"
   },
-  "60.153.183.126": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan Nation-wide Network of Softbank Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "60.153.183.126"
-  },
   "150.31.45.162": {
     "status": "success",
     "country": "Japan",
@@ -446,6 +430,22 @@
     "org": "ASAHI",
     "as": "AS4685 Asahi Net",
     "query": "138.64.70.87"
+  },
+  "36.52.107.47": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "36",
+    "regionName": "Tokushima",
+    "city": "Tokushima",
+    "zip": "770-0811",
+    "lat": 34.0714,
+    "lon": 134.573,
+    "timezone": "Asia/Tokyo",
+    "isp": "STNet, Incorporated",
+    "org": "STNet",
+    "as": "AS7522 STNet, Incorporated",
+    "query": "36.52.107.47"
   },
   "5.180.172.149": {
     "status": "success",
