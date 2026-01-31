@@ -255,22 +255,6 @@
     "as": "AS38074 SDCC Japan-West Area",
     "query": "103.152.178.62"
   },
-  "72.213.142.141": {
-    "status": "success",
-    "country": "United States",
-    "countryCode": "US",
-    "region": "OK",
-    "regionName": "Oklahoma",
-    "city": "Tulsa",
-    "zip": "74110",
-    "lat": 36.178,
-    "lon": -95.9608,
-    "timezone": "America/Chicago",
-    "isp": "Cox Communications Inc.",
-    "org": "Cox Communications",
-    "as": "AS22773 Cox Communications Inc.",
-    "query": "72.213.142.141"
-  },
   "178.163.69.1": {
     "status": "success",
     "country": "Russia",
@@ -287,21 +271,21 @@
     "as": "AS8416 InfoLada Ltd",
     "query": "178.163.69.1"
   },
-  "222.227.165.89": {
+  "72.213.142.141": {
     "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minamimagome",
-    "zip": "143-0021",
-    "lat": 35.5993,
-    "lon": 139.7075,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "Kddi Corporation",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "222.227.165.89"
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OK",
+    "regionName": "Oklahoma",
+    "city": "Tulsa",
+    "zip": "74110",
+    "lat": 36.178,
+    "lon": -95.9608,
+    "timezone": "America/Chicago",
+    "isp": "Cox Communications Inc.",
+    "org": "Cox Communications",
+    "as": "AS22773 Cox Communications Inc.",
+    "query": "72.213.142.141"
   },
   "1.66.34.134": {
     "status": "success",
@@ -479,6 +463,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.177.115.150"
   },
+  "119.105.96.204": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6906,
+    "lon": 139.77,
+    "timezone": "Asia/Tokyo",
+    "isp": "DION (KDDI CORPORATION)",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "119.105.96.204"
+  },
   "112.169.216.245": {
     "status": "success",
     "country": "South Korea",
@@ -494,6 +494,38 @@
     "org": "KT Corporation",
     "as": "AS4766 Korea Telecom",
     "query": "112.169.216.245"
+  },
+  "94.31.224.105": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "SVE",
+    "regionName": "Sverdlovsk Oblast",
+    "city": "Yekaterinburg",
+    "zip": "620000",
+    "lat": 56.8406,
+    "lon": 60.6257,
+    "timezone": "Asia/Yekaterinburg",
+    "isp": "LLC \"KomTehCentr\"",
+    "org": "LLC \"KomTehCentr\"",
+    "as": "AS12668 LLC \"KomTehCentr\"",
+    "query": "94.31.224.105"
+  },
+  "89.235.249.188": {
+    "status": "success",
+    "country": "Estonia",
+    "countryCode": "EE",
+    "region": "37",
+    "regionName": "Harjumaa",
+    "city": "Tallinn",
+    "zip": "",
+    "lat": 59.4381,
+    "lon": 24.7369,
+    "timezone": "Europe/Tallinn",
+    "isp": "INFONET",
+    "org": "",
+    "as": "AS8728 AS INFONET",
+    "query": "89.235.249.188"
   },
   "133.106.154.58": {
     "status": "success",
@@ -558,22 +590,6 @@
     "org": "Igra-Service LLC",
     "as": "AS33991 Igra-Service LLC",
     "query": "91.220.87.64"
-  },
-  "86.102.141.13": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "OMS",
-    "regionName": "Omsk Oblast",
-    "city": "Omsk",
-    "zip": "",
-    "lat": 54.9892,
-    "lon": 73.297,
-    "timezone": "Asia/Omsk",
-    "isp": "Primorye NET",
-    "org": "",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "86.102.141.13"
   },
   "115.140.205.9": {
     "status": "success",
@@ -654,22 +670,6 @@
     "org": "",
     "as": "AS12389 PJSC Rostelecom",
     "query": "92.37.213.18"
-  },
-  "45.191.105.90": {
-    "status": "success",
-    "country": "Brazil",
-    "countryCode": "BR",
-    "region": "PE",
-    "regionName": "Pernambuco",
-    "city": "Olinda",
-    "zip": "53000",
-    "lat": -8.0009,
-    "lon": -34.8687,
-    "timezone": "America/Recife",
-    "isp": "G DE OLIVEIRA LIMA SERVICOS DE TELECOMUNICOES",
-    "org": "G DE OLIVEIRA LIMA SERVICOS DE TELECOMUNICOES",
-    "as": "AS269704 G DE OLIVEIRA LIMA SERVICOS DE TELECOMUNICOES",
-    "query": "45.191.105.90"
   },
   "98.167.223.105": {
     "status": "success",
