@@ -287,6 +287,22 @@
     "as": "AS12737 KrasPromStroy, LLC",
     "query": "185.124.155.182"
   },
+  "103.152.178.62": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-0001",
+    "lat": 35.694,
+    "lon": 139.754,
+    "timezone": "Asia/Tokyo",
+    "isp": "Ayao Takata",
+    "org": "SDCC-East01",
+    "as": "AS38074 SDCC Japan-West Area",
+    "query": "103.152.178.62"
+  },
   "49.167.12.160": {
     "status": "success",
     "country": "South Korea",
@@ -559,22 +575,6 @@
     "as": "AS2497 Internet Initiative Japan Inc.",
     "query": "220.100.45.229"
   },
-  "134.180.165.217": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "ARTERIA Networks Corporation",
-    "org": "Rakuten Mobile, Inc.",
-    "as": "AS2519 ARTERIA Networks Corporation",
-    "query": "134.180.165.217"
-  },
   "222.236.114.192": {
     "status": "success",
     "country": "South Korea",
@@ -590,6 +590,22 @@
     "org": "SK Broadband Co Ltd",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "222.236.114.192"
+  },
+  "134.180.165.217": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "ARTERIA Networks Corporation",
+    "org": "Rakuten Mobile, Inc.",
+    "as": "AS2519 ARTERIA Networks Corporation",
+    "query": "134.180.165.217"
   },
   "122.103.113.207": {
     "status": "success",
@@ -622,21 +638,5 @@
     "org": "JSC Ufanet",
     "as": "AS24955 JSC Ufanet",
     "query": "94.41.223.139"
-  },
-  "90.188.179.121": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "OMS",
-    "regionName": "Omsk Oblast",
-    "city": "Omsk",
-    "zip": "644000",
-    "lat": 54.9896,
-    "lon": 73.3729,
-    "timezone": "Asia/Omsk",
-    "isp": "Rostelecom networks",
-    "org": "OJSC Sibirtelecom",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "90.188.179.121"
   }
 }
