@@ -239,6 +239,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "222.109.72.106"
   },
+  "221.151.151.230": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Guro-gu",
+    "zip": "082",
+    "lat": 37.504,
+    "lon": 126.8717,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "221.151.151.230"
+  },
   "121.106.148.235": {
     "status": "success",
     "country": "Japan",
@@ -479,22 +495,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "131.147.158.37"
   },
-  "218.158.82.155": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "30",
-    "regionName": "Daejeon",
-    "city": "Daejeon",
-    "zip": "35242",
-    "lat": 36.3566,
-    "lon": 127.3849,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Korea Telecom",
-    "as": "AS4766 Korea Telecom",
-    "query": "218.158.82.155"
-  },
   "222.104.126.221": {
     "status": "success",
     "country": "South Korea",
@@ -638,21 +638,5 @@
     "org": "SK Broadband Co Ltd",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "211.202.214.160"
-  },
-  "220.147.83.115": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "02",
-    "regionName": "Aomori",
-    "city": "Hirosaki",
-    "zip": "036-8171",
-    "lat": 40.6166,
-    "lon": 140.3936,
-    "timezone": "Asia/Tokyo",
-    "isp": "ARTERIA Networks Corporation",
-    "org": "ARTERIA Networks Corporation",
-    "as": "AS2519 ARTERIA Networks Corporation",
-    "query": "220.147.83.115"
   }
 }
