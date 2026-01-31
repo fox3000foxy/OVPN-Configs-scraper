@@ -159,22 +159,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "111.238.189.171"
   },
-  "138.229.146.94": {
-    "status": "success",
-    "country": "United States",
-    "countryCode": "US",
-    "region": "CA",
-    "regionName": "California",
-    "city": "Hesperia",
-    "zip": "92345",
-    "lat": 34.4179,
-    "lon": -117.3064,
-    "timezone": "America/Los_Angeles",
-    "isp": "Charter Communications",
-    "org": "Spectrum",
-    "as": "AS20115 Charter Communications LLC",
-    "query": "138.229.146.94"
-  },
   "124.255.80.220": {
     "status": "success",
     "country": "Japan",
@@ -190,6 +174,22 @@
     "org": "FreeBit Co., Ltd.",
     "as": "AS10013 FreeBit Co.,Ltd.",
     "query": "124.255.80.220"
+  },
+  "138.229.146.94": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA",
+    "regionName": "California",
+    "city": "Hesperia",
+    "zip": "92345",
+    "lat": 34.4179,
+    "lon": -117.3064,
+    "timezone": "America/Los_Angeles",
+    "isp": "Charter Communications",
+    "org": "Spectrum",
+    "as": "AS20115 Charter Communications LLC",
+    "query": "138.229.146.94"
   },
   "112.220.30.58": {
     "status": "success",
@@ -287,22 +287,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.50"
   },
-  "110.46.158.118": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "26",
-    "regionName": "Busan",
-    "city": "Haeundae-gu",
-    "zip": "480",
-    "lat": 35.1692,
-    "lon": 129.1738,
-    "timezone": "Asia/Seoul",
-    "isp": "CJ Hello Co",
-    "org": "HVHaeundae",
-    "as": "AS9697 LG HelloVision Corp.",
-    "query": "110.46.158.118"
-  },
   "219.100.37.102": {
     "status": "success",
     "country": "Japan",
@@ -334,6 +318,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "115.22.171.164"
+  },
+  "110.46.158.118": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Haeundae-gu",
+    "zip": "480",
+    "lat": 35.1692,
+    "lon": 129.1738,
+    "timezone": "Asia/Seoul",
+    "isp": "CJ Hello Co",
+    "org": "HVHaeundae",
+    "as": "AS9697 LG HelloVision Corp.",
+    "query": "110.46.158.118"
   },
   "75.76.243.108": {
     "status": "success",
@@ -479,22 +479,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "218.158.82.155"
   },
-  "133.106.35.73": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tōyō",
-    "zip": "135-0016",
-    "lat": 35.6698,
-    "lon": 139.815,
-    "timezone": "Asia/Tokyo",
-    "isp": "Rakuten Mobile, Inc.",
-    "org": "RMN",
-    "as": "AS138384 Rakuten Mobile Network, Inc.",
-    "query": "133.106.35.73"
-  },
   "175.193.243.22": {
     "status": "success",
     "country": "South Korea",
@@ -527,6 +511,22 @@
     "as": "AS9617 JCOM Co., Ltd.",
     "query": "49.251.213.94"
   },
+  "49.228.250.244": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "20",
+    "regionName": "Chon Buri",
+    "city": "Bang Lamung",
+    "zip": "20150",
+    "lat": 13.0508,
+    "lon": 100.9367,
+    "timezone": "Asia/Bangkok",
+    "isp": "Advanced Wireless Network Company Limited",
+    "org": "",
+    "as": "AS133481 AIS Fibre",
+    "query": "49.228.250.244"
+  },
   "112.172.15.116": {
     "status": "success",
     "country": "South Korea",
@@ -543,37 +543,53 @@
     "as": "AS4766 Korea Telecom",
     "query": "112.172.15.116"
   },
-  "49.228.235.153": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "10",
-    "regionName": "Bangkok",
-    "city": "Bangkok",
-    "zip": "10110",
-    "lat": 13.7101,
-    "lon": 100.4543,
-    "timezone": "Asia/Bangkok",
-    "isp": "Advanced Wireless Network Company Limited",
-    "org": "AIS Fibre",
-    "as": "AS133481 AIS Fibre",
-    "query": "49.228.235.153"
-  },
-  "61.74.29.57": {
+  "183.103.84.180": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Seongdong-gu",
-    "zip": "047",
-    "lat": 37.5511,
-    "lon": 127.0387,
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Buk-gu",
+    "zip": "466",
+    "lat": 35.1996,
+    "lon": 128.9874,
     "timezone": "Asia/Seoul",
     "isp": "Korea Telecom",
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
-    "query": "61.74.29.57"
+    "query": "183.103.84.180"
+  },
+  "1.53.43.19": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "HN",
+    "regionName": "Hanoi",
+    "city": "Hanoi",
+    "zip": "100000",
+    "lat": 21.0184,
+    "lon": 105.8461,
+    "timezone": "Asia/Bangkok",
+    "isp": "FPT Telecom Company",
+    "org": "FPTDYNAMICIP",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "1.53.43.19"
+  },
+  "133.106.35.73": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tōyō",
+    "zip": "135-0016",
+    "lat": 35.6698,
+    "lon": 139.815,
+    "timezone": "Asia/Tokyo",
+    "isp": "Rakuten Mobile, Inc.",
+    "org": "RMN",
+    "as": "AS138384 Rakuten Mobile Network, Inc.",
+    "query": "133.106.35.73"
   },
   "37.21.144.175": {
     "status": "success",
@@ -622,37 +638,5 @@
     "org": "KORNET",
     "as": "AS4766 Korea Telecom",
     "query": "211.219.73.150"
-  },
-  "211.202.214.160": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Seoul",
-    "zip": "04524",
-    "lat": 37.5658,
-    "lon": 126.978,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "SK Broadband Co Ltd",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "211.202.214.160"
-  },
-  "116.34.216.160": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Gwangju",
-    "zip": "127",
-    "lat": 37.3661,
-    "lon": 127.2255,
-    "timezone": "Asia/Seoul",
-    "isp": "LG POWERCOMM",
-    "org": "Xpeed",
-    "as": "AS17858 LG POWERCOMM",
-    "query": "116.34.216.160"
   }
 }
