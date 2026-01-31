@@ -367,22 +367,6 @@
     "as": "AS4685 Asahi Net",
     "query": "118.243.130.61"
   },
-  "221.152.115.166": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "26",
-    "regionName": "Busan",
-    "city": "Saha-gu",
-    "zip": "494",
-    "lat": 35.1187,
-    "lon": 128.957,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "(ju)hyeonsolru",
-    "as": "AS4766 Korea Telecom",
-    "query": "221.152.115.166"
-  },
   "1.66.34.134": {
     "status": "success",
     "country": "Japan",
@@ -398,6 +382,22 @@
     "org": "NTTDoCoMo",
     "as": "AS9605 NTT DOCOMO, INC.",
     "query": "1.66.34.134"
+  },
+  "221.152.115.166": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Saha-gu",
+    "zip": "494",
+    "lat": 35.1187,
+    "lon": 128.957,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "(ju)hyeonsolru",
+    "as": "AS4766 Korea Telecom",
+    "query": "221.152.115.166"
   },
   "222.98.176.199": {
     "status": "success",
@@ -575,6 +575,22 @@
     "as": "AS17857 SK Broadband Co Ltd",
     "query": "116.93.243.44"
   },
+  "37.21.144.175": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "TOM",
+    "regionName": "Tomsk Oblast",
+    "city": "Tomsk",
+    "zip": "634009",
+    "lat": 56.4957,
+    "lon": 84.9636,
+    "timezone": "Asia/Tomsk",
+    "isp": "JSC Rostelecom regional branch \"Siberia\"",
+    "org": "JSC Rostelecom regional branch Siberia",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "37.21.144.175"
+  },
   "133.106.35.73": {
     "status": "success",
     "country": "Japan",
@@ -591,21 +607,21 @@
     "as": "AS138384 Rakuten Mobile Network, Inc.",
     "query": "133.106.35.73"
   },
-  "37.21.144.175": {
+  "49.228.156.10": {
     "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "TOM",
-    "regionName": "Tomsk Oblast",
-    "city": "Tomsk",
-    "zip": "634009",
-    "lat": 56.4957,
-    "lon": 84.9636,
-    "timezone": "Asia/Tomsk",
-    "isp": "JSC Rostelecom regional branch \"Siberia\"",
-    "org": "JSC Rostelecom regional branch Siberia",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "37.21.144.175"
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "13",
+    "regionName": "Pathum Thani",
+    "city": "Khlong Luang",
+    "zip": "12120",
+    "lat": 14.0712,
+    "lon": 100.6549,
+    "timezone": "Asia/Bangkok",
+    "isp": "Advanced Wireless Network Company Limited",
+    "org": "AIS Fibre",
+    "as": "AS133481 AIS Fibre",
+    "query": "49.228.156.10"
   },
   "211.219.73.150": {
     "status": "success",
