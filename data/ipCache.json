@@ -239,6 +239,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "183.99.115.65"
   },
+  "211.184.24.38": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Suwon",
+    "zip": "164",
+    "lat": 37.2872,
+    "lon": 127.0116,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "211.184.24.38"
+  },
   "101.128.133.100": {
     "status": "success",
     "country": "Japan",
@@ -271,22 +287,6 @@
     "as": "AS12737 KrasPromStroy, LLC",
     "query": "185.124.155.182"
   },
-  "59.146.35.86": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0071",
-    "lat": 35.6837,
-    "lon": 139.6805,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "59.146.35.86"
-  },
   "219.100.37.102": {
     "status": "success",
     "country": "Japan",
@@ -302,6 +302,22 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.102"
+  },
+  "59.146.35.86": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tokyo",
+    "zip": "151-0071",
+    "lat": 35.6837,
+    "lon": 139.6805,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "59.146.35.86"
   },
   "60.119.224.202": {
     "status": "success",
@@ -366,22 +382,6 @@
     "org": "JCOM",
     "as": "AS4721 JCOM Co., Ltd.",
     "query": "110.232.8.204"
-  },
-  "175.198.229.66": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "28",
-    "regionName": "Incheon",
-    "city": "Incheon",
-    "zip": "21554",
-    "lat": 37.4585,
-    "lon": 126.7015,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "175.198.229.66"
   },
   "210.178.48.72": {
     "status": "success",
@@ -479,37 +479,37 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.95.114.100"
   },
-  "175.210.165.121": {
+  "112.171.81.250": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
-    "region": "28",
-    "regionName": "Incheon",
-    "city": "Incheon",
-    "zip": "220",
-    "lat": 37.4585,
-    "lon": 126.7015,
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Gwanak-gu",
+    "zip": "087",
+    "lat": 37.4873,
+    "lon": 126.9227,
     "timezone": "Asia/Seoul",
     "isp": "Korea Telecom",
-    "org": "Kornet",
+    "org": "",
     "as": "AS4766 Korea Telecom",
-    "query": "175.210.165.121"
+    "query": "112.171.81.250"
   },
-  "121.169.172.114": {
+  "125.137.135.215": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Seongnam-si",
-    "zip": "135",
-    "lat": 37.377,
-    "lon": 127.1091,
+    "region": "47",
+    "regionName": "Gyeongsangbuk-do",
+    "city": "Sangju",
+    "zip": "372",
+    "lat": 36.4169,
+    "lon": 128.1618,
     "timezone": "Asia/Seoul",
     "isp": "Korea Telecom",
-    "org": "Kornet",
+    "org": "Korea Telecom",
     "as": "AS4766 Korea Telecom",
-    "query": "121.169.172.114"
+    "query": "125.137.135.215"
   },
   "5.143.104.42": {
     "status": "success",
@@ -702,5 +702,21 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "58.232.223.120"
+  },
+  "31.130.8.148": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "VGG",
+    "regionName": "Volgograd Oblast",
+    "city": "Volzhsky",
+    "zip": "404101",
+    "lat": 48.7911,
+    "lon": 44.7777,
+    "timezone": "Europe/Volgograd",
+    "isp": "LLC POWERNET",
+    "org": "LLC POWERNET",
+    "as": "AS51032 LLC POWERNET",
+    "query": "31.130.8.148"
   }
 }
