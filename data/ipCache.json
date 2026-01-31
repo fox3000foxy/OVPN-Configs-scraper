@@ -287,6 +287,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.50"
   },
+  "1.66.34.134": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Osaka",
+    "zip": "530-0041",
+    "lat": 34.6967,
+    "lon": 135.5154,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Docomo, inc.",
+    "org": "NTTDoCoMo",
+    "as": "AS9605 NTT DOCOMO, INC.",
+    "query": "1.66.34.134"
+  },
   "110.46.158.118": {
     "status": "success",
     "country": "South Korea",
@@ -446,6 +462,22 @@
     "org": "",
     "as": "AS57043 HOSTKEY B.V.",
     "query": "5.180.172.149"
+  },
+  "109.124.244.66": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "SAM",
+    "regionName": "Samara Oblast",
+    "city": "Samara",
+    "zip": "404146",
+    "lat": 53.2061,
+    "lon": 50.1509,
+    "timezone": "Europe/Samara",
+    "isp": "LLC SIP \"NIS\"",
+    "org": "SamaraLan",
+    "as": "AS35032 LLC SIP NIS",
+    "query": "109.124.244.66"
   },
   "89.204.91.168": {
     "status": "success",
@@ -622,22 +654,6 @@
     "org": "Rostelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "77.82.182.206"
-  },
-  "126.217.14.66": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.217.14.66"
   },
   "92.37.142.38": {
     "status": "success",
