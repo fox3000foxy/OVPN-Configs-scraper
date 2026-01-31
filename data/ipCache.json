@@ -143,6 +143,22 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "60.36.150.117"
   },
+  "218.145.181.197": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Gangnam-gu",
+    "zip": "060",
+    "lat": 37.5245,
+    "lon": 127.0354,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "218.145.181.197"
+  },
   "180.68.118.32": {
     "status": "success",
     "country": "South Korea",
@@ -206,22 +222,6 @@
     "org": "sudogwonseobubonbu",
     "as": "AS4766 Korea Telecom",
     "query": "211.221.198.244"
-  },
-  "218.145.181.197": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Gangnam-gu",
-    "zip": "060",
-    "lat": 37.5245,
-    "lon": 127.0354,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "218.145.181.197"
   },
   "211.185.142.92": {
     "status": "success",
@@ -415,6 +415,22 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "59.138.72.73"
   },
+  "49.228.120.16": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "10",
+    "regionName": "Bangkok",
+    "city": "Bangkok",
+    "zip": "10700",
+    "lat": 13.751,
+    "lon": 100.4873,
+    "timezone": "Asia/Bangkok",
+    "isp": "Advanced Wireless Network Company Limited",
+    "org": "",
+    "as": "AS133481 AIS Fibre",
+    "query": "49.228.120.16"
+  },
   "39.123.54.41": {
     "status": "success",
     "country": "South Korea",
@@ -447,22 +463,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "175.203.99.209"
   },
-  "210.99.65.21": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "48",
-    "regionName": "Gyeongsangnam-do",
-    "city": "Hapcheon-gun",
-    "zip": "502",
-    "lat": 35.5698,
-    "lon": 128.1587,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "210.99.65.21"
-  },
   "175.202.115.167": {
     "status": "success",
     "country": "South Korea",
@@ -494,22 +494,6 @@
     "org": "NTT Communications Corporation",
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "58.95.83.60"
-  },
-  "183.88.237.254": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "10",
-    "regionName": "Bangkok",
-    "city": "Bangkok",
-    "zip": "10310",
-    "lat": 13.7749,
-    "lon": 100.5197,
-    "timezone": "Asia/Bangkok",
-    "isp": "Triple T Broadband Public Company Limited",
-    "org": "Triple T Broadband Public Company Limited",
-    "as": "AS45758 Triple T Broadband Public Company Limited",
-    "query": "183.88.237.254"
   },
   "222.238.92.106": {
     "status": "success",
@@ -558,6 +542,22 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "121.175.175.84"
+  },
+  "126.217.201.240": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.217.201.240"
   },
   "126.207.20.168": {
     "status": "success",
@@ -638,5 +638,21 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "39.114.102.23"
+  },
+  "179.6.168.57": {
+    "status": "success",
+    "country": "Peru",
+    "countryCode": "PE",
+    "region": "LIM",
+    "regionName": "Lima region",
+    "city": "Independencia",
+    "zip": "",
+    "lat": -11.99,
+    "lon": -77.0458,
+    "timezone": "America/Lima",
+    "isp": "America Movil Peru S.A.C.",
+    "org": "America Movil Peru S.A.C",
+    "as": "AS12252 America Movil Peru S.A.C.",
+    "query": "179.6.168.57"
   }
 }
