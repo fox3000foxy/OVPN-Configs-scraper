@@ -559,6 +559,22 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "61.255.91.50"
   },
+  "114.30.193.145": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Seoul",
+    "zip": "04524",
+    "lat": 37.5658,
+    "lon": 126.978,
+    "timezone": "Asia/Seoul",
+    "isp": "CJ Hello Co.",
+    "org": "HVHonam",
+    "as": "AS38121 LG HelloVision Corp.",
+    "query": "114.30.193.145"
+  },
   "122.103.113.207": {
     "status": "success",
     "country": "Japan",
@@ -655,38 +671,6 @@
     "as": "AS10036 DLIVE",
     "query": "182.172.122.57"
   },
-  "37.140.24.30": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "CHE",
-    "regionName": "Chelyabinsk Oblast",
-    "city": "Magnitogorsk",
-    "zip": "455000",
-    "lat": 53.3981,
-    "lon": 59.0066,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "Intersvyaz-2 JSC",
-    "org": "",
-    "as": "AS8369 Intersvyaz-2 JSC",
-    "query": "37.140.24.30"
-  },
-  "86.102.34.158": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PRI",
-    "regionName": "Primorye",
-    "city": "Vladivostok",
-    "zip": "690014",
-    "lat": 43.123,
-    "lon": 131.888,
-    "timezone": "Asia/Vladivostok",
-    "isp": "Rostelecom networks",
-    "org": "",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "86.102.34.158"
-  },
   "5.143.98.209": {
     "status": "success",
     "country": "Russia",
@@ -703,20 +687,20 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "5.143.98.209"
   },
-  "175.115.132.143": {
+  "176.110.201.77": {
     "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "44",
-    "regionName": "Chungcheongnam-do",
-    "city": "Asan",
-    "zip": "314",
-    "lat": 36.7893,
-    "lon": 127.0855,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "SK Broadband Co Ltd",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "175.115.132.143"
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "IVA",
+    "regionName": "Ivanovo Oblast",
+    "city": "Ivanovo",
+    "zip": "153000",
+    "lat": 57.0105,
+    "lon": 40.9715,
+    "timezone": "Europe/Moscow",
+    "isp": "MTT Connect Ltd.",
+    "org": "MTT Connect Ltd.",
+    "as": "AS38917 INTERCOMTEL Limited Company",
+    "query": "176.110.201.77"
   }
 }
