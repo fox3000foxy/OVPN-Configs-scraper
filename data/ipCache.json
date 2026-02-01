@@ -255,6 +255,22 @@
     "as": "AS4721 JCOM Co., Ltd.",
     "query": "110.232.8.204"
   },
+  "60.122.90.45": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.122.90.45"
+  },
   "211.222.68.102": {
     "status": "success",
     "country": "South Korea",
@@ -270,22 +286,6 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "211.222.68.102"
-  },
-  "61.83.2.222": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "26",
-    "regionName": "Busan",
-    "city": "Buk-gu",
-    "zip": "465",
-    "lat": 35.2236,
-    "lon": 129.0098,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "61.83.2.222"
   },
   "210.178.48.72": {
     "status": "success",
@@ -367,22 +367,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "112.171.81.250"
   },
-  "202.91.63.251": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "33",
-    "regionName": "Okayama",
-    "city": "Tsuyama",
-    "zip": "708-0861",
-    "lat": 35.0548,
-    "lon": 134.0209,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kurashiki Cable TV",
-    "org": "Kurashiki Cable TV Corporation",
-    "as": "AS9622 Kurashiki Cable TV",
-    "query": "202.91.63.251"
-  },
   "39.121.154.44": {
     "status": "success",
     "country": "South Korea",
@@ -399,6 +383,22 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "39.121.154.44"
   },
+  "202.91.63.251": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "33",
+    "regionName": "Okayama",
+    "city": "Tsuyama",
+    "zip": "708-0861",
+    "lat": 35.0548,
+    "lon": 134.0209,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kurashiki Cable TV",
+    "org": "Kurashiki Cable TV Corporation",
+    "as": "AS9622 Kurashiki Cable TV",
+    "query": "202.91.63.251"
+  },
   "58.235.123.214": {
     "status": "success",
     "country": "South Korea",
@@ -414,6 +414,22 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "58.235.123.214"
+  },
+  "175.199.159.249": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "48",
+    "regionName": "Gyeongsangnam-do",
+    "city": "Gimhae",
+    "zip": "510",
+    "lat": 35.1787,
+    "lon": 128.8307,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "175.199.159.249"
   },
   "221.159.197.158": {
     "status": "success",
@@ -446,22 +462,6 @@
     "org": "SOFTBANK Corp",
     "as": "AS17676 SoftBank Corp.",
     "query": "126.116.156.167"
-  },
-  "210.136.243.168": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Osaka",
-    "zip": "550-0001",
-    "lat": 34.6892,
-    "lon": 135.4899,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT PC Communications, Inc.",
-    "org": "InfoSphere",
-    "as": "AS2514 NTT PC Communications, Inc.",
-    "query": "210.136.243.168"
   },
   "126.219.117.54": {
     "status": "success",
@@ -558,22 +558,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "175.198.229.66"
-  },
-  "178.206.45.221": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "TA",
-    "regionName": "Tatarstan Republic",
-    "city": "Naberezhnyye Chelny",
-    "zip": "423800",
-    "lat": 55.7582,
-    "lon": 52.4302,
-    "timezone": "Europe/Moscow",
-    "isp": "TATTELECOM",
-    "org": "",
-    "as": "AS28840 PJSC \"TATTELECOM\"",
-    "query": "178.206.45.221"
   },
   "114.201.3.61": {
     "status": "success",
@@ -686,5 +670,21 @@
     "org": "",
     "as": "AS12389 PJSC Rostelecom",
     "query": "77.35.39.46"
+  },
+  "46.38.10.103": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KYA",
+    "regionName": "Krasnoyarsk Krai",
+    "city": "Krasnoyarsk",
+    "zip": "660000",
+    "lat": 56.0153,
+    "lon": 92.8932,
+    "timezone": "Asia/Krasnoyarsk",
+    "isp": "CJSC \"Transtelecom-DV\"",
+    "org": "CJSC Transtelecom-DV",
+    "as": "AS20485 Joint Stock Company TransTeleCom",
+    "query": "46.38.10.103"
   }
 }
