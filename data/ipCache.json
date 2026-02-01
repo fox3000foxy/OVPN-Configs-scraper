@@ -303,37 +303,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "14.45.164.190"
   },
-  "109.198.222.171": {
+  "112.171.81.250": {
     "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "BRY",
-    "regionName": "Bryansk Oblast",
-    "city": "Bryansk",
-    "zip": "241519",
-    "lat": 53.271,
-    "lon": 34.3214,
-    "timezone": "Europe/Moscow",
-    "isp": "CenterTelecom Bryansk PPPoE",
-    "org": "Joint Stock Company",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "109.198.222.171"
-  },
-  "119.173.41.163": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Komone",
-    "zip": "173-0031",
-    "lat": 35.7458,
-    "lon": 139.6911,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM Co., Ltd.",
-    "org": "JCOM Co., Ltd",
-    "as": "AS9824 JCOM Co., Ltd.",
-    "query": "119.173.41.163"
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Gwanak-gu",
+    "zip": "087",
+    "lat": 37.4873,
+    "lon": 126.9227,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "112.171.81.250"
   },
   "202.91.63.251": {
     "status": "success",
@@ -383,6 +367,22 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "39.121.154.44"
   },
+  "210.194.10.105": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Yokosuka",
+    "zip": "238-0031",
+    "lat": 35.2672,
+    "lon": 139.6386,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM Co., Ltd.",
+    "org": "Jupiter Telecommunication Co. Ltd",
+    "as": "AS9824 JCOM Co., Ltd.",
+    "query": "210.194.10.105"
+  },
   "59.138.79.222": {
     "status": "success",
     "country": "Japan",
@@ -430,22 +430,6 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "58.235.123.214"
-  },
-  "119.171.136.236": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Yokohama",
-    "zip": "231-0841",
-    "lat": 35.4337,
-    "lon": 139.6499,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM Co., Ltd.",
-    "org": "JCOM Co., Ltd",
-    "as": "AS9824 JCOM Co., Ltd.",
-    "query": "119.171.136.236"
   },
   "221.159.197.158": {
     "status": "success",
@@ -510,22 +494,6 @@
     "org": "Busanbonbu(saeop)",
     "as": "AS4766 Korea Telecom",
     "query": "112.160.139.229"
-  },
-  "221.140.172.84": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "44",
-    "regionName": "Chungcheongnam-do",
-    "city": "Cheonan",
-    "zip": "310",
-    "lat": 36.8242,
-    "lon": 127.1293,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "SK Broadband Co Ltd",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "221.140.172.84"
   },
   "178.206.45.221": {
     "status": "success",
@@ -702,37 +670,5 @@
     "org": "Metroset Ltd.",
     "as": "AS50923 Metroset Ltd.",
     "query": "37.143.108.41"
-  },
-  "110.15.2.128": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Anseong",
-    "zip": "175",
-    "lat": 37.0138,
-    "lon": 127.2698,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "110.15.2.128"
-  },
-  "115.163.249.47": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "23",
-    "regionName": "Aichi",
-    "city": "Nagoya",
-    "zip": "462-0841",
-    "lat": 35.1926,
-    "lon": 136.906,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "115.163.249.47"
   }
 }
