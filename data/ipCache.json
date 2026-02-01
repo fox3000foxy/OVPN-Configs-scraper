@@ -527,22 +527,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "116.82.48.160"
   },
-  "94.60.118.99": {
-    "status": "success",
-    "country": "Portugal",
-    "countryCode": "PT",
-    "region": "13",
-    "regionName": "Porto",
-    "city": "Porto",
-    "zip": "4000-001",
-    "lat": 41.1459,
-    "lon": -8.6169,
-    "timezone": "Europe/Lisbon",
-    "isp": "Vodafone Portugal",
-    "org": "Vodafone Telecel, Comunicacoes Pessoais, SA",
-    "as": "AS12353 Vodafone Portugal",
-    "query": "94.60.118.99"
-  },
   "211.224.254.164": {
     "status": "success",
     "country": "South Korea",
@@ -558,6 +542,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "211.224.254.164"
+  },
+  "181.94.226.73": {
+    "status": "success",
+    "country": "Paraguay",
+    "countryCode": "PY",
+    "region": "ASU",
+    "regionName": "Asunción",
+    "city": "Asunción",
+    "zip": "",
+    "lat": -25.2869,
+    "lon": -57.6511,
+    "timezone": "America/Asuncion",
+    "isp": "Núcleo S.A.",
+    "org": "Telecom Personal Bs",
+    "as": "AS27895 Núcleo S.A.",
+    "query": "181.94.226.73"
   },
   "94.31.224.105": {
     "status": "success",
