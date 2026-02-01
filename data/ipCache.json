@@ -271,22 +271,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "211.185.142.92"
   },
-  "211.205.56.227": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "29",
-    "regionName": "Gwangju",
-    "city": "Gwangju",
-    "zip": "61426",
-    "lat": 35.1496,
-    "lon": 126.9156,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "211.205.56.227"
-  },
   "37.21.241.126": {
     "status": "success",
     "country": "Russia",
@@ -334,6 +318,22 @@
     "org": "LG POWERCOMM",
     "as": "AS17858 LG POWERCOMM",
     "query": "180.230.179.174"
+  },
+  "211.205.56.227": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "29",
+    "regionName": "Gwangju",
+    "city": "Gwangju",
+    "zip": "61426",
+    "lat": 35.1496,
+    "lon": 126.9156,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "211.205.56.227"
   },
   "133.175.174.202": {
     "status": "success",
@@ -543,21 +543,21 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.149.75.205"
   },
-  "94.190.39.192": {
+  "121.84.18.95": {
     "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "SVE",
-    "regionName": "Sverdlovsk Oblast",
-    "city": "Novoural'sk",
-    "zip": "624170",
-    "lat": 57.2511,
-    "lon": 60.0886,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "Interra TG, Ltd.",
-    "org": "\"Interra\" Ltd",
-    "as": "AS48524 INTERRA telecommunications group, Ltd.",
-    "query": "94.190.39.192"
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Sakai",
+    "zip": "590-0971",
+    "lat": 34.5963,
+    "lon": 135.4868,
+    "timezone": "Asia/Tokyo",
+    "isp": "OPTAGE Inc.",
+    "org": "K-Opticom Corporation",
+    "as": "AS17511 OPTAGE Inc.",
+    "query": "121.84.18.95"
   },
   "39.119.183.162": {
     "status": "success",
@@ -574,22 +574,6 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "39.119.183.162"
-  },
-  "121.84.18.95": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Sakai",
-    "zip": "590-0971",
-    "lat": 34.5963,
-    "lon": 135.4868,
-    "timezone": "Asia/Tokyo",
-    "isp": "OPTAGE Inc.",
-    "org": "K-Opticom Corporation",
-    "as": "AS17511 OPTAGE Inc.",
-    "query": "121.84.18.95"
   },
   "118.86.137.129": {
     "status": "success",
@@ -670,22 +654,6 @@
     "org": "SK Broadband Co Ltd",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "219.240.68.241"
-  },
-  "211.117.250.203": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Yongin-si",
-    "zip": "169",
-    "lat": 37.298,
-    "lon": 127.0777,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "211.117.250.203"
   },
   "118.222.200.243": {
     "status": "success",
