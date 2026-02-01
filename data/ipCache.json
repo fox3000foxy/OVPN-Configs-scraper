@@ -351,6 +351,22 @@
     "as": "AS18403 FPT Telecom Company",
     "query": "42.112.13.234"
   },
+  "37.21.144.175": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "TOM",
+    "regionName": "Tomsk Oblast",
+    "city": "Tomsk",
+    "zip": "634009",
+    "lat": 56.4957,
+    "lon": 84.9636,
+    "timezone": "Asia/Tomsk",
+    "isp": "JSC Rostelecom regional branch \"Siberia\"",
+    "org": "JSC Rostelecom regional branch Siberia",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "37.21.144.175"
+  },
   "138.64.212.183": {
     "status": "success",
     "country": "Japan",
@@ -383,21 +399,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "218.158.82.155"
   },
-  "36.52.103.209": {
+  "60.94.100.174": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "36",
-    "regionName": "Tokushima",
-    "city": "Tokushima",
-    "zip": "770-0861",
-    "lat": 34.0807,
-    "lon": 134.5678,
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
     "timezone": "Asia/Tokyo",
-    "isp": "STNet, Incorporated",
-    "org": "STNet",
-    "as": "AS7522 STNet, Incorporated",
-    "query": "36.52.103.209"
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.94.100.174"
   },
   "125.52.118.171": {
     "status": "success",
@@ -559,22 +575,6 @@
     "as": "AS42038 Krivets Sergey Sergeevich",
     "query": "46.37.132.36"
   },
-  "179.7.16.20": {
-    "status": "success",
-    "country": "Peru",
-    "countryCode": "PE",
-    "region": "LAL",
-    "regionName": "La Libertad",
-    "city": "Trujillo",
-    "zip": "",
-    "lat": -8.1191,
-    "lon": -79.0355,
-    "timezone": "America/Lima",
-    "isp": "America Movil Peru S.A.C.",
-    "org": "America Movil Peru S.A.C",
-    "as": "AS12252 America Movil Peru S.A.C.",
-    "query": "179.7.16.20"
-  },
   "174.65.47.38": {
     "status": "success",
     "country": "United States",
@@ -622,22 +622,6 @@
     "org": "",
     "as": "AS7470 TRUE INTERNET Co.,Ltd.",
     "query": "223.24.137.1"
-  },
-  "118.83.69.241": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Hachiōji",
-    "zip": "192-0051",
-    "lat": 35.6677,
-    "lon": 139.3193,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM",
-    "org": "Jupiter Telecommunications Co., Ltd.",
-    "as": "AS4721 JCOM Co., Ltd.",
-    "query": "118.83.69.241"
   },
   "220.149.127.202": {
     "status": "success",
