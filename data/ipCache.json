@@ -399,21 +399,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.148.48.93"
   },
-  "123.194.236.96": {
+  "171.4.236.153": {
     "status": "success",
-    "country": "Taiwan",
-    "countryCode": "TW",
-    "region": "PIF",
-    "regionName": "Pingtung",
-    "city": "Pingtung City",
-    "zip": "",
-    "lat": 22.6745,
-    "lon": 120.491,
-    "timezone": "Asia/Taipei",
-    "isp": "TUNGHO",
-    "org": "TUNG HO MULTIMEDIA CO. Ltd.",
-    "as": "AS38841 kbro CO. Ltd.",
-    "query": "123.194.236.96"
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "50",
+    "regionName": "Chiang Mai",
+    "city": "Chiang Mai",
+    "zip": "50210",
+    "lat": 18.8514,
+    "lon": 99.0412,
+    "timezone": "Asia/Bangkok",
+    "isp": "Triple T Broadband Public Company Limited",
+    "org": "Triple T Broadband Public Company Limited",
+    "as": "AS45758 Triple T Broadband Public Company Limited",
+    "query": "171.4.236.153"
   },
   "116.93.243.44": {
     "status": "success",
@@ -511,22 +511,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "125.137.243.222"
   },
-  "113.22.108.29": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "SG",
-    "regionName": "Ho Chi Minh",
-    "city": "Ho Chi Minh City",
-    "zip": "700000",
-    "lat": 10.822,
-    "lon": 106.6257,
-    "timezone": "Asia/Ho_Chi_Minh",
-    "isp": "FPT Telecom Company",
-    "org": "Vietnam Internet Network Information Center",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "113.22.108.29"
-  },
   "181.224.85.249": {
     "status": "success",
     "country": "Brazil",
@@ -590,53 +574,5 @@
     "org": "Vietnam Internet Network Information Center",
     "as": "AS18403 FPT Telecom Company",
     "query": "42.115.84.154"
-  },
-  "221.158.167.4": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "44",
-    "regionName": "Chungcheongnam-do",
-    "city": "Boryeong",
-    "zip": "334",
-    "lat": 36.352,
-    "lon": 126.6023,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Korea Telecom",
-    "as": "AS4766 Korea Telecom",
-    "query": "221.158.167.4"
-  },
-  "77.82.182.206": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KAM",
-    "regionName": "Kamchatka",
-    "city": "Petropavlovsk-Kamchatsky",
-    "zip": "683902",
-    "lat": 53.0716,
-    "lon": 158.627,
-    "timezone": "Asia/Kamchatka",
-    "isp": "OJSC Rostelecom",
-    "org": "Rostelecom",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "77.82.182.206"
-  },
-  "58.127.200.40": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Gimpo-si",
-    "zip": "101",
-    "lat": 37.6175,
-    "lon": 126.7196,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "58.127.200.40"
   }
 }
