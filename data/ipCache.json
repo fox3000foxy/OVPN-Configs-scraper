@@ -383,22 +383,6 @@
     "as": "AS7522 STNet, Incorporated",
     "query": "36.52.103.209"
   },
-  "59.16.219.106": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "28",
-    "regionName": "Incheon",
-    "city": "Bupyeong-gu",
-    "zip": "214",
-    "lat": 37.4902,
-    "lon": 126.7151,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "59.16.219.106"
-  },
   "60.91.86.245": {
     "status": "success",
     "country": "Japan",
@@ -463,22 +447,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "220.74.100.34"
   },
-  "183.82.24.19": {
-    "status": "success",
-    "country": "India",
-    "countryCode": "IN",
-    "region": "TN",
-    "regionName": "Tamil Nadu",
-    "city": "Chennai",
-    "zip": "600004",
-    "lat": 13.0895,
-    "lon": 80.2739,
-    "timezone": "Asia/Kolkata",
-    "isp": "Atria Convergence Technologies Pvt. Ltd.",
-    "org": "Atria Convergence Technologies Pvt Ltd",
-    "as": "AS24309 Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA",
-    "query": "183.82.24.19"
-  },
   "218.156.18.217": {
     "status": "success",
     "country": "South Korea",
@@ -510,6 +478,22 @@
     "org": "SK Broadband Co Ltd",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "211.204.251.153"
+  },
+  "59.29.151.252": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "42",
+    "regionName": "Gangwon-do",
+    "city": "Chuncheon",
+    "zip": "242",
+    "lat": 37.8897,
+    "lon": 127.736,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "59.29.151.252"
   },
   "222.113.209.84": {
     "status": "success",
@@ -606,5 +590,21 @@
     "org": "Rostelecom Nets",
     "as": "AS12389 PJSC Rostelecom",
     "query": "5.143.108.24"
+  },
+  "174.65.47.38": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA",
+    "regionName": "California",
+    "city": "San Diego",
+    "zip": "92102",
+    "lat": 32.7097,
+    "lon": -117.1228,
+    "timezone": "America/Los_Angeles",
+    "isp": "Cox Communications Inc.",
+    "org": "Cox Communications",
+    "as": "AS22773 Cox Communications Inc.",
+    "query": "174.65.47.38"
   }
 }
