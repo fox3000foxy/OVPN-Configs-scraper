@@ -575,6 +575,22 @@
     "as": "AS42038 Krivets Sergey Sergeevich",
     "query": "46.37.132.36"
   },
+  "124.53.122.40": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Ansan-si",
+    "zip": "15345",
+    "lat": 37.3253,
+    "lon": 126.8178,
+    "timezone": "Asia/Seoul",
+    "isp": "LG POWERCOMM",
+    "org": "Xpeed",
+    "as": "AS17858 LG POWERCOMM",
+    "query": "124.53.122.40"
+  },
   "174.65.47.38": {
     "status": "success",
     "country": "United States",
