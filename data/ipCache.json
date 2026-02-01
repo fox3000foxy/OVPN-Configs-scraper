@@ -143,22 +143,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.208"
   },
-  "126.130.164.3": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.130.164.3"
-  },
   "1.21.121.201": {
     "status": "success",
     "country": "Japan",
@@ -190,6 +174,22 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "221.151.151.230"
+  },
+  "118.240.68.160": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Kamikuratachō",
+    "zip": "244-0816",
+    "lat": 35.3973,
+    "lon": 139.5453,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "118.240.68.160"
   },
   "131.147.142.132": {
     "status": "success",
@@ -495,6 +495,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "125.137.243.222"
   },
+  "113.22.108.29": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "SG",
+    "regionName": "Ho Chi Minh",
+    "city": "Ho Chi Minh City",
+    "zip": "700000",
+    "lat": 10.822,
+    "lon": 106.6257,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "isp": "FPT Telecom Company",
+    "org": "Vietnam Internet Network Information Center",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "113.22.108.29"
+  },
   "219.126.126.150": {
     "status": "success",
     "country": "Japan",
@@ -574,5 +590,21 @@
     "org": "Rostelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "77.82.182.206"
+  },
+  "58.127.200.40": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Gimpo-si",
+    "zip": "101",
+    "lat": 37.6175,
+    "lon": 126.7196,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "58.127.200.40"
   }
 }
