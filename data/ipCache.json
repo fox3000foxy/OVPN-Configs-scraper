@@ -271,22 +271,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "222.109.124.1"
   },
-  "104.28.244.75": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "NVS",
-    "regionName": "Novosibirsk Oblast",
-    "city": "Novosibirsk",
-    "zip": "630000",
-    "lat": 55.0386,
-    "lon": 82.9425,
-    "timezone": "Asia/Novosibirsk",
-    "isp": "Cloudflare, Inc.",
-    "org": "Cloudflare WARP",
-    "as": "AS13335 Cloudflare, Inc.",
-    "query": "104.28.244.75"
-  },
   "211.205.56.227": {
     "status": "success",
     "country": "South Korea",
@@ -702,5 +686,21 @@
     "org": "Tinet Inform network",
     "as": "AS49350 MTS PJSC",
     "query": "178.218.98.2"
+  },
+  "211.197.16.167": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Gwanak-gu",
+    "zip": "087",
+    "lat": 37.4873,
+    "lon": 126.9227,
+    "timezone": "Asia/Seoul",
+    "isp": "KORNET",
+    "org": "hongseongo",
+    "as": "AS4766 Korea Telecom",
+    "query": "211.197.16.167"
   }
 }
