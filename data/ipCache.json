@@ -111,22 +111,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.109"
   },
-  "124.255.80.220": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "23",
-    "regionName": "Aichi",
-    "city": "Nagoya",
-    "zip": "461-0001",
-    "lat": 35.1796,
-    "lon": 136.9166,
-    "timezone": "Asia/Tokyo",
-    "isp": "FreeBit Co., Ltd.",
-    "org": "FreeBit Co., Ltd.",
-    "as": "AS10013 FreeBit Co.,Ltd.",
-    "query": "124.255.80.220"
-  },
   "1.21.121.201": {
     "status": "success",
     "country": "Japan",
@@ -319,6 +303,22 @@
     "as": "AS4685 Asahi Net",
     "query": "118.243.130.61"
   },
+  "218.223.224.245": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "34",
+    "regionName": "Hiroshima",
+    "city": "Hiroshima",
+    "zip": "730-0841",
+    "lat": 34.3895,
+    "lon": 132.4527,
+    "timezone": "Asia/Tokyo",
+    "isp": "Chupicom Inc.",
+    "org": "Japan Network Information Center",
+    "as": "AS18283 Chupicom Inc.",
+    "query": "218.223.224.245"
+  },
   "60.153.147.72": {
     "status": "success",
     "country": "Japan",
@@ -463,22 +463,6 @@
     "as": "AS35000 JSC Severen-Telecom",
     "query": "188.227.9.130"
   },
-  "37.21.144.175": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "TOM",
-    "regionName": "Tomsk Oblast",
-    "city": "Tomsk",
-    "zip": "634009",
-    "lat": 56.4957,
-    "lon": 84.9636,
-    "timezone": "Asia/Tomsk",
-    "isp": "JSC Rostelecom regional branch \"Siberia\"",
-    "org": "JSC Rostelecom regional branch Siberia",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "37.21.144.175"
-  },
   "159.26.119.228": {
     "status": "success",
     "country": "Japan",
@@ -495,21 +479,21 @@
     "as": "AS208172 Proton AG",
     "query": "159.26.119.228"
   },
-  "211.219.73.150": {
+  "49.142.98.219": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
     "region": "11",
     "regionName": "Seoul",
-    "city": "Gangnam-gu",
-    "zip": "062",
-    "lat": 37.4909,
-    "lon": 127.0452,
+    "city": "Gwanak-gu",
+    "zip": "087",
+    "lat": 37.4873,
+    "lon": 126.9227,
     "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "KORNET",
-    "as": "AS4766 Korea Telecom",
-    "query": "211.219.73.150"
+    "isp": "kt HCN Co., Ltd.",
+    "org": "HCN",
+    "as": "AS9762 kt HCN Co.,Ltd.",
+    "query": "49.142.98.219"
   },
   "128.134.86.61": {
     "status": "success",
@@ -527,38 +511,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "128.134.86.61"
   },
-  "150.31.45.162": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6906,
-    "lon": 139.77,
-    "timezone": "Asia/Tokyo",
-    "isp": "Internet Initiative Japan Inc.",
-    "org": "IIJ Internet",
-    "as": "AS2497 Internet Initiative Japan Inc.",
-    "query": "150.31.45.162"
-  },
-  "14.41.72.173": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "42",
-    "regionName": "Gangwon-do",
-    "city": "Hongch'on",
-    "zip": "251",
-    "lat": 37.6874,
-    "lon": 127.8782,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "14.41.72.173"
-  },
   "116.34.216.160": {
     "status": "success",
     "country": "South Korea",
@@ -575,21 +527,21 @@
     "as": "AS17858 LG POWERCOMM",
     "query": "116.34.216.160"
   },
-  "219.241.27.76": {
+  "88.206.10.129": {
     "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Suwon",
-    "zip": "166",
-    "lat": 37.2506,
-    "lon": 127.0668,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "219.241.27.76"
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "CHE",
+    "regionName": "Chelyabinsk Oblast",
+    "city": "Chelyabinsk",
+    "zip": "454000",
+    "lat": 55.1586,
+    "lon": 61.4296,
+    "timezone": "Asia/Yekaterinburg",
+    "isp": "Intersvyaz-2 JSC",
+    "org": "",
+    "as": "AS8369 Intersvyaz-2 JSC",
+    "query": "88.206.10.129"
   },
   "94.51.221.124": {
     "status": "success",
