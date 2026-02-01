@@ -127,6 +127,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "59.7.207.18"
   },
+  "211.198.67.197": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Suwon",
+    "zip": "163",
+    "lat": 37.2905,
+    "lon": 126.9877,
+    "timezone": "Asia/Seoul",
+    "isp": "KORNET",
+    "org": "jinuapateu",
+    "as": "AS4766 Korea Telecom",
+    "query": "211.198.67.197"
+  },
   "183.99.115.65": {
     "status": "success",
     "country": "South Korea",
@@ -238,22 +254,6 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.50"
-  },
-  "211.198.67.197": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Suwon",
-    "zip": "163",
-    "lat": 37.2905,
-    "lon": 126.9877,
-    "timezone": "Asia/Seoul",
-    "isp": "KORNET",
-    "org": "jinuapateu",
-    "as": "AS4766 Korea Telecom",
-    "query": "211.198.67.197"
   },
   "122.223.24.93": {
     "status": "success",
@@ -367,21 +367,21 @@
     "as": "AS9617 JCOM Co., Ltd.",
     "query": "219.115.166.66"
   },
-  "124.142.158.235": {
+  "210.194.10.105": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
     "region": "14",
     "regionName": "Kanagawa",
-    "city": "Nishichō",
-    "zip": "235-0001",
-    "lat": 35.4247,
-    "lon": 139.6239,
+    "city": "Yokosuka",
+    "zip": "238-0031",
+    "lat": 35.2672,
+    "lon": 139.6386,
     "timezone": "Asia/Tokyo",
     "isp": "JCOM Co., Ltd.",
     "org": "Jupiter Telecommunication Co. Ltd",
     "as": "AS9824 JCOM Co., Ltd.",
-    "query": "124.142.158.235"
+    "query": "210.194.10.105"
   },
   "112.70.217.5": {
     "status": "success",
@@ -527,22 +527,6 @@
     "as": "AS3786 LG DACOM Corporation",
     "query": "112.218.21.132"
   },
-  "112.160.139.229": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "48",
-    "regionName": "Gyeongsangnam-do",
-    "city": "Changwon",
-    "zip": "511",
-    "lat": 35.2733,
-    "lon": 128.653,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Busanbonbu(saeop)",
-    "as": "AS4766 Korea Telecom",
-    "query": "112.160.139.229"
-  },
   "61.255.91.50": {
     "status": "success",
     "country": "South Korea",
@@ -590,22 +574,6 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "114.201.3.61"
-  },
-  "222.236.114.192": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "28",
-    "regionName": "Incheon",
-    "city": "Incheon",
-    "zip": "221",
-    "lat": 37.4723,
-    "lon": 126.6594,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "SK Broadband Co Ltd",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "222.236.114.192"
   },
   "116.46.241.88": {
     "status": "success",
@@ -670,6 +638,22 @@
     "org": "Dlive",
     "as": "AS10036 DLIVE",
     "query": "182.172.122.57"
+  },
+  "176.211.236.43": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "NVS",
+    "regionName": "Novosibirsk Oblast",
+    "city": "Novosibirsk",
+    "zip": "630075",
+    "lat": 55.0285,
+    "lon": 82.9202,
+    "timezone": "Asia/Novosibirsk",
+    "isp": "JSC Rostelecom regional branch \"Siberia\"",
+    "org": "JSC Rostelecom regional branch Siberia",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "176.211.236.43"
   },
   "5.143.98.209": {
     "status": "success",
