@@ -335,21 +335,21 @@
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "119.173.41.163"
   },
-  "202.91.63.251": {
+  "61.206.207.159": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "33",
-    "regionName": "Okayama",
-    "city": "Tsuyama",
-    "zip": "708-0861",
-    "lat": 35.0548,
-    "lon": 134.0209,
+    "region": "24",
+    "regionName": "Mie",
+    "city": "Kumano",
+    "zip": "519-4321",
+    "lat": 33.9014,
+    "lon": 136.1236,
     "timezone": "Asia/Tokyo",
-    "isp": "Kurashiki Cable TV",
-    "org": "Kurashiki Cable TV Corporation",
-    "as": "AS9622 Kurashiki Cable TV",
-    "query": "202.91.63.251"
+    "isp": "ZTV CO., LTD",
+    "org": "ZTV",
+    "as": "AS9351 ZTV CO.,LTD",
+    "query": "61.206.207.159"
   },
   "115.94.203.131": {
     "status": "success",
