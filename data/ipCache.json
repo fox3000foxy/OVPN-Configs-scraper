@@ -367,6 +367,22 @@
     "as": "AS8416 InfoLada Ltd",
     "query": "178.163.69.1"
   },
+  "77.34.167.20": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Vladivostok",
+    "zip": "690001",
+    "lat": 43.1068,
+    "lon": 131.8692,
+    "timezone": "Asia/Vladivostok",
+    "isp": "Rostelecom networks",
+    "org": "",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "77.34.167.20"
+  },
   "219.100.37.50": {
     "status": "success",
     "country": "Japan",
@@ -559,6 +575,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.140.51.111"
   },
+  "60.149.114.11": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.149.114.11"
+  },
   "125.133.161.106": {
     "status": "success",
     "country": "South Korea",
@@ -670,21 +702,5 @@
     "org": "Tinet Inform network",
     "as": "AS49350 MTS PJSC",
     "query": "178.218.98.2"
-  },
-  "211.197.16.167": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Gwanak-gu",
-    "zip": "087",
-    "lat": 37.4873,
-    "lon": 126.9227,
-    "timezone": "Asia/Seoul",
-    "isp": "KORNET",
-    "org": "hongseongo",
-    "as": "AS4766 Korea Telecom",
-    "query": "211.197.16.167"
   }
 }
