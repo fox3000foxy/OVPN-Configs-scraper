@@ -367,22 +367,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "220.57.84.30"
   },
-  "122.254.148.83": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "26",
-    "regionName": "Busan",
-    "city": "Seo-gu",
-    "zip": "492",
-    "lat": 35.1231,
-    "lon": 129.0184,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "TBROAD NakdongDongnamSeobusan",
-    "as": "AS17857 SK Broadband Co Ltd",
-    "query": "122.254.148.83"
-  },
   "126.159.87.12": {
     "status": "success",
     "country": "Japan",
@@ -543,21 +527,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.174.164.231"
   },
-  "60.149.114.11": {
+  "181.94.226.73": {
     "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan Nation-wide Network of Softbank Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "60.149.114.11"
+    "country": "Paraguay",
+    "countryCode": "PY",
+    "region": "ASU",
+    "regionName": "Asunción",
+    "city": "Asunción",
+    "zip": "",
+    "lat": -25.2869,
+    "lon": -57.6511,
+    "timezone": "America/Asuncion",
+    "isp": "Núcleo S.A.",
+    "org": "Telecom Personal Bs",
+    "as": "AS27895 Núcleo S.A.",
+    "query": "181.94.226.73"
   },
   "182.237.221.37": {
     "status": "success",
@@ -574,22 +558,6 @@
     "org": "Kumgang Jungbotongsin(Gunsan)",
     "as": "AS17583 Keumgang Cable Network",
     "query": "182.237.221.37"
-  },
-  "181.94.226.73": {
-    "status": "success",
-    "country": "Paraguay",
-    "countryCode": "PY",
-    "region": "ASU",
-    "regionName": "Asunción",
-    "city": "Asunción",
-    "zip": "",
-    "lat": -25.2869,
-    "lon": -57.6511,
-    "timezone": "America/Asuncion",
-    "isp": "Núcleo S.A.",
-    "org": "Telecom Personal Bs",
-    "as": "AS27895 Núcleo S.A.",
-    "query": "181.94.226.73"
   },
   "115.23.64.27": {
     "status": "success",
@@ -655,22 +623,6 @@
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "119.171.172.103"
   },
-  "178.218.98.2": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KHA",
-    "regionName": "Khabarovsk",
-    "city": "Komsomolsk-on-Amur",
-    "zip": "681000",
-    "lat": 50.5467,
-    "lon": 137.0144,
-    "timezone": "Asia/Vladivostok",
-    "isp": "MTS PJSC",
-    "org": "Tinet Inform network",
-    "as": "AS49350 MTS PJSC",
-    "query": "178.218.98.2"
-  },
   "5.143.50.143": {
     "status": "success",
     "country": "Russia",
@@ -718,5 +670,21 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "59.28.247.22"
+  },
+  "60.73.70.60": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.73.70.60"
   }
 }
