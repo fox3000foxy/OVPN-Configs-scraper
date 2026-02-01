@@ -367,6 +367,22 @@
     "as": "AS17506 ARTERIA Networks Corporation",
     "query": "122.208.249.174"
   },
+  "60.153.147.72": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.153.147.72"
+  },
   "150.31.45.162": {
     "status": "success",
     "country": "Japan",
@@ -543,6 +559,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.154.104.189"
   },
+  "39.126.152.48": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Yongsan-dong",
+    "zip": "06641",
+    "lat": 37.4833,
+    "lon": 127.008,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "",
+    "as": "AS23584 PUSAN CABLE TV SYSTEM CO., LTD.",
+    "query": "39.126.152.48"
+  },
   "42.115.84.154": {
     "status": "success",
     "country": "Vietnam",
@@ -574,37 +606,5 @@
     "org": "Korea Telecom",
     "as": "AS4766 Korea Telecom",
     "query": "221.158.167.4"
-  },
-  "77.82.182.206": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KAM",
-    "regionName": "Kamchatka",
-    "city": "Petropavlovsk-Kamchatsky",
-    "zip": "683902",
-    "lat": 53.0716,
-    "lon": 158.627,
-    "timezone": "Asia/Kamchatka",
-    "isp": "OJSC Rostelecom",
-    "org": "Rostelecom",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "77.82.182.206"
-  },
-  "58.127.200.40": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Gimpo-si",
-    "zip": "101",
-    "lat": 37.6175,
-    "lon": 126.7196,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "58.127.200.40"
   }
 }
