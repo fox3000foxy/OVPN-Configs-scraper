@@ -175,6 +175,22 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.130.164.3"
   },
+  "111.238.189.171": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tagara",
+    "zip": "179-0071",
+    "lat": 35.7681,
+    "lon": 139.6258,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "111.238.189.171"
+  },
   "1.21.121.201": {
     "status": "success",
     "country": "Japan",
@@ -383,22 +399,6 @@
     "as": "AS2497 Internet Initiative Japan Inc.",
     "query": "150.31.45.162"
   },
-  "138.64.70.87": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Gohongi",
-    "zip": "153-0051",
-    "lat": 35.6383,
-    "lon": 139.6937,
-    "timezone": "Asia/Tokyo",
-    "isp": "ASAHI Net, Inc.",
-    "org": "ASAHI",
-    "as": "AS4685 Asahi Net",
-    "query": "138.64.70.87"
-  },
   "121.148.48.93": {
     "status": "success",
     "country": "South Korea",
@@ -527,22 +527,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.154.104.189"
   },
-  "42.115.84.154": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "39",
-    "regionName": "Đồng Nai Province",
-    "city": "Biên Hòa",
-    "zip": "810000",
-    "lat": 10.9413,
-    "lon": 106.8221,
-    "timezone": "Asia/Ho_Chi_Minh",
-    "isp": "FPT Telecom Company",
-    "org": "Vietnam Internet Network Information Center",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "42.115.84.154"
-  },
   "221.158.167.4": {
     "status": "success",
     "country": "South Korea",
@@ -606,21 +590,5 @@
     "org": "Rostelecom Nets",
     "as": "AS12389 PJSC Rostelecom",
     "query": "5.143.108.24"
-  },
-  "213.129.48.16": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "SA",
-    "regionName": "Sakha",
-    "city": "Yakutsk",
-    "zip": "677000",
-    "lat": 62.0313,
-    "lon": 129.7325,
-    "timezone": "Asia/Yakutsk",
-    "isp": "Sakhatelecom",
-    "org": "",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "213.129.48.16"
   }
 }
