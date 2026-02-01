@@ -319,22 +319,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "121.3.217.251"
   },
-  "119.47.102.55": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "33",
-    "regionName": "Okayama",
-    "city": "Okayama",
-    "zip": "700-0831",
-    "lat": 34.6591,
-    "lon": 133.9337,
-    "timezone": "Asia/Tokyo",
-    "isp": "Okayama Network Inc.",
-    "org": "Okayama Network Inc.",
-    "as": "AS18129 OKAYAMA NETWORK INC.",
-    "query": "119.47.102.55"
-  },
   "121.174.247.158": {
     "status": "success",
     "country": "South Korea",
