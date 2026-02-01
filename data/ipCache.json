@@ -175,22 +175,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.95.76.42"
   },
-  "92.202.199.250": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0071",
-    "lat": 35.6837,
-    "lon": 139.6805,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "92.202.199.250"
-  },
   "118.104.168.55": {
     "status": "success",
     "country": "Japan",
@@ -207,37 +191,21 @@
     "as": "AS18126 Chubu Telecommunications Company, Inc.",
     "query": "118.104.168.55"
   },
-  "220.150.148.16": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "08",
-    "regionName": "Ibaraki",
-    "city": "Tsukuba",
-    "zip": "305-0021",
-    "lat": 36.096,
-    "lon": 140.1503,
-    "timezone": "Asia/Tokyo",
-    "isp": "ASAHI Net, Inc.",
-    "org": "ASAHI",
-    "as": "AS4685 Asahi Net",
-    "query": "220.150.148.16"
-  },
-  "126.88.128.168": {
+  "92.202.199.250": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
     "region": "13",
     "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
+    "city": "Tokyo",
+    "zip": "151-0071",
+    "lat": 35.6837,
+    "lon": 139.6805,
     "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.88.128.168"
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "92.202.199.250"
   },
   "118.157.139.36": {
     "status": "success",
@@ -254,6 +222,22 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "118.157.139.36"
+  },
+  "126.88.128.168": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.88.128.168"
   },
   "118.41.236.148": {
     "status": "success",
@@ -286,6 +270,22 @@
     "org": "Korea Telecom",
     "as": "AS4766 Korea Telecom",
     "query": "222.109.124.1"
+  },
+  "104.28.244.75": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "NVS",
+    "regionName": "Novosibirsk Oblast",
+    "city": "Novosibirsk",
+    "zip": "630000",
+    "lat": 55.0386,
+    "lon": 82.9425,
+    "timezone": "Asia/Novosibirsk",
+    "isp": "Cloudflare, Inc.",
+    "org": "Cloudflare WARP",
+    "as": "AS13335 Cloudflare, Inc.",
+    "query": "104.28.244.75"
   },
   "211.205.56.227": {
     "status": "success",
@@ -335,6 +335,22 @@
     "as": "AS38074 SDCC Japan-West Area",
     "query": "103.152.178.62"
   },
+  "178.163.69.1": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "SAM",
+    "regionName": "Samara Oblast",
+    "city": "Tolyatti",
+    "zip": "445008",
+    "lat": 53.5323,
+    "lon": 49.3435,
+    "timezone": "Europe/Samara",
+    "isp": "Infoline networks",
+    "org": "Infoline Ltd.",
+    "as": "AS8416 InfoLada Ltd",
+    "query": "178.163.69.1"
+  },
   "1.66.34.134": {
     "status": "success",
     "country": "Japan",
@@ -351,21 +367,21 @@
     "as": "AS9605 NTT DOCOMO, INC.",
     "query": "1.66.34.134"
   },
-  "178.163.69.1": {
+  "219.100.37.102": {
     "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "SAM",
-    "regionName": "Samara Oblast",
-    "city": "Tolyatti",
-    "zip": "445008",
-    "lat": 53.5323,
-    "lon": 49.3435,
-    "timezone": "Europe/Samara",
-    "isp": "Infoline networks",
-    "org": "Infoline Ltd.",
-    "as": "AS8416 InfoLada Ltd",
-    "query": "178.163.69.1"
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftEther",
+    "org": "SoftEther Corporation",
+    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
+    "query": "219.100.37.102"
   },
   "77.34.167.20": {
     "status": "success",
@@ -511,38 +527,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "39.119.183.162"
   },
-  "61.254.116.94": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Gangseo-gu",
-    "zip": "076",
-    "lat": 37.5438,
-    "lon": 126.8538,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "61.254.116.94"
-  },
-  "180.65.104.204": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "29",
-    "regionName": "Gwangju",
-    "city": "Gwangsan-gu",
-    "zip": "622",
-    "lat": 35.2119,
-    "lon": 126.8545,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "180.65.104.204"
-  },
   "112.149.208.200": {
     "status": "success",
     "country": "South Korea",
@@ -638,6 +622,22 @@
     "org": "Kumgang Jungbotongsin(Gunsan)",
     "as": "AS17583 Keumgang Cable Network",
     "query": "182.237.221.37"
+  },
+  "219.240.68.241": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Gangdong-gu",
+    "zip": "052",
+    "lat": 37.5554,
+    "lon": 127.1515,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "SK Broadband Co Ltd",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "219.240.68.241"
   },
   "188.17.177.245": {
     "status": "success",
