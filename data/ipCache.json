@@ -463,6 +463,22 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "92.203.159.128"
   },
+  "59.16.219.106": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "28",
+    "regionName": "Incheon",
+    "city": "Bupyeong-gu",
+    "zip": "214",
+    "lat": 37.4902,
+    "lon": 126.7151,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "59.16.219.106"
+  },
   "122.47.245.200": {
     "status": "success",
     "country": "South Korea",
