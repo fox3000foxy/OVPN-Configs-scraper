@@ -143,22 +143,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.204"
   },
-  "60.108.146.236": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan Nation-wide Network of Softbank Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "60.108.146.236"
-  },
   "49.174.10.156": {
     "status": "success",
     "country": "South Korea",
@@ -287,6 +271,22 @@
     "as": "AS133481 AIS Fibre",
     "query": "58.136.165.59"
   },
+  "117.109.114.71": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "29",
+    "regionName": "Nara",
+    "city": "Sakurai",
+    "zip": "633-8501",
+    "lat": 34.5018,
+    "lon": 135.8553,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kintetsu Cable Network Co., Ltd.",
+    "org": "Kintetsu Cable Network, Ltd",
+    "as": "AS18081 Kintetsu Cable Network Co., Ltd.",
+    "query": "117.109.114.71"
+  },
   "106.165.34.211": {
     "status": "success",
     "country": "Japan",
@@ -351,6 +351,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.174.247.158"
   },
+  "42.112.13.234": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "HN",
+    "regionName": "Hanoi",
+    "city": "Hanoi",
+    "zip": "100000",
+    "lat": 21.0184,
+    "lon": 105.8461,
+    "timezone": "Asia/Bangkok",
+    "isp": "Vietnam Internet Network Information Center",
+    "org": "",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "42.112.13.234"
+  },
   "126.221.40.75": {
     "status": "success",
     "country": "Japan",
@@ -382,22 +398,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "59.22.22.3"
-  },
-  "126.110.43.151": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.110.43.151"
   },
   "188.186.186.127": {
     "status": "success",
@@ -463,22 +463,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "59.16.219.106"
   },
-  "119.173.41.25": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Komone",
-    "zip": "173-0031",
-    "lat": 35.7458,
-    "lon": 139.6911,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM Co., Ltd.",
-    "org": "JCOM Co., Ltd",
-    "as": "AS9824 JCOM Co., Ltd.",
-    "query": "119.173.41.25"
-  },
   "122.47.245.200": {
     "status": "success",
     "country": "South Korea",
@@ -494,6 +478,22 @@
     "org": "Xpeed",
     "as": "AS17858 LG POWERCOMM",
     "query": "122.47.245.200"
+  },
+  "119.173.41.25": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Komone",
+    "zip": "173-0031",
+    "lat": 35.7458,
+    "lon": 139.6911,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM Co., Ltd.",
+    "org": "JCOM Co., Ltd",
+    "as": "AS9824 JCOM Co., Ltd.",
+    "query": "119.173.41.25"
   },
   "119.175.4.233": {
     "status": "success",
@@ -526,22 +526,6 @@
     "org": "",
     "as": "AS25591 BCLan LLC",
     "query": "217.175.14.88"
-  },
-  "42.112.66.22": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "SG",
-    "regionName": "Ho Chi Minh",
-    "city": "Ho Chi Minh City",
-    "zip": "700000",
-    "lat": 10.822,
-    "lon": 106.6257,
-    "timezone": "Asia/Ho_Chi_Minh",
-    "isp": "Vietnam Internet Network Information Center",
-    "org": "",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "42.112.66.22"
   },
   "112.185.17.25": {
     "status": "success",
@@ -606,5 +590,21 @@
     "org": "CJSC Transtelecom-DV",
     "as": "AS20485 Joint Stock Company TransTeleCom",
     "query": "46.38.21.158"
+  },
+  "68.147.134.46": {
+    "status": "success",
+    "country": "Canada",
+    "countryCode": "CA",
+    "region": "AB",
+    "regionName": "Alberta",
+    "city": "Calgary",
+    "zip": "T3M",
+    "lat": 50.8805,
+    "lon": -113.9523,
+    "timezone": "America/Edmonton",
+    "isp": "Shaw Communications",
+    "org": "Shaw Communications Inc.",
+    "as": "AS6327 Shaw Communications",
+    "query": "68.147.134.46"
   }
 }
