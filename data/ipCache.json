@@ -127,22 +127,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.208"
   },
-  "221.167.26.145": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "48",
-    "regionName": "Gyeongsangnam-do",
-    "city": "Changwon",
-    "zip": "515",
-    "lat": 35.2103,
-    "lon": 128.6712,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "221.167.26.145"
-  },
   "153.218.43.203": {
     "status": "success",
     "country": "Japan",
@@ -223,6 +207,22 @@
     "as": "AS2497 Internet Initiative Japan Inc.",
     "query": "101.128.133.100"
   },
+  "103.152.178.62": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-0001",
+    "lat": 35.694,
+    "lon": 139.754,
+    "timezone": "Asia/Tokyo",
+    "isp": "Ayao Takata",
+    "org": "SDCC-East01",
+    "as": "AS38074 SDCC Japan-West Area",
+    "query": "103.152.178.62"
+  },
   "219.100.37.50": {
     "status": "success",
     "country": "Japan",
@@ -286,6 +286,22 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "61.83.2.222"
+  },
+  "210.178.48.72": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Namyangju",
+    "zip": "122",
+    "lat": 37.6224,
+    "lon": 127.1502,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "210.178.48.72"
   },
   "126.74.193.170": {
     "status": "success",
@@ -527,6 +543,22 @@
     "as": "AS28840 PJSC \"TATTELECOM\"",
     "query": "178.206.45.221"
   },
+  "114.201.3.61": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Dongjak-gu",
+    "zip": "069",
+    "lat": 37.5003,
+    "lon": 126.9565,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "114.201.3.61"
+  },
   "116.46.241.88": {
     "status": "success",
     "country": "South Korea",
@@ -591,22 +623,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "178.64.115.194"
   },
-  "87.225.11.225": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KHA",
-    "regionName": "Khabarovsk",
-    "city": "Khabarovsk",
-    "zip": "680000",
-    "lat": 48.4817,
-    "lon": 135.083,
-    "timezone": "Asia/Vladivostok",
-    "isp": "Rostelecom networks",
-    "org": "",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "87.225.11.225"
-  },
   "169.150.209.166": {
     "status": "success",
     "country": "Germany",
@@ -639,22 +655,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "77.35.39.46"
   },
-  "37.143.108.41": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "TOM",
-    "regionName": "Tomsk Oblast",
-    "city": "Strezhevoy",
-    "zip": "636780",
-    "lat": 60.7232,
-    "lon": 77.596,
-    "timezone": "Asia/Tomsk",
-    "isp": "Metroset Ltd",
-    "org": "Metroset Ltd.",
-    "as": "AS50923 Metroset Ltd.",
-    "query": "37.143.108.41"
-  },
   "115.163.249.47": {
     "status": "success",
     "country": "Japan",
@@ -670,37 +670,5 @@
     "org": "Sony Network Communications Inc.",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "115.163.249.47"
-  },
-  "58.123.5.19": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Gwanak-gu",
-    "zip": "087",
-    "lat": 37.4873,
-    "lon": 126.9227,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "SK Broadband Co Ltd",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "58.123.5.19"
-  },
-  "211.238.145.82": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Seoul",
-    "zip": "04524",
-    "lat": 37.5658,
-    "lon": 126.978,
-    "timezone": "Asia/Seoul",
-    "isp": "Duruan",
-    "org": "PNCWORLD",
-    "as": "AS38661 abcle",
-    "query": "211.238.145.82"
   }
 }
