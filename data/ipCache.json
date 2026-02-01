@@ -175,6 +175,22 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.241.23.14"
   },
+  "220.212.128.195": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "ULTINA",
+    "as": "AS4725 SoftBank Corp.",
+    "query": "220.212.128.195"
+  },
   "115.78.10.208": {
     "status": "success",
     "country": "Vietnam",
@@ -302,22 +318,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "175.194.115.126"
-  },
-  "138.64.235.57": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Osaka",
-    "zip": "530-0041",
-    "lat": 34.6967,
-    "lon": 135.5154,
-    "timezone": "Asia/Tokyo",
-    "isp": "ASAHI Net, Inc.",
-    "org": "ASAHI",
-    "as": "AS4685 Asahi Net",
-    "query": "138.64.235.57"
   },
   "153.208.166.207": {
     "status": "success",
@@ -462,22 +462,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "220.74.100.34"
-  },
-  "122.203.244.115": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Seongdong-gu",
-    "zip": "047",
-    "lat": 37.5511,
-    "lon": 127.0387,
-    "timezone": "Asia/Seoul",
-    "isp": "DACOM-PUBNETPLUS",
-    "org": "Pubnetplus",
-    "as": "AS9316 DACOM-PUBNETPLUS",
-    "query": "122.203.244.115"
   },
   "183.82.24.19": {
     "status": "success",
