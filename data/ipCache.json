@@ -111,6 +111,22 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "118.241.184.72"
   },
+  "119.196.49.82": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Gwanak-gu",
+    "zip": "087",
+    "lat": 37.4873,
+    "lon": 126.9227,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Sudogwonseobubonbu",
+    "as": "AS4766 Korea Telecom",
+    "query": "119.196.49.82"
+  },
   "59.7.207.18": {
     "status": "success",
     "country": "South Korea",
@@ -158,22 +174,6 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "183.99.115.65"
-  },
-  "211.184.24.38": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Suwon",
-    "zip": "164",
-    "lat": 37.2872,
-    "lon": 127.0116,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "211.184.24.38"
   },
   "185.124.155.182": {
     "status": "success",
@@ -575,6 +575,22 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "114.201.3.61"
   },
+  "122.32.78.34": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Gangseo-gu",
+    "zip": "075",
+    "lat": 37.5699,
+    "lon": 126.853,
+    "timezone": "Asia/Seoul",
+    "isp": "LG POWERCOMM",
+    "org": "Xpeed",
+    "as": "AS17858 LG POWERCOMM",
+    "query": "122.32.78.34"
+  },
   "116.46.241.88": {
     "status": "success",
     "country": "South Korea",
@@ -590,22 +606,6 @@
     "org": "Xpeed",
     "as": "AS17858 LG POWERCOMM",
     "query": "116.46.241.88"
-  },
-  "58.226.80.192": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Geumcheon-gu",
-    "zip": "085",
-    "lat": 37.4784,
-    "lon": 126.8982,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "58.226.80.192"
   },
   "78.81.151.232": {
     "status": "success",
@@ -686,37 +686,5 @@
     "org": "MTT Connect Ltd.",
     "as": "AS38917 INTERCOMTEL Limited Company",
     "query": "176.110.201.77"
-  },
-  "46.38.10.103": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KYA",
-    "regionName": "Krasnoyarsk Krai",
-    "city": "Krasnoyarsk",
-    "zip": "660000",
-    "lat": 56.0153,
-    "lon": 92.8932,
-    "timezone": "Asia/Krasnoyarsk",
-    "isp": "CJSC \"Transtelecom-DV\"",
-    "org": "CJSC Transtelecom-DV",
-    "as": "AS20485 Joint Stock Company TransTeleCom",
-    "query": "46.38.10.103"
-  },
-  "118.87.241.101": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Adachi",
-    "zip": "120-0000",
-    "lat": 35.7747,
-    "lon": 139.7989,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM",
-    "org": "Jupiter Telecommunications Co., Ltd.",
-    "as": "AS4721 JCOM Co., Ltd.",
-    "query": "118.87.241.101"
   }
 }
