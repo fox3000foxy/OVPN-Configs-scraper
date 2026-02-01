@@ -111,6 +111,22 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "118.241.184.72"
   },
+  "153.218.43.203": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "05",
+    "regionName": "Akita",
+    "city": "Akita",
+    "zip": "010-0021",
+    "lat": 39.7046,
+    "lon": 140.1289,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "Open Computer Network",
+    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
+    "query": "153.218.43.203"
+  },
   "59.7.207.18": {
     "status": "success",
     "country": "South Korea",
@@ -399,7 +415,39 @@
     "as": "AS24955 JSC Ufanet",
     "query": "94.41.223.139"
   },
-  "126.55.230.169": {
+  "60.80.243.29": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "08",
+    "regionName": "Ibaraki",
+    "city": "Koga",
+    "zip": "306-0016",
+    "lat": 36.1833,
+    "lon": 139.717,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.80.243.29"
+  },
+  "118.70.67.121": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "20",
+    "regionName": "Thái Bình Province",
+    "city": "Hạ Dồng",
+    "zip": "125000",
+    "lat": 20.5352,
+    "lon": 106.4949,
+    "timezone": "Asia/Bangkok",
+    "isp": "Vietnam Internet Network Information Center",
+    "org": "",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "118.70.67.121"
+  },
+  "126.21.26.64": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
@@ -413,23 +461,7 @@
     "isp": "SoftBank Corp.",
     "org": "SOFTBANK Corp",
     "as": "AS17676 SoftBank Corp.",
-    "query": "126.55.230.169"
-  },
-  "39.3.76.76": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "104-0045",
-    "lat": 35.663,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SoftBank Corp.",
-    "as": "AS4725 SoftBank Corp.",
-    "query": "39.3.76.76"
+    "query": "126.21.26.64"
   },
   "112.218.21.132": {
     "status": "success",
@@ -638,5 +670,53 @@
     "org": "Dlive",
     "as": "AS10036 DLIVE",
     "query": "182.172.122.57"
+  },
+  "37.140.24.30": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "CHE",
+    "regionName": "Chelyabinsk Oblast",
+    "city": "Magnitogorsk",
+    "zip": "455000",
+    "lat": 53.3981,
+    "lon": 59.0066,
+    "timezone": "Asia/Yekaterinburg",
+    "isp": "Intersvyaz-2 JSC",
+    "org": "",
+    "as": "AS8369 Intersvyaz-2 JSC",
+    "query": "37.140.24.30"
+  },
+  "86.102.34.158": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Vladivostok",
+    "zip": "690014",
+    "lat": 43.123,
+    "lon": 131.888,
+    "timezone": "Asia/Vladivostok",
+    "isp": "Rostelecom networks",
+    "org": "",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "86.102.34.158"
+  },
+  "5.143.98.209": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Vladivostok",
+    "zip": "690001",
+    "lat": 43.1068,
+    "lon": 131.8692,
+    "timezone": "Asia/Vladivostok",
+    "isp": "PJSC Rostelecom",
+    "org": "PJSC Rostelecom Far East Region",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "5.143.98.209"
   }
 }
