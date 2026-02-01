@@ -463,22 +463,6 @@
     "as": "AS42772 Unitary enterprise A1",
     "query": "151.249.167.36"
   },
-  "94.60.118.99": {
-    "status": "success",
-    "country": "Portugal",
-    "countryCode": "PT",
-    "region": "13",
-    "regionName": "Porto",
-    "city": "Porto",
-    "zip": "4000-001",
-    "lat": 41.1459,
-    "lon": -8.6169,
-    "timezone": "Europe/Lisbon",
-    "isp": "Vodafone Portugal",
-    "org": "Vodafone Telecel, Comunicacoes Pessoais, SA",
-    "as": "AS12353 Vodafone Portugal",
-    "query": "94.60.118.99"
-  },
   "185.190.42.79": {
     "status": "success",
     "country": "Russia",
@@ -526,6 +510,22 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "114.207.197.5"
+  },
+  "46.249.31.118": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "MOS",
+    "regionName": "Moscow Oblast",
+    "city": "Podolsk",
+    "zip": "142108",
+    "lat": 55.4198,
+    "lon": 37.5599,
+    "timezone": "Europe/Moscow",
+    "isp": "Quartz Telecom",
+    "org": "",
+    "as": "AS50009 QUARTZ TELECOM LLC",
+    "query": "46.249.31.118"
   },
   "116.82.48.160": {
     "status": "success",
