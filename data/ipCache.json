@@ -335,21 +335,21 @@
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "119.173.41.163"
   },
-  "61.206.207.159": {
+  "202.91.63.251": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "24",
-    "regionName": "Mie",
-    "city": "Kumano",
-    "zip": "519-4321",
-    "lat": 33.9014,
-    "lon": 136.1236,
+    "region": "33",
+    "regionName": "Okayama",
+    "city": "Tsuyama",
+    "zip": "708-0861",
+    "lat": 35.0548,
+    "lon": 134.0209,
     "timezone": "Asia/Tokyo",
-    "isp": "ZTV CO., LTD",
-    "org": "ZTV",
-    "as": "AS9351 ZTV CO.,LTD",
-    "query": "61.206.207.159"
+    "isp": "Kurashiki Cable TV",
+    "org": "Kurashiki Cable TV Corporation",
+    "as": "AS9622 Kurashiki Cable TV",
+    "query": "202.91.63.251"
   },
   "115.94.203.131": {
     "status": "success",
@@ -382,6 +382,22 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "39.121.154.44"
+  },
+  "59.138.79.222": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Nishiōizumi",
+    "zip": "178-0061",
+    "lat": 35.7662,
+    "lon": 139.5827,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "59.138.79.222"
   },
   "182.165.7.24": {
     "status": "success",
@@ -463,22 +479,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "175.134.228.229"
   },
-  "39.111.188.171": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "12",
-    "regionName": "Chiba",
-    "city": "Matsudo",
-    "zip": "271-0061",
-    "lat": 35.7924,
-    "lon": 139.9039,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc.",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "39.111.188.171"
-  },
   "185.145.125.128": {
     "status": "success",
     "country": "Russia",
@@ -559,22 +559,6 @@
     "as": "AS2497 Internet Initiative Japan Inc.",
     "query": "133.218.205.246"
   },
-  "211.205.218.20": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "48",
-    "regionName": "Gyeongsangnam-do",
-    "city": "Changwon",
-    "zip": "513",
-    "lat": 35.2364,
-    "lon": 128.6419,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "211.205.218.20"
-  },
   "37.140.24.30": {
     "status": "success",
     "country": "Russia",
@@ -591,6 +575,22 @@
     "as": "AS8369 Intersvyaz-2 JSC",
     "query": "37.140.24.30"
   },
+  "211.205.218.20": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "48",
+    "regionName": "Gyeongsangnam-do",
+    "city": "Changwon",
+    "zip": "513",
+    "lat": 35.2364,
+    "lon": 128.6419,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "211.205.218.20"
+  },
   "1.55.100.248": {
     "status": "success",
     "country": "Vietnam",
@@ -606,6 +606,22 @@
     "org": "Vietnam Internet Network Information Center",
     "as": "AS18403 FPT Telecom Company",
     "query": "1.55.100.248"
+  },
+  "178.64.115.194": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KYA",
+    "regionName": "Krasnoyarsk Krai",
+    "city": "Krasnoyarsk",
+    "zip": "660049",
+    "lat": 56.0374,
+    "lon": 92.9314,
+    "timezone": "Asia/Krasnoyarsk",
+    "isp": "PJSC Rostelecom",
+    "org": "OJSC \"North-West Telecom\"",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "178.64.115.194"
   },
   "87.225.11.225": {
     "status": "success",
@@ -702,5 +718,21 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "110.15.2.128"
+  },
+  "115.163.249.47": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "23",
+    "regionName": "Aichi",
+    "city": "Nagoya",
+    "zip": "462-0841",
+    "lat": 35.1926,
+    "lon": 136.906,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "115.163.249.47"
   }
 }
