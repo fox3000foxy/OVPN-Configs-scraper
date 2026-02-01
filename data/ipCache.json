@@ -559,22 +559,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "61.255.91.50"
   },
-  "114.30.193.145": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Seoul",
-    "zip": "04524",
-    "lat": 37.5658,
-    "lon": 126.978,
-    "timezone": "Asia/Seoul",
-    "isp": "CJ Hello Co.",
-    "org": "HVHonam",
-    "as": "AS38121 LG HelloVision Corp.",
-    "query": "114.30.193.145"
-  },
   "122.103.113.207": {
     "status": "success",
     "country": "Japan",
@@ -639,6 +623,22 @@
     "as": "AS17858 LG POWERCOMM",
     "query": "116.46.241.88"
   },
+  "58.226.80.192": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Geumcheon-gu",
+    "zip": "085",
+    "lat": 37.4784,
+    "lon": 126.8982,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "58.226.80.192"
+  },
   "78.81.151.232": {
     "status": "success",
     "country": "Russia",
@@ -702,5 +702,37 @@
     "org": "MTT Connect Ltd.",
     "as": "AS38917 INTERCOMTEL Limited Company",
     "query": "176.110.201.77"
+  },
+  "46.38.10.103": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KYA",
+    "regionName": "Krasnoyarsk Krai",
+    "city": "Krasnoyarsk",
+    "zip": "660000",
+    "lat": 56.0153,
+    "lon": 92.8932,
+    "timezone": "Asia/Krasnoyarsk",
+    "isp": "CJSC \"Transtelecom-DV\"",
+    "org": "CJSC Transtelecom-DV",
+    "as": "AS20485 Joint Stock Company TransTeleCom",
+    "query": "46.38.10.103"
+  },
+  "118.87.241.101": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Adachi",
+    "zip": "120-0000",
+    "lat": 35.7747,
+    "lon": 139.7989,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM",
+    "org": "Jupiter Telecommunications Co., Ltd.",
+    "as": "AS4721 JCOM Co., Ltd.",
+    "query": "118.87.241.101"
   }
 }
