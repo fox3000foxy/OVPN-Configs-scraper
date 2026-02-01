@@ -638,5 +638,21 @@
     "org": "Jupiter Telecommunications Co., Ltd.",
     "as": "AS4721 JCOM Co., Ltd.",
     "query": "118.83.69.241"
+  },
+  "220.149.127.202": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Guri-si",
+    "zip": "01707",
+    "lat": 37.6302,
+    "lon": 127.075,
+    "timezone": "Asia/Seoul",
+    "isp": "Korean Education Network",
+    "org": "Seoul National University of Science and Technology",
+    "as": "AS3786 LG DACOM Corporation",
+    "query": "220.149.127.202"
   }
 }
