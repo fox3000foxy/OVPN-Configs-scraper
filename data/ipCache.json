@@ -175,6 +175,22 @@
     "as": "AS22773 Cox Communications Inc.",
     "query": "72.196.67.191"
   },
+  "153.206.173.142": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Yokohama",
+    "zip": "231-0841",
+    "lat": 35.4337,
+    "lon": 139.6499,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "Open Computer Network",
+    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
+    "query": "153.206.173.142"
+  },
   "218.145.181.197": {
     "status": "success",
     "country": "South Korea",
@@ -367,22 +383,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "220.57.84.30"
   },
-  "125.55.110.221": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "289-2605",
-    "lat": 35.6896,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "DION (KDDI CORPORATION)",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "125.55.110.221"
-  },
   "126.159.87.12": {
     "status": "success",
     "country": "Japan",
@@ -398,22 +398,6 @@
     "org": "SOFTBANK Corp",
     "as": "AS17676 SoftBank Corp.",
     "query": "126.159.87.12"
-  },
-  "124.18.97.154": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "23",
-    "regionName": "Aichi",
-    "city": "Kiyosu",
-    "zip": "452-0941",
-    "lat": 35.2172,
-    "lon": 136.8325,
-    "timezone": "Asia/Tokyo",
-    "isp": "Chubu Telecommunications Company, Inc.",
-    "org": "Chubu Telecommunications Co., Inc.",
-    "as": "AS18126 Chubu Telecommunications Company, Inc.",
-    "query": "124.18.97.154"
   },
   "101.141.44.236": {
     "status": "success",
@@ -543,22 +527,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.174.164.231"
   },
-  "181.94.226.73": {
-    "status": "success",
-    "country": "Paraguay",
-    "countryCode": "PY",
-    "region": "ASU",
-    "regionName": "Asunción",
-    "city": "Asunción",
-    "zip": "",
-    "lat": -25.2869,
-    "lon": -57.6511,
-    "timezone": "America/Asuncion",
-    "isp": "Núcleo S.A.",
-    "org": "Telecom Personal Bs",
-    "as": "AS27895 Núcleo S.A.",
-    "query": "181.94.226.73"
-  },
   "182.237.221.37": {
     "status": "success",
     "country": "South Korea",
@@ -574,6 +542,22 @@
     "org": "Kumgang Jungbotongsin(Gunsan)",
     "as": "AS17583 Keumgang Cable Network",
     "query": "182.237.221.37"
+  },
+  "181.94.226.73": {
+    "status": "success",
+    "country": "Paraguay",
+    "countryCode": "PY",
+    "region": "ASU",
+    "regionName": "Asunción",
+    "city": "Asunción",
+    "zip": "",
+    "lat": -25.2869,
+    "lon": -57.6511,
+    "timezone": "America/Asuncion",
+    "isp": "Núcleo S.A.",
+    "org": "Telecom Personal Bs",
+    "as": "AS27895 Núcleo S.A.",
+    "query": "181.94.226.73"
   },
   "115.23.64.27": {
     "status": "success",
@@ -638,6 +622,22 @@
     "org": "JCOM Co., Ltd",
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "119.171.172.103"
+  },
+  "178.218.98.2": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KHA",
+    "regionName": "Khabarovsk",
+    "city": "Komsomolsk-on-Amur",
+    "zip": "681000",
+    "lat": 50.5467,
+    "lon": 137.0144,
+    "timezone": "Asia/Vladivostok",
+    "isp": "MTS PJSC",
+    "org": "Tinet Inform network",
+    "as": "AS49350 MTS PJSC",
+    "query": "178.218.98.2"
   },
   "91.147.34.255": {
     "status": "success",
