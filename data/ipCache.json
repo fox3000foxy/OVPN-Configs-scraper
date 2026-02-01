@@ -303,21 +303,21 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "120.75.89.149"
   },
-  "14.45.164.190": {
+  "210.178.48.72": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
-    "region": "47",
-    "regionName": "Gyeongsangbuk-do",
-    "city": "Andong",
-    "zip": "367",
-    "lat": 36.5727,
-    "lon": 128.4909,
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Namyangju",
+    "zip": "122",
+    "lat": 37.6224,
+    "lon": 127.1502,
     "timezone": "Asia/Seoul",
     "isp": "Korea Telecom",
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
-    "query": "14.45.164.190"
+    "query": "210.178.48.72"
   },
   "126.74.193.170": {
     "status": "success",
@@ -350,6 +350,22 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "112.171.81.250"
+  },
+  "61.245.205.8": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "32",
+    "regionName": "Shimane",
+    "city": "Matsue",
+    "zip": "690-0871",
+    "lat": 35.4785,
+    "lon": 133.0489,
+    "timezone": "Asia/Tokyo",
+    "isp": "San-in Cable Vision CO., LTD",
+    "org": "San-in Cable Vision CO., LTD",
+    "as": "AS23786 San-in Cable Vision CO.,LTD",
+    "query": "61.245.205.8"
   },
   "202.91.63.251": {
     "status": "success",
@@ -478,6 +494,22 @@
     "org": "Busanbonbu(saeop)",
     "as": "AS4766 Korea Telecom",
     "query": "112.160.139.229"
+  },
+  "183.80.45.174": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "SG",
+    "regionName": "Ho Chi Minh",
+    "city": "Ho Chi Minh City",
+    "zip": "700000",
+    "lat": 10.822,
+    "lon": 106.6257,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "isp": "Vietnam Internet Network Information Center",
+    "org": "",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "183.80.45.174"
   },
   "221.140.172.84": {
     "status": "success",
