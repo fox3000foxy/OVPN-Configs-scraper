@@ -191,6 +191,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.102"
   },
+  "103.152.178.62": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-0001",
+    "lat": 35.694,
+    "lon": 139.754,
+    "timezone": "Asia/Tokyo",
+    "isp": "Ayao Takata",
+    "org": "SDCC-East01",
+    "as": "AS38074 SDCC Japan-West Area",
+    "query": "103.152.178.62"
+  },
   "49.174.10.156": {
     "status": "success",
     "country": "South Korea",
@@ -206,22 +222,6 @@
     "org": "LG POWERCOMM",
     "as": "AS17858 LG POWERCOMM",
     "query": "49.174.10.156"
-  },
-  "1.66.34.134": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Osaka",
-    "zip": "530-0041",
-    "lat": 34.6967,
-    "lon": 135.5154,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Docomo, inc.",
-    "org": "NTTDoCoMo",
-    "as": "AS9605 NTT DOCOMO, INC.",
-    "query": "1.66.34.134"
   },
   "14.42.68.244": {
     "status": "success",
@@ -415,6 +415,22 @@
     "as": "AS41682 JSC ER-Telecom Holding",
     "query": "188.186.186.127"
   },
+  "222.96.64.242": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Busanjin-gu",
+    "zip": "473",
+    "lat": 35.1469,
+    "lon": 129.0381,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "222.96.64.242"
+  },
   "118.32.117.7": {
     "status": "success",
     "country": "South Korea",
@@ -478,22 +494,6 @@
     "org": "Xpeed",
     "as": "AS17858 LG POWERCOMM",
     "query": "122.47.245.200"
-  },
-  "222.96.64.242": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "26",
-    "regionName": "Busan",
-    "city": "Busanjin-gu",
-    "zip": "473",
-    "lat": 35.1469,
-    "lon": 129.0381,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "222.96.64.242"
   },
   "42.112.66.22": {
     "status": "success",
