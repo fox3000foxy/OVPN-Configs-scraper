@@ -383,22 +383,6 @@
     "as": "AS2497 Internet Initiative Japan Inc.",
     "query": "150.31.45.162"
   },
-  "138.64.70.87": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Gohongi",
-    "zip": "153-0051",
-    "lat": 35.6383,
-    "lon": 139.6937,
-    "timezone": "Asia/Tokyo",
-    "isp": "ASAHI Net, Inc.",
-    "org": "ASAHI",
-    "as": "AS4685 Asahi Net",
-    "query": "138.64.70.87"
-  },
   "121.148.48.93": {
     "status": "success",
     "country": "South Korea",
@@ -478,6 +462,22 @@
     "org": "Open Computer Network",
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "114.161.4.252"
+  },
+  "125.30.20.236": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tokyo",
+    "zip": "151-0071",
+    "lat": 35.6837,
+    "lon": 139.6805,
+    "timezone": "Asia/Tokyo",
+    "isp": "Internet Initiative Japan Inc.",
+    "org": "Internet Initiative Japan Inc.",
+    "as": "AS2497 Internet Initiative Japan Inc.",
+    "query": "125.30.20.236"
   },
   "125.137.243.222": {
     "status": "success",
