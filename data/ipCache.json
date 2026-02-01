@@ -687,6 +687,22 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "77.35.39.46"
   },
+  "220.81.48.229": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "27",
+    "regionName": "Daegu",
+    "city": "Suseong-gu",
+    "zip": "422",
+    "lat": 35.8481,
+    "lon": 128.6968,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "KORNET",
+    "as": "AS4766 Korea Telecom",
+    "query": "220.81.48.229"
+  },
   "37.143.108.41": {
     "status": "success",
     "country": "Russia",
