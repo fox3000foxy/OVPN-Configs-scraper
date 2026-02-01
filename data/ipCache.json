@@ -367,6 +367,22 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "220.57.84.30"
   },
+  "125.55.110.221": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "289-2605",
+    "lat": 35.6896,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "DION (KDDI CORPORATION)",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "125.55.110.221"
+  },
   "126.159.87.12": {
     "status": "success",
     "country": "Japan",
@@ -415,22 +431,6 @@
     "as": "AS17511 OPTAGE Inc.",
     "query": "101.141.44.236"
   },
-  "123.215.124.219": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Namyangju",
-    "zip": "121",
-    "lat": 37.6675,
-    "lon": 127.2383,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "123.215.124.219"
-  },
   "171.7.39.121": {
     "status": "success",
     "country": "Thailand",
@@ -446,6 +446,22 @@
     "org": "Triple T Broadband Public Company Limited",
     "as": "AS45758 Triple T Broadband Public Company Limited",
     "query": "171.7.39.121"
+  },
+  "123.215.124.219": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Namyangju",
+    "zip": "121",
+    "lat": 37.6675,
+    "lon": 127.2383,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "123.215.124.219"
   },
   "94.190.39.192": {
     "status": "success",
@@ -623,6 +639,22 @@
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "119.171.172.103"
   },
+  "91.147.34.255": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "SAK",
+    "regionName": "Sakhalin Oblast",
+    "city": "Kholmsk",
+    "zip": "694626",
+    "lat": 47.0509,
+    "lon": 142.0449,
+    "timezone": "Asia/Sakhalin",
+    "isp": "PJSC Rostelecom",
+    "org": "Sakhalin Pool N2",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "91.147.34.255"
+  },
   "5.143.50.143": {
     "status": "success",
     "country": "Russia",
@@ -639,22 +671,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "5.143.50.143"
   },
-  "133.106.226.197": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "23",
-    "regionName": "Aichi",
-    "city": "Kitanagoya",
-    "zip": "481-0003",
-    "lat": 35.247,
-    "lon": 136.878,
-    "timezone": "Asia/Tokyo",
-    "isp": "Rakuten Mobile, Inc.",
-    "org": "RMN",
-    "as": "AS138384 Rakuten Mobile Network, Inc.",
-    "query": "133.106.226.197"
-  },
   "59.28.247.22": {
     "status": "success",
     "country": "South Korea",
@@ -670,21 +686,5 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "59.28.247.22"
-  },
-  "60.73.70.60": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan Nation-wide Network of Softbank Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "60.73.70.60"
   }
 }
