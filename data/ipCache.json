@@ -303,22 +303,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "221.144.146.230"
   },
-  "211.205.56.227": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "29",
-    "regionName": "Gwangju",
-    "city": "Gwangju",
-    "zip": "61426",
-    "lat": 35.1496,
-    "lon": 126.9156,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "211.205.56.227"
-  },
   "180.230.179.174": {
     "status": "success",
     "country": "South Korea",
@@ -334,6 +318,22 @@
     "org": "LG POWERCOMM",
     "as": "AS17858 LG POWERCOMM",
     "query": "180.230.179.174"
+  },
+  "211.205.56.227": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "29",
+    "regionName": "Gwangju",
+    "city": "Gwangju",
+    "zip": "61426",
+    "lat": 35.1496,
+    "lon": 126.9156,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "211.205.56.227"
   },
   "133.175.174.202": {
     "status": "success",
@@ -526,6 +526,22 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "121.174.164.231"
+  },
+  "175.128.3.61": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "43",
+    "regionName": "Kumamoto",
+    "city": "Hitoyoshi",
+    "zip": "868-0016",
+    "lat": 32.2204,
+    "lon": 130.7509,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "175.128.3.61"
   },
   "182.237.221.37": {
     "status": "success",
