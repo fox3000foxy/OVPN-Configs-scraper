@@ -271,22 +271,6 @@
     "as": "AS17858 LG POWERCOMM",
     "query": "49.167.12.160"
   },
-  "202.148.240.143": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "12",
-    "regionName": "Chiba",
-    "city": "Ichikawa",
-    "zip": "272-0031",
-    "lat": 35.7233,
-    "lon": 139.9132,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM",
-    "org": "Jupiter Telecommunications Co., Ltd.",
-    "as": "AS23788 JCOM Co., Ltd.",
-    "query": "202.148.240.143"
-  },
   "61.44.175.142": {
     "status": "success",
     "country": "Japan",
@@ -367,6 +351,22 @@
     "as": "AS9617 JCOM Co., Ltd.",
     "query": "219.115.166.66"
   },
+  "124.142.158.235": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Nishichō",
+    "zip": "235-0001",
+    "lat": 35.4247,
+    "lon": 139.6239,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM Co., Ltd.",
+    "org": "Jupiter Telecommunication Co. Ltd",
+    "as": "AS9824 JCOM Co., Ltd.",
+    "query": "124.142.158.235"
+  },
   "60.79.244.225": {
     "status": "success",
     "country": "Japan",
@@ -431,22 +431,6 @@
     "as": "AS4725 SoftBank Corp.",
     "query": "39.3.76.76"
   },
-  "218.145.107.33": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Ansan-si",
-    "zip": "154",
-    "lat": 37.3031,
-    "lon": 126.8214,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "218.145.107.33"
-  },
   "112.218.21.132": {
     "status": "success",
     "country": "South Korea",
@@ -462,6 +446,22 @@
     "org": "LG Uplus",
     "as": "AS3786 LG DACOM Corporation",
     "query": "112.218.21.132"
+  },
+  "218.145.107.33": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Ansan-si",
+    "zip": "154",
+    "lat": 37.3031,
+    "lon": 126.8214,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "218.145.107.33"
   },
   "112.160.139.229": {
     "status": "success",
@@ -606,6 +606,22 @@
     "org": "Xpeed",
     "as": "AS17858 LG POWERCOMM",
     "query": "116.46.241.88"
+  },
+  "78.81.151.232": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KO",
+    "regionName": "Komi",
+    "city": "Vuktyl",
+    "zip": "169570",
+    "lat": 63.8478,
+    "lon": 57.3099,
+    "timezone": "Europe/Moscow",
+    "isp": "PJSC Rostelecom",
+    "org": "PJSC Rostelecom North-West Region",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "78.81.151.232"
   },
   "182.172.122.57": {
     "status": "success",
