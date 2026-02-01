@@ -175,22 +175,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.130.164.3"
   },
-  "111.238.189.171": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tagara",
-    "zip": "179-0071",
-    "lat": 35.7681,
-    "lon": 139.6258,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "111.238.189.171"
-  },
   "1.21.121.201": {
     "status": "success",
     "country": "Japan",
@@ -367,21 +351,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "222.98.176.199"
   },
-  "60.153.183.126": {
+  "122.208.249.174": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
     "region": "13",
     "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
+    "city": "Tokyo",
+    "zip": "151-0071",
+    "lat": 35.6837,
+    "lon": 139.6805,
     "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan Nation-wide Network of Softbank Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "60.153.183.126"
+    "isp": "ARTERIA Networks Corporation",
+    "org": "UCOM Corporation",
+    "as": "AS17506 ARTERIA Networks Corporation",
+    "query": "122.208.249.174"
   },
   "150.31.45.162": {
     "status": "success",
@@ -399,6 +383,22 @@
     "as": "AS2497 Internet Initiative Japan Inc.",
     "query": "150.31.45.162"
   },
+  "138.64.70.87": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Gohongi",
+    "zip": "153-0051",
+    "lat": 35.6383,
+    "lon": 139.6937,
+    "timezone": "Asia/Tokyo",
+    "isp": "ASAHI Net, Inc.",
+    "org": "ASAHI",
+    "as": "AS4685 Asahi Net",
+    "query": "138.64.70.87"
+  },
   "121.148.48.93": {
     "status": "success",
     "country": "South Korea",
@@ -414,22 +414,6 @@
     "org": "Jeonnambonbujang",
     "as": "AS4766 Korea Telecom",
     "query": "121.148.48.93"
-  },
-  "122.208.249.174": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0071",
-    "lat": 35.6837,
-    "lon": 139.6805,
-    "timezone": "Asia/Tokyo",
-    "isp": "ARTERIA Networks Corporation",
-    "org": "UCOM Corporation",
-    "as": "AS17506 ARTERIA Networks Corporation",
-    "query": "122.208.249.174"
   },
   "37.21.144.175": {
     "status": "success",
@@ -526,6 +510,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "121.154.104.189"
+  },
+  "42.115.84.154": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "39",
+    "regionName": "Đồng Nai Province",
+    "city": "Biên Hòa",
+    "zip": "810000",
+    "lat": 10.9413,
+    "lon": 106.8221,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "isp": "FPT Telecom Company",
+    "org": "Vietnam Internet Network Information Center",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "42.115.84.154"
   },
   "221.158.167.4": {
     "status": "success",
