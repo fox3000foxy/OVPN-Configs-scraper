@@ -335,6 +335,22 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.74.193.170"
   },
+  "39.111.1.5": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "12",
+    "regionName": "Chiba",
+    "city": "Chiba",
+    "zip": "260-0021",
+    "lat": 35.6029,
+    "lon": 140.1187,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "39.111.1.5"
+  },
   "112.171.81.250": {
     "status": "success",
     "country": "South Korea",
@@ -398,22 +414,6 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "39.121.154.44"
-  },
-  "59.138.79.222": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Nishiōizumi",
-    "zip": "178-0061",
-    "lat": 35.7662,
-    "lon": 139.5827,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "59.138.79.222"
   },
   "182.165.7.24": {
     "status": "success",
@@ -718,21 +718,5 @@
     "org": "PNCWORLD",
     "as": "AS38661 abcle",
     "query": "211.238.145.82"
-  },
-  "61.84.36.14": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "28",
-    "regionName": "Incheon",
-    "city": "Incheon",
-    "zip": "220",
-    "lat": 37.4585,
-    "lon": 126.7015,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "61.84.36.14"
   }
 }
