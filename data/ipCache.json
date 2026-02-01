@@ -335,22 +335,6 @@
     "as": "AS38074 SDCC Japan-West Area",
     "query": "103.152.178.62"
   },
-  "1.66.34.134": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Osaka",
-    "zip": "530-0041",
-    "lat": 34.6967,
-    "lon": 135.5154,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Docomo, inc.",
-    "org": "NTTDoCoMo",
-    "as": "AS9605 NTT DOCOMO, INC.",
-    "query": "1.66.34.134"
-  },
   "178.163.69.1": {
     "status": "success",
     "country": "Russia",
@@ -366,6 +350,22 @@
     "org": "Infoline Ltd.",
     "as": "AS8416 InfoLada Ltd",
     "query": "178.163.69.1"
+  },
+  "1.66.34.134": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Osaka",
+    "zip": "530-0041",
+    "lat": 34.6967,
+    "lon": 135.5154,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Docomo, inc.",
+    "org": "NTTDoCoMo",
+    "as": "AS9605 NTT DOCOMO, INC.",
+    "query": "1.66.34.134"
   },
   "77.34.167.20": {
     "status": "success",
@@ -527,22 +527,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "61.254.116.94"
   },
-  "180.65.104.204": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "29",
-    "regionName": "Gwangju",
-    "city": "Gwangsan-gu",
-    "zip": "622",
-    "lat": 35.2119,
-    "lon": 126.8545,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "180.65.104.204"
-  },
   "112.149.208.200": {
     "status": "success",
     "country": "South Korea",
@@ -639,6 +623,22 @@
     "as": "AS17583 Keumgang Cable Network",
     "query": "182.237.221.37"
   },
+  "219.240.68.241": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Gangdong-gu",
+    "zip": "052",
+    "lat": 37.5554,
+    "lon": 127.1515,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "SK Broadband Co Ltd",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "219.240.68.241"
+  },
   "188.17.177.245": {
     "status": "success",
     "country": "Russia",
@@ -702,5 +702,21 @@
     "org": "Tinet Inform network",
     "as": "AS49350 MTS PJSC",
     "query": "178.218.98.2"
+  },
+  "211.197.16.167": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Gwanak-gu",
+    "zip": "087",
+    "lat": 37.4873,
+    "lon": 126.9227,
+    "timezone": "Asia/Seoul",
+    "isp": "KORNET",
+    "org": "hongseongo",
+    "as": "AS4766 Korea Telecom",
+    "query": "211.197.16.167"
   }
 }
