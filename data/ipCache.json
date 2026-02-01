@@ -319,22 +319,6 @@
     "as": "AS4721 JCOM Co., Ltd.",
     "query": "110.232.8.204"
   },
-  "221.162.71.6": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Goyang-si",
-    "zip": "104",
-    "lat": 37.6392,
-    "lon": 126.8375,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "221.162.71.6"
-  },
   "220.100.45.229": {
     "status": "success",
     "country": "Japan",
@@ -367,21 +351,21 @@
     "as": "AS9617 JCOM Co., Ltd.",
     "query": "219.115.166.66"
   },
-  "210.194.10.105": {
+  "1.234.134.66": {
     "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Yokosuka",
-    "zip": "238-0031",
-    "lat": 35.2672,
-    "lon": 139.6386,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM Co., Ltd.",
-    "org": "Jupiter Telecommunication Co. Ltd",
-    "as": "AS9824 JCOM Co., Ltd.",
-    "query": "210.194.10.105"
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Gangnam-gu",
+    "zip": "062",
+    "lat": 37.4909,
+    "lon": 127.0452,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "1.234.134.66"
   },
   "112.70.217.5": {
     "status": "success",
@@ -415,6 +399,22 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.79.244.225"
   },
+  "124.241.170.79": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "23",
+    "regionName": "Aichi",
+    "city": "Nagoya",
+    "zip": "462-0841",
+    "lat": 35.1926,
+    "lon": 136.906,
+    "timezone": "Asia/Tokyo",
+    "isp": "STARCAT Co ., LTD.",
+    "org": "Community Network Center Inc.",
+    "as": "AS17529 STARCAT Co .,LTD.",
+    "query": "124.241.170.79"
+  },
   "94.41.223.139": {
     "status": "success",
     "country": "Russia",
@@ -446,22 +446,6 @@
     "org": "Japan Nation-wide Network of Softbank Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "60.80.243.29"
-  },
-  "61.211.140.202": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "23",
-    "regionName": "Aichi",
-    "city": "Nagoya",
-    "zip": "461-0001",
-    "lat": 35.1796,
-    "lon": 136.9166,
-    "timezone": "Asia/Tokyo",
-    "isp": "STARCAT Co ., LTD.",
-    "org": "STARCAT CABLE NETWORK Co ., LTD.",
-    "as": "AS17529 STARCAT Co .,LTD.",
-    "query": "61.211.140.202"
   },
   "126.21.26.64": {
     "status": "success",
@@ -511,21 +495,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "218.145.107.33"
   },
-  "112.218.21.132": {
+  "14.47.68.28": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
-    "region": "28",
-    "regionName": "Incheon",
-    "city": "Incheon",
-    "zip": "221",
-    "lat": 37.4723,
-    "lon": 126.6594,
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Yongin-si",
+    "zip": "16940",
+    "lat": 37.298,
+    "lon": 127.0777,
     "timezone": "Asia/Seoul",
-    "isp": "LG DACOM Corporation",
-    "org": "LG Uplus",
-    "as": "AS3786 LG DACOM Corporation",
-    "query": "112.218.21.132"
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "14.47.68.28"
   },
   "61.255.91.50": {
     "status": "success",
@@ -623,21 +607,21 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "78.81.151.232"
   },
-  "182.172.122.57": {
+  "95.154.65.250": {
     "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Guro-gu",
-    "zip": "08367",
-    "lat": 37.4975,
-    "lon": 126.8501,
-    "timezone": "Asia/Seoul",
-    "isp": "DLIVE",
-    "org": "Dlive",
-    "as": "AS10036 DLIVE",
-    "query": "182.172.122.57"
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Vladivostok",
+    "zip": "690001",
+    "lat": 43.1068,
+    "lon": 131.8692,
+    "timezone": "Asia/Vladivostok",
+    "isp": "OCTOPUSNET-NAT",
+    "org": "",
+    "as": "AS44724 Octopusnet LTD",
+    "query": "95.154.65.250"
   },
   "176.211.236.43": {
     "status": "success",
@@ -655,36 +639,20 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "176.211.236.43"
   },
-  "5.143.98.209": {
+  "125.143.53.182": {
     "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PRI",
-    "regionName": "Primorye",
-    "city": "Vladivostok",
-    "zip": "690001",
-    "lat": 43.1068,
-    "lon": 131.8692,
-    "timezone": "Asia/Vladivostok",
-    "isp": "PJSC Rostelecom",
-    "org": "PJSC Rostelecom Far East Region",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "5.143.98.209"
-  },
-  "176.110.201.77": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "IVA",
-    "regionName": "Ivanovo Oblast",
-    "city": "Ivanovo",
-    "zip": "153000",
-    "lat": 57.0105,
-    "lon": 40.9715,
-    "timezone": "Europe/Moscow",
-    "isp": "MTT Connect Ltd.",
-    "org": "MTT Connect Ltd.",
-    "as": "AS38917 INTERCOMTEL Limited Company",
-    "query": "176.110.201.77"
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Hwaseong-si",
+    "zip": "184",
+    "lat": 37.2072,
+    "lon": 126.8168,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "125.143.53.182"
   }
 }
