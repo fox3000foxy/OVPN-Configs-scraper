@@ -143,6 +143,22 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "153.218.43.203"
   },
+  "211.198.67.197": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Suwon",
+    "zip": "163",
+    "lat": 37.2905,
+    "lon": 126.9877,
+    "timezone": "Asia/Seoul",
+    "isp": "KORNET",
+    "org": "jinuapateu",
+    "as": "AS4766 Korea Telecom",
+    "query": "211.198.67.197"
+  },
   "59.146.35.86": {
     "status": "success",
     "country": "Japan",
@@ -367,22 +383,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "112.171.81.250"
   },
-  "61.245.205.8": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "32",
-    "regionName": "Shimane",
-    "city": "Matsue",
-    "zip": "690-0871",
-    "lat": 35.4785,
-    "lon": 133.0489,
-    "timezone": "Asia/Tokyo",
-    "isp": "San-in Cable Vision CO., LTD",
-    "org": "San-in Cable Vision CO., LTD",
-    "as": "AS23786 San-in Cable Vision CO.,LTD",
-    "query": "61.245.205.8"
-  },
   "202.91.63.251": {
     "status": "success",
     "country": "Japan",
@@ -543,6 +543,22 @@
     "as": "AS28840 PJSC \"TATTELECOM\"",
     "query": "178.206.45.221"
   },
+  "78.81.151.232": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KO",
+    "regionName": "Komi",
+    "city": "Vuktyl",
+    "zip": "169570",
+    "lat": 63.8478,
+    "lon": 57.3099,
+    "timezone": "Europe/Moscow",
+    "isp": "PJSC Rostelecom",
+    "org": "PJSC Rostelecom North-West Region",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "78.81.151.232"
+  },
   "37.140.24.30": {
     "status": "success",
     "country": "Russia",
@@ -654,22 +670,6 @@
     "org": "Metroset Ltd.",
     "as": "AS50923 Metroset Ltd.",
     "query": "37.143.108.41"
-  },
-  "110.15.2.128": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Anseong",
-    "zip": "175",
-    "lat": 37.0138,
-    "lon": 127.2698,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "110.15.2.128"
   },
   "115.163.249.47": {
     "status": "success",
