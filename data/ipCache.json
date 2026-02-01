@@ -463,22 +463,6 @@
     "as": "AS42772 Unitary enterprise A1",
     "query": "151.249.167.36"
   },
-  "185.190.42.79": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "CHE",
-    "regionName": "Chelyabinsk Oblast",
-    "city": "Ozersk",
-    "zip": "456784",
-    "lat": 55.7585,
-    "lon": 60.7079,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "UKS",
-    "org": "",
-    "as": "AS48043 Ozyorsk Telecom CJSC.",
-    "query": "185.190.42.79"
-  },
   "184.22.174.160": {
     "status": "success",
     "country": "Thailand",
@@ -510,6 +494,22 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "114.207.197.5"
+  },
+  "185.190.42.79": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "CHE",
+    "regionName": "Chelyabinsk Oblast",
+    "city": "Ozersk",
+    "zip": "456784",
+    "lat": 55.7585,
+    "lon": 60.7079,
+    "timezone": "Asia/Yekaterinburg",
+    "isp": "UKS",
+    "org": "",
+    "as": "AS48043 Ozyorsk Telecom CJSC.",
+    "query": "185.190.42.79"
   },
   "112.152.178.233": {
     "status": "success",
@@ -638,22 +638,6 @@
     "org": "Vostoktelecom Telephone Company Limited Liability Company",
     "as": "AS34896 Vostoktelecom Telephone Company Limited Liability Company",
     "query": "85.15.89.239"
-  },
-  "212.164.178.79": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "NVS",
-    "regionName": "Novosibirsk Oblast",
-    "city": "Novosibirsk",
-    "zip": "630000",
-    "lat": 55.0226,
-    "lon": 82.9317,
-    "timezone": "Asia/Novosibirsk",
-    "isp": "Rostelecom networks",
-    "org": "OJSC Sibirtelecom",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "212.164.178.79"
   },
   "93.159.240.248": {
     "status": "success",
