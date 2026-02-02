@@ -303,21 +303,21 @@
     "as": "AS8416 InfoLada Ltd",
     "query": "178.163.69.1"
   },
-  "133.238.167.250": {
+  "1.66.34.134": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "11",
-    "regionName": "Saitama",
-    "city": "Kawaguchi",
-    "zip": "332-0031",
-    "lat": 35.8147,
-    "lon": 139.7289,
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Osaka",
+    "zip": "530-0041",
+    "lat": 34.6967,
+    "lon": 135.5154,
     "timezone": "Asia/Tokyo",
-    "isp": "Internet Initiative Japan",
-    "org": "Internet Initiative Japan Inc.",
-    "as": "AS2497 Internet Initiative Japan Inc.",
-    "query": "133.238.167.250"
+    "isp": "NTT Docomo, inc.",
+    "org": "NTTDoCoMo",
+    "as": "AS9605 NTT DOCOMO, INC.",
+    "query": "1.66.34.134"
   },
   "94.190.39.192": {
     "status": "success",
@@ -383,6 +383,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.136.219.191"
   },
+  "180.5.82.151": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "11",
+    "regionName": "Saitama",
+    "city": "Negishi",
+    "zip": "336-0021",
+    "lat": 35.8553,
+    "lon": 139.6416,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "Open Computer Network",
+    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
+    "query": "180.5.82.151"
+  },
   "114.175.159.86": {
     "status": "success",
     "country": "Japan",
@@ -398,22 +414,6 @@
     "org": "Open Computer Network",
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "114.175.159.86"
-  },
-  "126.234.234.114": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.234.234.114"
   },
   "184.22.174.160": {
     "status": "success",
@@ -431,6 +431,22 @@
     "as": "AS133481 AIS Fibre",
     "query": "184.22.174.160"
   },
+  "175.133.128.210": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Zama",
+    "zip": "252-0021",
+    "lat": 35.49,
+    "lon": 139.4118,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "175.133.128.210"
+  },
   "114.207.197.5": {
     "status": "success",
     "country": "South Korea",
@@ -447,22 +463,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "114.207.197.5"
   },
-  "185.190.42.79": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "CHE",
-    "regionName": "Chelyabinsk Oblast",
-    "city": "Ozersk",
-    "zip": "456784",
-    "lat": 55.7585,
-    "lon": 60.7079,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "UKS",
-    "org": "",
-    "as": "AS48043 Ozyorsk Telecom CJSC.",
-    "query": "185.190.42.79"
-  },
   "112.152.178.233": {
     "status": "success",
     "country": "South Korea",
@@ -478,22 +478,6 @@
     "org": "LG POWERCOMM",
     "as": "AS17858 LG POWERCOMM",
     "query": "112.152.178.233"
-  },
-  "46.249.31.118": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "MOS",
-    "regionName": "Moscow Oblast",
-    "city": "Podolsk",
-    "zip": "142108",
-    "lat": 55.4198,
-    "lon": 37.5599,
-    "timezone": "Europe/Moscow",
-    "isp": "Quartz Telecom",
-    "org": "",
-    "as": "AS50009 QUARTZ TELECOM LLC",
-    "query": "46.249.31.118"
   },
   "61.24.93.129": {
     "status": "success",
@@ -575,21 +559,21 @@
     "as": "AS12768 JSC ER-Telecom Holding",
     "query": "46.146.108.204"
   },
-  "94.31.224.105": {
+  "42.112.147.209": {
     "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "SVE",
-    "regionName": "Sverdlovsk Oblast",
-    "city": "Yekaterinburg",
-    "zip": "620000",
-    "lat": 56.8406,
-    "lon": 60.6257,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "LLC \"KomTehCentr\"",
-    "org": "LLC \"KomTehCentr\"",
-    "as": "AS12668 LLC \"KomTehCentr\"",
-    "query": "94.31.224.105"
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "SG",
+    "regionName": "Ho Chi Minh",
+    "city": "Ho Chi Minh City",
+    "zip": "700000",
+    "lat": 10.822,
+    "lon": 106.6257,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "isp": "FPT Telecom Company",
+    "org": "Vietnam Internet Network Information Center",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "42.112.147.209"
   },
   "85.15.89.239": {
     "status": "success",
@@ -606,6 +590,38 @@
     "org": "Vostoktelecom Telephone Company Limited Liability Company",
     "as": "AS34896 Vostoktelecom Telephone Company Limited Liability Company",
     "query": "85.15.89.239"
+  },
+  "211.116.113.124": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "45",
+    "regionName": "Jeollabuk-do",
+    "city": "Jeonju",
+    "zip": "549",
+    "lat": 35.8345,
+    "lon": 127.1057,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "TBROAD Jeonju",
+    "as": "AS17854 SK Broadband Co Ltd",
+    "query": "211.116.113.124"
+  },
+  "188.16.58.209": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "SVE",
+    "regionName": "Sverdlovsk Oblast",
+    "city": "Pervouralsk",
+    "zip": "623109",
+    "lat": 56.9045,
+    "lon": 59.9367,
+    "timezone": "Asia/Yekaterinburg",
+    "isp": "OJSC uralsvyazinform",
+    "org": "Dynamic distribution IPs for broadband services",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "188.16.58.209"
   },
   "93.159.240.248": {
     "status": "success",
@@ -638,22 +654,6 @@
     "org": "RMN",
     "as": "AS138384 Rakuten Mobile Network, Inc.",
     "query": "210.157.192.67"
-  },
-  "42.112.147.209": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "SG",
-    "regionName": "Ho Chi Minh",
-    "city": "Ho Chi Minh City",
-    "zip": "700000",
-    "lat": 10.822,
-    "lon": 106.6257,
-    "timezone": "Asia/Ho_Chi_Minh",
-    "isp": "FPT Telecom Company",
-    "org": "Vietnam Internet Network Information Center",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "42.112.147.209"
   },
   "178.218.98.2": {
     "status": "success",
