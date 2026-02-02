@@ -77,12 +77,6 @@ Or download individually:
 | 122.248.108.4 | Myanmar | Yatanarpon Teleport Company Limited | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/122.248.108.4.ovpn) |
 
 
-### Singapore
-| IP | Country | ISP | Provider | Config |
-|---|---|---|---|---|
-| 124.156.192.132 | Singapore | Tencent Cloud Computing (Beijing) Co | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/124.156.192.132.ovpn) |
-
-
 ### South Korea
 | IP | Country | ISP | Provider | Config |
 |---|---|---|---|---|
