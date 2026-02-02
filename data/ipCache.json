@@ -319,6 +319,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "14.47.68.28"
   },
+  "220.26.103.76": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan nation-wide Network of SOFTBANK Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "220.26.103.76"
+  },
   "125.247.190.47": {
     "status": "success",
     "country": "South Korea",
@@ -430,22 +446,6 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "218.38.253.108"
-  },
-  "60.105.147.180": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan Nation-wide Network of Softbank Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "60.105.147.180"
   },
   "121.174.247.158": {
     "status": "success",
@@ -623,6 +623,22 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "188.17.97.38"
   },
+  "121.162.135.220": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Mapo-gu",
+    "zip": "041",
+    "lat": 37.5521,
+    "lon": 126.9505,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "121.162.135.220"
+  },
   "183.80.25.248": {
     "status": "success",
     "country": "Vietnam",
@@ -782,21 +798,5 @@
     "org": "SkyNet Networks",
     "as": "AS35807 SkyNet Ltd.",
     "query": "93.100.133.225"
-  },
-  "37.23.139.6": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "ALT",
-    "regionName": "Altai Krai",
-    "city": "Barnaul",
-    "zip": "656002",
-    "lat": 53.362,
-    "lon": 83.7279,
-    "timezone": "Asia/Barnaul",
-    "isp": "JSC Rostelecom regional branch \"Siberia\"",
-    "org": "JSC Rostelecom regional branch Siberia",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "37.23.139.6"
   }
 }
