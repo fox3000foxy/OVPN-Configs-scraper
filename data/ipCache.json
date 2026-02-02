@@ -527,22 +527,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "222.227.165.89"
   },
-  "124.45.52.79": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT-ME Corporation",
-    "org": "NTT-ME Corporation",
-    "as": "AS9595 NTT-ME Corporation",
-    "query": "124.45.52.79"
-  },
   "79.105.27.89": {
     "status": "success",
     "country": "Russia",
@@ -591,6 +575,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "175.214.152.6"
   },
+  "124.45.52.79": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT-ME Corporation",
+    "org": "NTT-ME Corporation",
+    "as": "AS9595 NTT-ME Corporation",
+    "query": "124.45.52.79"
+  },
   "185.199.8.39": {
     "status": "success",
     "country": "Russia",
@@ -638,21 +638,5 @@
     "org": "Frontier Communications Corporation",
     "as": "AS5650 Frontier Communications of America, Inc.",
     "query": "47.164.238.126"
-  },
-  "178.187.185.71": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "ALT",
-    "regionName": "Altai Krai",
-    "city": "Barnaul",
-    "zip": "656002",
-    "lat": 53.362,
-    "lon": 83.7279,
-    "timezone": "Asia/Barnaul",
-    "isp": "JSC Rostelecom regional branch \"Siberia\"",
-    "org": "Sibirtelecom Co.",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "178.187.185.71"
   }
 }
