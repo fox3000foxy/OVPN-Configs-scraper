@@ -223,22 +223,6 @@
     "as": "AS7552 Viettel Group",
     "query": "115.78.10.208"
   },
-  "60.73.214.202": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan Nation-wide Network of Softbank Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "60.73.214.202"
-  },
   "118.33.153.180": {
     "status": "success",
     "country": "South Korea",
@@ -334,6 +318,22 @@
     "org": "",
     "as": "AS18403 FPT Telecom Company",
     "query": "42.112.13.234"
+  },
+  "223.205.22.26": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "73",
+    "regionName": "Nakhon Pathom",
+    "city": "Nakhon Pathom",
+    "zip": "73000",
+    "lat": 13.8179,
+    "lon": 100.0416,
+    "timezone": "Asia/Bangkok",
+    "isp": "Triple T Broadband Public Company Limited",
+    "org": "Triple T Broadband Public Company Limited",
+    "as": "AS45758 Triple T Broadband Public Company Limited",
+    "query": "223.205.22.26"
   },
   "58.136.178.21": {
     "status": "success",
