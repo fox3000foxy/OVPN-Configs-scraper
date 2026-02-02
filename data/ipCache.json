@@ -335,22 +335,6 @@
     "as": "AS17858 LG POWERCOMM",
     "query": "116.34.216.160"
   },
-  "60.114.131.43": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan Nation-wide Network of Softbank Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "60.114.131.43"
-  },
   "218.154.111.211": {
     "status": "success",
     "country": "South Korea",
@@ -718,5 +702,37 @@
     "org": "",
     "as": "AS12389 PJSC Rostelecom",
     "query": "77.34.92.127"
+  },
+  "45.140.95.66": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KHA",
+    "regionName": "Khabarovsk",
+    "city": "Khabarovsk",
+    "zip": "680000",
+    "lat": 48.4817,
+    "lon": 135.083,
+    "timezone": "Asia/Vladivostok",
+    "isp": "JSC \"Redcom-lnternet\"",
+    "org": "Redcom Retail Services",
+    "as": "AS8749 JSC Redcom-lnternet",
+    "query": "45.140.95.66"
+  },
+  "31.200.225.17": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Nakhodka",
+    "zip": "692902",
+    "lat": 42.8318,
+    "lon": 132.9223,
+    "timezone": "Asia/Vladivostok",
+    "isp": "ISP Podryad Nets",
+    "org": "",
+    "as": "AS196949 Natalia Sergeevna Filicheva",
+    "query": "31.200.225.17"
   }
 }
