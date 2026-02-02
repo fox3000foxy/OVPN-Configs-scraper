@@ -143,22 +143,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "221.49.114.110"
   },
-  "59.139.128.191": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "02",
-    "regionName": "Aomori",
-    "city": "Kuroishi",
-    "zip": "036-0351",
-    "lat": 40.6485,
-    "lon": 140.5872,
-    "timezone": "Asia/Tokyo",
-    "isp": "DION (KDDI CORPORATION)",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "59.139.128.191"
-  },
   "103.152.178.62": {
     "status": "success",
     "country": "Japan",
@@ -206,6 +190,38 @@
     "org": "sudogwonseobubonbu",
     "as": "AS4766 Korea Telecom",
     "query": "211.221.198.244"
+  },
+  "211.185.142.92": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "47",
+    "regionName": "Gyeongsangbuk-do",
+    "city": "Yeongju",
+    "zip": "360",
+    "lat": 36.8226,
+    "lon": 128.6274,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "211.185.142.92"
+  },
+  "1.66.34.134": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Osaka",
+    "zip": "530-0041",
+    "lat": 34.6967,
+    "lon": 135.5154,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Docomo, inc.",
+    "org": "NTTDoCoMo",
+    "as": "AS9605 NTT DOCOMO, INC.",
+    "query": "1.66.34.134"
   },
   "192.145.96.207": {
     "status": "success",
@@ -351,21 +367,21 @@
     "as": "AS18403 FPT Telecom Company",
     "query": "42.115.10.160"
   },
-  "133.106.35.200": {
+  "219.248.93.154": {
     "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tōyō",
-    "zip": "135-0016",
-    "lat": 35.6698,
-    "lon": 139.815,
-    "timezone": "Asia/Tokyo",
-    "isp": "Rakuten Mobile, Inc.",
-    "org": "RMN",
-    "as": "AS138384 Rakuten Mobile Network, Inc.",
-    "query": "133.106.35.200"
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Siheung-si",
+    "zip": "151",
+    "lat": 37.3925,
+    "lon": 126.7854,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "SK Broadband Co Ltd",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "219.248.93.154"
   },
   "68.149.154.94": {
     "status": "success",
@@ -495,22 +511,6 @@
     "as": "AS9595 NTT-ME Corporation",
     "query": "124.44.10.44"
   },
-  "1.232.152.53": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Seoul",
-    "zip": "045",
-    "lat": 37.5656,
-    "lon": 126.978,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "SK Broadband Co Ltd",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "1.232.152.53"
-  },
   "61.73.128.147": {
     "status": "success",
     "country": "South Korea",
@@ -575,6 +575,22 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "175.112.186.157"
   },
+  "117.110.198.131": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "43",
+    "regionName": "North Chungcheong",
+    "city": "Eumseong-gun",
+    "zip": "277",
+    "lat": 36.928,
+    "lon": 127.684,
+    "timezone": "Asia/Seoul",
+    "isp": "DACOM-PUBNETPLUS",
+    "org": "Pubnetplus",
+    "as": "AS9316 DACOM-PUBNETPLUS",
+    "query": "117.110.198.131"
+  },
   "42.112.179.237": {
     "status": "success",
     "country": "Vietnam",
@@ -622,21 +638,5 @@
     "org": "LG POWERCOMM",
     "as": "AS17858 LG POWERCOMM",
     "query": "49.166.203.172"
-  },
-  "86.97.103.118": {
-    "status": "success",
-    "country": "United Arab Emirates",
-    "countryCode": "AE",
-    "region": "DU",
-    "regionName": "Dubai",
-    "city": "Dubai",
-    "zip": "",
-    "lat": 25.0734,
-    "lon": 55.2979,
-    "timezone": "Asia/Dubai",
-    "isp": "Emirates Telecommunications Corporation",
-    "org": "Etisalat",
-    "as": "AS5384 Emirates Internet",
-    "query": "86.97.103.118"
   }
 }
