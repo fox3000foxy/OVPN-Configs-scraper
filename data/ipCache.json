@@ -367,21 +367,21 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "124.212.183.144"
   },
-  "42.119.41.29": {
+  "94.19.155.164": {
     "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "HN",
-    "regionName": "Hanoi",
-    "city": "Hanoi",
-    "zip": "100000",
-    "lat": 21.0184,
-    "lon": 105.8461,
-    "timezone": "Asia/Bangkok",
-    "isp": "FPT Telecom Company",
-    "org": "Vietnam Internet Network Information Center",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "42.119.41.29"
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "SPE",
+    "regionName": "St.-Petersburg",
+    "city": "St Petersburg",
+    "zip": "190990",
+    "lat": 59.8983,
+    "lon": 30.2618,
+    "timezone": "Europe/Moscow",
+    "isp": "SkyNet LLC",
+    "org": "SkyNet Networks",
+    "as": "AS35807 SkyNet Ltd.",
+    "query": "94.19.155.164"
   },
   "176.210.210.55": {
     "status": "success",
@@ -398,6 +398,22 @@
     "org": "JSC Rostelecom regional branch Siberia",
     "as": "AS12389 PJSC Rostelecom",
     "query": "176.210.210.55"
+  },
+  "42.119.41.29": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "HN",
+    "regionName": "Hanoi",
+    "city": "Hanoi",
+    "zip": "100000",
+    "lat": 21.0184,
+    "lon": 105.8461,
+    "timezone": "Asia/Bangkok",
+    "isp": "FPT Telecom Company",
+    "org": "Vietnam Internet Network Information Center",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "42.119.41.29"
   },
   "90.189.217.65": {
     "status": "success",
@@ -782,21 +798,5 @@
     "org": "HVGyeongnam",
     "as": "AS9845 LG HelloVision Corp.",
     "query": "123.248.182.124"
-  },
-  "93.100.133.225": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "SPE",
-    "regionName": "St.-Petersburg",
-    "city": "St Petersburg",
-    "zip": "195213",
-    "lat": 59.9417,
-    "lon": 30.3096,
-    "timezone": "Europe/Moscow",
-    "isp": "SkyNet LLC",
-    "org": "SkyNet Networks",
-    "as": "AS35807 SkyNet Ltd.",
-    "query": "93.100.133.225"
   }
 }
