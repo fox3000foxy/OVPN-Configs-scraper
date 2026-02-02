@@ -351,22 +351,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.121.145.32"
   },
-  "219.248.93.154": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Siheung-si",
-    "zip": "151",
-    "lat": 37.3925,
-    "lon": 126.7854,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "SK Broadband Co Ltd",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "219.248.93.154"
-  },
   "42.115.10.160": {
     "status": "success",
     "country": "Vietnam",
@@ -382,6 +366,22 @@
     "org": "Vietnam Internet Network Information Center",
     "as": "AS18403 FPT Telecom Company",
     "query": "42.115.10.160"
+  },
+  "219.248.93.154": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Siheung-si",
+    "zip": "151",
+    "lat": 37.3925,
+    "lon": 126.7854,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "SK Broadband Co Ltd",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "219.248.93.154"
   },
   "68.149.154.94": {
     "status": "success",
