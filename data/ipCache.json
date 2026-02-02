@@ -287,6 +287,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "222.98.176.199"
   },
+  "75.76.243.108": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "OH",
+    "regionName": "Ohio",
+    "city": "Columbus",
+    "zip": "43081",
+    "lat": 40.1149,
+    "lon": -82.9054,
+    "timezone": "America/New_York",
+    "isp": "Breezeline",
+    "org": "Breezeline",
+    "as": "AS11776 Breezeline",
+    "query": "75.76.243.108"
+  },
   "60.120.20.164": {
     "status": "success",
     "country": "Japan",
@@ -591,20 +607,20 @@
     "as": "AS4766 Korea Telecom",
     "query": "221.154.167.228"
   },
-  "112.169.155.121": {
+  "121.167.90.44": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Gangnam-gu",
-    "zip": "062",
-    "lat": 37.4909,
-    "lon": 127.0452,
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Yongin-si",
+    "zip": "168",
+    "lat": 37.3104,
+    "lon": 127.0672,
     "timezone": "Asia/Seoul",
     "isp": "Korea Telecom",
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
-    "query": "112.169.155.121"
+    "query": "121.167.90.44"
   }
 }
