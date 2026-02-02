@@ -479,6 +479,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.174.247.158"
   },
+  "184.22.23.231": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "10",
+    "regionName": "Bangkok",
+    "city": "Bangkok",
+    "zip": "10120",
+    "lat": 13.7101,
+    "lon": 100.4543,
+    "timezone": "Asia/Bangkok",
+    "isp": "AIS-Fibre",
+    "org": "",
+    "as": "AS133481 AIS Fibre",
+    "query": "184.22.23.231"
+  },
   "60.126.10.156": {
     "status": "success",
     "country": "Japan",
@@ -494,6 +510,22 @@
     "org": "Japan Nation-wide Network of Softbank Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "60.126.10.156"
+  },
+  "184.22.114.35": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "40",
+    "regionName": "Khon Kaen",
+    "city": "Khon Kaen",
+    "zip": "40160",
+    "lat": 16.4467,
+    "lon": 102.833,
+    "timezone": "Asia/Bangkok",
+    "isp": "AIS-Fibre",
+    "org": "",
+    "as": "AS133481 AIS Fibre",
+    "query": "184.22.114.35"
   },
   "171.246.86.141": {
     "status": "success",
@@ -639,22 +671,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "188.17.97.38"
   },
-  "122.47.245.200": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Dongdaemun",
-    "zip": "026",
-    "lat": 37.5655,
-    "lon": 127.0753,
-    "timezone": "Asia/Seoul",
-    "isp": "LG POWERCOMM",
-    "org": "Xpeed",
-    "as": "AS17858 LG POWERCOMM",
-    "query": "122.47.245.200"
-  },
   "183.80.25.248": {
     "status": "success",
     "country": "Vietnam",
@@ -671,6 +687,22 @@
     "as": "AS18403 FPT Telecom Company",
     "query": "183.80.25.248"
   },
+  "185.25.18.17": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KGN",
+    "regionName": "Kurgan Oblast",
+    "city": "Kurgan",
+    "zip": "640000",
+    "lat": 55.4503,
+    "lon": 65.3288,
+    "timezone": "Asia/Yekaterinburg",
+    "isp": "MTS PJSC",
+    "org": "PJSC Mobile TeleSystems Kurgan branch",
+    "as": "AS43148 MTS PJSC",
+    "query": "185.25.18.17"
+  },
   "130.255.48.81": {
     "status": "success",
     "country": "Russia",
@@ -686,6 +718,22 @@
     "org": "CJSC Radiotelephone",
     "as": "AS39812 Closed Joint Stock Company Radiotelephone",
     "query": "130.255.48.81"
+  },
+  "178.218.99.215": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KHA",
+    "regionName": "Khabarovsk",
+    "city": "Komsomolsk-on-Amur",
+    "zip": "681000",
+    "lat": 50.5467,
+    "lon": 137.0144,
+    "timezone": "Asia/Vladivostok",
+    "isp": "MTS PJSC",
+    "org": "Tinet Inform network",
+    "as": "AS49350 MTS PJSC",
+    "query": "178.218.99.215"
   },
   "94.245.151.54": {
     "status": "success",
