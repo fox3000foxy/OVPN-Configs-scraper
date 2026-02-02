@@ -271,22 +271,6 @@
     "as": "AS34858 Telezon-Seti LLC",
     "query": "192.145.96.207"
   },
-  "114.206.223.158": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "48",
-    "regionName": "Gyeongsangnam-do",
-    "city": "Yangsan",
-    "zip": "506",
-    "lat": 35.3447,
-    "lon": 129.0299,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "114.206.223.158"
-  },
   "180.230.179.174": {
     "status": "success",
     "country": "South Korea",
@@ -302,6 +286,22 @@
     "org": "LG POWERCOMM",
     "as": "AS17858 LG POWERCOMM",
     "query": "180.230.179.174"
+  },
+  "114.206.223.158": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "48",
+    "regionName": "Gyeongsangnam-do",
+    "city": "Yangsan",
+    "zip": "506",
+    "lat": 35.3447,
+    "lon": 129.0299,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "114.206.223.158"
   },
   "95.84.132.179": {
     "status": "success",
