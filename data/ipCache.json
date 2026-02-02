@@ -527,6 +527,22 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.241.203.45"
   },
+  "119.231.28.172": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "25",
+    "regionName": "Shiga",
+    "city": "Ōtsu",
+    "zip": "520-0811",
+    "lat": 35.0012,
+    "lon": 135.8952,
+    "timezone": "Asia/Tokyo",
+    "isp": "OPTAGE Inc.",
+    "org": "K-Opticom Corporation",
+    "as": "AS17511 OPTAGE Inc.",
+    "query": "119.231.28.172"
+  },
   "126.55.80.229": {
     "status": "success",
     "country": "Japan",
@@ -574,22 +590,6 @@
     "org": "FastNet",
     "as": "AS23700 Linknet-Fastnet ASN",
     "query": "111.94.160.77"
-  },
-  "175.212.255.180": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Seoul",
-    "zip": "04524",
-    "lat": 37.5658,
-    "lon": 126.978,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "175.212.255.180"
   },
   "87.225.4.138": {
     "status": "success",
