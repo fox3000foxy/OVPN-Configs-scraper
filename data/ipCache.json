@@ -47,22 +47,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.4"
   },
-  "219.100.37.15": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftEther",
-    "org": "SoftEther Corporation",
-    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.15"
-  },
   "219.100.37.82": {
     "status": "success",
     "country": "Japan",
@@ -78,6 +62,22 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.82"
+  },
+  "219.100.37.15": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftEther",
+    "org": "SoftEther Corporation",
+    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
+    "query": "219.100.37.15"
   },
   "219.100.37.126": {
     "status": "success",
@@ -239,6 +239,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.152.58.166"
   },
+  "126.206.11.243": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.206.11.243"
+  },
   "124.144.23.224": {
     "status": "success",
     "country": "Japan",
@@ -335,6 +351,22 @@
     "as": "AS9770 LG HelloVision Corp.",
     "query": "113.52.211.252"
   },
+  "80.44.212.7": {
+    "status": "success",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "region": "ENG",
+    "regionName": "England",
+    "city": "Newcastle upon Tyne",
+    "zip": "NE1",
+    "lat": 54.9742,
+    "lon": -1.615,
+    "timezone": "Europe/London",
+    "isp": "TalkTalk",
+    "org": "TalkTalk Communications Limited",
+    "as": "AS13285 TalkTalk Communications Limited",
+    "query": "80.44.212.7"
+  },
   "77.82.17.179": {
     "status": "success",
     "country": "Russia",
@@ -382,22 +414,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "125.139.49.108"
-  },
-  "220.102.233.254": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "12",
-    "regionName": "Chiba",
-    "city": "Nagareyama",
-    "zip": "270-0151",
-    "lat": 35.8566,
-    "lon": 139.9185,
-    "timezone": "Asia/Tokyo",
-    "isp": "NEC BIGLOBE Ltd.",
-    "org": "BIGLOBE",
-    "as": "AS2518 BIGLOBE Inc.",
-    "query": "220.102.233.254"
   },
   "222.96.17.178": {
     "status": "success",
@@ -478,22 +494,6 @@
     "org": "DLIVE Jungrang Cable TV",
     "as": "AS10036 DLIVE",
     "query": "101.235.81.130"
-  },
-  "31.130.57.70": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "MOW",
-    "regionName": "Moscow",
-    "city": "Moscow",
-    "zip": "127474",
-    "lat": 55.7487,
-    "lon": 37.6187,
-    "timezone": "Europe/Moscow",
-    "isp": "Kom lan Ltd",
-    "org": "Kom lan Ltd",
-    "as": "AS49583 Kom lan Ltd",
-    "query": "31.130.57.70"
   },
   "222.227.165.89": {
     "status": "success",
