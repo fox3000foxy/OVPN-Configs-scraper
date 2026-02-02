@@ -415,21 +415,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "14.47.68.28"
   },
-  "123.213.125.37": {
+  "125.247.190.47": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
     "region": "41",
     "regionName": "Gyeonggi-do",
-    "city": "Uijeongbu-si",
-    "zip": "118",
-    "lat": 37.7396,
-    "lon": 127.0539,
+    "city": "Goyang-si",
+    "zip": "104",
+    "lat": 37.6392,
+    "lon": 126.8375,
     "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "SK Broadband Co Ltd",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "123.213.125.37"
+    "isp": "DACOM-PUBNETPLUS",
+    "org": "LG Uplus",
+    "as": "AS9316 DACOM-PUBNETPLUS",
+    "query": "125.247.190.47"
   },
   "77.35.150.75": {
     "status": "success",
@@ -654,5 +654,37 @@
     "org": "JSC \"ER-Telecom Holding\" Nizhny Novgorod",
     "as": "AS42682 JSC ER-Telecom Holding",
     "query": "5.166.213.161"
+  },
+  "124.156.192.132": {
+    "status": "success",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "region": "03",
+    "regionName": "North West",
+    "city": "Singapore",
+    "zip": "858877",
+    "lat": 1.35208,
+    "lon": 103.82,
+    "timezone": "Asia/Singapore",
+    "isp": "Tencent Cloud Computing (Beijing) Co",
+    "org": "",
+    "as": "AS132203 Tencent Building, Kejizhongyi Avenue",
+    "query": "124.156.192.132"
+  },
+  "109.124.209.118": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "SAM",
+    "regionName": "Samara Oblast",
+    "city": "Samara",
+    "zip": "404146",
+    "lat": 53.2061,
+    "lon": 50.1509,
+    "timezone": "Europe/Samara",
+    "isp": "SamaraLan",
+    "org": "",
+    "as": "AS35032 LLC SIP NIS",
+    "query": "109.124.209.118"
   }
 }
