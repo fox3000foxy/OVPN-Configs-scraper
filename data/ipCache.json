@@ -207,22 +207,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "211.185.142.92"
   },
-  "1.66.34.134": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Osaka",
-    "zip": "530-0041",
-    "lat": 34.6967,
-    "lon": 135.5154,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Docomo, inc.",
-    "org": "NTTDoCoMo",
-    "as": "AS9605 NTT DOCOMO, INC.",
-    "query": "1.66.34.134"
-  },
   "210.178.110.239": {
     "status": "success",
     "country": "South Korea",
@@ -351,22 +335,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.121.145.32"
   },
-  "219.248.93.154": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Siheung-si",
-    "zip": "151",
-    "lat": 37.3925,
-    "lon": 126.7854,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "SK Broadband Co Ltd",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "219.248.93.154"
-  },
   "42.115.10.160": {
     "status": "success",
     "country": "Vietnam",
@@ -383,21 +351,21 @@
     "as": "AS18403 FPT Telecom Company",
     "query": "42.115.10.160"
   },
-  "68.149.154.94": {
+  "219.248.93.154": {
     "status": "success",
-    "country": "Canada",
-    "countryCode": "CA",
-    "region": "AB",
-    "regionName": "Alberta",
-    "city": "Edmonton",
-    "zip": "T6W",
-    "lat": 53.4179,
-    "lon": -113.5785,
-    "timezone": "America/Edmonton",
-    "isp": "Shaw Communications",
-    "org": "Shaw Communications Inc.",
-    "as": "AS6327 Shaw Communications",
-    "query": "68.149.154.94"
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Siheung-si",
+    "zip": "151",
+    "lat": 37.3925,
+    "lon": 126.7854,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "SK Broadband Co Ltd",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "219.248.93.154"
   },
   "184.82.218.132": {
     "status": "success",
@@ -591,22 +559,6 @@
     "as": "AS18403 FPT Telecom Company",
     "query": "42.112.179.237"
   },
-  "116.123.228.25": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "28",
-    "regionName": "Incheon",
-    "city": "Incheon",
-    "zip": "222",
-    "lat": 37.4503,
-    "lon": 126.6701,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "116.123.228.25"
-  },
   "49.166.203.172": {
     "status": "success",
     "country": "South Korea",
@@ -622,5 +574,21 @@
     "org": "LG POWERCOMM",
     "as": "AS17858 LG POWERCOMM",
     "query": "49.166.203.172"
+  },
+  "86.97.103.118": {
+    "status": "success",
+    "country": "United Arab Emirates",
+    "countryCode": "AE",
+    "region": "DU",
+    "regionName": "Dubai",
+    "city": "Dubai",
+    "zip": "",
+    "lat": 25.0734,
+    "lon": 55.2979,
+    "timezone": "Asia/Dubai",
+    "isp": "Emirates Telecommunications Corporation",
+    "org": "Etisalat",
+    "as": "AS5384 Emirates Internet",
+    "query": "86.97.103.118"
   }
 }
