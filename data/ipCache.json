@@ -399,22 +399,6 @@
     "as": "AS9316 DACOM-PUBNETPLUS",
     "query": "122.203.244.115"
   },
-  "124.47.218.84": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Azamino",
-    "zip": "225-0011",
-    "lat": 35.5613,
-    "lon": 139.5495,
-    "timezone": "Asia/Tokyo",
-    "isp": "TOKAI Communications Corporation",
-    "org": "TOKAI",
-    "as": "AS10010 TOKAI Communications Corporation",
-    "query": "124.47.218.84"
-  },
   "182.224.28.246": {
     "status": "success",
     "country": "South Korea",
@@ -430,6 +414,22 @@
     "org": "Xpeed",
     "as": "AS17858 LG POWERCOMM",
     "query": "182.224.28.246"
+  },
+  "124.47.218.84": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Azamino",
+    "zip": "225-0011",
+    "lat": 35.5613,
+    "lon": 139.5495,
+    "timezone": "Asia/Tokyo",
+    "isp": "TOKAI Communications Corporation",
+    "org": "TOKAI",
+    "as": "AS10010 TOKAI Communications Corporation",
+    "query": "124.47.218.84"
   },
   "126.145.190.37": {
     "status": "success",
@@ -478,22 +478,6 @@
     "org": "Sony Network Communications Inc.",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "92.203.159.128"
-  },
-  "222.109.180.8": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Seongdong-gu",
-    "zip": "047",
-    "lat": 37.5511,
-    "lon": 127.0387,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Sudogwonseobubonbu",
-    "as": "AS4766 Korea Telecom",
-    "query": "222.109.180.8"
   },
   "182.52.126.204": {
     "status": "success",
@@ -575,21 +559,37 @@
     "as": "AS4766 Korea Telecom",
     "query": "59.16.137.225"
   },
-  "211.37.56.176": {
+  "112.184.70.55": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Seongdong-gu",
-    "zip": "047",
-    "lat": 37.5511,
-    "lon": 127.0387,
+    "region": "45",
+    "regionName": "Jeollabuk-do",
+    "city": "Jeonju",
+    "zip": "549",
+    "lat": 35.8345,
+    "lon": 127.1057,
     "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "211.37.56.176"
+    "isp": "Korea Telecom",
+    "org": "Korea Telecom",
+    "as": "AS4766 Korea Telecom",
+    "query": "112.184.70.55"
+  },
+  "59.27.193.162": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "44",
+    "regionName": "Chungcheongnam-do",
+    "city": "Cheonan",
+    "zip": "311",
+    "lat": 36.8151,
+    "lon": 127.0944,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "59.27.193.162"
   },
   "58.150.189.252": {
     "status": "success",
@@ -606,21 +606,5 @@
     "org": "Boranet",
     "as": "AS3786 LG DACOM Corporation",
     "query": "58.150.189.252"
-  },
-  "106.242.179.250": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Seodaemun-gu",
-    "zip": "037",
-    "lat": 37.5551,
-    "lon": 126.9369,
-    "timezone": "Asia/Seoul",
-    "isp": "LG DACOM Corporation",
-    "org": "Boranet",
-    "as": "AS3786 LG DACOM Corporation",
-    "query": "106.242.179.250"
   }
 }
