@@ -351,22 +351,6 @@
     "as": "AS17858 LG POWERCOMM",
     "query": "116.34.216.160"
   },
-  "91.219.203.117": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PER",
-    "regionName": "Perm Krai",
-    "city": "Lys'va",
-    "zip": "618900",
-    "lat": 58.1004,
-    "lon": 57.8043,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "KVARTAL",
-    "org": "Lukjanova Lydia Andreevna PE",
-    "as": "AS59533 Lukyanov Evgeniy Vladimirovich PE",
-    "query": "91.219.203.117"
-  },
   "95.188.52.97": {
     "status": "success",
     "country": "Russia",
@@ -382,6 +366,22 @@
     "org": "OJSC Sibirtelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "95.188.52.97"
+  },
+  "91.219.203.117": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PER",
+    "regionName": "Perm Krai",
+    "city": "Lys'va",
+    "zip": "618900",
+    "lat": 58.1004,
+    "lon": 57.8043,
+    "timezone": "Asia/Yekaterinburg",
+    "isp": "KVARTAL",
+    "org": "Lukjanova Lydia Andreevna PE",
+    "as": "AS59533 Lukyanov Evgeniy Vladimirovich PE",
+    "query": "91.219.203.117"
   },
   "218.154.111.211": {
     "status": "success",
