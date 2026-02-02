@@ -319,22 +319,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.153.147.72"
   },
-  "175.193.243.22": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Seongnam-si",
-    "zip": "13606",
-    "lat": 37.3654,
-    "lon": 127.122,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "175.193.243.22"
-  },
   "219.75.211.89": {
     "status": "success",
     "country": "Japan",
@@ -399,21 +383,21 @@
     "as": "AS17858 LG POWERCOMM",
     "query": "116.34.216.160"
   },
-  "122.208.249.174": {
+  "91.219.203.117": {
     "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0071",
-    "lat": 35.6837,
-    "lon": 139.6805,
-    "timezone": "Asia/Tokyo",
-    "isp": "ARTERIA Networks Corporation",
-    "org": "UCOM Corporation",
-    "as": "AS17506 ARTERIA Networks Corporation",
-    "query": "122.208.249.174"
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PER",
+    "regionName": "Perm Krai",
+    "city": "Lys'va",
+    "zip": "618900",
+    "lat": 58.1004,
+    "lon": 57.8043,
+    "timezone": "Asia/Yekaterinburg",
+    "isp": "KVARTAL",
+    "org": "Lukjanova Lydia Andreevna PE",
+    "as": "AS59533 Lukyanov Evgeniy Vladimirovich PE",
+    "query": "91.219.203.117"
   },
   "95.188.52.97": {
     "status": "success",
@@ -575,6 +559,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "210.90.134.191"
   },
+  "42.113.89.213": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "SG",
+    "regionName": "Ho Chi Minh",
+    "city": "Ho Chi Minh City",
+    "zip": "700000",
+    "lat": 10.822,
+    "lon": 106.6257,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "isp": "FPT Telecom Company",
+    "org": "FPTDYNAMICIP",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "42.113.89.213"
+  },
   "117.55.150.209": {
     "status": "success",
     "country": "South Korea",
@@ -670,5 +670,21 @@
     "org": "Vietnam Internet Network Information Center",
     "as": "AS18403 FPT Telecom Company",
     "query": "42.115.84.154"
+  },
+  "211.202.214.160": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Seoul",
+    "zip": "04524",
+    "lat": 37.5658,
+    "lon": 126.978,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "SK Broadband Co Ltd",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "211.202.214.160"
   }
 }
