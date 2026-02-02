@@ -239,21 +239,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "118.33.153.180"
   },
-  "219.100.37.50": {
+  "119.24.254.96": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
+    "region": "28",
+    "regionName": "Hyōgo",
+    "city": "Kobe",
+    "zip": "650-0011",
+    "lat": 34.6922,
+    "lon": 135.1816,
     "timezone": "Asia/Tokyo",
-    "isp": "SoftEther",
-    "org": "SoftEther Corporation",
-    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.50"
+    "isp": "HCT",
+    "org": "Jupiter Telecommunications Co., Ltd.",
+    "as": "AS9617 JCOM Co., Ltd.",
+    "query": "119.24.254.96"
   },
   "222.98.176.199": {
     "status": "success",
@@ -286,22 +286,6 @@
     "org": "Japan Nation-wide Network of Softbank Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "60.120.20.164"
-  },
-  "119.24.254.96": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "28",
-    "regionName": "Hyōgo",
-    "city": "Kobe",
-    "zip": "650-0011",
-    "lat": 34.6922,
-    "lon": 135.1816,
-    "timezone": "Asia/Tokyo",
-    "isp": "HCT",
-    "org": "Jupiter Telecommunications Co., Ltd.",
-    "as": "AS9617 JCOM Co., Ltd.",
-    "query": "119.24.254.96"
   },
   "42.112.13.234": {
     "status": "success",
@@ -350,6 +334,22 @@
     "org": "",
     "as": "AS133481 AIS Fibre",
     "query": "58.136.178.21"
+  },
+  "42.127.224.34": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "11",
+    "regionName": "Saitama",
+    "city": "Chūō",
+    "zip": "335-0001",
+    "lat": 35.8292,
+    "lon": 139.6789,
+    "timezone": "Asia/Tokyo",
+    "isp": "TOKAI Communications Corporation",
+    "org": "TOKAI Communications Corporation",
+    "as": "AS10010 TOKAI Communications Corporation",
+    "query": "42.127.224.34"
   },
   "27.139.122.85": {
     "status": "success",
@@ -415,22 +415,6 @@
     "as": "AS17858 LG POWERCOMM",
     "query": "182.224.28.246"
   },
-  "124.47.218.84": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Azamino",
-    "zip": "225-0011",
-    "lat": 35.5613,
-    "lon": 139.5495,
-    "timezone": "Asia/Tokyo",
-    "isp": "TOKAI Communications Corporation",
-    "org": "TOKAI",
-    "as": "AS10010 TOKAI Communications Corporation",
-    "query": "124.47.218.84"
-  },
   "126.145.190.37": {
     "status": "success",
     "country": "Japan",
@@ -463,22 +447,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "92.203.159.128"
   },
-  "211.204.251.153": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "28",
-    "regionName": "Incheon",
-    "city": "Namdong-gu",
-    "zip": "216",
-    "lat": 37.4135,
-    "lon": 126.7153,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "SK Broadband Co Ltd",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "211.204.251.153"
-  },
   "182.52.126.204": {
     "status": "success",
     "country": "Thailand",
@@ -494,6 +462,22 @@
     "org": "TOT Public Company Limited",
     "as": "AS23969 TOT Public Company Limited",
     "query": "182.52.126.204"
+  },
+  "211.204.251.153": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "28",
+    "regionName": "Incheon",
+    "city": "Namdong-gu",
+    "zip": "216",
+    "lat": 37.4135,
+    "lon": 126.7153,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "SK Broadband Co Ltd",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "211.204.251.153"
   },
   "153.144.240.2": {
     "status": "success",
@@ -622,21 +606,5 @@
     "org": "Boranet",
     "as": "AS3786 LG DACOM Corporation",
     "query": "106.242.179.250"
-  },
-  "95.170.177.6": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KYA",
-    "regionName": "Krasnoyarsk Krai",
-    "city": "Krasnoyarsk",
-    "zip": "660049",
-    "lat": 56.0374,
-    "lon": 92.9314,
-    "timezone": "Asia/Krasnoyarsk",
-    "isp": "Axioma, LLC",
-    "org": "Axioma, LLC",
-    "as": "AS39785 Axioma, LLC",
-    "query": "95.170.177.6"
   }
 }
