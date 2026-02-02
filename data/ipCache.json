@@ -575,6 +575,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "221.161.133.98"
   },
+  "110.10.127.39": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "27",
+    "regionName": "Daegu",
+    "city": "Dalseong-gun",
+    "zip": "430",
+    "lat": 35.6557,
+    "lon": 128.4127,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "SK Broadband Co Ltd",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "110.10.127.39"
+  },
   "86.102.254.44": {
     "status": "success",
     "country": "Russia",
@@ -590,22 +606,6 @@
     "org": "",
     "as": "AS12389 PJSC Rostelecom",
     "query": "86.102.254.44"
-  },
-  "128.134.86.61": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Jongno-gu",
-    "zip": "030",
-    "lat": 37.613,
-    "lon": 126.9623,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "128.134.86.61"
   },
   "42.115.84.154": {
     "status": "success",
