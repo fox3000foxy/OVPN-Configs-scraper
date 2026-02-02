@@ -255,21 +255,21 @@
     "as": "AS41682 JSC ER-Telecom Holding",
     "query": "188.186.186.127"
   },
-  "46.243.3.192": {
+  "222.4.112.69": {
     "status": "success",
-    "country": "The Netherlands",
-    "countryCode": "NL",
-    "region": "NH",
-    "regionName": "North Holland",
-    "city": "Amsterdam",
-    "zip": "1012",
-    "lat": 52.3759,
-    "lon": 4.8975,
-    "timezone": "Europe/Amsterdam",
-    "isp": "NKtelecom INC",
-    "org": "NKtelecom INC",
-    "as": "AS216475 NKtelecom INC",
-    "query": "46.243.3.192"
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "34",
+    "regionName": "Hiroshima",
+    "city": "Fukuyama",
+    "zip": "720-0841",
+    "lat": 34.4804,
+    "lon": 133.3716,
+    "timezone": "Asia/Tokyo",
+    "isp": "DION (KDDI CORPORATION)",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "222.4.112.69"
   },
   "217.175.14.88": {
     "status": "success",
@@ -335,22 +335,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "14.47.68.28"
   },
-  "42.119.41.29": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "HN",
-    "regionName": "Hanoi",
-    "city": "Hanoi",
-    "zip": "100000",
-    "lat": 21.0184,
-    "lon": 105.8461,
-    "timezone": "Asia/Bangkok",
-    "isp": "FPT Telecom Company",
-    "org": "Vietnam Internet Network Information Center",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "42.119.41.29"
-  },
   "144.31.67.136": {
     "status": "success",
     "country": "Finland",
@@ -398,6 +382,22 @@
     "org": "JSC Rostelecom regional branch Siberia",
     "as": "AS12389 PJSC Rostelecom",
     "query": "176.210.210.55"
+  },
+  "42.119.41.29": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "HN",
+    "regionName": "Hanoi",
+    "city": "Hanoi",
+    "zip": "100000",
+    "lat": 21.0184,
+    "lon": 105.8461,
+    "timezone": "Asia/Bangkok",
+    "isp": "FPT Telecom Company",
+    "org": "Vietnam Internet Network Information Center",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "42.119.41.29"
   },
   "90.189.217.65": {
     "status": "success",
@@ -478,6 +478,22 @@
     "org": "",
     "as": "AS133481 AIS Fibre",
     "query": "184.22.23.231"
+  },
+  "184.22.8.169": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "10",
+    "regionName": "Bangkok",
+    "city": "Bangkok",
+    "zip": "10400",
+    "lat": 13.7618,
+    "lon": 100.5324,
+    "timezone": "Asia/Bangkok",
+    "isp": "AIS-Fibre",
+    "org": "",
+    "as": "AS133481 AIS Fibre",
+    "query": "184.22.8.169"
   },
   "220.122.218.2": {
     "status": "success",
