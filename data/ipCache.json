@@ -79,22 +79,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.16"
   },
-  "138.229.146.94": {
-    "status": "success",
-    "country": "United States",
-    "countryCode": "US",
-    "region": "CA",
-    "regionName": "California",
-    "city": "Hesperia",
-    "zip": "92345",
-    "lat": 34.4179,
-    "lon": -117.3064,
-    "timezone": "America/Los_Angeles",
-    "isp": "Charter Communications",
-    "org": "Spectrum",
-    "as": "AS20115 Charter Communications LLC",
-    "query": "138.229.146.94"
-  },
   "219.100.37.208": {
     "status": "success",
     "country": "Japan",
@@ -158,6 +142,22 @@
     "org": "Japan Nation-wide Network of Softbank Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "60.113.239.82"
+  },
+  "122.210.185.27": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Yokohama",
+    "zip": "231-0841",
+    "lat": 35.4337,
+    "lon": 139.6499,
+    "timezone": "Asia/Tokyo",
+    "isp": "ARTERIA Networks Corporation",
+    "org": "UCOM Corporation",
+    "as": "AS17506 ARTERIA Networks Corporation",
+    "query": "122.210.185.27"
   },
   "131.147.142.132": {
     "status": "success",
@@ -255,22 +255,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.102"
   },
-  "121.186.28.217": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "45",
-    "regionName": "Jeollabuk-do",
-    "city": "Jeonju",
-    "zip": "550",
-    "lat": 35.8014,
-    "lon": 127.1076,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Korea Telecom",
-    "as": "AS4766 Korea Telecom",
-    "query": "121.186.28.217"
-  },
   "219.100.37.50": {
     "status": "success",
     "country": "Japan",
@@ -334,22 +318,6 @@
     "org": "K-Opticom Corporation",
     "as": "AS17511 OPTAGE Inc.",
     "query": "219.75.211.89"
-  },
-  "171.7.79.85": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "10",
-    "regionName": "Bangkok",
-    "city": "Bangkok",
-    "zip": "10120",
-    "lat": 13.7101,
-    "lon": 100.4543,
-    "timezone": "Asia/Bangkok",
-    "isp": "Triple T Broadband Public Company Limited",
-    "org": "Triple T Broadband Public Company Limited",
-    "as": "AS45758 Triple T Broadband Public Company Limited",
-    "query": "171.7.79.85"
   },
   "219.126.126.150": {
     "status": "success",
@@ -559,6 +527,22 @@
     "as": "AS18403 FPT Telecom Company",
     "query": "42.117.41.156"
   },
+  "121.164.172.243": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Yangju",
+    "zip": "114",
+    "lat": 37.8119,
+    "lon": 127.08,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "121.164.172.243"
+  },
   "210.90.134.191": {
     "status": "success",
     "country": "South Korea",
@@ -686,5 +670,53 @@
     "org": "Vietnam Internet Network Information Center",
     "as": "AS18403 FPT Telecom Company",
     "query": "42.115.84.154"
+  },
+  "218.235.89.115": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Yongsan-gu",
+    "zip": "044",
+    "lat": 37.5157,
+    "lon": 126.9702,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "218.235.89.115"
+  },
+  "77.34.92.127": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Vladivostok",
+    "zip": "690001",
+    "lat": 43.1068,
+    "lon": 131.8692,
+    "timezone": "Asia/Vladivostok",
+    "isp": "Rostelecom networks",
+    "org": "",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "77.34.92.127"
+  },
+  "45.140.95.66": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KHA",
+    "regionName": "Khabarovsk",
+    "city": "Khabarovsk",
+    "zip": "680000",
+    "lat": 48.4817,
+    "lon": 135.083,
+    "timezone": "Asia/Vladivostok",
+    "isp": "JSC \"Redcom-lnternet\"",
+    "org": "Redcom Retail Services",
+    "as": "AS8749 JSC Redcom-lnternet",
+    "query": "45.140.95.66"
   }
 }
