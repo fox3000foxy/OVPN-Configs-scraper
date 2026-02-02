@@ -191,21 +191,21 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.11.90.241"
   },
-  "103.152.178.62": {
+  "14.42.68.244": {
     "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-0001",
-    "lat": 35.694,
-    "lon": 139.754,
-    "timezone": "Asia/Tokyo",
-    "isp": "Ayao Takata",
-    "org": "SDCC-East01",
-    "as": "AS38074 SDCC Japan-West Area",
-    "query": "103.152.178.62"
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Goyang-si",
+    "zip": "103",
+    "lat": 37.6792,
+    "lon": 126.8183,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "14.42.68.244"
   },
   "219.100.37.50": {
     "status": "success",
@@ -223,21 +223,37 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.50"
   },
-  "1.66.34.134": {
+  "103.152.178.62": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Osaka",
-    "zip": "530-0041",
-    "lat": 34.6967,
-    "lon": 135.5154,
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-0001",
+    "lat": 35.694,
+    "lon": 139.754,
     "timezone": "Asia/Tokyo",
-    "isp": "NTT Docomo, inc.",
-    "org": "NTTDoCoMo",
-    "as": "AS9605 NTT DOCOMO, INC.",
-    "query": "1.66.34.134"
+    "isp": "Ayao Takata",
+    "org": "SDCC-East01",
+    "as": "AS38074 SDCC Japan-West Area",
+    "query": "103.152.178.62"
+  },
+  "188.186.186.127": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "TYU",
+    "regionName": "Tyumen Oblast",
+    "city": "Zavodoukovsk",
+    "zip": "627142",
+    "lat": 56.5072,
+    "lon": 66.5491,
+    "timezone": "Asia/Yekaterinburg",
+    "isp": "JSC \"ER-Telecom Holding\"",
+    "org": "JSC \"ER-Telecom Holding\" Tyumen' branch",
+    "as": "AS41682 JSC ER-Telecom Holding",
+    "query": "188.186.186.127"
   },
   "211.44.188.45": {
     "status": "success",
@@ -270,38 +286,6 @@
     "org": "DION (KDDI CORPORATION)",
     "as": "AS18126 Chubu Telecommunications Company, Inc.",
     "query": "113.155.82.28"
-  },
-  "188.186.186.127": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "TYU",
-    "regionName": "Tyumen Oblast",
-    "city": "Zavodoukovsk",
-    "zip": "627142",
-    "lat": 56.5072,
-    "lon": 66.5491,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "JSC \"ER-Telecom Holding\"",
-    "org": "JSC \"ER-Telecom Holding\" Tyumen' branch",
-    "as": "AS41682 JSC ER-Telecom Holding",
-    "query": "188.186.186.127"
-  },
-  "126.79.216.134": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "08",
-    "regionName": "Ibaraki",
-    "city": "Tsukuba",
-    "zip": "305-0811",
-    "lat": 36.0833,
-    "lon": 140.117,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.79.216.134"
   },
   "1.55.20.162": {
     "status": "success",
@@ -350,6 +334,22 @@
     "org": "Vietnam Internet Network Information Center",
     "as": "AS18403 FPT Telecom Company",
     "query": "42.119.41.29"
+  },
+  "222.237.109.55": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Seoul",
+    "zip": "04524",
+    "lat": 37.5658,
+    "lon": 126.978,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "SK Broadband Co Ltd",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "222.237.109.55"
   },
   "222.109.172.35": {
     "status": "success",
@@ -527,6 +527,22 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "118.240.3.52"
   },
+  "218.38.253.108": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Yongin-si",
+    "zip": "169",
+    "lat": 37.298,
+    "lon": 127.0777,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "218.38.253.108"
+  },
   "221.166.252.60": {
     "status": "success",
     "country": "South Korea",
@@ -558,22 +574,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "169.212.0.150"
-  },
-  "219.100.26.85": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "40",
-    "regionName": "Fukuoka",
-    "city": "Kitaku",
-    "zip": "807-1154",
-    "lat": 33.7937,
-    "lon": 130.687,
-    "timezone": "Asia/Tokyo",
-    "isp": "JPNIC",
-    "org": "",
-    "as": "AS18134 JCOM Co., Ltd.",
-    "query": "219.100.26.85"
   },
   "220.100.45.229": {
     "status": "success",
@@ -655,6 +655,22 @@
     "as": "AS3786 LG DACOM Corporation",
     "query": "106.250.249.67"
   },
+  "122.248.108.4": {
+    "status": "success",
+    "country": "Myanmar",
+    "countryCode": "MM",
+    "region": "04",
+    "regionName": "Mandalay Region",
+    "city": "Amarapura",
+    "zip": "",
+    "lat": 21.9071,
+    "lon": 96.0489,
+    "timezone": "Asia/Yangon",
+    "isp": "Yatanarpon Teleport Company Limited",
+    "org": "",
+    "as": "AS131322 Yatanarpon Teleport Company Limited",
+    "query": "122.248.108.4"
+  },
   "87.225.82.202": {
     "status": "success",
     "country": "Russia",
@@ -670,37 +686,5 @@
     "org": "",
     "as": "AS12389 PJSC Rostelecom",
     "query": "87.225.82.202"
-  },
-  "5.166.213.161": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "NIZ",
-    "regionName": "Nizhny Novgorod Oblast",
-    "city": "Nizhniy Novgorod",
-    "zip": "603000",
-    "lat": 56.3327,
-    "lon": 44.0012,
-    "timezone": "Europe/Moscow",
-    "isp": "CJSC \"ER-Telecom Holding\" Nizhny Novgorod branch",
-    "org": "JSC \"ER-Telecom Holding\" Nizhny Novgorod",
-    "as": "AS42682 JSC ER-Telecom Holding",
-    "query": "5.166.213.161"
-  },
-  "89.254.195.193": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KLU",
-    "regionName": "Kaluga Oblast",
-    "city": "Kirov",
-    "zip": "302530",
-    "lat": 54.072,
-    "lon": 34.2901,
-    "timezone": "Europe/Moscow",
-    "isp": "PJSC Rostelecom",
-    "org": "Adsl Kirov",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "89.254.195.193"
   }
 }
