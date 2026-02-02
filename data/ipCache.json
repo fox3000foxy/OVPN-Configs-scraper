@@ -159,22 +159,6 @@
     "as": "AS17506 ARTERIA Networks Corporation",
     "query": "122.210.185.27"
   },
-  "59.139.128.191": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "02",
-    "regionName": "Aomori",
-    "city": "Kuroishi",
-    "zip": "036-0351",
-    "lat": 40.6485,
-    "lon": 140.5872,
-    "timezone": "Asia/Tokyo",
-    "isp": "DION (KDDI CORPORATION)",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "59.139.128.191"
-  },
   "221.151.151.230": {
     "status": "success",
     "country": "South Korea",
@@ -190,6 +174,22 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "221.151.151.230"
+  },
+  "59.139.128.191": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "02",
+    "regionName": "Aomori",
+    "city": "Kuroishi",
+    "zip": "036-0351",
+    "lat": 40.6485,
+    "lon": 140.5872,
+    "timezone": "Asia/Tokyo",
+    "isp": "DION (KDDI CORPORATION)",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "59.139.128.191"
   },
   "131.147.142.132": {
     "status": "success",
@@ -431,21 +431,21 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.117.63.212"
   },
-  "113.144.29.135": {
+  "125.11.142.129": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Nakano City",
-    "zip": "164-0011",
-    "lat": 35.7027,
-    "lon": 139.6749,
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Sakai",
+    "zip": "590-0971",
+    "lat": 34.5963,
+    "lon": 135.4868,
     "timezone": "Asia/Tokyo",
-    "isp": "DION (KDDI CORPORATION)",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "113.144.29.135"
+    "isp": "JCOM Co",
+    "org": "JCOM Co., Ltd",
+    "as": "AS9824 JCOM Co., Ltd.",
+    "query": "125.11.142.129"
   },
   "211.206.71.126": {
     "status": "success",
@@ -462,6 +462,22 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "211.206.71.126"
+  },
+  "113.144.29.135": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Nakano City",
+    "zip": "164-0011",
+    "lat": 35.7027,
+    "lon": 139.6749,
+    "timezone": "Asia/Tokyo",
+    "isp": "DION (KDDI CORPORATION)",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "113.144.29.135"
   },
   "119.175.138.175": {
     "status": "success",
@@ -575,22 +591,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "221.161.133.98"
   },
-  "110.10.127.39": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "27",
-    "regionName": "Daegu",
-    "city": "Dalseong-gun",
-    "zip": "430",
-    "lat": 35.6557,
-    "lon": 128.4127,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "SK Broadband Co Ltd",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "110.10.127.39"
-  },
   "86.102.254.44": {
     "status": "success",
     "country": "Russia",
@@ -606,6 +606,22 @@
     "org": "",
     "as": "AS12389 PJSC Rostelecom",
     "query": "86.102.254.44"
+  },
+  "128.134.86.61": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Jongno-gu",
+    "zip": "030",
+    "lat": 37.613,
+    "lon": 126.9623,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "128.134.86.61"
   },
   "42.115.84.154": {
     "status": "success",
@@ -702,5 +718,21 @@
     "org": "",
     "as": "AS12389 PJSC Rostelecom",
     "query": "77.34.92.127"
+  },
+  "45.140.95.66": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KHA",
+    "regionName": "Khabarovsk",
+    "city": "Khabarovsk",
+    "zip": "680000",
+    "lat": 48.4817,
+    "lon": 135.083,
+    "timezone": "Asia/Vladivostok",
+    "isp": "JSC \"Redcom-lnternet\"",
+    "org": "Redcom Retail Services",
+    "as": "AS8749 JSC Redcom-lnternet",
+    "query": "45.140.95.66"
   }
 }
