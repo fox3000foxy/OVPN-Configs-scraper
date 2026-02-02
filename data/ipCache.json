@@ -191,21 +191,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "221.151.151.230"
   },
-  "131.147.142.132": {
+  "1.246.154.63": {
     "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Wada",
-    "zip": "166-0011",
-    "lat": 35.6945,
-    "lon": 139.6524,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "131.147.142.132"
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "43",
+    "regionName": "North Chungcheong",
+    "city": "Cheongju-si",
+    "zip": "284",
+    "lat": 36.637,
+    "lon": 127.4339,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "SK Broadband Co Ltd",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "1.246.154.63"
   },
   "103.152.178.62": {
     "status": "success",
@@ -222,22 +222,6 @@
     "org": "SDCC-East01",
     "as": "AS38074 SDCC Japan-West Area",
     "query": "103.152.178.62"
-  },
-  "1.246.154.63": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "43",
-    "regionName": "North Chungcheong",
-    "city": "Cheongju-si",
-    "zip": "284",
-    "lat": 36.637,
-    "lon": 127.4339,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "SK Broadband Co Ltd",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "1.246.154.63"
   },
   "219.100.37.102": {
     "status": "success",
@@ -270,22 +254,6 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.50"
-  },
-  "115.22.171.164": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "26",
-    "regionName": "Busan",
-    "city": "Busan",
-    "zip": "472",
-    "lat": 35.1659,
-    "lon": 129.0542,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "115.22.171.164"
   },
   "219.75.211.89": {
     "status": "success",
@@ -335,6 +303,22 @@
     "as": "AS17858 LG POWERCOMM",
     "query": "116.34.216.160"
   },
+  "60.114.131.43": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.114.131.43"
+  },
   "218.154.111.211": {
     "status": "success",
     "country": "South Korea",
@@ -383,21 +367,37 @@
     "as": "AS59533 Lukyanov Evgeniy Vladimirovich PE",
     "query": "91.219.203.117"
   },
-  "102.23.168.42": {
+  "125.30.20.236": {
     "status": "success",
-    "country": "South Africa",
-    "countryCode": "ZA",
-    "region": "WC",
-    "regionName": "Western Cape",
-    "city": "Century City",
-    "zip": "7405",
-    "lat": -33.8912,
-    "lon": 18.5127,
-    "timezone": "Africa/Johannesburg",
-    "isp": "IP Labs Communications (Pty) Ltd",
-    "org": "IPComms",
-    "as": "AS328242 IP Labs Communications (Pty) Ltd",
-    "query": "102.23.168.42"
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tokyo",
+    "zip": "151-0071",
+    "lat": 35.6837,
+    "lon": 139.6805,
+    "timezone": "Asia/Tokyo",
+    "isp": "Internet Initiative Japan Inc.",
+    "org": "Internet Initiative Japan Inc.",
+    "as": "AS2497 Internet Initiative Japan Inc.",
+    "query": "125.30.20.236"
+  },
+  "122.135.126.22": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Taitō City",
+    "zip": "110-0011",
+    "lat": 35.7284,
+    "lon": 139.7929,
+    "timezone": "Asia/Tokyo",
+    "isp": "NEC BIGLOBE Ltd.",
+    "org": "BIGLOBE",
+    "as": "AS2518 BIGLOBE Inc.",
+    "query": "122.135.126.22"
   },
   "60.117.63.212": {
     "status": "success",
@@ -414,6 +414,38 @@
     "org": "Japan Nation-wide Network of Softbank Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "60.117.63.212"
+  },
+  "102.23.168.42": {
+    "status": "success",
+    "country": "South Africa",
+    "countryCode": "ZA",
+    "region": "WC",
+    "regionName": "Western Cape",
+    "city": "Century City",
+    "zip": "7405",
+    "lat": -33.8912,
+    "lon": 18.5127,
+    "timezone": "Africa/Johannesburg",
+    "isp": "IP Labs Communications (Pty) Ltd",
+    "org": "IPComms",
+    "as": "AS328242 IP Labs Communications (Pty) Ltd",
+    "query": "102.23.168.42"
+  },
+  "125.11.142.129": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Sakai",
+    "zip": "590-0971",
+    "lat": 34.5963,
+    "lon": 135.4868,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM Co",
+    "org": "JCOM Co., Ltd",
+    "as": "AS9824 JCOM Co., Ltd.",
+    "query": "125.11.142.129"
   },
   "220.92.38.76": {
     "status": "success",
@@ -463,6 +495,22 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "113.144.29.135"
   },
+  "222.111.19.158": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Nowon-gu",
+    "zip": "018",
+    "lat": 37.6289,
+    "lon": 127.0648,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Korea Telecom",
+    "as": "AS4766 Korea Telecom",
+    "query": "222.111.19.158"
+  },
   "119.175.138.175": {
     "status": "success",
     "country": "Japan",
@@ -478,22 +526,6 @@
     "org": "JCOM Co., Ltd",
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "119.175.138.175"
-  },
-  "222.98.61.38": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Yongin-si",
-    "zip": "16940",
-    "lat": 37.298,
-    "lon": 127.0777,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "222.98.61.38"
   },
   "210.90.134.191": {
     "status": "success",
@@ -526,22 +558,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "121.164.172.243"
-  },
-  "117.55.150.209": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "47",
-    "regionName": "Gyeongsangbuk-do",
-    "city": "Gyeongsan-si",
-    "zip": "386",
-    "lat": 35.824,
-    "lon": 128.7304,
-    "timezone": "Asia/Seoul",
-    "isp": "CJ Hello Co",
-    "org": "HVDaegu",
-    "as": "AS9770 LG HelloVision Corp.",
-    "query": "117.55.150.209"
   },
   "221.161.133.98": {
     "status": "success",
@@ -655,21 +671,21 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "218.235.89.115"
   },
-  "58.224.66.30": {
+  "42.117.40.107": {
     "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Osan",
-    "zip": "181",
-    "lat": 37.1549,
-    "lon": 127.0674,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "58.224.66.30"
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "SG",
+    "regionName": "Ho Chi Minh",
+    "city": "Ho Chi Minh City",
+    "zip": "700000",
+    "lat": 10.822,
+    "lon": 106.6257,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "isp": "FPT Telecom Company",
+    "org": "FPTDYNAMICIP",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "42.117.40.107"
   },
   "222.238.181.128": {
     "status": "success",
@@ -718,21 +734,5 @@
     "org": "Redcom Retail Services",
     "as": "AS8749 JSC Redcom-lnternet",
     "query": "45.140.95.66"
-  },
-  "31.200.225.17": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PRI",
-    "regionName": "Primorye",
-    "city": "Nakhodka",
-    "zip": "692902",
-    "lat": 42.8318,
-    "lon": 132.9223,
-    "timezone": "Asia/Vladivostok",
-    "isp": "ISP Podryad Nets",
-    "org": "",
-    "as": "AS196949 Natalia Sergeevna Filicheva",
-    "query": "31.200.225.17"
   }
 }
