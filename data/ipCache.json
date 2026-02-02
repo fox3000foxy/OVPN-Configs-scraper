@@ -79,6 +79,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.15"
   },
+  "66.42.62.241": {
+    "status": "success",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "region": "05",
+    "regionName": "South West",
+    "city": "Singapore",
+    "zip": "627753",
+    "lat": 1.32123,
+    "lon": 103.695,
+    "timezone": "Asia/Singapore",
+    "isp": "SGP VULTR",
+    "org": "",
+    "as": "AS20473 The Constant Company, LLC",
+    "query": "66.42.62.241"
+  },
   "219.100.37.126": {
     "status": "success",
     "country": "Japan",
@@ -223,21 +239,21 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "153.166.46.229"
   },
-  "121.152.58.166": {
+  "121.142.148.62": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
-    "region": "44",
-    "regionName": "Chungcheongnam-do",
-    "city": "Cheonan",
-    "zip": "310",
-    "lat": 36.8242,
-    "lon": 127.1293,
+    "region": "28",
+    "regionName": "Incheon",
+    "city": "Incheon",
+    "zip": "21554",
+    "lat": 37.4585,
+    "lon": 126.7015,
     "timezone": "Asia/Seoul",
     "isp": "Korea Telecom",
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
-    "query": "121.152.58.166"
+    "query": "121.142.148.62"
   },
   "126.206.11.243": {
     "status": "success",
@@ -351,6 +367,22 @@
     "as": "AS17597 SK Broadband Co Ltd",
     "query": "61.47.212.110"
   },
+  "219.147.27.214": {
+    "status": "success",
+    "country": "China",
+    "countryCode": "CN",
+    "region": "SD",
+    "regionName": "Shandong",
+    "city": "Jinan",
+    "zip": "250000",
+    "lat": 36.6518,
+    "lon": 117.12,
+    "timezone": "Asia/Shanghai",
+    "isp": "Chinanet",
+    "org": "Chinanet SD",
+    "as": "AS4134 CHINANET-BACKBONE",
+    "query": "219.147.27.214"
+  },
   "80.44.212.7": {
     "status": "success",
     "country": "United Kingdom",
@@ -414,22 +446,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "125.139.49.108"
-  },
-  "222.96.17.178": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "26",
-    "regionName": "Busan",
-    "city": "Buk-gu",
-    "zip": "466",
-    "lat": 35.1996,
-    "lon": 128.9874,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "nambusanjisajang(deiteosaeobyong)",
-    "as": "AS4766 Korea Telecom",
-    "query": "222.96.17.178"
   },
   "126.117.57.254": {
     "status": "success",
@@ -511,6 +527,22 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "222.227.165.89"
   },
+  "217.150.76.104": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Vladivostok",
+    "zip": "690001",
+    "lat": 43.1068,
+    "lon": 131.8692,
+    "timezone": "Asia/Vladivostok",
+    "isp": "ISP Podryad Nets",
+    "org": "",
+    "as": "AS196949 Natalia Sergeevna Filicheva",
+    "query": "217.150.76.104"
+  },
   "79.105.27.89": {
     "status": "success",
     "country": "Russia",
@@ -526,6 +558,22 @@
     "org": "OJSC Far Eastern Telecommunications Company",
     "as": "AS12389 PJSC Rostelecom",
     "query": "79.105.27.89"
+  },
+  "121.175.252.174": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Busan",
+    "zip": "479",
+    "lat": 35.1025,
+    "lon": 129.0394,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "121.175.252.174"
   },
   "175.214.152.6": {
     "status": "success",
