@@ -447,21 +447,21 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "77.35.150.75"
   },
-  "115.37.54.226": {
+  "94.19.155.164": {
     "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "23",
-    "regionName": "Aichi",
-    "city": "Nisshin",
-    "zip": "470-0111",
-    "lat": 35.1311,
-    "lon": 137.0756,
-    "timezone": "Asia/Tokyo",
-    "isp": "Chubu Telecommunications Company, Inc.",
-    "org": "Chubu Telecommunications Co., Inc.",
-    "as": "AS18126 Chubu Telecommunications Company, Inc.",
-    "query": "115.37.54.226"
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "SPE",
+    "regionName": "St.-Petersburg",
+    "city": "St Petersburg",
+    "zip": "190990",
+    "lat": 59.8983,
+    "lon": 30.2618,
+    "timezone": "Europe/Moscow",
+    "isp": "SkyNet LLC",
+    "org": "SkyNet Networks",
+    "as": "AS35807 SkyNet Ltd.",
+    "query": "94.19.155.164"
   },
   "176.210.210.55": {
     "status": "success",
@@ -479,22 +479,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "176.210.210.55"
   },
-  "1.240.128.118": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Dobong-gu",
-    "zip": "014",
-    "lat": 37.639,
-    "lon": 127.034,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "1.240.128.118"
-  },
   "90.189.217.65": {
     "status": "success",
     "country": "Russia",
@@ -510,6 +494,22 @@
     "org": "OJSC Sibirtelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "90.189.217.65"
+  },
+  "1.240.128.118": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Dobong-gu",
+    "zip": "014",
+    "lat": 37.639,
+    "lon": 127.034,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "1.240.128.118"
   },
   "118.240.3.52": {
     "status": "success",
@@ -575,6 +575,38 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.174.247.158"
   },
+  "221.157.130.155": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "27",
+    "regionName": "Daegu",
+    "city": "Dalseo-gu",
+    "zip": "427",
+    "lat": 35.8475,
+    "lon": 128.4805,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Korea Telecom",
+    "as": "AS4766 Korea Telecom",
+    "query": "221.157.130.155"
+  },
+  "78.29.43.182": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "CHE",
+    "regionName": "Chelyabinsk Oblast",
+    "city": "Chelyabinsk",
+    "zip": "",
+    "lat": 55.1952,
+    "lon": 61.339,
+    "timezone": "Asia/Yekaterinburg",
+    "isp": "Intersvyaz-2 JSC",
+    "org": "Intersvyaz-2 JSC",
+    "as": "AS8369 Intersvyaz-2 JSC",
+    "query": "78.29.43.182"
+  },
   "211.179.65.97": {
     "status": "success",
     "country": "South Korea",
@@ -638,21 +670,5 @@
     "org": "",
     "as": "AS131322 Yatanarpon Teleport Company Limited",
     "query": "122.248.108.4"
-  },
-  "5.166.213.161": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "NIZ",
-    "regionName": "Nizhny Novgorod Oblast",
-    "city": "Nizhniy Novgorod",
-    "zip": "603000",
-    "lat": 56.3327,
-    "lon": 44.0012,
-    "timezone": "Europe/Moscow",
-    "isp": "CJSC \"ER-Telecom Holding\" Nizhny Novgorod branch",
-    "org": "JSC \"ER-Telecom Holding\" Nizhny Novgorod",
-    "as": "AS42682 JSC ER-Telecom Holding",
-    "query": "5.166.213.161"
   }
 }
