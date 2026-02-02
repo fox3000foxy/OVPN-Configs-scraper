@@ -239,22 +239,6 @@
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "119.173.41.25"
   },
-  "222.4.112.69": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "34",
-    "regionName": "Hiroshima",
-    "city": "Fukuyama",
-    "zip": "720-0841",
-    "lat": 34.4804,
-    "lon": 133.3716,
-    "timezone": "Asia/Tokyo",
-    "isp": "DION (KDDI CORPORATION)",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "222.4.112.69"
-  },
   "188.186.186.127": {
     "status": "success",
     "country": "Russia",
@@ -270,6 +254,22 @@
     "org": "JSC \"ER-Telecom Holding\" Tyumen' branch",
     "as": "AS41682 JSC ER-Telecom Holding",
     "query": "188.186.186.127"
+  },
+  "222.4.112.69": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "34",
+    "regionName": "Hiroshima",
+    "city": "Fukuyama",
+    "zip": "720-0841",
+    "lat": 34.4804,
+    "lon": 133.3716,
+    "timezone": "Asia/Tokyo",
+    "isp": "DION (KDDI CORPORATION)",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "222.4.112.69"
   },
   "217.175.14.88": {
     "status": "success",
