@@ -191,22 +191,6 @@
     "as": "AS18126 Chubu Telecommunications Company, Inc.",
     "query": "118.104.168.55"
   },
-  "126.88.128.168": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.88.128.168"
-  },
   "92.202.199.250": {
     "status": "success",
     "country": "Japan",
@@ -222,6 +206,22 @@
     "org": "Sony Network Communications Inc.",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "92.202.199.250"
+  },
+  "126.88.128.168": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.88.128.168"
   },
   "118.157.139.36": {
     "status": "success",
@@ -462,22 +462,6 @@
     "org": "LG POWERCOMM",
     "as": "AS17858 LG POWERCOMM",
     "query": "112.152.178.233"
-  },
-  "112.139.33.111": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "22",
-    "regionName": "Shizuoka",
-    "city": "Yaizu",
-    "zip": "425-8555",
-    "lat": 34.8564,
-    "lon": 138.279,
-    "timezone": "Asia/Tokyo",
-    "isp": "TOKAI Communications Corporation",
-    "org": "TOKAI",
-    "as": "AS10010 TOKAI Communications Corporation",
-    "query": "112.139.33.111"
   },
   "61.24.93.129": {
     "status": "success",
