@@ -159,22 +159,6 @@
     "as": "AS38074 SDCC Japan-West Area",
     "query": "103.152.178.62"
   },
-  "180.68.118.32": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "26",
-    "regionName": "Busan",
-    "city": "Busan",
-    "zip": "462",
-    "lat": 35.2582,
-    "lon": 129.0948,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "180.68.118.32"
-  },
   "211.221.198.244": {
     "status": "success",
     "country": "South Korea",
@@ -190,6 +174,22 @@
     "org": "sudogwonseobubonbu",
     "as": "AS4766 Korea Telecom",
     "query": "211.221.198.244"
+  },
+  "180.68.118.32": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Busan",
+    "zip": "462",
+    "lat": 35.2582,
+    "lon": 129.0948,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "180.68.118.32"
   },
   "211.185.142.92": {
     "status": "success",
@@ -223,6 +223,22 @@
     "as": "AS9605 NTT DOCOMO, INC.",
     "query": "1.66.34.134"
   },
+  "210.178.110.239": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "47",
+    "regionName": "Gyeongsangbuk-do",
+    "city": "Gumi",
+    "zip": "392",
+    "lat": 36.1135,
+    "lon": 128.343,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "210.178.110.239"
+  },
   "192.145.96.207": {
     "status": "success",
     "country": "Russia",
@@ -254,22 +270,6 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "114.206.223.158"
-  },
-  "210.178.110.239": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "47",
-    "regionName": "Gyeongsangbuk-do",
-    "city": "Gumi",
-    "zip": "392",
-    "lat": 36.1135,
-    "lon": 128.343,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "210.178.110.239"
   },
   "125.199.40.49": {
     "status": "success",
@@ -351,22 +351,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.121.145.32"
   },
-  "42.115.10.160": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "HN",
-    "regionName": "Hanoi",
-    "city": "Hanoi",
-    "zip": "100000",
-    "lat": 21.0184,
-    "lon": 105.8461,
-    "timezone": "Asia/Bangkok",
-    "isp": "FPT Telecom Company",
-    "org": "Vietnam Internet Network Information Center",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "42.115.10.160"
-  },
   "219.248.93.154": {
     "status": "success",
     "country": "South Korea",
@@ -382,6 +366,22 @@
     "org": "SK Broadband Co Ltd",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "219.248.93.154"
+  },
+  "42.115.10.160": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "HN",
+    "regionName": "Hanoi",
+    "city": "Hanoi",
+    "zip": "100000",
+    "lat": 21.0184,
+    "lon": 105.8461,
+    "timezone": "Asia/Bangkok",
+    "isp": "FPT Telecom Company",
+    "org": "Vietnam Internet Network Information Center",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "42.115.10.160"
   },
   "68.149.154.94": {
     "status": "success",
@@ -510,22 +510,6 @@
     "org": "NTT-ME Corporation",
     "as": "AS9595 NTT-ME Corporation",
     "query": "124.44.10.44"
-  },
-  "61.73.128.147": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Seoul",
-    "zip": "04524",
-    "lat": 37.5658,
-    "lon": 126.978,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Korea Telecom",
-    "as": "AS4766 Korea Telecom",
-    "query": "61.73.128.147"
   },
   "119.192.208.193": {
     "status": "success",
