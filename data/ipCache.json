@@ -351,22 +351,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "124.212.183.144"
   },
-  "176.210.210.55": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KEM",
-    "regionName": "Kemerovo Oblast",
-    "city": "Prokopyevsk",
-    "zip": "653017",
-    "lat": 53.9033,
-    "lon": 86.7138,
-    "timezone": "Asia/Novokuznetsk",
-    "isp": "JSC Rostelecom regional branch \"Siberia\"",
-    "org": "JSC Rostelecom regional branch Siberia",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "176.210.210.55"
-  },
   "42.119.41.29": {
     "status": "success",
     "country": "Vietnam",
@@ -382,6 +366,22 @@
     "org": "Vietnam Internet Network Information Center",
     "as": "AS18403 FPT Telecom Company",
     "query": "42.119.41.29"
+  },
+  "176.210.210.55": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KEM",
+    "regionName": "Kemerovo Oblast",
+    "city": "Prokopyevsk",
+    "zip": "653017",
+    "lat": 53.9033,
+    "lon": 86.7138,
+    "timezone": "Asia/Novokuznetsk",
+    "isp": "JSC Rostelecom regional branch \"Siberia\"",
+    "org": "JSC Rostelecom regional branch Siberia",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "176.210.210.55"
   },
   "90.189.217.65": {
     "status": "success",
@@ -463,22 +463,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.174.247.158"
   },
-  "211.193.209.77": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "26",
-    "regionName": "Busan",
-    "city": "Jwacheon-dong",
-    "zip": "601-826",
-    "lat": 35.1344,
-    "lon": 129.054,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "211.193.209.77"
-  },
   "184.22.23.231": {
     "status": "success",
     "country": "Thailand",
@@ -494,6 +478,22 @@
     "org": "",
     "as": "AS133481 AIS Fibre",
     "query": "184.22.23.231"
+  },
+  "211.193.209.77": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Jwacheon-dong",
+    "zip": "601-826",
+    "lat": 35.1344,
+    "lon": 129.054,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "211.193.209.77"
   },
   "60.126.10.156": {
     "status": "success",
@@ -782,5 +782,21 @@
     "org": "SkyNet Networks",
     "as": "AS35807 SkyNet Ltd.",
     "query": "93.100.133.225"
+  },
+  "37.23.139.6": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "ALT",
+    "regionName": "Altai Krai",
+    "city": "Barnaul",
+    "zip": "656002",
+    "lat": 53.362,
+    "lon": 83.7279,
+    "timezone": "Asia/Barnaul",
+    "isp": "JSC Rostelecom regional branch \"Siberia\"",
+    "org": "JSC Rostelecom regional branch Siberia",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "37.23.139.6"
   }
 }
