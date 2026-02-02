@@ -447,6 +447,22 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.117.57.254"
   },
+  "101.235.81.130": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Yangju",
+    "zip": "114",
+    "lat": 37.8119,
+    "lon": 127.08,
+    "timezone": "Asia/Seoul",
+    "isp": "DLIVE",
+    "org": "DLIVE Jungrang Cable TV",
+    "as": "AS10036 DLIVE",
+    "query": "101.235.81.130"
+  },
   "90.189.196.154": {
     "status": "success",
     "country": "Russia",
@@ -478,22 +494,6 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "218.236.101.224"
-  },
-  "101.235.81.130": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Yangju",
-    "zip": "114",
-    "lat": 37.8119,
-    "lon": 127.08,
-    "timezone": "Asia/Seoul",
-    "isp": "DLIVE",
-    "org": "DLIVE Jungrang Cable TV",
-    "as": "AS10036 DLIVE",
-    "query": "101.235.81.130"
   },
   "222.227.165.89": {
     "status": "success",
@@ -607,22 +607,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "114.201.110.166"
   },
-  "84.233.167.74": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Seoul",
-    "zip": "04524",
-    "lat": 37.5658,
-    "lon": 126.978,
-    "timezone": "Asia/Seoul",
-    "isp": "Datacamp Limited",
-    "org": "",
-    "as": "AS212238 Datacamp Limited",
-    "query": "84.233.167.74"
-  },
   "47.164.238.126": {
     "status": "success",
     "country": "United States",
@@ -638,6 +622,22 @@
     "org": "Frontier Communications Corporation",
     "as": "AS5650 Frontier Communications of America, Inc.",
     "query": "47.164.238.126"
+  },
+  "178.187.185.71": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "ALT",
+    "regionName": "Altai Krai",
+    "city": "Barnaul",
+    "zip": "656002",
+    "lat": 53.362,
+    "lon": 83.7279,
+    "timezone": "Asia/Barnaul",
+    "isp": "JSC Rostelecom regional branch \"Siberia\"",
+    "org": "Sibirtelecom Co.",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "178.187.185.71"
   },
   "46.42.179.168": {
     "status": "success",
