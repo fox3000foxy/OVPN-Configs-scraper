@@ -639,6 +639,22 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "188.17.97.38"
   },
+  "122.47.245.200": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Dongdaemun",
+    "zip": "026",
+    "lat": 37.5655,
+    "lon": 127.0753,
+    "timezone": "Asia/Seoul",
+    "isp": "LG POWERCOMM",
+    "org": "Xpeed",
+    "as": "AS17858 LG POWERCOMM",
+    "query": "122.47.245.200"
+  },
   "183.80.25.248": {
     "status": "success",
     "country": "Vietnam",
@@ -654,22 +670,6 @@
     "org": "",
     "as": "AS18403 FPT Telecom Company",
     "query": "183.80.25.248"
-  },
-  "185.25.18.17": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KGN",
-    "regionName": "Kurgan Oblast",
-    "city": "Kurgan",
-    "zip": "640000",
-    "lat": 55.4503,
-    "lon": 65.3288,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "MTS PJSC",
-    "org": "PJSC Mobile TeleSystems Kurgan branch",
-    "as": "AS43148 MTS PJSC",
-    "query": "185.25.18.17"
   },
   "130.255.48.81": {
     "status": "success",
