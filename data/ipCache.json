@@ -351,22 +351,6 @@
     "as": "AS17597 SK Broadband Co Ltd",
     "query": "61.47.212.110"
   },
-  "219.147.27.214": {
-    "status": "success",
-    "country": "China",
-    "countryCode": "CN",
-    "region": "SD",
-    "regionName": "Shandong",
-    "city": "Jinan",
-    "zip": "250000",
-    "lat": 36.6518,
-    "lon": 117.12,
-    "timezone": "Asia/Shanghai",
-    "isp": "Chinanet",
-    "org": "Chinanet SD",
-    "as": "AS4134 CHINANET-BACKBONE",
-    "query": "219.147.27.214"
-  },
   "80.44.212.7": {
     "status": "success",
     "country": "United Kingdom",
@@ -382,22 +366,6 @@
     "org": "TalkTalk Communications Limited",
     "as": "AS13285 TalkTalk Communications Limited",
     "query": "80.44.212.7"
-  },
-  "1.66.34.134": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Osaka",
-    "zip": "530-0041",
-    "lat": 34.6967,
-    "lon": 135.5154,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Docomo, inc.",
-    "org": "NTTDoCoMo",
-    "as": "AS9605 NTT DOCOMO, INC.",
-    "query": "1.66.34.134"
   },
   "77.82.17.179": {
     "status": "success",
@@ -558,22 +526,6 @@
     "org": "OJSC Far Eastern Telecommunications Company",
     "as": "AS12389 PJSC Rostelecom",
     "query": "79.105.27.89"
-  },
-  "121.175.252.174": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "26",
-    "regionName": "Busan",
-    "city": "Busan",
-    "zip": "479",
-    "lat": 35.1025,
-    "lon": 129.0394,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "121.175.252.174"
   },
   "175.214.152.6": {
     "status": "success",
