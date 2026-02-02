@@ -351,6 +351,22 @@
     "as": "AS17597 SK Broadband Co Ltd",
     "query": "61.47.212.110"
   },
+  "219.147.27.214": {
+    "status": "success",
+    "country": "China",
+    "countryCode": "CN",
+    "region": "SD",
+    "regionName": "Shandong",
+    "city": "Jinan",
+    "zip": "250000",
+    "lat": 36.6518,
+    "lon": 117.12,
+    "timezone": "Asia/Shanghai",
+    "isp": "Chinanet",
+    "org": "Chinanet SD",
+    "as": "AS4134 CHINANET-BACKBONE",
+    "query": "219.147.27.214"
+  },
   "80.44.212.7": {
     "status": "success",
     "country": "United Kingdom",
