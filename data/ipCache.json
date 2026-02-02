@@ -575,6 +575,22 @@
     "as": "AS34896 Vostoktelecom Telephone Company Limited Liability Company",
     "query": "85.15.89.239"
   },
+  "92.127.103.123": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KEM",
+    "regionName": "Kemerovo Oblast",
+    "city": "Kiselëvsk",
+    "zip": "652701",
+    "lat": 53.99,
+    "lon": 86.6621,
+    "timezone": "Asia/Novokuznetsk",
+    "isp": "OJSC \"Sibirtelecom\"",
+    "org": "OJSC Sibirtelecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "92.127.103.123"
+  },
   "188.16.58.209": {
     "status": "success",
     "country": "Russia",
