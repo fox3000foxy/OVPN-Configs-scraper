@@ -143,6 +143,22 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "106.156.91.45"
   },
+  "60.36.150.117": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Miharadai",
+    "zip": "590-0111",
+    "lat": 34.4996,
+    "lon": 135.5485,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "NTT Communications Corporation",
+    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
+    "query": "60.36.150.117"
+  },
   "221.144.146.230": {
     "status": "success",
     "country": "South Korea",
@@ -239,37 +255,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "211.221.198.244"
   },
-  "115.65.23.149": {
+  "1.66.34.134": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0071",
-    "lat": 35.6837,
-    "lon": 139.6805,
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Osaka",
+    "zip": "530-0041",
+    "lat": 34.6967,
+    "lon": 135.5154,
     "timezone": "Asia/Tokyo",
-    "isp": "NTT-ME Corporation",
-    "org": "NTT-ME Corporation",
-    "as": "AS9595 NTT-ME Corporation",
-    "query": "115.65.23.149"
-  },
-  "211.192.121.212": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "42",
-    "regionName": "Gangwon-do",
-    "city": "Gangneung",
-    "zip": "254",
-    "lat": 37.7567,
-    "lon": 128.8443,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "KORNET",
-    "as": "AS4766 Korea Telecom",
-    "query": "211.192.121.212"
+    "isp": "NTT Docomo, inc.",
+    "org": "NTTDoCoMo",
+    "as": "AS9605 NTT DOCOMO, INC.",
+    "query": "1.66.34.134"
   },
   "192.145.96.207": {
     "status": "success",
@@ -287,22 +287,6 @@
     "as": "AS34858 Telezon-Seti LLC",
     "query": "192.145.96.207"
   },
-  "114.206.223.158": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "48",
-    "regionName": "Gyeongsangnam-do",
-    "city": "Yangsan",
-    "zip": "506",
-    "lat": 35.3447,
-    "lon": 129.0299,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "114.206.223.158"
-  },
   "180.230.179.174": {
     "status": "success",
     "country": "South Korea",
@@ -318,6 +302,22 @@
     "org": "LG POWERCOMM",
     "as": "AS17858 LG POWERCOMM",
     "query": "180.230.179.174"
+  },
+  "114.206.223.158": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "48",
+    "regionName": "Gyeongsangnam-do",
+    "city": "Yangsan",
+    "zip": "506",
+    "lat": 35.3447,
+    "lon": 129.0299,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "114.206.223.158"
   },
   "92.37.142.60": {
     "status": "success",
@@ -590,21 +590,5 @@
     "org": "TBROAD NakdongDongnamSeobusan",
     "as": "AS17857 SK Broadband Co Ltd",
     "query": "122.254.148.83"
-  },
-  "222.109.23.195": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Seongdong-gu",
-    "zip": "047",
-    "lat": 37.5511,
-    "lon": 127.0387,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "222.109.23.195"
   }
 }
