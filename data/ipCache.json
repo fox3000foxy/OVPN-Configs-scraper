@@ -143,22 +143,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "106.156.91.45"
   },
-  "114.35.64.20": {
-    "status": "success",
-    "country": "Taiwan",
-    "countryCode": "TW",
-    "region": "NWT",
-    "regionName": "New Taipei City",
-    "city": "New Taipei City",
-    "zip": "",
-    "lat": 25.0693,
-    "lon": 121.4626,
-    "timezone": "Asia/Taipei",
-    "isp": "Chunghwa Telecom Co., Ltd.",
-    "org": "Chunghwa Telecom Co. Ltd.",
-    "as": "AS3462 Data Communication Business Group",
-    "query": "114.35.64.20"
-  },
   "60.95.76.42": {
     "status": "success",
     "country": "Japan",
@@ -239,6 +223,38 @@
     "as": "AS4766 Korea Telecom",
     "query": "118.41.236.148"
   },
+  "222.109.124.1": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Dongdaemun",
+    "zip": "026",
+    "lat": 37.5655,
+    "lon": 127.0753,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Korea Telecom",
+    "as": "AS4766 Korea Telecom",
+    "query": "222.109.124.1"
+  },
+  "133.175.174.202": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chuo",
+    "zip": "103-0000",
+    "lat": 35.6812,
+    "lon": 139.774,
+    "timezone": "Asia/Tokyo",
+    "isp": "ARTERIA Networks Corporation",
+    "org": "Toray Industries, Inc.",
+    "as": "AS2519 ARTERIA Networks Corporation",
+    "query": "133.175.174.202"
+  },
   "211.205.56.227": {
     "status": "success",
     "country": "South Korea",
@@ -286,22 +302,6 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.50"
-  },
-  "222.109.124.1": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Dongdaemun",
-    "zip": "026",
-    "lat": 37.5655,
-    "lon": 127.0753,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Korea Telecom",
-    "as": "AS4766 Korea Telecom",
-    "query": "222.109.124.1"
   },
   "14.32.161.234": {
     "status": "success",
@@ -399,6 +399,22 @@
     "as": "AS17583 Keumgang Cable Network",
     "query": "182.237.221.37"
   },
+  "121.136.219.191": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Osan",
+    "zip": "181",
+    "lat": 37.1549,
+    "lon": 127.0674,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "121.136.219.191"
+  },
   "114.175.159.86": {
     "status": "success",
     "country": "Japan",
@@ -463,22 +479,6 @@
     "as": "AS48043 Ozyorsk Telecom CJSC.",
     "query": "185.190.42.79"
   },
-  "112.152.178.233": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Paju-si",
-    "zip": "10923",
-    "lat": 37.7562,
-    "lon": 126.7865,
-    "timezone": "Asia/Seoul",
-    "isp": "LG POWERCOMM",
-    "org": "LG POWERCOMM",
-    "as": "AS17858 LG POWERCOMM",
-    "query": "112.152.178.233"
-  },
   "114.207.197.5": {
     "status": "success",
     "country": "South Korea",
@@ -494,6 +494,22 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "114.207.197.5"
+  },
+  "112.152.178.233": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Paju-si",
+    "zip": "10923",
+    "lat": 37.7562,
+    "lon": 126.7865,
+    "timezone": "Asia/Seoul",
+    "isp": "LG POWERCOMM",
+    "org": "LG POWERCOMM",
+    "as": "AS17858 LG POWERCOMM",
+    "query": "112.152.178.233"
   },
   "46.249.31.118": {
     "status": "success",
@@ -654,6 +670,22 @@
     "org": "",
     "as": "AS42610 PJSC Rostelecom",
     "query": "77.37.240.98"
+  },
+  "178.218.98.2": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KHA",
+    "regionName": "Khabarovsk",
+    "city": "Komsomolsk-on-Amur",
+    "zip": "681000",
+    "lat": 50.5467,
+    "lon": 137.0144,
+    "timezone": "Asia/Vladivostok",
+    "isp": "MTS PJSC",
+    "org": "Tinet Inform network",
+    "as": "AS49350 MTS PJSC",
+    "query": "178.218.98.2"
   },
   "221.121.255.154": {
     "status": "success",
