@@ -383,22 +383,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "125.52.118.171"
   },
-  "122.203.244.115": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Seongdong-gu",
-    "zip": "047",
-    "lat": 37.5511,
-    "lon": 127.0387,
-    "timezone": "Asia/Seoul",
-    "isp": "DACOM-PUBNETPLUS",
-    "org": "Pubnetplus",
-    "as": "AS9316 DACOM-PUBNETPLUS",
-    "query": "122.203.244.115"
-  },
   "182.224.28.246": {
     "status": "success",
     "country": "South Korea",
@@ -431,22 +415,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.145.190.37"
   },
-  "92.203.159.128": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "12",
-    "regionName": "Chiba",
-    "city": "Ichikawa",
-    "zip": "272-0031",
-    "lat": 35.7233,
-    "lon": 139.9132,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "92.203.159.128"
-  },
   "182.52.126.204": {
     "status": "success",
     "country": "Thailand",
@@ -462,6 +430,22 @@
     "org": "TOT Public Company Limited",
     "as": "AS23969 TOT Public Company Limited",
     "query": "182.52.126.204"
+  },
+  "92.203.159.128": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "12",
+    "regionName": "Chiba",
+    "city": "Ichikawa",
+    "zip": "272-0031",
+    "lat": 35.7233,
+    "lon": 139.9132,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "92.203.159.128"
   },
   "211.204.251.153": {
     "status": "success",
@@ -494,6 +478,22 @@
     "org": "NTT Communications Corporation",
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "153.144.240.2"
+  },
+  "217.29.181.61": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "UD",
+    "regionName": "Udmurtiya Republic",
+    "city": "Izhevsk",
+    "zip": "426006",
+    "lat": 56.85,
+    "lon": 53.2025,
+    "timezone": "Europe/Samara",
+    "isp": "MARK-ITT",
+    "org": "",
+    "as": "AS3226 OOO \"NI\"",
+    "query": "217.29.181.61"
   },
   "138.64.65.21": {
     "status": "success",
@@ -590,21 +590,5 @@
     "org": "Boranet",
     "as": "AS3786 LG DACOM Corporation",
     "query": "58.150.189.252"
-  },
-  "106.242.179.250": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Seodaemun-gu",
-    "zip": "037",
-    "lat": 37.5551,
-    "lon": 126.9369,
-    "timezone": "Asia/Seoul",
-    "isp": "LG DACOM Corporation",
-    "org": "Boranet",
-    "as": "AS3786 LG DACOM Corporation",
-    "query": "106.242.179.250"
   }
 }
