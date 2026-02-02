@@ -335,22 +335,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "14.47.68.28"
   },
-  "144.31.67.136": {
-    "status": "success",
-    "country": "Finland",
-    "countryCode": "FI",
-    "region": "18",
-    "regionName": "Uusimaa",
-    "city": "Helsinki",
-    "zip": "00201",
-    "lat": 60.1719,
-    "lon": 24.9347,
-    "timezone": "Europe/Helsinki",
-    "isp": "u1host ltd",
-    "org": "u1host Finland",
-    "as": "AS213877 u1host ltd",
-    "query": "144.31.67.136"
-  },
   "125.247.190.47": {
     "status": "success",
     "country": "South Korea",
@@ -655,6 +639,22 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "188.17.97.38"
   },
+  "183.80.25.248": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "SG",
+    "regionName": "Ho Chi Minh",
+    "city": "Ho Chi Minh City",
+    "zip": "700000",
+    "lat": 10.822,
+    "lon": 106.6257,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "isp": "Vietnam Internet Network Information Center",
+    "org": "",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "183.80.25.248"
+  },
   "185.25.18.17": {
     "status": "success",
     "country": "Russia",
@@ -670,22 +670,6 @@
     "org": "PJSC Mobile TeleSystems Kurgan branch",
     "as": "AS43148 MTS PJSC",
     "query": "185.25.18.17"
-  },
-  "130.255.48.81": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "SVE",
-    "regionName": "Sverdlovsk Oblast",
-    "city": "Kamensk-Uralsky",
-    "zip": "623405",
-    "lat": 56.4046,
-    "lon": 61.921,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "Closed Joint Stock Company Radiotelephone",
-    "org": "CJSC Radiotelephone",
-    "as": "AS39812 Closed Joint Stock Company Radiotelephone",
-    "query": "130.255.48.81"
   },
   "178.218.99.215": {
     "status": "success",
@@ -734,6 +718,22 @@
     "org": "",
     "as": "AS5089 Virgin Media Limited",
     "query": "80.3.208.251"
+  },
+  "124.156.192.132": {
+    "status": "success",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "region": "03",
+    "regionName": "North West",
+    "city": "Singapore",
+    "zip": "858877",
+    "lat": 1.35208,
+    "lon": 103.82,
+    "timezone": "Asia/Singapore",
+    "isp": "Tencent Cloud Computing (Beijing) Co",
+    "org": "",
+    "as": "AS132203 Tencent Building, Kejizhongyi Avenue",
+    "query": "124.156.192.132"
   },
   "109.124.209.118": {
     "status": "success",
