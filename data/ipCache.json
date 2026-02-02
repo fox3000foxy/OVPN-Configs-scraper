@@ -319,22 +319,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "222.4.112.69"
   },
-  "113.155.82.28": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "23",
-    "regionName": "Aichi",
-    "city": "Inazawa",
-    "zip": "495-0021",
-    "lat": 35.2497,
-    "lon": 136.7857,
-    "timezone": "Asia/Tokyo",
-    "isp": "KDDI",
-    "org": "DION (KDDI CORPORATION)",
-    "as": "AS18126 Chubu Telecommunications Company, Inc.",
-    "query": "113.155.82.28"
-  },
   "217.175.14.88": {
     "status": "success",
     "country": "Russia",
@@ -414,6 +398,22 @@
     "org": "Vietnam Internet Network Information Center",
     "as": "AS18403 FPT Telecom Company",
     "query": "1.55.20.162"
+  },
+  "220.26.103.76": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan nation-wide Network of SOFTBANK Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "220.26.103.76"
   },
   "125.247.190.47": {
     "status": "success",
@@ -591,22 +591,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "221.157.130.155"
   },
-  "78.29.43.182": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "CHE",
-    "regionName": "Chelyabinsk Oblast",
-    "city": "Chelyabinsk",
-    "zip": "",
-    "lat": 55.1952,
-    "lon": 61.339,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "Intersvyaz-2 JSC",
-    "org": "Intersvyaz-2 JSC",
-    "as": "AS8369 Intersvyaz-2 JSC",
-    "query": "78.29.43.182"
-  },
   "211.179.65.97": {
     "status": "success",
     "country": "South Korea",
@@ -670,5 +654,21 @@
     "org": "",
     "as": "AS131322 Yatanarpon Teleport Company Limited",
     "query": "122.248.108.4"
+  },
+  "222.99.213.113": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Pyeongtaek-si",
+    "zip": "178",
+    "lat": 37.0009,
+    "lon": 127.0859,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Korea Telecom",
+    "as": "AS4766 Korea Telecom",
+    "query": "222.99.213.113"
   }
 }
