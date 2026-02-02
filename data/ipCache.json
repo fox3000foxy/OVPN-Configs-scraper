@@ -383,22 +383,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.235.215.236"
   },
-  "125.247.190.47": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Goyang-si",
-    "zip": "104",
-    "lat": 37.6392,
-    "lon": 126.8375,
-    "timezone": "Asia/Seoul",
-    "isp": "DACOM-PUBNETPLUS",
-    "org": "LG Uplus",
-    "as": "AS9316 DACOM-PUBNETPLUS",
-    "query": "125.247.190.47"
-  },
   "123.213.125.37": {
     "status": "success",
     "country": "South Korea",
@@ -559,21 +543,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "169.212.0.150"
   },
-  "221.158.65.176": {
+  "121.162.135.220": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
-    "region": "30",
-    "regionName": "Daejeon",
-    "city": "Yuseong-gu",
-    "zip": "341",
-    "lat": 36.3567,
-    "lon": 127.3344,
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Mapo-gu",
+    "zip": "041",
+    "lat": 37.5521,
+    "lon": 126.9505,
     "timezone": "Asia/Seoul",
     "isp": "Korea Telecom",
-    "org": "KORNET",
+    "org": "Kornet",
     "as": "AS4766 Korea Telecom",
-    "query": "221.158.65.176"
+    "query": "121.162.135.220"
   },
   "221.140.133.139": {
     "status": "success",
@@ -638,6 +622,22 @@
     "org": "HVGyeongnam",
     "as": "AS9845 LG HelloVision Corp.",
     "query": "115.40.206.229"
+  },
+  "134.180.165.217": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "ARTERIA Networks Corporation",
+    "org": "Rakuten Mobile, Inc.",
+    "as": "AS2519 ARTERIA Networks Corporation",
+    "query": "134.180.165.217"
   },
   "1.53.159.141": {
     "status": "success",
