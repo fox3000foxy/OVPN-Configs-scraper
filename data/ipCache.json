@@ -223,22 +223,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "210.178.110.239"
   },
-  "192.145.96.207": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KYA",
-    "regionName": "Krasnoyarsk Krai",
-    "city": "Krasnoyarsk",
-    "zip": "660000",
-    "lat": 56.0133,
-    "lon": 92.7885,
-    "timezone": "Asia/Krasnoyarsk",
-    "isp": "Telezon-Seti LLC",
-    "org": "Telezon",
-    "as": "AS34858 Telezon-Seti LLC",
-    "query": "192.145.96.207"
-  },
   "114.206.223.158": {
     "status": "success",
     "country": "South Korea",
@@ -254,6 +238,22 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "114.206.223.158"
+  },
+  "192.145.96.207": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KYA",
+    "regionName": "Krasnoyarsk Krai",
+    "city": "Krasnoyarsk",
+    "zip": "660000",
+    "lat": 56.0133,
+    "lon": 92.7885,
+    "timezone": "Asia/Krasnoyarsk",
+    "isp": "Telezon-Seti LLC",
+    "org": "Telezon",
+    "as": "AS34858 Telezon-Seti LLC",
+    "query": "192.145.96.207"
   },
   "125.199.40.49": {
     "status": "success",
@@ -351,21 +351,21 @@
     "as": "AS18403 FPT Telecom Company",
     "query": "42.115.10.160"
   },
-  "219.248.93.154": {
+  "175.202.115.167": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Siheung-si",
-    "zip": "151",
-    "lat": 37.3925,
-    "lon": 126.7854,
+    "region": "45",
+    "regionName": "Jeollabuk-do",
+    "city": "Jeonju",
+    "zip": "550",
+    "lat": 35.8014,
+    "lon": 127.1076,
     "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "SK Broadband Co Ltd",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "219.248.93.154"
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "175.202.115.167"
   },
   "184.82.218.132": {
     "status": "success",
@@ -430,22 +430,6 @@
     "org": "KORNET",
     "as": "AS4766 Korea Telecom",
     "query": "211.194.240.41"
-  },
-  "133.106.128.241": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Kawasaki",
-    "zip": "210-0835",
-    "lat": 35.5206,
-    "lon": 139.717,
-    "timezone": "Asia/Tokyo",
-    "isp": "Rakuten Mobile, Inc.",
-    "org": "RMN",
-    "as": "AS138384 Rakuten Mobile Network, Inc.",
-    "query": "133.106.128.241"
   },
   "93.100.140.41": {
     "status": "success",
@@ -526,6 +510,22 @@
     "org": "SK Broadband Co Ltd",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "175.112.186.157"
+  },
+  "176.124.116.232": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KDA",
+    "regionName": "Krasnodar Krai",
+    "city": "Tuapse",
+    "zip": "352800",
+    "lat": 44.0989,
+    "lon": 39.0674,
+    "timezone": "Europe/Moscow",
+    "isp": "LLC \"Multiservice\"",
+    "org": "TAIGET",
+    "as": "AS52043 LLC Multiservice",
+    "query": "176.124.116.232"
   },
   "117.110.198.131": {
     "status": "success",
