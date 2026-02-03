@@ -287,6 +287,22 @@
     "as": "AS18403 FPT Telecom Company",
     "query": "42.119.41.29"
   },
+  "176.210.210.55": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KEM",
+    "regionName": "Kemerovo Oblast",
+    "city": "Prokopyevsk",
+    "zip": "653017",
+    "lat": 53.9033,
+    "lon": 86.7138,
+    "timezone": "Asia/Novokuznetsk",
+    "isp": "JSC Rostelecom regional branch \"Siberia\"",
+    "org": "JSC Rostelecom regional branch Siberia",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "176.210.210.55"
+  },
   "90.189.217.65": {
     "status": "success",
     "country": "Russia",
@@ -447,21 +463,21 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.66.65.104"
   },
-  "60.80.243.29": {
+  "106.150.72.118": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "08",
-    "regionName": "Ibaraki",
-    "city": "Koga",
-    "zip": "306-0016",
-    "lat": 36.1833,
-    "lon": 139.717,
+    "region": "11",
+    "regionName": "Saitama",
+    "city": "Daimon",
+    "zip": "336-0963",
+    "lat": 35.8815,
+    "lon": 139.7334,
     "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan Nation-wide Network of Softbank Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "60.80.243.29"
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "106.150.72.118"
   },
   "125.204.108.29": {
     "status": "success",
@@ -622,22 +638,6 @@
     "org": "Dynamic distribution IPs for broadband services",
     "as": "AS12389 PJSC Rostelecom",
     "query": "188.17.97.38"
-  },
-  "211.211.12.147": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Seongbuk-gu",
-    "zip": "02854",
-    "lat": 37.6034,
-    "lon": 127.0065,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "211.211.12.147"
   },
   "176.211.236.43": {
     "status": "success",
