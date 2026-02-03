@@ -335,22 +335,6 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "114.180.103.113"
   },
-  "220.74.100.34": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Siheung-si",
-    "zip": "149",
-    "lat": 37.3648,
-    "lon": 126.8009,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "220.74.100.34"
-  },
   "92.203.159.128": {
     "status": "success",
     "country": "Japan",
@@ -430,22 +414,6 @@
     "org": "Korea Telecom",
     "as": "AS4766 Korea Telecom",
     "query": "221.157.130.155"
-  },
-  "115.136.105.76": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "43",
-    "regionName": "North Chungcheong",
-    "city": "Chungju",
-    "zip": "273",
-    "lat": 36.977,
-    "lon": 127.926,
-    "timezone": "Asia/Seoul",
-    "isp": "LG POWERCOMM",
-    "org": "Xpeed",
-    "as": "AS17858 LG POWERCOMM",
-    "query": "115.136.105.76"
   },
   "1.240.128.118": {
     "status": "success",
@@ -655,6 +623,22 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "153.198.41.109"
   },
+  "121.145.243.135": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "48",
+    "regionName": "Gyeongsangnam-do",
+    "city": "Gimhae",
+    "zip": "509",
+    "lat": 35.2342,
+    "lon": 128.8777,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "121.145.243.135"
+  },
   "176.210.3.167": {
     "status": "success",
     "country": "Russia",
@@ -670,6 +654,22 @@
     "org": "JSC Rostelecom regional branch Siberia",
     "as": "AS12389 PJSC Rostelecom",
     "query": "176.210.3.167"
+  },
+  "50.223.97.158": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AL",
+    "regionName": "Alabama",
+    "city": "Tuscaloosa",
+    "zip": "35401",
+    "lat": 33.2,
+    "lon": -87.56,
+    "timezone": "America/Chicago",
+    "isp": "Comcast Cable Communications, LLC",
+    "org": "Comcast Cable Communications, LLC",
+    "as": "AS7922 Comcast Cable Communications, LLC",
+    "query": "50.223.97.158"
   },
   "95.191.216.192": {
     "status": "success",
@@ -718,37 +718,5 @@
     "org": "VladLink LTD",
     "as": "AS42038 Krivets Sergey Sergeevich",
     "query": "5.100.81.48"
-  },
-  "94.245.179.98": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "SA",
-    "regionName": "Sakha",
-    "city": "Yakutsk",
-    "zip": "677000",
-    "lat": 62.0313,
-    "lon": 129.7325,
-    "timezone": "Asia/Yakutsk",
-    "isp": "Sakhatelecom",
-    "org": "OJSC Rostelecom",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "94.245.179.98"
-  },
-  "109.198.224.49": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "SVE",
-    "regionName": "Sverdlovsk Oblast",
-    "city": "Yekaterinburg",
-    "zip": "620028",
-    "lat": 56.8577,
-    "lon": 60.6113,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "Mts-ekb Ipoe",
-    "org": "PJSC MTS Ekaterinburg branch",
-    "as": "AS8359 MTS PJSC",
-    "query": "109.198.224.49"
   }
 }
