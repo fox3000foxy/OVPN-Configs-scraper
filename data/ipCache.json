@@ -543,22 +543,6 @@
     "as": "AS18403 FPT Telecom Company",
     "query": "42.113.89.213"
   },
-  "114.204.37.77": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Siheung-si",
-    "zip": "149",
-    "lat": 37.3648,
-    "lon": 126.8009,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "114.204.37.77"
-  },
   "125.136.251.231": {
     "status": "success",
     "country": "South Korea",
@@ -574,6 +558,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "125.136.251.231"
+  },
+  "59.17.160.210": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "28",
+    "regionName": "Incheon",
+    "city": "Namdong-gu",
+    "zip": "215",
+    "lat": 37.4562,
+    "lon": 126.7288,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "59.17.160.210"
   },
   "118.218.227.187": {
     "status": "success",
