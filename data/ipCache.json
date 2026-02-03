@@ -335,22 +335,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "125.132.236.134"
   },
-  "126.221.40.75": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.221.40.75"
-  },
   "126.40.156.73": {
     "status": "success",
     "country": "Japan",
@@ -670,5 +654,21 @@
     "org": "Open Computer Network",
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "153.198.41.109"
+  },
+  "182.224.28.246": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "47",
+    "regionName": "Gyeongsangbuk-do",
+    "city": "Gumi",
+    "zip": "392",
+    "lat": 36.1135,
+    "lon": 128.343,
+    "timezone": "Asia/Seoul",
+    "isp": "LG POWERCOMM",
+    "org": "Xpeed",
+    "as": "AS17858 LG POWERCOMM",
+    "query": "182.224.28.246"
   }
 }
