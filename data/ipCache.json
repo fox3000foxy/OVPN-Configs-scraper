@@ -606,21 +606,5 @@
     "org": "LG POWERCOMM",
     "as": "AS17858 LG POWERCOMM",
     "query": "182.213.69.54"
-  },
-  "5.143.36.225": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PRI",
-    "regionName": "Primorye",
-    "city": "Vladivostok",
-    "zip": "690001",
-    "lat": 43.1068,
-    "lon": 131.8692,
-    "timezone": "Asia/Vladivostok",
-    "isp": "Rostelecom networks",
-    "org": "OJSC Rostelecom Far-East Region",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "5.143.36.225"
   }
 }
