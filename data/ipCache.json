@@ -638,21 +638,5 @@
     "org": "Etisalat",
     "as": "AS5384 Emirates Internet",
     "query": "86.97.103.118"
-  },
-  "210.157.193.193": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Ichigaya-honmurachō",
-    "zip": "102-0076",
-    "lat": 35.6944,
-    "lon": 139.729,
-    "timezone": "Asia/Tokyo",
-    "isp": "Rakuten Mobile, Inc.",
-    "org": "RMN",
-    "as": "AS138384 Rakuten Mobile Network, Inc.",
-    "query": "210.157.193.193"
   }
 }
