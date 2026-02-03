@@ -207,22 +207,6 @@
     "as": "AS2519 ARTERIA Networks Corporation",
     "query": "1.21.121.201"
   },
-  "112.220.30.58": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Nowon-gu",
-    "zip": "017",
-    "lat": 37.6537,
-    "lon": 127.0717,
-    "timezone": "Asia/Seoul",
-    "isp": "LG DACOM Corporation",
-    "org": "Boranet",
-    "as": "AS3786 LG DACOM Corporation",
-    "query": "112.220.30.58"
-  },
   "118.240.68.160": {
     "status": "success",
     "country": "Japan",
@@ -238,6 +222,22 @@
     "org": "Sony Network Communications Inc.",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "118.240.68.160"
+  },
+  "112.220.30.58": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Nowon-gu",
+    "zip": "017",
+    "lat": 37.6537,
+    "lon": 127.0717,
+    "timezone": "Asia/Seoul",
+    "isp": "LG DACOM Corporation",
+    "org": "Boranet",
+    "as": "AS3786 LG DACOM Corporation",
+    "query": "112.220.30.58"
   },
   "103.152.178.62": {
     "status": "success",
@@ -558,6 +558,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "14.41.72.173"
+  },
+  "31.131.206.120": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "SAR",
+    "regionName": "Saratov Oblast",
+    "city": "Engel's",
+    "zip": "413102",
+    "lat": 51.483,
+    "lon": 46.1034,
+    "timezone": "Europe/Saratov",
+    "isp": "JSC \"ER-Telecom Holding\" Lipetsk branch",
+    "org": "Kompaniya Telemir LLC",
+    "as": "AS50543 JSC ER-Telecom Holding",
+    "query": "31.131.206.120"
   },
   "118.218.227.187": {
     "status": "success",
