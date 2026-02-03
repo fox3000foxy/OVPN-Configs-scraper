@@ -1,19 +1,19 @@
 {
-  "219.100.37.101": {
+  "138.229.146.94": {
     "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftEther",
-    "org": "SoftEther Corporation",
-    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.101"
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA",
+    "regionName": "California",
+    "city": "Hesperia",
+    "zip": "92345",
+    "lat": 34.4179,
+    "lon": -117.3064,
+    "timezone": "America/Los_Angeles",
+    "isp": "Charter Communications",
+    "org": "Spectrum",
+    "as": "AS20115 Charter Communications LLC",
+    "query": "138.229.146.94"
   },
   "219.100.37.128": {
     "status": "success",
@@ -511,6 +511,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "210.97.94.88"
   },
+  "42.113.89.213": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "SG",
+    "regionName": "Ho Chi Minh",
+    "city": "Ho Chi Minh City",
+    "zip": "700000",
+    "lat": 10.822,
+    "lon": 106.6257,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "isp": "FPT Telecom Company",
+    "org": "FPTDYNAMICIP",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "42.113.89.213"
+  },
   "114.204.37.77": {
     "status": "success",
     "country": "South Korea",
@@ -558,22 +574,6 @@
     "org": "",
     "as": "AS23584 PUSAN CABLE TV SYSTEM CO., LTD.",
     "query": "39.126.152.48"
-  },
-  "14.41.72.173": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "42",
-    "regionName": "Gangwon-do",
-    "city": "Hongch'on",
-    "zip": "251",
-    "lat": 37.6874,
-    "lon": 127.8782,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "14.41.72.173"
   },
   "118.218.227.187": {
     "status": "success",
@@ -670,21 +670,5 @@
     "org": "Vietnam Internet Network Information Center",
     "as": "AS18403 FPT Telecom Company",
     "query": "1.52.244.74"
-  },
-  "73.202.57.32": {
-    "status": "success",
-    "country": "United States",
-    "countryCode": "US",
-    "region": "CA",
-    "regionName": "California",
-    "city": "San Jose",
-    "zip": "95118",
-    "lat": 37.2566,
-    "lon": -121.8889,
-    "timezone": "America/Los_Angeles",
-    "isp": "Comcast Cable Communications",
-    "org": "Comcast IP Services, L.L.C.",
-    "as": "AS7922 Comcast Cable Communications, LLC",
-    "query": "73.202.57.32"
   }
 }
