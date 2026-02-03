@@ -111,22 +111,6 @@
     "as": "AS20055 Wholesail networks LLC",
     "query": "50.53.78.95"
   },
-  "219.100.37.208": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftEther",
-    "org": "SoftEther Corporation",
-    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.208"
-  },
   "68.8.191.131": {
     "status": "success",
     "country": "United States",
@@ -142,6 +126,22 @@
     "org": "Cox Communications Inc.",
     "as": "AS22773 Cox Communications Inc.",
     "query": "68.8.191.131"
+  },
+  "219.100.37.208": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftEther",
+    "org": "SoftEther Corporation",
+    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
+    "query": "219.100.37.208"
   },
   "219.100.37.204": {
     "status": "success",
@@ -527,22 +527,6 @@
     "as": "AS3786 LG DACOM Corporation",
     "query": "106.243.71.229"
   },
-  "220.100.118.235": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0071",
-    "lat": 35.6837,
-    "lon": 139.6805,
-    "timezone": "Asia/Tokyo",
-    "isp": "Internet Initiative Japan",
-    "org": "Internet Initiative Japan Inc.",
-    "as": "AS2497 Internet Initiative Japan Inc.",
-    "query": "220.100.118.235"
-  },
   "61.47.212.110": {
     "status": "success",
     "country": "South Korea",
@@ -654,6 +638,22 @@
     "org": "Cox Communications",
     "as": "AS22773 Cox Communications Inc.",
     "query": "174.65.56.182"
+  },
+  "95.25.112.165": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KDA",
+    "regionName": "Krasnodar Krai",
+    "city": "Sochi",
+    "zip": "354000",
+    "lat": 43.5994,
+    "lon": 39.7289,
+    "timezone": "Europe/Moscow",
+    "isp": "PJSC \"Vimpelcom\"",
+    "org": "Beeline Broadband",
+    "as": "AS42110 PJSC \"Vimpelcom\"",
+    "query": "95.25.112.165"
   },
   "14.138.226.242": {
     "status": "success",
