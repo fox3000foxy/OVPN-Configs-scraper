@@ -559,22 +559,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "188.16.58.209"
   },
-  "49.164.173.80": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Goyang-si",
-    "zip": "102",
-    "lat": 37.6999,
-    "lon": 126.7741,
-    "timezone": "Asia/Seoul",
-    "isp": "LG POWERCOMM",
-    "org": "LG POWERCOMM",
-    "as": "AS17858 LG POWERCOMM",
-    "query": "49.164.173.80"
-  },
   "222.112.76.46": {
     "status": "success",
     "country": "South Korea",
@@ -590,6 +574,22 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "222.112.76.46"
+  },
+  "49.164.173.80": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Goyang-si",
+    "zip": "102",
+    "lat": 37.6999,
+    "lon": 126.7741,
+    "timezone": "Asia/Seoul",
+    "isp": "LG POWERCOMM",
+    "org": "LG POWERCOMM",
+    "as": "AS17858 LG POWERCOMM",
+    "query": "49.164.173.80"
   },
   "5.138.239.170": {
     "status": "success",
