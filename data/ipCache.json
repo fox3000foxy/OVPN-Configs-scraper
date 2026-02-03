@@ -239,22 +239,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.122.102.169"
   },
-  "118.157.139.36": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "01",
-    "regionName": "Hokkaido",
-    "city": "Sapporo",
-    "zip": "065-0011",
-    "lat": 43.0763,
-    "lon": 141.3654,
-    "timezone": "Asia/Tokyo",
-    "isp": "DION (KDDI CORPORATION)",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "118.157.139.36"
-  },
   "1.66.34.134": {
     "status": "success",
     "country": "Japan",
@@ -270,6 +254,22 @@
     "org": "NTTDoCoMo",
     "as": "AS9605 NTT DOCOMO, INC.",
     "query": "1.66.34.134"
+  },
+  "118.157.139.36": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "01",
+    "regionName": "Hokkaido",
+    "city": "Sapporo",
+    "zip": "065-0011",
+    "lat": 43.0763,
+    "lon": 141.3654,
+    "timezone": "Asia/Tokyo",
+    "isp": "DION (KDDI CORPORATION)",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "118.157.139.36"
   },
   "168.105.248.38": {
     "status": "success",
@@ -447,6 +447,22 @@
     "as": "AS34896 Vostoktelecom Telephone Company Limited Liability Company",
     "query": "85.15.89.239"
   },
+  "175.131.94.111": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "26",
+    "regionName": "Kyoto",
+    "city": "Kyoto",
+    "zip": "602-8051",
+    "lat": 35.0231,
+    "lon": 135.752,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "175.131.94.111"
+  },
   "221.166.133.88": {
     "status": "success",
     "country": "South Korea",
@@ -494,22 +510,6 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "121.140.51.111"
-  },
-  "121.174.164.231": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "26",
-    "regionName": "Busan",
-    "city": "Busan",
-    "zip": "489",
-    "lat": 35.1025,
-    "lon": 129.0394,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "121.174.164.231"
   },
   "211.52.60.247": {
     "status": "success",
@@ -686,21 +686,5 @@
     "org": "TBROAD Jeonju",
     "as": "AS17854 SK Broadband Co Ltd",
     "query": "211.116.113.124"
-  },
-  "115.94.47.42": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "26",
-    "regionName": "Busan",
-    "city": "Yeonje-gu",
-    "zip": "475",
-    "lat": 35.1811,
-    "lon": 129.0928,
-    "timezone": "Asia/Seoul",
-    "isp": "LG DACOM Corporation",
-    "org": "Boranet",
-    "as": "AS3786 LG DACOM Corporation",
-    "query": "115.94.47.42"
   }
 }
