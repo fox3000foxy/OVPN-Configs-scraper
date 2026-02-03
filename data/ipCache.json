@@ -175,22 +175,6 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "153.166.46.229"
   },
-  "121.152.58.166": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "44",
-    "regionName": "Chungcheongnam-do",
-    "city": "Cheonan",
-    "zip": "310",
-    "lat": 36.8242,
-    "lon": 127.1293,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "121.152.58.166"
-  },
   "1.66.34.134": {
     "status": "success",
     "country": "Japan",
@@ -382,6 +366,22 @@
     "org": "Kddi Corporation",
     "as": "AS2516 KDDI CORPORATION",
     "query": "222.227.165.89"
+  },
+  "119.205.93.37": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "42",
+    "regionName": "Gangwon-do",
+    "city": "Chuncheon",
+    "zip": "242",
+    "lat": 37.8897,
+    "lon": 127.736,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Korea Telecom",
+    "as": "AS4766 Korea Telecom",
+    "query": "119.205.93.37"
   },
   "79.105.27.89": {
     "status": "success",
@@ -575,6 +575,22 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "188.133.218.201"
   },
+  "211.7.97.223": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "28",
+    "regionName": "Hyōgo",
+    "city": "Kobe",
+    "zip": "650-0011",
+    "lat": 34.6913,
+    "lon": 135.183,
+    "timezone": "Asia/Tokyo",
+    "isp": "Rakuten Mobile, Inc.",
+    "org": "RMN",
+    "as": "AS138384 Rakuten Mobile Network, Inc.",
+    "query": "211.7.97.223"
+  },
   "78.109.130.29": {
     "status": "success",
     "country": "Russia",
@@ -623,22 +639,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "90.189.196.154"
   },
-  "174.65.56.182": {
-    "status": "success",
-    "country": "United States",
-    "countryCode": "US",
-    "region": "CA",
-    "regionName": "California",
-    "city": "El Cajon",
-    "zip": "92021",
-    "lat": 32.8123,
-    "lon": -116.9172,
-    "timezone": "America/Los_Angeles",
-    "isp": "Cox Communications Inc.",
-    "org": "Cox Communications",
-    "as": "AS22773 Cox Communications Inc.",
-    "query": "174.65.56.182"
-  },
   "59.16.169.151": {
     "status": "success",
     "country": "South Korea",
@@ -670,21 +670,5 @@
     "org": "Beeline Broadband",
     "as": "AS42110 PJSC \"Vimpelcom\"",
     "query": "95.25.112.165"
-  },
-  "115.37.169.32": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "22",
-    "regionName": "Shizuoka",
-    "city": "Iwata",
-    "zip": "438-0041",
-    "lat": 34.7006,
-    "lon": 137.871,
-    "timezone": "Asia/Tokyo",
-    "isp": "Chubu Telecommunications Company, Inc.",
-    "org": "Chubu Telecommunications Co., Inc.",
-    "as": "AS18126 Chubu Telecommunications Company, Inc.",
-    "query": "115.37.169.32"
   }
 }
