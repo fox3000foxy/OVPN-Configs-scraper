@@ -46,6 +46,12 @@ You can directly download the generated configuration files:
 
 Or download individually:
 
+### Canada
+| IP | Country | ISP | Provider | Config |
+|---|---|---|---|---|
+| 68.149.154.94 | Canada | Shaw Communications | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/68.149.154.94.ovpn) |
+
+
 ### Japan
 | IP | Country | ISP | Provider | Config |
 |---|---|---|---|---|
