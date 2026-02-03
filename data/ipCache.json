@@ -95,6 +95,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.109"
   },
+  "50.47.103.146": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WA",
+    "regionName": "Washington",
+    "city": "Lynnwood",
+    "zip": "98036",
+    "lat": 47.8022,
+    "lon": -122.286,
+    "timezone": "America/Los_Angeles",
+    "isp": "Wholesail networks LLC",
+    "org": "Ziply Fiber",
+    "as": "AS20055 Wholesail networks LLC",
+    "query": "50.47.103.146"
+  },
   "219.100.37.208": {
     "status": "success",
     "country": "Japan",
@@ -127,21 +143,21 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.204"
   },
-  "126.130.164.3": {
+  "111.238.189.171": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
     "region": "13",
     "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
+    "city": "Tagara",
+    "zip": "179-0071",
+    "lat": 35.7681,
+    "lon": 139.6258,
     "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.130.164.3"
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "111.238.189.171"
   },
   "1.66.34.134": {
     "status": "success",
@@ -175,6 +191,22 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "118.240.68.160"
   },
+  "131.147.142.132": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Wada",
+    "zip": "166-0011",
+    "lat": 35.6945,
+    "lon": 139.6524,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "131.147.142.132"
+  },
   "112.220.30.58": {
     "status": "success",
     "country": "South Korea",
@@ -191,21 +223,21 @@
     "as": "AS3786 LG DACOM Corporation",
     "query": "112.220.30.58"
   },
-  "131.147.142.132": {
+  "121.106.148.235": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Wada",
-    "zip": "166-0011",
-    "lat": 35.6945,
-    "lon": 139.6524,
+    "region": "01",
+    "regionName": "Hokkaido",
+    "city": "Sapporo",
+    "zip": "065-0011",
+    "lat": 43.0763,
+    "lon": 141.3654,
     "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "131.147.142.132"
+    "isp": "DION (KDDI CORPORATION)",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "121.106.148.235"
   },
   "115.22.171.164": {
     "status": "success",
@@ -223,22 +255,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "115.22.171.164"
   },
-  "110.46.158.118": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "26",
-    "regionName": "Busan",
-    "city": "Haeundae-gu",
-    "zip": "480",
-    "lat": 35.1692,
-    "lon": 129.1738,
-    "timezone": "Asia/Seoul",
-    "isp": "CJ Hello Co",
-    "org": "HVHaeundae",
-    "as": "AS9697 LG HelloVision Corp.",
-    "query": "110.46.158.118"
-  },
   "118.243.130.61": {
     "status": "success",
     "country": "Japan",
@@ -254,6 +270,22 @@
     "org": "ASAHI",
     "as": "AS4685 Asahi Net",
     "query": "118.243.130.61"
+  },
+  "110.46.158.118": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Haeundae-gu",
+    "zip": "480",
+    "lat": 35.1692,
+    "lon": 129.1738,
+    "timezone": "Asia/Seoul",
+    "isp": "CJ Hello Co",
+    "org": "HVHaeundae",
+    "as": "AS9697 LG HelloVision Corp.",
+    "query": "110.46.158.118"
   },
   "222.109.72.106": {
     "status": "success",
@@ -335,22 +367,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "175.193.243.22"
   },
-  "125.30.20.236": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0071",
-    "lat": 35.6837,
-    "lon": 139.6805,
-    "timezone": "Asia/Tokyo",
-    "isp": "Internet Initiative Japan Inc.",
-    "org": "Internet Initiative Japan Inc.",
-    "as": "AS2497 Internet Initiative Japan Inc.",
-    "query": "125.30.20.236"
-  },
   "221.45.99.215": {
     "status": "success",
     "country": "Japan",
@@ -431,21 +447,21 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.245.64.64"
   },
-  "106.166.136.213": {
+  "223.205.22.26": {
     "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "08",
-    "regionName": "Ibaraki",
-    "city": "Koga",
-    "zip": "306-0001",
-    "lat": 36.2024,
-    "lon": 139.7085,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "106.166.136.213"
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "73",
+    "regionName": "Nakhon Pathom",
+    "city": "Nakhon Pathom",
+    "zip": "73000",
+    "lat": 13.8179,
+    "lon": 100.0416,
+    "timezone": "Asia/Bangkok",
+    "isp": "Triple T Broadband Public Company Limited",
+    "org": "Triple T Broadband Public Company Limited",
+    "as": "AS45758 Triple T Broadband Public Company Limited",
+    "query": "223.205.22.26"
   },
   "210.106.55.92": {
     "status": "success",
@@ -590,22 +606,6 @@
     "org": "Boranet",
     "as": "AS3786 LG DACOM Corporation",
     "query": "58.150.189.252"
-  },
-  "73.235.216.47": {
-    "status": "success",
-    "country": "United States",
-    "countryCode": "US",
-    "region": "CA",
-    "regionName": "California",
-    "city": "Stockton",
-    "zip": "95210",
-    "lat": 38.0253,
-    "lon": -121.3009,
-    "timezone": "America/Los_Angeles",
-    "isp": "Comcast Cable Communications",
-    "org": "Comcast IP Services, L.L.C.",
-    "as": "AS7922 Comcast Cable Communications, LLC",
-    "query": "73.235.216.47"
   },
   "61.21.196.121": {
     "status": "success",
