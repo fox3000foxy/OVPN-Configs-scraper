@@ -111,22 +111,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.16"
   },
-  "219.100.37.109": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftEther",
-    "org": "SoftEther Corporation",
-    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.109"
-  },
   "47.149.157.124": {
     "status": "success",
     "country": "United States",
@@ -142,6 +126,22 @@
     "org": "Frontier Communications Solutions",
     "as": "AS5650 Frontier Communications of America, Inc.",
     "query": "47.149.157.124"
+  },
+  "219.100.37.109": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftEther",
+    "org": "SoftEther Corporation",
+    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
+    "query": "219.100.37.109"
   },
   "219.100.37.208": {
     "status": "success",
@@ -559,22 +559,6 @@
     "as": "AS42038 Krivets Sergey Sergeevich",
     "query": "46.37.132.36"
   },
-  "115.126.137.48": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "28",
-    "regionName": "Hyōgo",
-    "city": "Himeji",
-    "zip": "672-8001",
-    "lat": 34.8066,
-    "lon": 134.6952,
-    "timezone": "Asia/Tokyo",
-    "isp": "Himeji Cable Television Corporation",
-    "org": "WINK",
-    "as": "AS38628 HIMEJI CABLE TELEVISION CORPORATION",
-    "query": "115.126.137.48"
-  },
   "122.47.245.200": {
     "status": "success",
     "country": "South Korea",
@@ -623,6 +607,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "59.4.220.59"
   },
+  "211.206.8.149": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Jongno-gu",
+    "zip": "031",
+    "lat": 37.5692,
+    "lon": 126.9775,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "211.206.8.149"
+  },
   "78.29.43.182": {
     "status": "success",
     "country": "Russia",
@@ -654,6 +654,22 @@
     "org": "Open Computer Network",
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "153.198.41.109"
+  },
+  "182.224.28.246": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "47",
+    "regionName": "Gyeongsangbuk-do",
+    "city": "Gumi",
+    "zip": "392",
+    "lat": 36.1135,
+    "lon": 128.343,
+    "timezone": "Asia/Seoul",
+    "isp": "LG POWERCOMM",
+    "org": "Xpeed",
+    "as": "AS17858 LG POWERCOMM",
+    "query": "182.224.28.246"
   },
   "121.145.243.135": {
     "status": "success",
@@ -702,5 +718,21 @@
     "org": "Comcast Cable Communications, LLC",
     "as": "AS7922 Comcast Cable Communications, LLC",
     "query": "50.223.97.158"
+  },
+  "95.191.216.192": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "NVS",
+    "regionName": "Novosibirsk Oblast",
+    "city": "Novosibirsk",
+    "zip": "630000",
+    "lat": 55.0226,
+    "lon": 82.9317,
+    "timezone": "Asia/Novosibirsk",
+    "isp": "Rostelecom networks",
+    "org": "OJSC Sibirtelecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "95.191.216.192"
   }
 }
