@@ -287,22 +287,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "222.14.54.111"
   },
-  "176.210.210.55": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KEM",
-    "regionName": "Kemerovo Oblast",
-    "city": "Prokopyevsk",
-    "zip": "653017",
-    "lat": 53.9033,
-    "lon": 86.7138,
-    "timezone": "Asia/Novokuznetsk",
-    "isp": "JSC Rostelecom regional branch \"Siberia\"",
-    "org": "JSC Rostelecom regional branch Siberia",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "176.210.210.55"
-  },
   "42.119.41.29": {
     "status": "success",
     "country": "Vietnam",
@@ -318,6 +302,22 @@
     "org": "Vietnam Internet Network Information Center",
     "as": "AS18403 FPT Telecom Company",
     "query": "42.119.41.29"
+  },
+  "176.210.210.55": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KEM",
+    "regionName": "Kemerovo Oblast",
+    "city": "Prokopyevsk",
+    "zip": "653017",
+    "lat": 53.9033,
+    "lon": 86.7138,
+    "timezone": "Asia/Novokuznetsk",
+    "isp": "JSC Rostelecom regional branch \"Siberia\"",
+    "org": "JSC Rostelecom regional branch Siberia",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "176.210.210.55"
   },
   "90.189.217.65": {
     "status": "success",
@@ -414,22 +414,6 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "124.214.92.234"
-  },
-  "222.14.193.1": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "47",
-    "regionName": "Okinawa",
-    "city": "Kochinda",
-    "zip": "901-0401",
-    "lat": 26.1556,
-    "lon": 127.6668,
-    "timezone": "Asia/Tokyo",
-    "isp": "DION (KDDI CORPORATION)",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "222.14.193.1"
   },
   "220.100.45.229": {
     "status": "success",
@@ -543,37 +527,21 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.126.10.156"
   },
-  "119.196.49.82": {
+  "121.130.34.48": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
     "region": "11",
     "regionName": "Seoul",
-    "city": "Gwanak-gu",
-    "zip": "087",
-    "lat": 37.4873,
-    "lon": 126.9227,
+    "city": "Dongdaemun",
+    "zip": "024",
+    "lat": 37.5841,
+    "lon": 127.0616,
     "timezone": "Asia/Seoul",
     "isp": "Korea Telecom",
-    "org": "Sudogwonseobubonbu",
+    "org": "Kornet",
     "as": "AS4766 Korea Telecom",
-    "query": "119.196.49.82"
-  },
-  "58.232.223.120": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "46",
-    "regionName": "Jeollanam-do",
-    "city": "Suncheon-si",
-    "zip": "57922",
-    "lat": 34.9716,
-    "lon": 127.461,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "58.232.223.120"
+    "query": "121.130.34.48"
   },
   "211.7.98.13": {
     "status": "success",
@@ -590,6 +558,22 @@
     "org": "RMN",
     "as": "AS138384 Rakuten Mobile Network, Inc.",
     "query": "211.7.98.13"
+  },
+  "58.232.223.120": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "46",
+    "regionName": "Jeollanam-do",
+    "city": "Suncheon-si",
+    "zip": "57922",
+    "lat": 34.9716,
+    "lon": 127.461,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "58.232.223.120"
   },
   "49.174.10.156": {
     "status": "success",
