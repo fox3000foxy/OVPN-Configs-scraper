@@ -223,6 +223,22 @@
     "as": "AS12737 KrasPromStroy, LLC",
     "query": "185.124.155.182"
   },
+  "195.123.242.46": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA",
+    "regionName": "California",
+    "city": "Los Angeles",
+    "zip": "90060",
+    "lat": 34.0544,
+    "lon": -118.244,
+    "timezone": "America/Los_Angeles",
+    "isp": "Green Floid LLC",
+    "org": "Green Floid LLC",
+    "as": "AS204957 GREEN FLOID LLC",
+    "query": "195.123.242.46"
+  },
   "218.145.107.33": {
     "status": "success",
     "country": "South Korea",
@@ -447,6 +463,22 @@
     "as": "AS2497 Internet Initiative Japan Inc.",
     "query": "220.100.45.229"
   },
+  "203.254.112.199": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Seongnam-si",
+    "zip": "13332",
+    "lat": 37.4331,
+    "lon": 127.1377,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "203.254.112.199"
+  },
   "126.66.65.104": {
     "status": "success",
     "country": "Japan",
@@ -526,22 +558,6 @@
     "org": "Japan Nation-wide Network of Softbank Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "60.126.10.156"
-  },
-  "121.130.34.48": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Dongdaemun",
-    "zip": "024",
-    "lat": 37.5841,
-    "lon": 127.0616,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "121.130.34.48"
   },
   "211.7.98.13": {
     "status": "success",
@@ -639,6 +655,38 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "188.17.97.38"
   },
+  "178.187.41.196": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "ALT",
+    "regionName": "Altai Krai",
+    "city": "Barnaul",
+    "zip": "656002",
+    "lat": 53.362,
+    "lon": 83.7279,
+    "timezone": "Asia/Barnaul",
+    "isp": "OJSC \"Sibirtelecom\"",
+    "org": "Sibirtelecom Co.",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "178.187.41.196"
+  },
+  "58.226.80.192": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Geumcheon-gu",
+    "zip": "085",
+    "lat": 37.4784,
+    "lon": 126.8982,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "58.226.80.192"
+  },
   "202.148.240.143": {
     "status": "success",
     "country": "Japan",
@@ -655,22 +703,6 @@
     "as": "AS23788 JCOM Co., Ltd.",
     "query": "202.148.240.143"
   },
-  "202.88.80.26": {
-    "status": "success",
-    "country": "Northern Mariana Islands",
-    "countryCode": "MP",
-    "region": "S",
-    "regionName": "Saipan",
-    "city": "Saipan",
-    "zip": "",
-    "lat": 15.2136,
-    "lon": 145.7584,
-    "timezone": "Pacific/Saipan",
-    "isp": "PTI Pacifica Inc.",
-    "org": "The Micronesian Telecommunications Corporation",
-    "as": "AS7131 PTI Pacifica Inc.",
-    "query": "202.88.80.26"
-  },
   "178.218.99.215": {
     "status": "success",
     "country": "Russia",
@@ -686,5 +718,37 @@
     "org": "Tinet Inform network",
     "as": "AS49350 MTS PJSC",
     "query": "178.218.99.215"
+  },
+  "94.245.179.98": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "SA",
+    "regionName": "Sakha",
+    "city": "Yakutsk",
+    "zip": "677000",
+    "lat": 62.0313,
+    "lon": 129.7325,
+    "timezone": "Asia/Yakutsk",
+    "isp": "Sakhatelecom",
+    "org": "OJSC Rostelecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "94.245.179.98"
+  },
+  "176.110.201.77": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "IVA",
+    "regionName": "Ivanovo Oblast",
+    "city": "Ivanovo",
+    "zip": "153000",
+    "lat": 57.0105,
+    "lon": 40.9715,
+    "timezone": "Europe/Moscow",
+    "isp": "MTT Connect Ltd.",
+    "org": "MTT Connect Ltd.",
+    "as": "AS38917 INTERCOMTEL Limited Company",
+    "query": "176.110.201.77"
   }
 }
