@@ -175,22 +175,6 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "153.166.46.229"
   },
-  "121.152.58.166": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "44",
-    "regionName": "Chungcheongnam-do",
-    "city": "Cheonan",
-    "zip": "310",
-    "lat": 36.8242,
-    "lon": 127.1293,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "121.152.58.166"
-  },
   "1.66.34.134": {
     "status": "success",
     "country": "Japan",
@@ -383,6 +367,22 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "222.227.165.89"
   },
+  "119.205.93.37": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "42",
+    "regionName": "Gangwon-do",
+    "city": "Chuncheon",
+    "zip": "242",
+    "lat": 37.8897,
+    "lon": 127.736,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Korea Telecom",
+    "as": "AS4766 Korea Telecom",
+    "query": "119.205.93.37"
+  },
   "79.105.27.89": {
     "status": "success",
     "country": "Russia",
@@ -559,6 +559,22 @@
     "as": "AS206011 Freedom LLC",
     "query": "185.199.8.39"
   },
+  "91.188.199.34": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KYA",
+    "regionName": "Krasnoyarsk Krai",
+    "city": "Krasnoyarsk",
+    "zip": "660000",
+    "lat": 56.0271,
+    "lon": 92.7806,
+    "timezone": "Asia/Krasnoyarsk",
+    "isp": "OOO \"Post ltd\"",
+    "org": "Igra-Service LLC",
+    "as": "AS12494 OOO \"Post ltd\"",
+    "query": "91.188.199.34"
+  },
   "211.7.97.223": {
     "status": "success",
     "country": "Japan",
@@ -590,22 +606,6 @@
     "org": "",
     "as": "AS43314 JSC ER-Telecom Holding",
     "query": "78.109.130.29"
-  },
-  "91.188.199.34": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KYA",
-    "regionName": "Krasnoyarsk Krai",
-    "city": "Krasnoyarsk",
-    "zip": "660000",
-    "lat": 56.0271,
-    "lon": 92.7806,
-    "timezone": "Asia/Krasnoyarsk",
-    "isp": "OOO \"Post ltd\"",
-    "org": "Igra-Service LLC",
-    "as": "AS12494 OOO \"Post ltd\"",
-    "query": "91.188.199.34"
   },
   "90.189.196.154": {
     "status": "success",
