@@ -207,22 +207,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "131.147.142.132"
   },
-  "222.109.72.106": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Jungnang-gu",
-    "zip": "021",
-    "lat": 37.5859,
-    "lon": 127.1029,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "222.109.72.106"
-  },
   "115.22.171.164": {
     "status": "success",
     "country": "South Korea",
@@ -271,6 +255,22 @@
     "as": "AS4685 Asahi Net",
     "query": "118.243.130.61"
   },
+  "222.109.72.106": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Jungnang-gu",
+    "zip": "021",
+    "lat": 37.5859,
+    "lon": 127.1029,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "222.109.72.106"
+  },
   "219.100.37.50": {
     "status": "success",
     "country": "Japan",
@@ -286,22 +286,6 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.50"
-  },
-  "220.212.128.195": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "ULTINA",
-    "as": "AS4725 SoftBank Corp.",
-    "query": "220.212.128.195"
   },
   "219.100.37.102": {
     "status": "success",
@@ -478,6 +462,22 @@
     "org": "DreamcityMedia",
     "as": "AS17839 LG HelloVision Corp.",
     "query": "210.106.55.92"
+  },
+  "121.129.205.146": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Nowon-gu",
+    "zip": "019",
+    "lat": 37.6289,
+    "lon": 127.0648,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "121.129.205.146"
   },
   "175.122.73.80": {
     "status": "success",
