@@ -255,22 +255,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "221.144.146.230"
   },
-  "192.145.96.207": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KYA",
-    "regionName": "Krasnoyarsk Krai",
-    "city": "Krasnoyarsk",
-    "zip": "660000",
-    "lat": 56.0133,
-    "lon": 92.7885,
-    "timezone": "Asia/Krasnoyarsk",
-    "isp": "Telezon-Seti LLC",
-    "org": "Telezon",
-    "as": "AS34858 Telezon-Seti LLC",
-    "query": "192.145.96.207"
-  },
   "114.206.223.158": {
     "status": "success",
     "country": "South Korea",
@@ -527,6 +511,22 @@
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "42.146.135.174"
   },
+  "112.186.44.216": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Pyeongtaek-si",
+    "zip": "177",
+    "lat": 37.0847,
+    "lon": 127.0525,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Korea Telecom",
+    "as": "AS4766 Korea Telecom",
+    "query": "112.186.44.216"
+  },
   "178.186.247.108": {
     "status": "success",
     "country": "Russia",
@@ -622,5 +622,21 @@
     "org": "OJSC Rostelecom Far-East Region",
     "as": "AS12389 PJSC Rostelecom",
     "query": "5.143.36.225"
+  },
+  "192.145.96.207": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KYA",
+    "regionName": "Krasnoyarsk Krai",
+    "city": "Krasnoyarsk",
+    "zip": "660000",
+    "lat": 56.0133,
+    "lon": 92.7885,
+    "timezone": "Asia/Krasnoyarsk",
+    "isp": "Telezon-Seti LLC",
+    "org": "Telezon",
+    "as": "AS34858 Telezon-Seti LLC",
+    "query": "192.145.96.207"
   }
 }
