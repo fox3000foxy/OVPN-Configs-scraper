@@ -623,22 +623,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "110.10.127.39"
   },
-  "110.135.220.7": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "43",
-    "regionName": "Kumamoto",
-    "city": "Kumamoto",
-    "zip": "860-0011",
-    "lat": 32.7959,
-    "lon": 130.7065,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM Co., Ltd.",
-    "org": "JCOM Co., Ltd",
-    "as": "AS9824 JCOM Co., Ltd.",
-    "query": "110.135.220.7"
-  },
   "222.98.61.38": {
     "status": "success",
     "country": "South Korea",
