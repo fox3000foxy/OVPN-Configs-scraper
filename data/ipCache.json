@@ -335,22 +335,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "125.132.236.134"
   },
-  "188.186.186.127": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "TYU",
-    "regionName": "Tyumen Oblast",
-    "city": "Zavodoukovsk",
-    "zip": "627142",
-    "lat": 56.5072,
-    "lon": 66.5491,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "JSC \"ER-Telecom Holding\"",
-    "org": "JSC \"ER-Telecom Holding\" Tyumen' branch",
-    "as": "AS41682 JSC ER-Telecom Holding",
-    "query": "188.186.186.127"
-  },
   "114.180.103.113": {
     "status": "success",
     "country": "Japan",
@@ -366,6 +350,22 @@
     "org": "NTT Communications Corporation",
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "114.180.103.113"
+  },
+  "126.221.40.75": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.221.40.75"
   },
   "1.255.215.116": {
     "status": "success",
@@ -463,22 +463,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "218.146.133.8"
   },
-  "211.193.209.77": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "26",
-    "regionName": "Busan",
-    "city": "Jwacheon-dong",
-    "zip": "601-826",
-    "lat": 35.1344,
-    "lon": 129.054,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "211.193.209.77"
-  },
   "221.157.130.155": {
     "status": "success",
     "country": "South Korea",
@@ -494,6 +478,22 @@
     "org": "Korea Telecom",
     "as": "AS4766 Korea Telecom",
     "query": "221.157.130.155"
+  },
+  "211.193.209.77": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Jwacheon-dong",
+    "zip": "601-826",
+    "lat": 35.1344,
+    "lon": 129.054,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "211.193.209.77"
   },
   "177.228.127.90": {
     "status": "success",
@@ -606,6 +606,22 @@
     "org": "Xpeed",
     "as": "AS17858 LG POWERCOMM",
     "query": "122.47.245.200"
+  },
+  "222.114.218.186": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "44",
+    "regionName": "Chungcheongnam-do",
+    "city": "Tangjin",
+    "zip": "318",
+    "lat": 36.8852,
+    "lon": 126.6562,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Korea Telecom",
+    "as": "AS4766 Korea Telecom",
+    "query": "222.114.218.186"
   },
   "59.4.220.59": {
     "status": "success",
