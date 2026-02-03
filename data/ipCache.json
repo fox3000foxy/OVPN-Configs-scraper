@@ -159,22 +159,6 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "153.166.46.229"
   },
-  "1.66.34.134": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Osaka",
-    "zip": "530-0041",
-    "lat": 34.6967,
-    "lon": 135.5154,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Docomo, inc.",
-    "org": "NTTDoCoMo",
-    "as": "AS9605 NTT DOCOMO, INC.",
-    "query": "1.66.34.134"
-  },
   "121.142.148.62": {
     "status": "success",
     "country": "South Korea",
@@ -190,6 +174,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "121.142.148.62"
+  },
+  "1.66.34.134": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Osaka",
+    "zip": "530-0041",
+    "lat": 34.6967,
+    "lon": 135.5154,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Docomo, inc.",
+    "org": "NTTDoCoMo",
+    "as": "AS9605 NTT DOCOMO, INC.",
+    "query": "1.66.34.134"
   },
   "124.144.23.224": {
     "status": "success",
@@ -238,6 +238,22 @@
     "org": "Sudogwongangbukbonbujang",
     "as": "AS4766 Korea Telecom",
     "query": "220.71.51.172"
+  },
+  "113.52.211.252": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "47",
+    "regionName": "Gyeongsangbuk-do",
+    "city": "Gyeongju",
+    "zip": "381",
+    "lat": 35.8413,
+    "lon": 129.2111,
+    "timezone": "Asia/Seoul",
+    "isp": "CJ Hello Co.",
+    "org": "HVSilla",
+    "as": "AS9770 LG HelloVision Corp.",
+    "query": "113.52.211.252"
   },
   "103.152.178.62": {
     "status": "success",
@@ -447,22 +463,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "118.47.213.113"
   },
-  "106.243.71.229": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "42",
-    "regionName": "Gangwon-do",
-    "city": "Wŏnju",
-    "zip": "263",
-    "lat": 37.384,
-    "lon": 127.8724,
-    "timezone": "Asia/Seoul",
-    "isp": "LG DACOM Corporation",
-    "org": "Boranet",
-    "as": "AS3786 LG DACOM Corporation",
-    "query": "106.243.71.229"
-  },
   "211.104.222.191": {
     "status": "success",
     "country": "South Korea",
@@ -478,6 +478,38 @@
     "org": "Korea Telecom",
     "as": "AS4766 Korea Telecom",
     "query": "211.104.222.191"
+  },
+  "126.29.195.39": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.29.195.39"
+  },
+  "106.243.71.229": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "42",
+    "regionName": "Gangwon-do",
+    "city": "Wŏnju",
+    "zip": "263",
+    "lat": 37.384,
+    "lon": 127.8724,
+    "timezone": "Asia/Seoul",
+    "isp": "LG DACOM Corporation",
+    "org": "Boranet",
+    "as": "AS3786 LG DACOM Corporation",
+    "query": "106.243.71.229"
   },
   "101.235.81.130": {
     "status": "success",
@@ -574,22 +606,6 @@
     "org": "Igra-Service LLC",
     "as": "AS12494 OOO \"Post ltd\"",
     "query": "91.188.199.34"
-  },
-  "98.51.7.160": {
-    "status": "success",
-    "country": "United States",
-    "countryCode": "US",
-    "region": "CA",
-    "regionName": "California",
-    "city": "San Leandro",
-    "zip": "94577",
-    "lat": 37.722,
-    "lon": -122.1643,
-    "timezone": "America/Los_Angeles",
-    "isp": "Comcast Cable Communications, LLC",
-    "org": "Comcast Cable Communications, LLC",
-    "as": "AS7922 Comcast Cable Communications, LLC",
-    "query": "98.51.7.160"
   },
   "212.104.101.212": {
     "status": "success",
