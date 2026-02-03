@@ -95,22 +95,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.109"
   },
-  "50.47.103.146": {
-    "status": "success",
-    "country": "United States",
-    "countryCode": "US",
-    "region": "WA",
-    "regionName": "Washington",
-    "city": "Lynnwood",
-    "zip": "98036",
-    "lat": 47.8022,
-    "lon": -122.286,
-    "timezone": "America/Los_Angeles",
-    "isp": "Wholesail networks LLC",
-    "org": "Ziply Fiber",
-    "as": "AS20055 Wholesail networks LLC",
-    "query": "50.47.103.146"
-  },
   "219.100.37.208": {
     "status": "success",
     "country": "Japan",
@@ -143,6 +127,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.204"
   },
+  "126.130.164.3": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.130.164.3"
+  },
   "131.147.142.132": {
     "status": "success",
     "country": "Japan",
@@ -158,6 +158,22 @@
     "org": "Sony Network Communications Inc.",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "131.147.142.132"
+  },
+  "220.212.128.195": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "ULTINA",
+    "as": "AS4725 SoftBank Corp.",
+    "query": "220.212.128.195"
   },
   "112.220.30.58": {
     "status": "success",
@@ -270,22 +286,6 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.50"
-  },
-  "220.212.128.195": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "ULTINA",
-    "as": "AS4725 SoftBank Corp.",
-    "query": "220.212.128.195"
   },
   "219.100.37.102": {
     "status": "success",
@@ -447,22 +447,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.245.64.64"
   },
-  "150.31.45.162": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6906,
-    "lon": 139.77,
-    "timezone": "Asia/Tokyo",
-    "isp": "Internet Initiative Japan Inc.",
-    "org": "IIJ Internet",
-    "as": "AS2497 Internet Initiative Japan Inc.",
-    "query": "150.31.45.162"
-  },
   "218.158.82.155": {
     "status": "success",
     "country": "South Korea",
@@ -527,21 +511,21 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "175.124.82.169"
   },
-  "60.117.63.212": {
+  "124.187.234.189": {
     "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan Nation-wide Network of Softbank Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "60.117.63.212"
+    "country": "Australia",
+    "countryCode": "AU",
+    "region": "VIC",
+    "regionName": "Victoria",
+    "city": "Melbourne",
+    "zip": "3029",
+    "lat": -37.8363,
+    "lon": 144.6595,
+    "timezone": "Australia/Melbourne",
+    "isp": "Telstra Internet",
+    "org": "",
+    "as": "AS1221 Telstra Limited",
+    "query": "124.187.234.189"
   },
   "126.141.88.74": {
     "status": "success",
