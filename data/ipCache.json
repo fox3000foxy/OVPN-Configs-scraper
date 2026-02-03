@@ -335,22 +335,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "125.132.236.134"
   },
-  "114.180.103.113": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "10",
-    "regionName": "Gunma",
-    "city": "Takasaki",
-    "zip": "370-0061",
-    "lat": 36.3369,
-    "lon": 139.0189,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "NTT Communications Corporation",
-    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
-    "query": "114.180.103.113"
-  },
   "126.221.40.75": {
     "status": "success",
     "country": "Japan",
@@ -366,6 +350,22 @@
     "org": "SOFTBANK Corp",
     "as": "AS17676 SoftBank Corp.",
     "query": "126.221.40.75"
+  },
+  "126.40.156.73": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.40.156.73"
   },
   "1.255.215.116": {
     "status": "success",
@@ -559,22 +559,6 @@
     "as": "AS39785 Axioma, LLC",
     "query": "95.170.177.6"
   },
-  "46.37.132.36": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PRI",
-    "regionName": "Primorye",
-    "city": "Vladivostok",
-    "zip": "690001",
-    "lat": 43.1068,
-    "lon": 131.8692,
-    "timezone": "Asia/Vladivostok",
-    "isp": "VLADLINK",
-    "org": "VladLink LTD",
-    "as": "AS42038 Krivets Sergey Sergeevich",
-    "query": "46.37.132.36"
-  },
   "14.7.11.249": {
     "status": "success",
     "country": "South Korea",
@@ -590,6 +574,22 @@
     "org": "DACOM-PUBNETPLUS",
     "as": "AS17858 LG POWERCOMM",
     "query": "14.7.11.249"
+  },
+  "46.37.132.36": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Vladivostok",
+    "zip": "690001",
+    "lat": 43.1068,
+    "lon": 131.8692,
+    "timezone": "Asia/Vladivostok",
+    "isp": "VLADLINK",
+    "org": "VladLink LTD",
+    "as": "AS42038 Krivets Sergey Sergeevich",
+    "query": "46.37.132.36"
   },
   "122.47.245.200": {
     "status": "success",
