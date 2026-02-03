@@ -383,22 +383,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "211.44.188.45"
   },
-  "222.14.193.1": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "47",
-    "regionName": "Okinawa",
-    "city": "Kochinda",
-    "zip": "901-0401",
-    "lat": 26.1556,
-    "lon": 127.6668,
-    "timezone": "Asia/Tokyo",
-    "isp": "DION (KDDI CORPORATION)",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "222.14.193.1"
-  },
   "124.214.92.234": {
     "status": "success",
     "country": "Japan",
@@ -414,6 +398,22 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "124.214.92.234"
+  },
+  "222.14.193.1": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "47",
+    "regionName": "Okinawa",
+    "city": "Kochinda",
+    "zip": "901-0401",
+    "lat": 26.1556,
+    "lon": 127.6668,
+    "timezone": "Asia/Tokyo",
+    "isp": "DION (KDDI CORPORATION)",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "222.14.193.1"
   },
   "220.100.45.229": {
     "status": "success",
@@ -702,21 +702,5 @@
     "org": "MTT Connect Ltd.",
     "as": "AS38917 INTERCOMTEL Limited Company",
     "query": "176.110.201.77"
-  },
-  "212.164.178.60": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "NVS",
-    "regionName": "Novosibirsk Oblast",
-    "city": "Novosibirsk",
-    "zip": "630000",
-    "lat": 55.0226,
-    "lon": 82.9317,
-    "timezone": "Asia/Novosibirsk",
-    "isp": "Rostelecom networks",
-    "org": "OJSC Sibirtelecom",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "212.164.178.60"
   }
 }
