@@ -639,20 +639,20 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "188.16.58.209"
   },
-  "211.116.113.124": {
+  "115.94.47.42": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
-    "region": "45",
-    "regionName": "Jeollabuk-do",
-    "city": "Jeonju",
-    "zip": "549",
-    "lat": 35.8345,
-    "lon": 127.1057,
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Yeonje-gu",
+    "zip": "475",
+    "lat": 35.1811,
+    "lon": 129.0928,
     "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "TBROAD Jeonju",
-    "as": "AS17854 SK Broadband Co Ltd",
-    "query": "211.116.113.124"
+    "isp": "LG DACOM Corporation",
+    "org": "Boranet",
+    "as": "AS3786 LG DACOM Corporation",
+    "query": "115.94.47.42"
   }
 }
