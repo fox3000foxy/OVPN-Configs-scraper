@@ -127,6 +127,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.208"
   },
+  "219.100.37.204": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftEther",
+    "org": "SoftEther Corporation",
+    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
+    "query": "219.100.37.204"
+  },
   "111.238.189.171": {
     "status": "success",
     "country": "Japan",
@@ -270,6 +286,22 @@
     "org": "HVHaeundae",
     "as": "AS9697 LG HelloVision Corp.",
     "query": "110.46.158.118"
+  },
+  "222.109.72.106": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Jungnang-gu",
+    "zip": "021",
+    "lat": 37.5859,
+    "lon": 127.1029,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "222.109.72.106"
   },
   "219.100.37.50": {
     "status": "success",
@@ -447,22 +479,6 @@
     "as": "AS45758 Triple T Broadband Public Company Limited",
     "query": "223.205.22.26"
   },
-  "210.106.55.92": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Gimpo-si",
-    "zip": "100",
-    "lat": 37.7542,
-    "lon": 126.557,
-    "timezone": "Asia/Seoul",
-    "isp": "CJ-HELLOVISION",
-    "org": "DreamcityMedia",
-    "as": "AS17839 LG HelloVision Corp.",
-    "query": "210.106.55.92"
-  },
   "121.129.205.146": {
     "status": "success",
     "country": "South Korea",
@@ -478,22 +494,6 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "121.129.205.146"
-  },
-  "119.200.113.20": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "46",
-    "regionName": "Jeollanam-do",
-    "city": "Mokpo",
-    "zip": "587",
-    "lat": 34.8163,
-    "lon": 126.3895,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "119.200.113.20"
   },
   "175.122.73.80": {
     "status": "success",
@@ -542,6 +542,22 @@
     "org": "Triple T Broadband Public Company Limited",
     "as": "AS45758 Triple T Broadband Public Company Limited",
     "query": "171.4.236.153"
+  },
+  "60.117.63.212": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.117.63.212"
   },
   "222.119.6.4": {
     "status": "success",
@@ -622,22 +638,6 @@
     "org": "bugbusanjisa(deitasaeobyong)",
     "as": "AS4766 Korea Telecom",
     "query": "221.161.133.98"
-  },
-  "111.105.129.245": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "28",
-    "regionName": "Hyōgo",
-    "city": "Kobe",
-    "zip": "650-0011",
-    "lat": 34.6922,
-    "lon": 135.1816,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "111.105.129.245"
   },
   "176.48.89.92": {
     "status": "success",
