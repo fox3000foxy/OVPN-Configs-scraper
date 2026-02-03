@@ -191,22 +191,6 @@
     "as": "AS9605 NTT DOCOMO, INC.",
     "query": "1.66.34.134"
   },
-  "216.67.2.3": {
-    "status": "success",
-    "country": "United States",
-    "countryCode": "US",
-    "region": "AK",
-    "regionName": "Alaska",
-    "city": "Anchorage",
-    "zip": "99504",
-    "lat": 61.2034,
-    "lon": -149.7595,
-    "timezone": "America/Anchorage",
-    "isp": "ACSG",
-    "org": "Soldotna Redback DSL",
-    "as": "AS7782 Alaska Communications Systems Group, Inc.",
-    "query": "216.67.2.3"
-  },
   "218.145.181.197": {
     "status": "success",
     "country": "South Korea",
@@ -222,6 +206,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "218.145.181.197"
+  },
+  "216.67.2.3": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AK",
+    "regionName": "Alaska",
+    "city": "Anchorage",
+    "zip": "99504",
+    "lat": 61.2034,
+    "lon": -149.7595,
+    "timezone": "America/Anchorage",
+    "isp": "ACSG",
+    "org": "Soldotna Redback DSL",
+    "as": "AS7782 Alaska Communications Systems Group, Inc.",
+    "query": "216.67.2.3"
   },
   "180.68.118.32": {
     "status": "success",
@@ -463,22 +463,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.162.61.42"
   },
-  "1.232.152.53": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Seoul",
-    "zip": "045",
-    "lat": 37.5656,
-    "lon": 126.978,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "SK Broadband Co Ltd",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "1.232.152.53"
-  },
   "68.149.154.94": {
     "status": "success",
     "country": "Canada",
@@ -559,22 +543,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "178.186.247.108"
   },
-  "133.106.35.200": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tōyō",
-    "zip": "135-0016",
-    "lat": 35.6698,
-    "lon": 139.815,
-    "timezone": "Asia/Tokyo",
-    "isp": "Rakuten Mobile, Inc.",
-    "org": "RMN",
-    "as": "AS138384 Rakuten Mobile Network, Inc.",
-    "query": "133.106.35.200"
-  },
   "188.168.118.41": {
     "status": "success",
     "country": "Russia",
@@ -654,21 +622,5 @@
     "org": "OJSC Rostelecom Far-East Region",
     "as": "AS12389 PJSC Rostelecom",
     "query": "5.143.36.225"
-  },
-  "192.145.96.207": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KYA",
-    "regionName": "Krasnoyarsk Krai",
-    "city": "Krasnoyarsk",
-    "zip": "660000",
-    "lat": 56.0133,
-    "lon": 92.7885,
-    "timezone": "Asia/Krasnoyarsk",
-    "isp": "Telezon-Seti LLC",
-    "org": "Telezon",
-    "as": "AS34858 Telezon-Seti LLC",
-    "query": "192.145.96.207"
   }
 }
