@@ -431,22 +431,6 @@
     "as": "AS7679 QTnet,Inc.",
     "query": "175.28.146.212"
   },
-  "1.240.128.118": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Dobong-gu",
-    "zip": "014",
-    "lat": 37.639,
-    "lon": 127.034,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "1.240.128.118"
-  },
   "211.193.209.77": {
     "status": "success",
     "country": "South Korea",
@@ -542,6 +526,22 @@
     "org": "Axioma, LLC",
     "as": "AS39785 Axioma, LLC",
     "query": "95.170.177.6"
+  },
+  "188.232.231.247": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "OMS",
+    "regionName": "Omsk Oblast",
+    "city": "Omsk",
+    "zip": "644000",
+    "lat": 54.9896,
+    "lon": 73.3729,
+    "timezone": "Asia/Omsk",
+    "isp": "JSC \"ER-Telecom Holding\"",
+    "org": "CJSC \"ER-Telecom Holding\" Omsk Branch",
+    "as": "AS41843 JSC ER-Telecom Holding",
+    "query": "188.232.231.247"
   },
   "46.37.132.36": {
     "status": "success",
@@ -670,5 +670,21 @@
     "org": "Xpeed",
     "as": "AS17858 LG POWERCOMM",
     "query": "182.224.28.246"
+  },
+  "121.145.243.135": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "48",
+    "regionName": "Gyeongsangnam-do",
+    "city": "Gimhae",
+    "zip": "509",
+    "lat": 35.2342,
+    "lon": 128.8777,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "121.145.243.135"
   }
 }
