@@ -575,22 +575,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "222.119.6.4"
   },
-  "126.141.88.74": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.141.88.74"
-  },
   "58.150.189.252": {
     "status": "success",
     "country": "South Korea",
@@ -606,6 +590,22 @@
     "org": "Boranet",
     "as": "AS3786 LG DACOM Corporation",
     "query": "58.150.189.252"
+  },
+  "126.141.88.74": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.141.88.74"
   },
   "88.206.10.129": {
     "status": "success",
