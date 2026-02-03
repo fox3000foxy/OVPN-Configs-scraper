@@ -127,6 +127,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.208"
   },
+  "68.8.191.131": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA",
+    "regionName": "California",
+    "city": "San Diego",
+    "zip": "92115",
+    "lat": 32.7638,
+    "lon": -117.07,
+    "timezone": "America/Los_Angeles",
+    "isp": "Cox Communications Inc.",
+    "org": "Cox Communications Inc.",
+    "as": "AS22773 Cox Communications Inc.",
+    "query": "68.8.191.131"
+  },
   "219.100.37.204": {
     "status": "success",
     "country": "Japan",
@@ -158,6 +174,22 @@
     "org": "Open Computer Network",
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "153.166.46.229"
+  },
+  "121.152.58.166": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "44",
+    "regionName": "Chungcheongnam-do",
+    "city": "Cheonan",
+    "zip": "310",
+    "lat": 36.8242,
+    "lon": 127.1293,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "121.152.58.166"
   },
   "1.66.34.134": {
     "status": "success",
@@ -223,22 +255,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "14.57.196.103"
   },
-  "220.71.51.172": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Yeongdeungpo-gu",
-    "zip": "072",
-    "lat": 37.5247,
-    "lon": 126.9133,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Sudogwongangbukbonbujang",
-    "as": "AS4766 Korea Telecom",
-    "query": "220.71.51.172"
-  },
   "113.52.211.252": {
     "status": "success",
     "country": "South Korea",
@@ -271,6 +287,22 @@
     "as": "AS38074 SDCC Japan-West Area",
     "query": "103.152.178.62"
   },
+  "220.71.51.172": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Yeongdeungpo-gu",
+    "zip": "072",
+    "lat": 37.5247,
+    "lon": 126.9133,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Sudogwongangbukbonbujang",
+    "as": "AS4766 Korea Telecom",
+    "query": "220.71.51.172"
+  },
   "119.235.113.226": {
     "status": "success",
     "country": "Turkmenistan",
@@ -286,22 +318,6 @@
     "org": "State Company of Electro Communications Turkmentelecom",
     "as": "AS20661 State Company of Electro Communications Turkmentelecom",
     "query": "119.235.113.226"
-  },
-  "112.170.21.41": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Seongnam-si",
-    "zip": "135",
-    "lat": 37.377,
-    "lon": 127.1091,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "112.170.21.41"
   },
   "220.102.233.254": {
     "status": "success",
@@ -367,22 +383,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "222.227.165.89"
   },
-  "119.205.93.37": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "42",
-    "regionName": "Gangwon-do",
-    "city": "Chuncheon",
-    "zip": "242",
-    "lat": 37.8897,
-    "lon": 127.736,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Korea Telecom",
-    "as": "AS4766 Korea Telecom",
-    "query": "119.205.93.37"
-  },
   "79.105.27.89": {
     "status": "success",
     "country": "Russia",
@@ -398,6 +398,22 @@
     "org": "OJSC Far Eastern Telecommunications Company",
     "as": "AS12389 PJSC Rostelecom",
     "query": "79.105.27.89"
+  },
+  "131.213.224.43": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "01",
+    "regionName": "Hokkaido",
+    "city": "Sapporo",
+    "zip": "064-0801",
+    "lat": 43.0456,
+    "lon": 141.3522,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc.",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "131.213.224.43"
   },
   "172.103.241.126": {
     "status": "success",
@@ -415,21 +431,21 @@
     "as": "AS25668 Cipherkey Exchange Corp.",
     "query": "172.103.241.126"
   },
-  "131.213.224.43": {
+  "212.104.101.212": {
     "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "01",
-    "regionName": "Hokkaido",
-    "city": "Sapporo",
-    "zip": "064-0801",
-    "lat": 43.0456,
-    "lon": 141.3522,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc.",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "131.213.224.43"
+    "country": "Bulgaria",
+    "countryCode": "BG",
+    "region": "18",
+    "regionName": "Ruse",
+    "city": "Rousse",
+    "zip": "7000",
+    "lat": 43.8627,
+    "lon": 25.9648,
+    "timezone": "Europe/Sofia",
+    "isp": "A1 BG",
+    "org": "",
+    "as": "AS13124 A1 Bulgaria EAD",
+    "query": "212.104.101.212"
   },
   "95.154.89.139": {
     "status": "success",
@@ -479,22 +495,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "118.47.213.113"
   },
-  "211.104.222.191": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "26",
-    "regionName": "Busan",
-    "city": "Seo-gu",
-    "zip": "492",
-    "lat": 35.1231,
-    "lon": 129.0184,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Korea Telecom",
-    "as": "AS4766 Korea Telecom",
-    "query": "211.104.222.191"
-  },
   "126.29.195.39": {
     "status": "success",
     "country": "Japan",
@@ -526,6 +526,22 @@
     "org": "Boranet",
     "as": "AS3786 LG DACOM Corporation",
     "query": "106.243.71.229"
+  },
+  "220.100.118.235": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tokyo",
+    "zip": "151-0071",
+    "lat": 35.6837,
+    "lon": 139.6805,
+    "timezone": "Asia/Tokyo",
+    "isp": "Internet Initiative Japan",
+    "org": "Internet Initiative Japan Inc.",
+    "as": "AS2497 Internet Initiative Japan Inc.",
+    "query": "220.100.118.235"
   },
   "61.47.212.110": {
     "status": "success",
@@ -623,36 +639,36 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "90.189.196.154"
   },
-  "212.104.101.212": {
+  "174.65.56.182": {
     "status": "success",
-    "country": "Bulgaria",
-    "countryCode": "BG",
-    "region": "18",
-    "regionName": "Ruse",
-    "city": "Rousse",
-    "zip": "7000",
-    "lat": 43.8627,
-    "lon": 25.9648,
-    "timezone": "Europe/Sofia",
-    "isp": "A1 BG",
-    "org": "",
-    "as": "AS13124 A1 Bulgaria EAD",
-    "query": "212.104.101.212"
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA",
+    "regionName": "California",
+    "city": "El Cajon",
+    "zip": "92021",
+    "lat": 32.8123,
+    "lon": -116.9172,
+    "timezone": "America/Los_Angeles",
+    "isp": "Cox Communications Inc.",
+    "org": "Cox Communications",
+    "as": "AS22773 Cox Communications Inc.",
+    "query": "174.65.56.182"
   },
-  "124.219.147.24": {
+  "14.138.226.242": {
     "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Edogawa",
-    "zip": "132-0000",
-    "lat": 35.6907,
-    "lon": 139.8767,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc.",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "124.219.147.24"
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Yongsan-dong",
+    "zip": "06333",
+    "lat": 37.5102,
+    "lon": 127.064,
+    "timezone": "Asia/Seoul",
+    "isp": "DLIVE",
+    "org": "Dlive",
+    "as": "AS10036 DLIVE",
+    "query": "14.138.226.242"
   }
 }
