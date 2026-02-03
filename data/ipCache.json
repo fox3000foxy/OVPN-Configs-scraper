@@ -479,6 +479,22 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.217.14.66"
   },
+  "223.205.22.26": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "73",
+    "regionName": "Nakhon Pathom",
+    "city": "Nakhon Pathom",
+    "zip": "73000",
+    "lat": 13.8179,
+    "lon": 100.0416,
+    "timezone": "Asia/Bangkok",
+    "isp": "Triple T Broadband Public Company Limited",
+    "org": "Triple T Broadband Public Company Limited",
+    "as": "AS45758 Triple T Broadband Public Company Limited",
+    "query": "223.205.22.26"
+  },
   "1.245.64.64": {
     "status": "success",
     "country": "South Korea",
@@ -543,21 +559,21 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "175.124.82.169"
   },
-  "171.4.236.153": {
+  "60.117.63.212": {
     "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "50",
-    "regionName": "Chiang Mai",
-    "city": "Chiang Mai",
-    "zip": "50210",
-    "lat": 18.8514,
-    "lon": 99.0412,
-    "timezone": "Asia/Bangkok",
-    "isp": "Triple T Broadband Public Company Limited",
-    "org": "Triple T Broadband Public Company Limited",
-    "as": "AS45758 Triple T Broadband Public Company Limited",
-    "query": "171.4.236.153"
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.117.63.212"
   },
   "222.119.6.4": {
     "status": "success",
@@ -622,22 +638,6 @@
     "org": "",
     "as": "AS8369 Intersvyaz-2 JSC",
     "query": "88.206.10.129"
-  },
-  "221.161.133.98": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "26",
-    "regionName": "Busan",
-    "city": "Busan",
-    "zip": "489",
-    "lat": 35.1025,
-    "lon": 129.0394,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "bugbusanjisa(deitasaeobyong)",
-    "as": "AS4766 Korea Telecom",
-    "query": "221.161.133.98"
   },
   "176.48.89.92": {
     "status": "success",
