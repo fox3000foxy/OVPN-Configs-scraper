@@ -271,22 +271,6 @@
     "as": "AS9770 LG HelloVision Corp.",
     "query": "113.52.211.252"
   },
-  "103.152.178.62": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-0001",
-    "lat": 35.694,
-    "lon": 139.754,
-    "timezone": "Asia/Tokyo",
-    "isp": "Ayao Takata",
-    "org": "SDCC-East01",
-    "as": "AS38074 SDCC Japan-West Area",
-    "query": "103.152.178.62"
-  },
   "220.71.51.172": {
     "status": "success",
     "country": "South Korea",
@@ -318,6 +302,22 @@
     "org": "State Company of Electro Communications Turkmentelecom",
     "as": "AS20661 State Company of Electro Communications Turkmentelecom",
     "query": "119.235.113.226"
+  },
+  "219.100.37.50": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftEther",
+    "org": "SoftEther Corporation",
+    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
+    "query": "219.100.37.50"
   },
   "220.102.233.254": {
     "status": "success",
@@ -639,6 +639,22 @@
     "as": "AS22773 Cox Communications Inc.",
     "query": "174.65.56.182"
   },
+  "59.16.169.151": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Seocho-gu",
+    "zip": "065",
+    "lat": 37.5015,
+    "lon": 127.0013,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "59.16.169.151"
+  },
   "95.25.112.165": {
     "status": "success",
     "country": "Russia",
@@ -655,20 +671,20 @@
     "as": "AS42110 PJSC \"Vimpelcom\"",
     "query": "95.25.112.165"
   },
-  "14.138.226.242": {
+  "115.37.169.32": {
     "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Yongsan-dong",
-    "zip": "06333",
-    "lat": 37.5102,
-    "lon": 127.064,
-    "timezone": "Asia/Seoul",
-    "isp": "DLIVE",
-    "org": "Dlive",
-    "as": "AS10036 DLIVE",
-    "query": "14.138.226.242"
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "22",
+    "regionName": "Shizuoka",
+    "city": "Iwata",
+    "zip": "438-0041",
+    "lat": 34.7006,
+    "lon": 137.871,
+    "timezone": "Asia/Tokyo",
+    "isp": "Chubu Telecommunications Company, Inc.",
+    "org": "Chubu Telecommunications Co., Inc.",
+    "as": "AS18126 Chubu Telecommunications Company, Inc.",
+    "query": "115.37.169.32"
   }
 }
