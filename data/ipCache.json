@@ -175,6 +175,22 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "153.166.46.229"
   },
+  "121.152.58.166": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "44",
+    "regionName": "Chungcheongnam-do",
+    "city": "Cheonan",
+    "zip": "310",
+    "lat": 36.8242,
+    "lon": 127.1293,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "121.152.58.166"
+  },
   "1.66.34.134": {
     "status": "success",
     "country": "Japan",
@@ -367,22 +383,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "222.227.165.89"
   },
-  "119.205.93.37": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "42",
-    "regionName": "Gangwon-do",
-    "city": "Chuncheon",
-    "zip": "242",
-    "lat": 37.8897,
-    "lon": 127.736,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Korea Telecom",
-    "as": "AS4766 Korea Telecom",
-    "query": "119.205.93.37"
-  },
   "79.105.27.89": {
     "status": "success",
     "country": "Russia",
@@ -415,22 +415,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "131.213.224.43"
   },
-  "172.103.241.126": {
-    "status": "success",
-    "country": "Canada",
-    "countryCode": "CA",
-    "region": "BC",
-    "regionName": "British Columbia",
-    "city": "Burnaby",
-    "zip": "V5H",
-    "lat": 49.2292,
-    "lon": -122.9932,
-    "timezone": "America/Vancouver",
-    "isp": "Cipherkey Exchange Corp.",
-    "org": "Cipherkey Exchange Corp",
-    "as": "AS25668 Cipherkey Exchange Corp.",
-    "query": "172.103.241.126"
-  },
   "212.104.101.212": {
     "status": "success",
     "country": "Bulgaria",
@@ -446,6 +430,22 @@
     "org": "",
     "as": "AS13124 A1 Bulgaria EAD",
     "query": "212.104.101.212"
+  },
+  "172.103.241.126": {
+    "status": "success",
+    "country": "Canada",
+    "countryCode": "CA",
+    "region": "BC",
+    "regionName": "British Columbia",
+    "city": "Burnaby",
+    "zip": "V5H",
+    "lat": 49.2292,
+    "lon": -122.9932,
+    "timezone": "America/Vancouver",
+    "isp": "Cipherkey Exchange Corp.",
+    "org": "Cipherkey Exchange Corp",
+    "as": "AS25668 Cipherkey Exchange Corp.",
+    "query": "172.103.241.126"
   },
   "95.154.89.139": {
     "status": "success",
@@ -558,22 +558,6 @@
     "org": "Freedom LLC",
     "as": "AS206011 Freedom LLC",
     "query": "185.199.8.39"
-  },
-  "188.133.218.201": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "ALT",
-    "regionName": "Altai Krai",
-    "city": "Barnaul",
-    "zip": "656002",
-    "lat": 53.362,
-    "lon": 83.7279,
-    "timezone": "Asia/Barnaul",
-    "isp": "ENTER-NETWORK",
-    "org": "Enter, LLC",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "188.133.218.201"
   },
   "211.7.97.223": {
     "status": "success",
