@@ -99,12 +99,6 @@ Or download individually:
 | 171.4.236.153 | Thailand | Triple T Broadband Public Company Limited | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/171.4.236.153.ovpn) |
 
 
-### The Netherlands
-| IP | Country | ISP | Provider | Config |
-|---|---|---|---|---|
-| 83.82.124.132 | The Netherlands | Vodafone Libertel B.V. | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/83.82.124.132.ovpn) |
-
-
 ### United States
 | IP | Country | ISP | Provider | Config |
 |---|---|---|---|---|
