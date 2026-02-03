@@ -351,22 +351,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "160.86.46.9"
   },
-  "120.147.128.201": {
-    "status": "success",
-    "country": "Australia",
-    "countryCode": "AU",
-    "region": "VIC",
-    "regionName": "Victoria",
-    "city": "Melbourne",
-    "zip": "3032",
-    "lat": -37.7764,
-    "lon": 144.8881,
-    "timezone": "Australia/Melbourne",
-    "isp": "Telstra Internet",
-    "org": "",
-    "as": "AS1221 Telstra Limited",
-    "query": "120.147.128.201"
-  },
   "182.237.221.37": {
     "status": "success",
     "country": "South Korea",
@@ -463,6 +447,38 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.150.137.238"
   },
+  "219.240.68.241": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Gangdong-gu",
+    "zip": "052",
+    "lat": 37.5554,
+    "lon": 127.1515,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "SK Broadband Co Ltd",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "219.240.68.241"
+  },
+  "60.145.145.27": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.145.145.27"
+  },
   "121.140.51.111": {
     "status": "success",
     "country": "South Korea",
@@ -478,22 +494,6 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "121.140.51.111"
-  },
-  "61.24.93.129": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0071",
-    "lat": 35.6837,
-    "lon": 139.6805,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM Co., Ltd.",
-    "org": "JCOM Co., Ltd",
-    "as": "AS9824 JCOM Co., Ltd.",
-    "query": "61.24.93.129"
   },
   "118.222.200.243": {
     "status": "success",
@@ -639,22 +639,6 @@
     "as": "AS17858 LG POWERCOMM",
     "query": "49.175.89.36"
   },
-  "219.240.68.241": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Gangdong-gu",
-    "zip": "052",
-    "lat": 37.5554,
-    "lon": 127.1515,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "SK Broadband Co Ltd",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "219.240.68.241"
-  },
   "113.22.12.22": {
     "status": "success",
     "country": "Vietnam",
@@ -734,5 +718,21 @@
     "org": "TBROAD Jeonju",
     "as": "AS17854 SK Broadband Co Ltd",
     "query": "211.116.113.124"
+  },
+  "115.94.47.42": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Yeonje-gu",
+    "zip": "475",
+    "lat": 35.1811,
+    "lon": 129.0928,
+    "timezone": "Asia/Seoul",
+    "isp": "LG DACOM Corporation",
+    "org": "Boranet",
+    "as": "AS3786 LG DACOM Corporation",
+    "query": "115.94.47.42"
   }
 }
