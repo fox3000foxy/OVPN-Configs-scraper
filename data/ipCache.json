@@ -335,6 +335,22 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "114.206.223.158"
   },
+  "211.205.56.227": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "29",
+    "regionName": "Gwangju",
+    "city": "Gwangju",
+    "zip": "61426",
+    "lat": 35.1496,
+    "lon": 126.9156,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "211.205.56.227"
+  },
   "180.230.179.174": {
     "status": "success",
     "country": "South Korea",
