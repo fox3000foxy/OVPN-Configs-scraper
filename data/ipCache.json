@@ -319,22 +319,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "37.21.144.175"
   },
-  "110.46.158.118": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "26",
-    "regionName": "Busan",
-    "city": "Haeundae-gu",
-    "zip": "480",
-    "lat": 35.1692,
-    "lon": 129.1738,
-    "timezone": "Asia/Seoul",
-    "isp": "CJ Hello Co",
-    "org": "HVHaeundae",
-    "as": "AS9697 LG HelloVision Corp.",
-    "query": "110.46.158.118"
-  },
   "1.66.34.134": {
     "status": "success",
     "country": "Japan",
@@ -350,6 +334,22 @@
     "org": "NTTDoCoMo",
     "as": "AS9605 NTT DOCOMO, INC.",
     "query": "1.66.34.134"
+  },
+  "110.46.158.118": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Haeundae-gu",
+    "zip": "480",
+    "lat": 35.1692,
+    "lon": 129.1738,
+    "timezone": "Asia/Seoul",
+    "isp": "CJ Hello Co",
+    "org": "HVHaeundae",
+    "as": "AS9697 LG HelloVision Corp.",
+    "query": "110.46.158.118"
   },
   "175.209.13.17": {
     "status": "success",
@@ -479,22 +479,6 @@
     "as": "AS3786 LG DACOM Corporation",
     "query": "58.150.189.252"
   },
-  "46.37.132.36": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PRI",
-    "regionName": "Primorye",
-    "city": "Vladivostok",
-    "zip": "690001",
-    "lat": 43.1068,
-    "lon": 131.8692,
-    "timezone": "Asia/Vladivostok",
-    "isp": "VLADLINK",
-    "org": "VladLink LTD",
-    "as": "AS42038 Krivets Sergey Sergeevich",
-    "query": "46.37.132.36"
-  },
   "125.138.94.61": {
     "status": "success",
     "country": "South Korea",
@@ -606,22 +590,6 @@
     "org": "SK Broadband Co Ltd",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "211.204.251.153"
-  },
-  "116.124.32.221": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "45",
-    "regionName": "Jeollabuk-do",
-    "city": "Wanju",
-    "zip": "553",
-    "lat": 35.8343,
-    "lon": 127.0419,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "116.124.32.221"
   },
   "176.210.161.19": {
     "status": "success",
