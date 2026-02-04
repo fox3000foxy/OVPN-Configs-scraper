@@ -447,22 +447,6 @@
     "as": "AS33991 Igra-Service LLC",
     "query": "91.132.22.148"
   },
-  "126.29.195.39": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.29.195.39"
-  },
   "114.175.159.86": {
     "status": "success",
     "country": "Japan",
@@ -607,6 +591,22 @@
     "as": "AS17858 LG POWERCOMM",
     "query": "49.164.173.80"
   },
+  "186.122.11.104": {
+    "status": "success",
+    "country": "Argentina",
+    "countryCode": "AR",
+    "region": "T",
+    "regionName": "Tucuman",
+    "city": "San Miguel de Tucumán",
+    "zip": "4000",
+    "lat": -26.816,
+    "lon": -65.2154,
+    "timezone": "America/Argentina/Tucuman",
+    "isp": "Techtel LMDS Comunicaciones Interactivas S.A.",
+    "org": "",
+    "as": "AS11664 Techtel LMDS Comunicaciones Interactivas S.A.",
+    "query": "186.122.11.104"
+  },
   "5.138.239.170": {
     "status": "success",
     "country": "Russia",
@@ -686,6 +686,22 @@
     "org": "OJSC Sibirtelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "90.189.196.154"
+  },
+  "188.168.119.161": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KHA",
+    "regionName": "Khabarovsk",
+    "city": "Khabarovsk",
+    "zip": "680003",
+    "lat": 48.4814,
+    "lon": 135.072,
+    "timezone": "Asia/Vladivostok",
+    "isp": "Limited Liability Company \"TTK-Svyaz\"",
+    "org": "",
+    "as": "AS15774 Limited Liability Company TTK-Svyaz",
+    "query": "188.168.119.161"
   },
   "77.35.185.206": {
     "status": "success",
