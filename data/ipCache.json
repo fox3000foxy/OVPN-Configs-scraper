@@ -143,6 +143,22 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "106.168.67.207"
   },
+  "182.169.54.9": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tokyo",
+    "zip": "151-0071",
+    "lat": 35.6837,
+    "lon": 139.6805,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "182.169.54.9"
+  },
   "121.142.148.62": {
     "status": "success",
     "country": "South Korea",
@@ -319,22 +335,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "125.139.49.108"
   },
-  "182.169.54.9": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0071",
-    "lat": 35.6837,
-    "lon": 139.6805,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "182.169.54.9"
-  },
   "219.100.37.102": {
     "status": "success",
     "country": "Japan",
@@ -398,22 +398,6 @@
     "org": "SK Broadband Co Ltd",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "58.123.224.213"
-  },
-  "126.219.0.177": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.219.0.177"
   },
   "80.44.212.7": {
     "status": "success",
@@ -750,21 +734,5 @@
     "org": "Northern International University",
     "as": "AS34205 PJSC Rostelecom",
     "query": "212.14.195.153"
-  },
-  "114.30.200.147": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Seoul",
-    "zip": "04524",
-    "lat": 37.5658,
-    "lon": 126.978,
-    "timezone": "Asia/Seoul",
-    "isp": "LG HelloVision Corp.",
-    "org": "HVHonam",
-    "as": "AS38121 LG HelloVision Corp.",
-    "query": "114.30.200.147"
   }
 }
