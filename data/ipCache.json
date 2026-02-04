@@ -639,22 +639,6 @@
     "as": "AS17858 LG POWERCOMM",
     "query": "112.156.19.217"
   },
-  "58.140.73.52": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Namyangju",
-    "zip": "122",
-    "lat": 37.6224,
-    "lon": 127.1502,
-    "timezone": "Asia/Seoul",
-    "isp": "DLIVE",
-    "org": "DLIVE Gyeongdogn Cable TV",
-    "as": "AS10036 DLIVE",
-    "query": "58.140.73.52"
-  },
   "218.235.89.115": {
     "status": "success",
     "country": "South Korea",
