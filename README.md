@@ -106,7 +106,6 @@ Or download individually:
 |---|---|---|---|---|
 | 42.119.41.29 | Vietnam | FPT Telecom Company | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/42.119.41.29.ovpn) |
 | 183.80.198.207 | Vietnam | FPT Telecom Company | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/183.80.198.207.ovpn) |
-| 58.186.220.206 | Vietnam | FPT Telecom Company | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/58.186.220.206.ovpn) |
 
 > **Tip**: For the full list, check the `data/configs/` folder after running the scraper.
 
