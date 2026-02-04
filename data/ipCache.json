@@ -95,6 +95,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.16"
   },
+  "104.28.238.119": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Osaka",
+    "zip": "543-0062",
+    "lat": 34.693,
+    "lon": 135.5005,
+    "timezone": "Asia/Tokyo",
+    "isp": "Cloudflare, Inc.",
+    "org": "Cloudflare WARP",
+    "as": "AS13335 Cloudflare, Inc.",
+    "query": "104.28.238.119"
+  },
   "219.100.37.109": {
     "status": "success",
     "country": "Japan",
@@ -542,6 +558,22 @@
     "org": "LG Uplus",
     "as": "AS9316 DACOM-PUBNETPLUS",
     "query": "125.247.190.47"
+  },
+  "222.236.114.192": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "28",
+    "regionName": "Incheon",
+    "city": "Incheon",
+    "zip": "221",
+    "lat": 37.4723,
+    "lon": 126.6594,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "SK Broadband Co Ltd",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "222.236.114.192"
   },
   "58.226.80.192": {
     "status": "success",
