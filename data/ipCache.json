@@ -750,5 +750,21 @@
     "org": "Northern International University",
     "as": "AS34205 PJSC Rostelecom",
     "query": "212.14.195.153"
+  },
+  "114.30.200.147": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Seoul",
+    "zip": "04524",
+    "lat": 37.5658,
+    "lon": 126.978,
+    "timezone": "Asia/Seoul",
+    "isp": "LG HelloVision Corp.",
+    "org": "HVHonam",
+    "as": "AS38121 LG HelloVision Corp.",
+    "query": "114.30.200.147"
   }
 }
