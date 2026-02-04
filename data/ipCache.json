@@ -415,22 +415,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.255.215.116"
   },
-  "175.28.146.212": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "40",
-    "regionName": "Fukuoka",
-    "city": "Mugino",
-    "zip": "812-0881",
-    "lat": 33.5553,
-    "lon": 130.4689,
-    "timezone": "Asia/Tokyo",
-    "isp": "QTnet, Inc.",
-    "org": "QTnet, Inc.",
-    "as": "AS7679 QTnet,Inc.",
-    "query": "175.28.146.212"
-  },
   "36.52.103.209": {
     "status": "success",
     "country": "Japan",
@@ -447,21 +431,21 @@
     "as": "AS7522 STNet, Incorporated",
     "query": "36.52.103.209"
   },
-  "175.122.73.80": {
+  "175.28.146.212": {
     "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "31",
-    "regionName": "Ulsan",
-    "city": "Ulju-gun",
-    "zip": "449",
-    "lat": 35.4142,
-    "lon": 129.284,
-    "timezone": "Asia/Seoul",
-    "isp": "broadNnet",
-    "org": "",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "175.122.73.80"
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "40",
+    "regionName": "Fukuoka",
+    "city": "Mugino",
+    "zip": "812-0881",
+    "lat": 33.5553,
+    "lon": 130.4689,
+    "timezone": "Asia/Tokyo",
+    "isp": "QTnet, Inc.",
+    "org": "QTnet, Inc.",
+    "as": "AS7679 QTnet,Inc.",
+    "query": "175.28.146.212"
   },
   "116.121.181.6": {
     "status": "success",
@@ -511,6 +495,22 @@
     "as": "AS3786 LG DACOM Corporation",
     "query": "58.150.189.252"
   },
+  "61.21.196.121": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Honchō",
+    "zip": "203-0051",
+    "lat": 35.7624,
+    "lon": 139.5242,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM Co., Ltd.",
+    "org": "Jupiter Telecommunication Co. Ltd",
+    "as": "AS9824 JCOM Co., Ltd.",
+    "query": "61.21.196.121"
+  },
   "125.138.94.61": {
     "status": "success",
     "country": "South Korea",
@@ -542,22 +542,6 @@
     "org": "Korea Telecom",
     "as": "AS4766 Korea Telecom",
     "query": "112.184.70.55"
-  },
-  "106.159.95.188": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "04",
-    "regionName": "Miyagi",
-    "city": "Ōhira",
-    "zip": "981-3601",
-    "lat": 38.4817,
-    "lon": 140.8278,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "106.159.95.188"
   },
   "182.165.175.21": {
     "status": "success",
@@ -654,5 +638,21 @@
     "org": "HITLINE",
     "as": "AS24881 Interphone Ltd.",
     "query": "46.162.42.77"
+  },
+  "1.251.45.198": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "47",
+    "regionName": "Gyeongsangbuk-do",
+    "city": "Gyeongsan-si",
+    "zip": "385",
+    "lat": 35.8395,
+    "lon": 128.7655,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "1.251.45.198"
   }
 }
