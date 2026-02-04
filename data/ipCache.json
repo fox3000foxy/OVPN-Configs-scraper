@@ -367,22 +367,6 @@
     "as": "AS10010 TOKAI Communications Corporation",
     "query": "124.47.218.84"
   },
-  "1.255.215.116": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "48",
-    "regionName": "Gyeongsangnam-do",
-    "city": "Gyeongsangnam-do",
-    "zip": "51308",
-    "lat": 35.2539,
-    "lon": 128.2496,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "1.255.215.116"
-  },
   "121.110.185.12": {
     "status": "success",
     "country": "Japan",
@@ -511,22 +495,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "121.3.217.251"
   },
-  "176.210.3.167": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "OMS",
-    "regionName": "Omsk Oblast",
-    "city": "Omsk",
-    "zip": "644000",
-    "lat": 54.9896,
-    "lon": 73.3729,
-    "timezone": "Asia/Omsk",
-    "isp": "Rostelecom networks",
-    "org": "JSC Rostelecom regional branch Siberia",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "176.210.3.167"
-  },
   "119.47.102.55": {
     "status": "success",
     "country": "Japan",
@@ -542,6 +510,22 @@
     "org": "Okayama Network Inc.",
     "as": "AS18129 OKAYAMA NETWORK INC.",
     "query": "119.47.102.55"
+  },
+  "176.210.3.167": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "OMS",
+    "regionName": "Omsk Oblast",
+    "city": "Omsk",
+    "zip": "644000",
+    "lat": 54.9896,
+    "lon": 73.3729,
+    "timezone": "Asia/Omsk",
+    "isp": "Rostelecom networks",
+    "org": "JSC Rostelecom regional branch Siberia",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "176.210.3.167"
   },
   "212.87.220.93": {
     "status": "success",
@@ -671,6 +655,22 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "92.37.244.242"
   },
+  "58.76.172.219": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Dongjak-gu",
+    "zip": "070",
+    "lat": 37.4926,
+    "lon": 126.92,
+    "timezone": "Asia/Seoul",
+    "isp": "LG DACOM Corporation",
+    "org": "LG Uplus",
+    "as": "AS7562 HCN Dongjak",
+    "query": "58.76.172.219"
+  },
   "118.220.185.120": {
     "status": "success",
     "country": "South Korea",
@@ -750,5 +750,21 @@
     "org": "NTT-ME Corporation",
     "as": "AS9595 NTT-ME Corporation",
     "query": "124.44.74.37"
+  },
+  "82.162.121.55": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Vladivostok",
+    "zip": "690001",
+    "lat": 43.1068,
+    "lon": 131.8692,
+    "timezone": "Asia/Vladivostok",
+    "isp": "Rostelecom networks",
+    "org": "",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "82.162.121.55"
   }
 }
