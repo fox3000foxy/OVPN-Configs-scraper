@@ -159,6 +159,22 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.241.23.14"
   },
+  "103.152.178.62": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-0001",
+    "lat": 35.694,
+    "lon": 139.754,
+    "timezone": "Asia/Tokyo",
+    "isp": "Ayao Takata",
+    "org": "SDCC-East01",
+    "as": "AS38074 SDCC Japan-West Area",
+    "query": "103.152.178.62"
+  },
   "221.144.197.228": {
     "status": "success",
     "country": "South Korea",
@@ -223,22 +239,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "36.13.6.150"
   },
-  "103.152.178.62": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-0001",
-    "lat": 35.694,
-    "lon": 139.754,
-    "timezone": "Asia/Tokyo",
-    "isp": "Ayao Takata",
-    "org": "SDCC-East01",
-    "as": "AS38074 SDCC Japan-West Area",
-    "query": "103.152.178.62"
-  },
   "125.132.236.134": {
     "status": "success",
     "country": "South Korea",
@@ -271,22 +271,6 @@
     "as": "AS41682 JSC ER-Telecom Holding",
     "query": "188.186.186.127"
   },
-  "221.118.47.135": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "01",
-    "regionName": "Hokkaido",
-    "city": "Miyoshichō",
-    "zip": "090-0061",
-    "lat": 43.8243,
-    "lon": 143.903,
-    "timezone": "Asia/Tokyo",
-    "isp": "AITAI",
-    "org": "AITAI-NET(Himawari Network Inc.)",
-    "as": "AS9354 Community Network Center Inc.",
-    "query": "221.118.47.135"
-  },
   "1.255.215.116": {
     "status": "success",
     "country": "South Korea",
@@ -318,22 +302,6 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "121.110.185.12"
-  },
-  "1.240.128.118": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Dobong-gu",
-    "zip": "014",
-    "lat": 37.639,
-    "lon": 127.034,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "1.240.128.118"
   },
   "59.130.127.186": {
     "status": "success",
