@@ -111,22 +111,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.208"
   },
-  "60.95.76.42": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan Nation-wide Network of Softbank Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "60.95.76.42"
-  },
   "118.104.168.55": {
     "status": "success",
     "country": "Japan",
@@ -143,22 +127,6 @@
     "as": "AS18126 Chubu Telecommunications Company, Inc.",
     "query": "118.104.168.55"
   },
-  "106.168.67.207": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Yokohama",
-    "zip": "231-0841",
-    "lat": 35.4337,
-    "lon": 139.6499,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "106.168.67.207"
-  },
   "92.202.199.250": {
     "status": "success",
     "country": "Japan",
@@ -174,6 +142,22 @@
     "org": "Sony Network Communications Inc.",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "92.202.199.250"
+  },
+  "106.168.67.207": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Yokohama",
+    "zip": "231-0841",
+    "lat": 35.4337,
+    "lon": 139.6499,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "106.168.67.207"
   },
   "1.66.34.134": {
     "status": "success",
@@ -207,21 +191,21 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.206.11.243"
   },
-  "27.85.1.30": {
+  "14.57.196.103": {
     "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Miharadai",
-    "zip": "590-0111",
-    "lat": 34.4996,
-    "lon": 135.5485,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "27.85.1.30"
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Goyang-si",
+    "zip": "105",
+    "lat": 37.6468,
+    "lon": 126.8843,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "14.57.196.103"
   },
   "138.64.69.170": {
     "status": "success",
@@ -238,22 +222,6 @@
     "org": "ASAHI",
     "as": "AS4685 Asahi Net",
     "query": "138.64.69.170"
-  },
-  "14.57.196.103": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Goyang-si",
-    "zip": "105",
-    "lat": 37.6468,
-    "lon": 126.8843,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "14.57.196.103"
   },
   "112.170.21.41": {
     "status": "success",
@@ -287,21 +255,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "125.139.49.108"
   },
-  "182.169.54.9": {
+  "219.100.37.102": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
     "region": "13",
     "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0071",
-    "lat": 35.6837,
-    "lon": 139.6805,
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
     "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "182.169.54.9"
+    "isp": "SoftEther",
+    "org": "SoftEther Corporation",
+    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
+    "query": "219.100.37.102"
   },
   "119.235.113.226": {
     "status": "success",
@@ -351,6 +319,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.50"
   },
+  "68.173.74.87": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NY",
+    "regionName": "New York",
+    "city": "Brooklyn",
+    "zip": "11231",
+    "lat": 40.6799,
+    "lon": -74.0028,
+    "timezone": "America/New_York",
+    "isp": "Charter Communications",
+    "org": "Spectrum",
+    "as": "AS12271 Charter Communications Inc",
+    "query": "68.173.74.87"
+  },
   "49.228.250.110": {
     "status": "success",
     "country": "Thailand",
@@ -367,21 +351,37 @@
     "as": "AS133481 AIS Fibre",
     "query": "49.228.250.110"
   },
-  "126.117.57.254": {
+  "160.86.46.9": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
+    "region": "24",
+    "regionName": "Mie",
+    "city": "Matsusaka",
+    "zip": "515-0001",
+    "lat": 34.6003,
+    "lon": 136.5592,
     "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.117.57.254"
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "160.86.46.9"
+  },
+  "182.171.116.240": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Hirakata",
+    "zip": "573-0051",
+    "lat": 34.8207,
+    "lon": 135.6411,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "182.171.116.240"
   },
   "218.216.32.95": {
     "status": "success",
