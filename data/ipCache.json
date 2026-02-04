@@ -95,22 +95,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.16"
   },
-  "158.247.187.166": {
-    "status": "success",
-    "country": "United States",
-    "countryCode": "US",
-    "region": "KY",
-    "regionName": "Kentucky",
-    "city": "Frankfort",
-    "zip": "40601",
-    "lat": 38.2281,
-    "lon": -84.8697,
-    "timezone": "America/New_York",
-    "isp": "Frankfort Plant Board",
-    "org": "Frankfort Plant Board",
-    "as": "AS26133 Frankfort Plant Board",
-    "query": "158.247.187.166"
-  },
   "219.100.37.208": {
     "status": "success",
     "country": "Japan",
@@ -575,6 +559,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "118.34.224.134"
   },
+  "27.139.100.159": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Shinjuku",
+    "zip": "160-0021",
+    "lat": 35.6918,
+    "lon": 139.7002,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM Co., Ltd.",
+    "org": "Jupiter Telecommunication Co. Ltd",
+    "as": "AS9824 JCOM Co., Ltd.",
+    "query": "27.139.100.159"
+  },
   "175.194.115.126": {
     "status": "success",
     "country": "South Korea",
@@ -590,22 +590,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "175.194.115.126"
-  },
-  "133.149.90.83": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "21",
-    "regionName": "Gifu",
-    "city": "Gifu",
-    "zip": "500-8821",
-    "lat": 35.4256,
-    "lon": 136.7614,
-    "timezone": "Asia/Tokyo",
-    "isp": "om-nix",
-    "org": "Marubeni OKI Network Solutions Inc.",
-    "as": "AS9354 Community Network Center Inc.",
-    "query": "133.149.90.83"
   },
   "59.12.222.112": {
     "status": "success",
@@ -670,22 +654,6 @@
     "org": "",
     "as": "AS18403 FPT Telecom Company",
     "query": "183.80.25.248"
-  },
-  "115.136.105.76": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "43",
-    "regionName": "North Chungcheong",
-    "city": "Chungju",
-    "zip": "273",
-    "lat": 36.977,
-    "lon": 127.926,
-    "timezone": "Asia/Seoul",
-    "isp": "LG POWERCOMM",
-    "org": "Xpeed",
-    "as": "AS17858 LG POWERCOMM",
-    "query": "115.136.105.76"
   },
   "125.241.250.34": {
     "status": "success",
