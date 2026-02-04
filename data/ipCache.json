@@ -15,22 +15,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.101"
   },
-  "219.100.37.128": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftEther",
-    "org": "SoftEther Corporation",
-    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.128"
-  },
   "219.100.37.4": {
     "status": "success",
     "country": "Japan",
@@ -46,6 +30,22 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.4"
+  },
+  "219.100.37.128": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftEther",
+    "org": "SoftEther Corporation",
+    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
+    "query": "219.100.37.128"
   },
   "219.100.37.82": {
     "status": "success",
@@ -495,22 +495,6 @@
     "as": "AS196949 Natalia Sergeevna Filicheva",
     "query": "217.150.76.104"
   },
-  "49.228.118.27": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "10",
-    "regionName": "Bangkok",
-    "city": "Bangkok",
-    "zip": "10700",
-    "lat": 13.751,
-    "lon": 100.4873,
-    "timezone": "Asia/Bangkok",
-    "isp": "Advanced Wireless Network Company Limited",
-    "org": "",
-    "as": "AS133481 AIS Fibre",
-    "query": "49.228.118.27"
-  },
   "106.243.71.229": {
     "status": "success",
     "country": "South Korea",
@@ -591,22 +575,6 @@
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "119.170.133.181"
   },
-  "126.29.195.39": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.29.195.39"
-  },
   "153.208.163.237": {
     "status": "success",
     "country": "Japan",
@@ -655,21 +623,21 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.107.193.33"
   },
-  "181.44.40.174": {
+  "126.129.242.85": {
     "status": "success",
-    "country": "Argentina",
-    "countryCode": "AR",
-    "region": "B",
-    "regionName": "Buenos Aires",
-    "city": "Ituzaingó",
-    "zip": "1714",
-    "lat": -34.6671,
-    "lon": -58.6691,
-    "timezone": "America/Argentina/Buenos_Aires",
-    "isp": "Telecentro S.A.",
-    "org": "Telecentro S.A",
-    "as": "AS27747 Telecentro S.A.",
-    "query": "181.44.40.174"
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.129.242.85"
   },
   "95.154.89.139": {
     "status": "success",
@@ -687,6 +655,22 @@
     "as": "AS44724 Octopusnet LTD",
     "query": "95.154.89.139"
   },
+  "61.44.169.103": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "01",
+    "regionName": "Hokkaido",
+    "city": "Hakodate",
+    "zip": "040-0081",
+    "lat": 41.7932,
+    "lon": 140.7475,
+    "timezone": "Asia/Tokyo",
+    "isp": "NCV",
+    "org": "New Media Co., Ltd",
+    "as": "AS59127 Newmedia Corporation",
+    "query": "61.44.169.103"
+  },
   "186.12.184.124": {
     "status": "success",
     "country": "Paraguay",
@@ -703,6 +687,38 @@
     "as": "AS11664 Techtel LMDS Comunicaciones Interactivas S.A.",
     "query": "186.12.184.124"
   },
+  "95.25.112.165": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KDA",
+    "regionName": "Krasnodar Krai",
+    "city": "Sochi",
+    "zip": "354000",
+    "lat": 43.5994,
+    "lon": 39.7289,
+    "timezone": "Europe/Moscow",
+    "isp": "PJSC \"Vimpelcom\"",
+    "org": "Beeline Broadband",
+    "as": "AS42110 PJSC \"Vimpelcom\"",
+    "query": "95.25.112.165"
+  },
+  "124.45.52.79": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT-ME Corporation",
+    "org": "NTT-ME Corporation",
+    "as": "AS9595 NTT-ME Corporation",
+    "query": "124.45.52.79"
+  },
   "212.14.195.153": {
     "status": "success",
     "country": "Russia",
@@ -718,21 +734,5 @@
     "org": "Northern International University",
     "as": "AS34205 PJSC Rostelecom",
     "query": "212.14.195.153"
-  },
-  "114.30.200.147": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Seoul",
-    "zip": "04524",
-    "lat": 37.5658,
-    "lon": 126.978,
-    "timezone": "Asia/Seoul",
-    "isp": "LG HelloVision Corp.",
-    "org": "HVHonam",
-    "as": "AS38121 LG HelloVision Corp.",
-    "query": "114.30.200.147"
   }
 }
