@@ -191,22 +191,6 @@
     "as": "AS4725 SoftBank Corp.",
     "query": "220.212.128.195"
   },
-  "115.78.10.208": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "SG",
-    "regionName": "Ho Chi Minh",
-    "city": "Ho Chi Minh City",
-    "zip": "700000",
-    "lat": 10.822,
-    "lon": 106.6257,
-    "timezone": "Asia/Ho_Chi_Minh",
-    "isp": "VIETELftth",
-    "org": "",
-    "as": "AS7552 Viettel Group",
-    "query": "115.78.10.208"
-  },
   "126.109.156.167": {
     "status": "success",
     "country": "Japan",
@@ -222,6 +206,22 @@
     "org": "SOFTBANK Corp",
     "as": "AS17676 SoftBank Corp.",
     "query": "126.109.156.167"
+  },
+  "115.78.10.208": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "SG",
+    "regionName": "Ho Chi Minh",
+    "city": "Ho Chi Minh City",
+    "zip": "700000",
+    "lat": 10.822,
+    "lon": 106.6257,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "isp": "VIETELftth",
+    "org": "",
+    "as": "AS7552 Viettel Group",
+    "query": "115.78.10.208"
   },
   "60.73.214.202": {
     "status": "success",
@@ -383,22 +383,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "175.209.13.17"
   },
-  "125.52.118.171": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "01",
-    "regionName": "Hokkaido",
-    "city": "Sapporo",
-    "zip": "065-0021",
-    "lat": 43.0885,
-    "lon": 141.3571,
-    "timezone": "Asia/Tokyo",
-    "isp": "DION (KDDI CORPORATION)",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "125.52.118.171"
-  },
   "1.255.215.116": {
     "status": "success",
     "country": "South Korea",
@@ -543,6 +527,38 @@
     "as": "AS4766 Korea Telecom",
     "query": "112.184.70.55"
   },
+  "5.164.253.87": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "NIZ",
+    "regionName": "Nizhny Novgorod Oblast",
+    "city": "Nizhniy Novgorod",
+    "zip": "603000",
+    "lat": 56.3327,
+    "lon": 44.0012,
+    "timezone": "Europe/Moscow",
+    "isp": "CJSC \"ER-Telecom Holding\" Nizhny Novgorod branch",
+    "org": "JSC \"ER-Telecom Holding\" Nizhny Novgorod",
+    "as": "AS42682 JSC ER-Telecom Holding",
+    "query": "5.164.253.87"
+  },
+  "27.139.100.159": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Shinjuku",
+    "zip": "160-0021",
+    "lat": 35.6918,
+    "lon": 139.7002,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM Co., Ltd.",
+    "org": "Jupiter Telecommunication Co. Ltd",
+    "as": "AS9824 JCOM Co., Ltd.",
+    "query": "27.139.100.159"
+  },
   "182.165.175.21": {
     "status": "success",
     "country": "Japan",
@@ -591,22 +607,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "211.204.251.153"
   },
-  "124.44.74.37": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6906,
-    "lon": 139.77,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT-ME Corporation",
-    "org": "NTT-ME Corporation",
-    "as": "AS9595 NTT-ME Corporation",
-    "query": "124.44.74.37"
-  },
   "176.210.161.19": {
     "status": "success",
     "country": "Russia",
@@ -639,6 +639,22 @@
     "as": "AS24881 Interphone Ltd.",
     "query": "46.162.42.77"
   },
+  "218.148.38.123": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Suwon",
+    "zip": "165",
+    "lat": 37.2677,
+    "lon": 127.0457,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "KORNET",
+    "as": "AS4766 Korea Telecom",
+    "query": "218.148.38.123"
+  },
   "124.110.21.97": {
     "status": "success",
     "country": "Japan",
@@ -654,5 +670,37 @@
     "org": "ARTERIA Networks Corporation",
     "as": "AS2519 ARTERIA Networks Corporation",
     "query": "124.110.21.97"
+  },
+  "95.170.177.6": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KYA",
+    "regionName": "Krasnoyarsk Krai",
+    "city": "Krasnoyarsk",
+    "zip": "660049",
+    "lat": 56.0374,
+    "lon": 92.9314,
+    "timezone": "Asia/Krasnoyarsk",
+    "isp": "Axioma, LLC",
+    "org": "Axioma, LLC",
+    "as": "AS39785 Axioma, LLC",
+    "query": "95.170.177.6"
+  },
+  "1.251.45.198": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "47",
+    "regionName": "Gyeongsangbuk-do",
+    "city": "Gyeongsan-si",
+    "zip": "385",
+    "lat": 35.8395,
+    "lon": 128.7655,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "1.251.45.198"
   }
 }
