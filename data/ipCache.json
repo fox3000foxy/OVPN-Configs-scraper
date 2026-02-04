@@ -239,6 +239,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "14.57.196.103"
   },
+  "103.152.178.62": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-0001",
+    "lat": 35.694,
+    "lon": 139.754,
+    "timezone": "Asia/Tokyo",
+    "isp": "Ayao Takata",
+    "org": "SDCC-East01",
+    "as": "AS38074 SDCC Japan-West Area",
+    "query": "103.152.178.62"
+  },
   "220.71.51.172": {
     "status": "success",
     "country": "South Korea",
@@ -302,22 +318,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "175.194.212.166"
-  },
-  "219.147.27.214": {
-    "status": "success",
-    "country": "China",
-    "countryCode": "CN",
-    "region": "SD",
-    "regionName": "Shandong",
-    "city": "Jinan",
-    "zip": "250000",
-    "lat": 36.6518,
-    "lon": 117.12,
-    "timezone": "Asia/Shanghai",
-    "isp": "Chinanet",
-    "org": "Chinanet SD",
-    "as": "AS4134 CHINANET-BACKBONE",
-    "query": "219.147.27.214"
   },
   "125.139.49.108": {
     "status": "success",
@@ -430,6 +430,22 @@
     "org": "TalkTalk Communications Limited",
     "as": "AS13285 TalkTalk Communications Limited",
     "query": "80.44.212.7"
+  },
+  "219.147.27.214": {
+    "status": "success",
+    "country": "China",
+    "countryCode": "CN",
+    "region": "SD",
+    "regionName": "Shandong",
+    "city": "Jinan",
+    "zip": "250000",
+    "lat": 36.6518,
+    "lon": 117.12,
+    "timezone": "Asia/Shanghai",
+    "isp": "Chinanet",
+    "org": "Chinanet SD",
+    "as": "AS4134 CHINANET-BACKBONE",
+    "query": "219.147.27.214"
   },
   "126.117.57.254": {
     "status": "success",
@@ -575,6 +591,22 @@
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "119.170.133.181"
   },
+  "126.29.195.39": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.29.195.39"
+  },
   "153.208.163.237": {
     "status": "success",
     "country": "Japan",
@@ -590,22 +622,6 @@
     "org": "Open Computer Network",
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "153.208.163.237"
-  },
-  "27.114.126.71": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0071",
-    "lat": 35.6837,
-    "lon": 139.6805,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "OCN",
-    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
-    "query": "27.114.126.71"
   },
   "126.107.193.33": {
     "status": "success",
@@ -623,21 +639,37 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.107.193.33"
   },
-  "126.129.242.85": {
+  "188.113.140.189": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "SAK",
+    "regionName": "Sakhalin Oblast",
+    "city": "Yuzhno-Sakhalinsk",
+    "zip": "693004",
+    "lat": 46.9557,
+    "lon": 142.733,
+    "timezone": "Asia/Sakhalin",
+    "isp": "Sakhalin Cable Telesystems Ltd",
+    "org": "Sakhalin Cable Telesystems Ltd",
+    "as": "AS51004 Sakhalin Cable Telesystems Ltd",
+    "query": "188.113.140.189"
+  },
+  "203.168.105.172": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
+    "region": "34",
+    "regionName": "Hiroshima",
+    "city": "Hiroshima",
+    "zip": "730-0001",
+    "lat": 34.4031,
+    "lon": 132.4601,
     "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.129.242.85"
+    "isp": "Enecom, Inc.",
+    "org": "Energia Communications, Inc.",
+    "as": "AS18144 Enecom,Inc.",
+    "query": "203.168.105.172"
   },
   "95.154.89.139": {
     "status": "success",
