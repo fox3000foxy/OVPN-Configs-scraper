@@ -159,22 +159,6 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "60.36.150.117"
   },
-  "42.125.132.145": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "22",
-    "regionName": "Shizuoka",
-    "city": "Fujinomiya",
-    "zip": "418-0031",
-    "lat": 35.2208,
-    "lon": 138.6056,
-    "timezone": "Asia/Tokyo",
-    "isp": "TOKAI Communications Corporation",
-    "org": "TOKAI",
-    "as": "AS10010 TOKAI Communications Corporation",
-    "query": "42.125.132.145"
-  },
   "221.144.146.230": {
     "status": "success",
     "country": "South Korea",
@@ -190,6 +174,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "221.144.146.230"
+  },
+  "42.125.132.145": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "22",
+    "regionName": "Shizuoka",
+    "city": "Fujinomiya",
+    "zip": "418-0031",
+    "lat": 35.2208,
+    "lon": 138.6056,
+    "timezone": "Asia/Tokyo",
+    "isp": "TOKAI Communications Corporation",
+    "org": "TOKAI",
+    "as": "AS10010 TOKAI Communications Corporation",
+    "query": "42.125.132.145"
   },
   "218.145.181.197": {
     "status": "success",
@@ -367,22 +367,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.102"
   },
-  "58.95.83.60": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "40",
-    "regionName": "Fukuoka",
-    "city": "Meinohama",
-    "zip": "819-0001",
-    "lat": 33.5895,
-    "lon": 130.3197,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "NTT Communications Corporation",
-    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
-    "query": "58.95.83.60"
-  },
   "120.75.146.85": {
     "status": "success",
     "country": "Japan",
@@ -399,6 +383,22 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "120.75.146.85"
   },
+  "58.95.83.60": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "40",
+    "regionName": "Fukuoka",
+    "city": "Meinohama",
+    "zip": "819-0001",
+    "lat": 33.5895,
+    "lon": 130.3197,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "NTT Communications Corporation",
+    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
+    "query": "58.95.83.60"
+  },
   "138.64.194.75": {
     "status": "success",
     "country": "Japan",
@@ -414,6 +414,22 @@
     "org": "ASAHI",
     "as": "AS4685 Asahi Net",
     "query": "138.64.194.75"
+  },
+  "119.241.124.219": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "04",
+    "regionName": "Miyagi",
+    "city": "Taihaku Ku",
+    "zip": "980-8668",
+    "lat": 38.2627,
+    "lon": 140.6841,
+    "timezone": "Asia/Tokyo",
+    "isp": "BIGLOBE Inc.",
+    "org": "BIGLOBE",
+    "as": "AS2518 BIGLOBE Inc.",
+    "query": "119.241.124.219"
   },
   "60.121.145.32": {
     "status": "success",
@@ -478,22 +494,6 @@
     "org": "Sibirtelecom Co.",
     "as": "AS12389 PJSC Rostelecom",
     "query": "178.186.247.108"
-  },
-  "217.178.129.202": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Setagaya City",
-    "zip": "154-0011",
-    "lat": 35.6413,
-    "lon": 139.6662,
-    "timezone": "Asia/Tokyo",
-    "isp": "Internet Multifeed CO.",
-    "org": "Internet Multifeed CO.",
-    "as": "AS55391 INTERNET MULTIFEED CO.",
-    "query": "217.178.129.202"
   },
   "116.220.199.154": {
     "status": "success",
@@ -638,37 +638,5 @@
     "org": "Comcast Cable Communications, Inc.",
     "as": "AS7922 Comcast Cable Communications, LLC",
     "query": "98.237.195.169"
-  },
-  "95.105.125.62": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "ORE",
-    "regionName": "Orenburg Oblast",
-    "city": "Orenburg",
-    "zip": "460004",
-    "lat": 51.7675,
-    "lon": 55.0977,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "JSC \"Ufanet\"",
-    "org": "JSC Ufanet",
-    "as": "AS41704 JSC Ufanet",
-    "query": "95.105.125.62"
-  },
-  "42.112.179.237": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "HN",
-    "regionName": "Hanoi",
-    "city": "Hanoi",
-    "zip": "",
-    "lat": 21.0278,
-    "lon": 105.834,
-    "timezone": "Asia/Bangkok",
-    "isp": "FPT Telecom Company",
-    "org": "Vietnam Internet Network Information Center",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "42.112.179.237"
   }
 }
