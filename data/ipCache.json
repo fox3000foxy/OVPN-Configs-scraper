@@ -303,6 +303,22 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "121.110.185.12"
   },
+  "1.240.128.118": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Dobong-gu",
+    "zip": "014",
+    "lat": 37.639,
+    "lon": 127.034,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "1.240.128.118"
+  },
   "59.130.127.186": {
     "status": "success",
     "country": "Japan",
@@ -622,21 +638,5 @@
     "org": "",
     "as": "AS18403 FPT Telecom Company",
     "query": "183.80.25.248"
-  },
-  "125.241.250.34": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "49",
-    "regionName": "Jeju-do",
-    "city": "Jeju City",
-    "zip": "632",
-    "lat": 33.4504,
-    "lon": 126.558,
-    "timezone": "Asia/Seoul",
-    "isp": "LG POWERCOMM",
-    "org": "Pubnetplus",
-    "as": "AS17858 LG POWERCOMM",
-    "query": "125.241.250.34"
   }
 }
