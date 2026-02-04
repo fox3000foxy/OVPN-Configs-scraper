@@ -207,22 +207,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "131.147.142.132"
   },
-  "36.14.133.245": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "20",
-    "regionName": "Nagano",
-    "city": "Okaya Shi",
-    "zip": "394-0021",
-    "lat": 36.071,
-    "lon": 138.0434,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "36.14.133.245"
-  },
   "1.66.34.134": {
     "status": "success",
     "country": "Japan",
@@ -238,22 +222,6 @@
     "org": "NTTDoCoMo",
     "as": "AS9605 NTT DOCOMO, INC.",
     "query": "1.66.34.134"
-  },
-  "1.246.154.63": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "43",
-    "regionName": "North Chungcheong",
-    "city": "Cheongju-si",
-    "zip": "284",
-    "lat": 36.637,
-    "lon": 127.4339,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "SK Broadband Co Ltd",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "1.246.154.63"
   },
   "115.22.171.164": {
     "status": "success",
@@ -271,21 +239,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "115.22.171.164"
   },
-  "219.100.37.102": {
+  "103.152.178.62": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
     "region": "13",
     "regionName": "Tokyo",
     "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
+    "zip": "100-0001",
+    "lat": 35.694,
+    "lon": 139.754,
     "timezone": "Asia/Tokyo",
-    "isp": "SoftEther",
-    "org": "SoftEther Corporation",
-    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.102"
+    "isp": "Ayao Takata",
+    "org": "SDCC-East01",
+    "as": "AS38074 SDCC Japan-West Area",
+    "query": "103.152.178.62"
   },
   "60.153.147.72": {
     "status": "success",
@@ -302,6 +270,22 @@
     "org": "Japan Nation-wide Network of Softbank Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "60.153.147.72"
+  },
+  "219.100.37.50": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftEther",
+    "org": "SoftEther Corporation",
+    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
+    "query": "219.100.37.50"
   },
   "27.83.68.134": {
     "status": "success",
@@ -351,6 +335,22 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.1.42.49"
   },
+  "210.174.55.239": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "12",
+    "regionName": "Chiba",
+    "city": "Matsudo",
+    "zip": "271-0091",
+    "lat": 35.7834,
+    "lon": 139.8958,
+    "timezone": "Asia/Tokyo",
+    "isp": "Japan Network Information Center",
+    "org": "SO-Net Service",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "210.174.55.239"
+  },
   "91.219.203.117": {
     "status": "success",
     "country": "Russia",
@@ -399,21 +399,21 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.246.131.93"
   },
-  "113.144.29.135": {
+  "219.126.126.150": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
     "region": "13",
     "regionName": "Tokyo",
-    "city": "Nakano City",
-    "zip": "164-0011",
-    "lat": 35.7027,
-    "lon": 139.6749,
+    "city": "Asagayakita",
+    "zip": "166-0001",
+    "lat": 35.7094,
+    "lon": 139.6381,
     "timezone": "Asia/Tokyo",
-    "isp": "DION (KDDI CORPORATION)",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "113.144.29.135"
+    "isp": "TOKAI Communications Corporation",
+    "org": "TOKAI Corporation",
+    "as": "AS10010 TOKAI Communications Corporation",
+    "query": "219.126.126.150"
   },
   "117.55.150.209": {
     "status": "success",
@@ -431,22 +431,6 @@
     "as": "AS9770 LG HelloVision Corp.",
     "query": "117.55.150.209"
   },
-  "219.126.126.150": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Asagayakita",
-    "zip": "166-0001",
-    "lat": 35.7094,
-    "lon": 139.6381,
-    "timezone": "Asia/Tokyo",
-    "isp": "TOKAI Communications Corporation",
-    "org": "TOKAI Corporation",
-    "as": "AS10010 TOKAI Communications Corporation",
-    "query": "219.126.126.150"
-  },
   "86.102.254.44": {
     "status": "success",
     "country": "Russia",
@@ -462,22 +446,6 @@
     "org": "",
     "as": "AS12389 PJSC Rostelecom",
     "query": "86.102.254.44"
-  },
-  "121.50.255.67": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Seoul",
-    "zip": "04625",
-    "lat": 37.5614,
-    "lon": 126.996,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "TBROAD NakdongDongnamSeobusan",
-    "as": "AS17857 SK Broadband Co Ltd",
-    "query": "121.50.255.67"
   },
   "211.228.234.43": {
     "status": "success",
@@ -622,6 +590,22 @@
     "org": "",
     "as": "AS196949 Natalia Sergeevna Filicheva",
     "query": "31.200.225.17"
+  },
+  "175.208.253.225": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Songpa-gu",
+    "zip": "058",
+    "lat": 37.4818,
+    "lon": 127.1392,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "175.208.253.225"
   },
   "46.43.240.65": {
     "status": "success",
