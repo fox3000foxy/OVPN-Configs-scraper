@@ -85,7 +85,6 @@ Or download individually:
 | 14.57.196.103 | South Korea | Korea Telecom | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/14.57.196.103.ovpn) |
 | 112.170.21.41 | South Korea | Korea Telecom | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/112.170.21.41.ovpn) |
 | 125.139.49.108 | South Korea | Korea Telecom | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/125.139.49.108.ovpn) |
-| 220.72.58.141 | South Korea | Korea Telecom | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/220.72.58.141.ovpn) |
 | 220.86.41.55 | South Korea | Korea Telecom | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/220.86.41.55.ovpn) |
 | 222.112.76.46 | South Korea | Korea Telecom | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/222.112.76.46.ovpn) |
 | 106.243.71.229 | South Korea | LG DACOM Corporation | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/106.243.71.229.ovpn) |
@@ -102,6 +101,12 @@ Or download individually:
 | IP | Country | ISP | Provider | Config |
 |---|---|---|---|---|
 | 119.235.113.226 | Turkmenistan | State Company of Electro Communications Turkmentelecom | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/119.235.113.226.ovpn) |
+
+
+### United States
+| IP | Country | ISP | Provider | Config |
+|---|---|---|---|---|
+| 68.173.74.87 | United States | Charter Communications | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/68.173.74.87.ovpn) |
 
 > **Tip**: For the full list, check the `data/configs/` folder after running the scraper.
 

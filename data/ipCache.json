@@ -111,22 +111,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.208"
   },
-  "118.104.168.55": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "24",
-    "regionName": "Mie",
-    "city": "Tsu",
-    "zip": "514-0011",
-    "lat": 34.7361,
-    "lon": 136.522,
-    "timezone": "Asia/Tokyo",
-    "isp": "Chubu Telecommunications Company, Inc.",
-    "org": "Chubu Telecommunications Co., Inc.",
-    "as": "AS18126 Chubu Telecommunications Company, Inc.",
-    "query": "118.104.168.55"
-  },
   "106.168.67.207": {
     "status": "success",
     "country": "Japan",
@@ -143,6 +127,22 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "106.168.67.207"
   },
+  "118.104.168.55": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "24",
+    "regionName": "Mie",
+    "city": "Tsu",
+    "zip": "514-0011",
+    "lat": 34.7361,
+    "lon": 136.522,
+    "timezone": "Asia/Tokyo",
+    "isp": "Chubu Telecommunications Company, Inc.",
+    "org": "Chubu Telecommunications Co., Inc.",
+    "as": "AS18126 Chubu Telecommunications Company, Inc.",
+    "query": "118.104.168.55"
+  },
   "92.202.199.250": {
     "status": "success",
     "country": "Japan",
@@ -158,6 +158,22 @@
     "org": "Sony Network Communications Inc.",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "92.202.199.250"
+  },
+  "1.66.34.134": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Osaka",
+    "zip": "530-0041",
+    "lat": 34.6967,
+    "lon": 135.5154,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Docomo, inc.",
+    "org": "NTTDoCoMo",
+    "as": "AS9605 NTT DOCOMO, INC.",
+    "query": "1.66.34.134"
   },
   "126.206.11.243": {
     "status": "success",
@@ -222,22 +238,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "14.57.196.103"
-  },
-  "1.66.34.134": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Osaka",
-    "zip": "530-0041",
-    "lat": 34.6967,
-    "lon": 135.5154,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Docomo, inc.",
-    "org": "NTTDoCoMo",
-    "as": "AS9605 NTT DOCOMO, INC.",
-    "query": "1.66.34.134"
   },
   "112.170.21.41": {
     "status": "success",
@@ -319,6 +319,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.50"
   },
+  "68.173.74.87": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NY",
+    "regionName": "New York",
+    "city": "Brooklyn",
+    "zip": "11231",
+    "lat": 40.6799,
+    "lon": -74.0028,
+    "timezone": "America/New_York",
+    "isp": "Charter Communications",
+    "org": "Spectrum",
+    "as": "AS12271 Charter Communications Inc",
+    "query": "68.173.74.87"
+  },
   "49.228.250.110": {
     "status": "success",
     "country": "Thailand",
@@ -398,22 +414,6 @@
     "org": "Kddi Corporation",
     "as": "AS2516 KDDI CORPORATION",
     "query": "222.227.165.89"
-  },
-  "220.72.58.141": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Dobong-gu",
-    "zip": "013",
-    "lat": 37.675,
-    "lon": 127.0496,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Korea Telecom",
-    "as": "AS4766 Korea Telecom",
-    "query": "220.72.58.141"
   },
   "106.243.71.229": {
     "status": "success",
@@ -622,22 +622,6 @@
     "org": "OJSC Rostelecom Macroregional Branch South",
     "as": "AS12389 PJSC Rostelecom",
     "query": "5.138.239.170"
-  },
-  "46.37.144.56": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PRI",
-    "regionName": "Primorye",
-    "city": "Vladivostok",
-    "zip": "690001",
-    "lat": 43.1068,
-    "lon": 131.8692,
-    "timezone": "Asia/Vladivostok",
-    "isp": "VLADLINK",
-    "org": "VladLink LTD",
-    "as": "AS42038 Krivets Sergey Sergeevich",
-    "query": "46.37.144.56"
   },
   "79.105.27.89": {
     "status": "success",
