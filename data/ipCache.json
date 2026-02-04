@@ -303,22 +303,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.153.147.72"
   },
-  "116.34.216.160": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Gwangju",
-    "zip": "127",
-    "lat": 37.3661,
-    "lon": 127.2255,
-    "timezone": "Asia/Seoul",
-    "isp": "LG POWERCOMM",
-    "org": "Xpeed",
-    "as": "AS17858 LG POWERCOMM",
-    "query": "116.34.216.160"
-  },
   "27.83.68.134": {
     "status": "success",
     "country": "Japan",
@@ -334,6 +318,22 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "27.83.68.134"
+  },
+  "116.34.216.160": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Gwangju",
+    "zip": "127",
+    "lat": 37.3661,
+    "lon": 127.2255,
+    "timezone": "Asia/Seoul",
+    "isp": "LG POWERCOMM",
+    "org": "Xpeed",
+    "as": "AS17858 LG POWERCOMM",
+    "query": "116.34.216.160"
   },
   "126.1.42.49": {
     "status": "success",
@@ -430,22 +430,6 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.239.79.205"
-  },
-  "175.28.24.204": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "24",
-    "regionName": "Mie",
-    "city": "Shima",
-    "zip": "517-0201",
-    "lat": 34.4609,
-    "lon": 136.8654,
-    "timezone": "Asia/Tokyo",
-    "isp": "Matsusaka CATV Station Co., Ltd.",
-    "org": "MCTV",
-    "as": "AS10019 Matsusaka Cable-TV Station Inc.",
-    "query": "175.28.24.204"
   },
   "86.102.254.44": {
     "status": "success",
@@ -558,6 +542,22 @@
     "org": "SOFTBANK Corp",
     "as": "AS17676 SoftBank Corp.",
     "query": "126.227.37.140"
+  },
+  "58.94.26.42": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "16",
+    "regionName": "Toyama",
+    "city": "Mikkaichi",
+    "zip": "938-0031",
+    "lat": 36.8787,
+    "lon": 137.4489,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "NTT Communications Corporation",
+    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
+    "query": "58.94.26.42"
   },
   "121.164.172.243": {
     "status": "success",
