@@ -479,22 +479,6 @@
     "as": "AS63526 Systems Solutions & development Technologies Limited",
     "query": "103.120.201.220"
   },
-  "119.47.102.55": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "33",
-    "regionName": "Okayama",
-    "city": "Okayama",
-    "zip": "700-0831",
-    "lat": 34.6591,
-    "lon": 133.9337,
-    "timezone": "Asia/Tokyo",
-    "isp": "Okayama Network Inc.",
-    "org": "Okayama Network Inc.",
-    "as": "AS18129 OKAYAMA NETWORK INC.",
-    "query": "119.47.102.55"
-  },
   "121.3.217.251": {
     "status": "success",
     "country": "Japan",
@@ -510,6 +494,22 @@
     "org": "Sony Network Communications Inc.",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "121.3.217.251"
+  },
+  "119.47.102.55": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "33",
+    "regionName": "Okayama",
+    "city": "Okayama",
+    "zip": "700-0831",
+    "lat": 34.6591,
+    "lon": 133.9337,
+    "timezone": "Asia/Tokyo",
+    "isp": "Okayama Network Inc.",
+    "org": "Okayama Network Inc.",
+    "as": "AS18129 OKAYAMA NETWORK INC.",
+    "query": "119.47.102.55"
   },
   "176.210.3.167": {
     "status": "success",
