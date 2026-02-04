@@ -31,6 +31,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.128"
   },
+  "219.100.37.4": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftEther",
+    "org": "SoftEther Corporation",
+    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
+    "query": "219.100.37.4"
+  },
   "219.100.37.82": {
     "status": "success",
     "country": "Japan",
@@ -46,38 +62,6 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.82"
-  },
-  "219.100.37.15": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftEther",
-    "org": "SoftEther Corporation",
-    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.15"
-  },
-  "219.100.37.126": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftEther",
-    "org": "SoftEther Corporation",
-    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.126"
   },
   "219.100.37.16": {
     "status": "success",
@@ -207,22 +191,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "27.85.1.30"
   },
-  "14.57.196.103": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Goyang-si",
-    "zip": "105",
-    "lat": 37.6468,
-    "lon": 126.8843,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "14.57.196.103"
-  },
   "138.64.69.170": {
     "status": "success",
     "country": "Japan",
@@ -238,6 +206,22 @@
     "org": "ASAHI",
     "as": "AS4685 Asahi Net",
     "query": "138.64.69.170"
+  },
+  "14.57.196.103": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Goyang-si",
+    "zip": "105",
+    "lat": 37.6468,
+    "lon": 126.8843,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "14.57.196.103"
   },
   "1.66.34.134": {
     "status": "success",
@@ -542,6 +526,22 @@
     "org": "",
     "as": "AS44724 Octopusnet LTD",
     "query": "95.154.89.139"
+  },
+  "186.122.11.104": {
+    "status": "success",
+    "country": "Argentina",
+    "countryCode": "AR",
+    "region": "T",
+    "regionName": "Tucuman",
+    "city": "San Miguel de Tucumán",
+    "zip": "4000",
+    "lat": -26.816,
+    "lon": -65.2154,
+    "timezone": "America/Argentina/Tucuman",
+    "isp": "Techtel LMDS Comunicaciones Interactivas S.A.",
+    "org": "",
+    "as": "AS11664 Techtel LMDS Comunicaciones Interactivas S.A.",
+    "query": "186.122.11.104"
   },
   "133.106.34.76": {
     "status": "success",
