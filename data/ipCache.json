@@ -639,6 +639,22 @@
     "as": "AS3215 Orange S.A.",
     "query": "83.193.164.144"
   },
+  "77.79.147.117": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "BA",
+    "regionName": "Bashkortostan Republic",
+    "city": "Ufa",
+    "zip": "450000",
+    "lat": 54.7431,
+    "lon": 55.9678,
+    "timezone": "Asia/Yekaterinburg",
+    "isp": "JSC \"Ufanet\"",
+    "org": "JSC Ufanet",
+    "as": "AS24955 JSC Ufanet",
+    "query": "77.79.147.117"
+  },
   "211.34.61.175": {
     "status": "success",
     "country": "South Korea",
