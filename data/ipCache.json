@@ -207,6 +207,22 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "36.14.133.245"
   },
+  "131.147.142.132": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Wada",
+    "zip": "166-0011",
+    "lat": 35.6945,
+    "lon": 139.6524,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "131.147.142.132"
+  },
   "1.66.34.134": {
     "status": "success",
     "country": "Japan",
@@ -366,22 +382,6 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.246.131.93"
-  },
-  "36.14.74.224": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Machida",
-    "zip": "194-0041",
-    "lat": 35.5652,
-    "lon": 139.4642,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "36.14.74.224"
   },
   "113.144.29.135": {
     "status": "success",
@@ -543,6 +543,22 @@
     "as": "AS6327 Shaw Communications",
     "query": "96.48.237.225"
   },
+  "180.5.76.17": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "11",
+    "regionName": "Saitama",
+    "city": "Tokiwa",
+    "zip": "330-0061",
+    "lat": 35.8669,
+    "lon": 139.6469,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "Open Computer Network",
+    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
+    "query": "180.5.76.17"
+  },
   "126.227.37.140": {
     "status": "success",
     "country": "Japan",
@@ -670,5 +686,21 @@
     "org": "LG Uplus",
     "as": "AS3786 LG DACOM Corporation",
     "query": "1.220.0.57"
+  },
+  "5.137.98.79": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "NVS",
+    "regionName": "Novosibirsk Oblast",
+    "city": "Novosibirsk",
+    "zip": "630000",
+    "lat": 55.0226,
+    "lon": 82.9317,
+    "timezone": "Asia/Novosibirsk",
+    "isp": "Rostelecom networks",
+    "org": "JSC Rostelecom regional branch Siberia",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "5.137.98.79"
   }
 }
