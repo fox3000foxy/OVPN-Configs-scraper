@@ -319,22 +319,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.102"
   },
-  "103.152.178.62": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-0001",
-    "lat": 35.694,
-    "lon": 139.754,
-    "timezone": "Asia/Tokyo",
-    "isp": "Ayao Takata",
-    "org": "SDCC-East01",
-    "as": "AS38074 SDCC Japan-West Area",
-    "query": "103.152.178.62"
-  },
   "120.75.146.85": {
     "status": "success",
     "country": "Japan",
@@ -543,38 +527,6 @@
     "as": "AS7679 QTnet,Inc.",
     "query": "116.94.191.34"
   },
-  "222.97.142.229": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "26",
-    "regionName": "Busan",
-    "city": "Yeonje-gu",
-    "zip": "475",
-    "lat": 35.1811,
-    "lon": 129.0928,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "KORNET",
-    "as": "AS4766 Korea Telecom",
-    "query": "222.97.142.229"
-  },
-  "83.193.164.144": {
-    "status": "success",
-    "country": "France",
-    "countryCode": "FR",
-    "region": "NAQ",
-    "regionName": "Nouvelle-Aquitaine",
-    "city": "Anglet",
-    "zip": "64600",
-    "lat": 43.4831,
-    "lon": -1.5216,
-    "timezone": "Europe/Paris",
-    "isp": "France Telecom",
-    "org": "",
-    "as": "AS3215 Orange S.A.",
-    "query": "83.193.164.144"
-  },
   "181.94.226.73": {
     "status": "success",
     "country": "Paraguay",
@@ -639,6 +591,22 @@
     "as": "AS12668 LLC \"KomTehCentr\"",
     "query": "94.31.224.105"
   },
+  "125.51.12.33": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "47",
+    "regionName": "Okinawa",
+    "city": "Okinawa",
+    "zip": "904-0031",
+    "lat": 26.3323,
+    "lon": 127.7903,
+    "timezone": "Asia/Tokyo",
+    "isp": "DION (KDDI CORPORATION)",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "125.51.12.33"
+  },
   "73.68.52.76": {
     "status": "success",
     "country": "United States",
@@ -655,6 +623,22 @@
     "as": "AS7922 Comcast Cable Communications, LLC",
     "query": "73.68.52.76"
   },
+  "83.193.164.144": {
+    "status": "success",
+    "country": "France",
+    "countryCode": "FR",
+    "region": "NAQ",
+    "regionName": "Nouvelle-Aquitaine",
+    "city": "Anglet",
+    "zip": "64600",
+    "lat": 43.4831,
+    "lon": -1.5216,
+    "timezone": "Europe/Paris",
+    "isp": "France Telecom",
+    "org": "",
+    "as": "AS3215 Orange S.A.",
+    "query": "83.193.164.144"
+  },
   "211.34.61.175": {
     "status": "success",
     "country": "South Korea",
@@ -670,5 +654,21 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "211.34.61.175"
+  },
+  "121.124.52.123": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Mapo-gu",
+    "zip": "039",
+    "lat": 37.5681,
+    "lon": 126.8998,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "121.124.52.123"
   }
 }
