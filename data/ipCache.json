@@ -303,22 +303,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "211.205.56.227"
   },
-  "219.100.37.102": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftEther",
-    "org": "SoftEther Corporation",
-    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.102"
-  },
   "120.75.146.85": {
     "status": "success",
     "country": "Japan",
@@ -334,6 +318,22 @@
     "org": "Sony Network Communications Inc.",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "120.75.146.85"
+  },
+  "219.100.37.102": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftEther",
+    "org": "SoftEther Corporation",
+    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
+    "query": "219.100.37.102"
   },
   "39.119.183.162": {
     "status": "success",
@@ -463,22 +463,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "220.57.84.30"
   },
-  "31.162.141.131": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KHM",
-    "regionName": "Khanty-Mansia",
-    "city": "Yugorsk",
-    "zip": "628112",
-    "lat": 61.3123,
-    "lon": 63.3307,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "Rostelecom networks",
-    "org": "Dynamic distribution IPs for broadband services",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "31.162.141.131"
-  },
   "103.195.248.134": {
     "status": "success",
     "country": "India",
@@ -591,6 +575,38 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "125.51.12.33"
   },
+  "125.180.77.9": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "28",
+    "regionName": "Incheon",
+    "city": "Seo-gu",
+    "zip": "226",
+    "lat": 37.5929,
+    "lon": 126.688,
+    "timezone": "Asia/Seoul",
+    "isp": "LG POWERCOMM",
+    "org": "LG POWERCOMM",
+    "as": "AS17858 LG POWERCOMM",
+    "query": "125.180.77.9"
+  },
+  "47.150.37.181": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA",
+    "regionName": "California",
+    "city": "Hesperia",
+    "zip": "92345",
+    "lat": 34.4179,
+    "lon": -117.3064,
+    "timezone": "America/Los_Angeles",
+    "isp": "Frontier Communications Solutions",
+    "org": "FTR3 FIOS-D Thousand Oaks CA",
+    "as": "AS5650 Frontier Communications of America, Inc.",
+    "query": "47.150.37.181"
+  },
   "73.68.52.76": {
     "status": "success",
     "country": "United States",
@@ -607,21 +623,21 @@
     "as": "AS7922 Comcast Cable Communications, LLC",
     "query": "73.68.52.76"
   },
-  "83.193.164.144": {
+  "175.133.128.210": {
     "status": "success",
-    "country": "France",
-    "countryCode": "FR",
-    "region": "NAQ",
-    "regionName": "Nouvelle-Aquitaine",
-    "city": "Anglet",
-    "zip": "64600",
-    "lat": 43.4831,
-    "lon": -1.5216,
-    "timezone": "Europe/Paris",
-    "isp": "France Telecom",
-    "org": "",
-    "as": "AS3215 Orange S.A.",
-    "query": "83.193.164.144"
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Zama",
+    "zip": "252-0021",
+    "lat": 35.49,
+    "lon": 139.4118,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "175.133.128.210"
   },
   "211.34.61.175": {
     "status": "success",
@@ -654,21 +670,5 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "121.124.52.123"
-  },
-  "211.194.135.86": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "30",
-    "regionName": "Daejeon",
-    "city": "Daejeon",
-    "zip": "35242",
-    "lat": 36.3566,
-    "lon": 127.3849,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "KT Corporation",
-    "as": "AS4766 Korea Telecom",
-    "query": "211.194.135.86"
   }
 }
