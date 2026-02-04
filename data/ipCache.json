@@ -335,6 +335,22 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "153.160.148.90"
   },
+  "1.66.34.134": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Osaka",
+    "zip": "530-0041",
+    "lat": 34.6967,
+    "lon": 135.5154,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Docomo, inc.",
+    "org": "NTTDoCoMo",
+    "as": "AS9605 NTT DOCOMO, INC.",
+    "query": "1.66.34.134"
+  },
   "110.46.158.118": {
     "status": "success",
     "country": "South Korea",
@@ -366,22 +382,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "175.209.13.17"
-  },
-  "1.66.34.134": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Osaka",
-    "zip": "530-0041",
-    "lat": 34.6967,
-    "lon": 135.5154,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Docomo, inc.",
-    "org": "NTTDoCoMo",
-    "as": "AS9605 NTT DOCOMO, INC.",
-    "query": "1.66.34.134"
   },
   "125.52.118.171": {
     "status": "success",
@@ -463,22 +463,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "116.121.181.6"
   },
-  "59.29.151.252": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "42",
-    "regionName": "Gangwon-do",
-    "city": "Chuncheon",
-    "zip": "242",
-    "lat": 37.8897,
-    "lon": 127.736,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "59.29.151.252"
-  },
   "58.150.189.252": {
     "status": "success",
     "country": "South Korea",
@@ -494,6 +478,22 @@
     "org": "Boranet",
     "as": "AS3786 LG DACOM Corporation",
     "query": "58.150.189.252"
+  },
+  "59.29.151.252": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "42",
+    "regionName": "Gangwon-do",
+    "city": "Chuncheon",
+    "zip": "242",
+    "lat": 37.8897,
+    "lon": 127.736,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "59.29.151.252"
   },
   "61.21.196.121": {
     "status": "success",
@@ -639,20 +639,20 @@
     "as": "AS24881 Interphone Ltd.",
     "query": "46.162.42.77"
   },
-  "1.251.45.198": {
+  "124.110.21.97": {
     "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "47",
-    "regionName": "Gyeongsangbuk-do",
-    "city": "Gyeongsan-si",
-    "zip": "385",
-    "lat": 35.8395,
-    "lon": 128.7655,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "1.251.45.198"
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "21",
+    "regionName": "Gifu",
+    "city": "Yamagata",
+    "zip": "502-0005",
+    "lat": 35.4762,
+    "lon": 136.772,
+    "timezone": "Asia/Tokyo",
+    "isp": "ARTERIA Networks Corporation",
+    "org": "ARTERIA Networks Corporation",
+    "as": "AS2519 ARTERIA Networks Corporation",
+    "query": "124.110.21.97"
   }
 }
