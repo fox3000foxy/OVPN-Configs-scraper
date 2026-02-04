@@ -79,6 +79,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.16"
   },
+  "73.197.44.96": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NJ",
+    "regionName": "New Jersey",
+    "city": "Plainfield",
+    "zip": "07060",
+    "lat": 40.6129,
+    "lon": -74.416,
+    "timezone": "America/New_York",
+    "isp": "Comcast Cable Communications, LLC",
+    "org": "Comcast IP Services, L.L.C.",
+    "as": "AS7922 Comcast Cable Communications, LLC",
+    "query": "73.197.44.96"
+  },
   "219.100.37.109": {
     "status": "success",
     "country": "Japan",
@@ -366,22 +382,6 @@
     "org": "State Company of Electro Communications Turkmentelecom",
     "as": "AS20661 State Company of Electro Communications Turkmentelecom",
     "query": "119.235.113.226"
-  },
-  "219.100.37.50": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftEther",
-    "org": "SoftEther Corporation",
-    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.50"
   },
   "58.123.224.213": {
     "status": "success",
