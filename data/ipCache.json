@@ -207,22 +207,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.142.148.62"
   },
-  "126.206.11.243": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.206.11.243"
-  },
   "1.66.34.134": {
     "status": "success",
     "country": "Japan",
@@ -238,6 +222,22 @@
     "org": "NTTDoCoMo",
     "as": "AS9605 NTT DOCOMO, INC.",
     "query": "1.66.34.134"
+  },
+  "126.206.11.243": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.206.11.243"
   },
   "124.144.23.224": {
     "status": "success",
@@ -718,5 +718,21 @@
     "org": "Northern International University",
     "as": "AS34205 PJSC Rostelecom",
     "query": "212.14.195.153"
+  },
+  "114.30.200.147": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Seoul",
+    "zip": "04524",
+    "lat": 37.5658,
+    "lon": 126.978,
+    "timezone": "Asia/Seoul",
+    "isp": "LG HelloVision Corp.",
+    "org": "HVHonam",
+    "as": "AS38121 LG HelloVision Corp.",
+    "query": "114.30.200.147"
   }
 }
