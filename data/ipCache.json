@@ -15,6 +15,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.101"
   },
+  "219.100.37.82": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftEther",
+    "org": "SoftEther Corporation",
+    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
+    "query": "219.100.37.82"
+  },
   "219.100.37.128": {
     "status": "success",
     "country": "Japan",
@@ -254,22 +270,6 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "180.68.118.32"
-  },
-  "103.152.178.62": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-0001",
-    "lat": 35.694,
-    "lon": 139.754,
-    "timezone": "Asia/Tokyo",
-    "isp": "Ayao Takata",
-    "org": "SDCC-East01",
-    "as": "AS38074 SDCC Japan-West Area",
-    "query": "103.152.178.62"
   },
   "59.23.123.76": {
     "status": "success",
@@ -622,21 +622,5 @@
     "org": "LG POWERCOMM",
     "as": "AS17858 LG POWERCOMM",
     "query": "182.213.69.54"
-  },
-  "98.237.195.169": {
-    "status": "success",
-    "country": "United States",
-    "countryCode": "US",
-    "region": "WA",
-    "regionName": "Washington",
-    "city": "Kirkland",
-    "zip": "98033",
-    "lat": 47.6784,
-    "lon": -122.1857,
-    "timezone": "America/Los_Angeles",
-    "isp": "Comcast Cable Communications, LLC",
-    "org": "Comcast Cable Communications, Inc.",
-    "as": "AS7922 Comcast Cable Communications, LLC",
-    "query": "98.237.195.169"
   }
 }
