@@ -303,22 +303,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.153.147.72"
   },
-  "27.83.68.134": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Nihonbashi-Kayabachō",
-    "zip": "103-0025",
-    "lat": 35.6792,
-    "lon": 139.779,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "27.83.68.134"
-  },
   "116.34.216.160": {
     "status": "success",
     "country": "South Korea",
@@ -334,6 +318,22 @@
     "org": "Xpeed",
     "as": "AS17858 LG POWERCOMM",
     "query": "116.34.216.160"
+  },
+  "27.83.68.134": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Nihonbashi-Kayabachō",
+    "zip": "103-0025",
+    "lat": 35.6792,
+    "lon": 139.779,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "27.83.68.134"
   },
   "126.1.42.49": {
     "status": "success",
@@ -431,6 +431,22 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.239.79.205"
   },
+  "175.28.24.204": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "24",
+    "regionName": "Mie",
+    "city": "Shima",
+    "zip": "517-0201",
+    "lat": 34.4609,
+    "lon": 136.8654,
+    "timezone": "Asia/Tokyo",
+    "isp": "Matsusaka CATV Station Co., Ltd.",
+    "org": "MCTV",
+    "as": "AS10019 Matsusaka Cable-TV Station Inc.",
+    "query": "175.28.24.204"
+  },
   "86.102.254.44": {
     "status": "success",
     "country": "Russia",
@@ -494,6 +510,22 @@
     "org": "OJSC Sibirtelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "176.49.131.188"
+  },
+  "96.48.237.225": {
+    "status": "success",
+    "country": "Canada",
+    "countryCode": "CA",
+    "region": "BC",
+    "regionName": "British Columbia",
+    "city": "Coquitlam",
+    "zip": "V3B",
+    "lat": 49.2838,
+    "lon": -122.7762,
+    "timezone": "America/Vancouver",
+    "isp": "Shaw Communications",
+    "org": "Shaw Communications Inc.",
+    "as": "AS6327 Shaw Communications",
+    "query": "96.48.237.225"
   },
   "180.5.76.17": {
     "status": "success",
@@ -574,22 +606,6 @@
     "org": "",
     "as": "AS196949 Natalia Sergeevna Filicheva",
     "query": "31.200.225.17"
-  },
-  "207.181.217.120": {
-    "status": "success",
-    "country": "United States",
-    "countryCode": "US",
-    "region": "IL",
-    "regionName": "Illinois",
-    "city": "Chicago",
-    "zip": "60611",
-    "lat": 41.8972,
-    "lon": -87.6196,
-    "timezone": "America/Chicago",
-    "isp": "RCN",
-    "org": "RCN Corporation",
-    "as": "AS6079 RCN",
-    "query": "207.181.217.120"
   },
   "46.43.240.65": {
     "status": "success",
