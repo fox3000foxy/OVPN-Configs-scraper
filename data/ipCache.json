@@ -223,6 +223,22 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "180.68.118.32"
   },
+  "211.221.198.244": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Yongin-si",
+    "zip": "171",
+    "lat": 37.1522,
+    "lon": 127.1752,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "sudogwonseobubonbu",
+    "as": "AS4766 Korea Telecom",
+    "query": "211.221.198.244"
+  },
   "1.66.34.134": {
     "status": "success",
     "country": "Japan",
@@ -239,21 +255,21 @@
     "as": "AS9605 NTT DOCOMO, INC.",
     "query": "1.66.34.134"
   },
-  "211.221.198.244": {
+  "118.41.236.148": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Yongin-si",
-    "zip": "171",
-    "lat": 37.1522,
-    "lon": 127.1752,
+    "region": "27",
+    "regionName": "Daegu",
+    "city": "Daegu",
+    "zip": "412",
+    "lat": 35.8699,
+    "lon": 128.6314,
     "timezone": "Asia/Seoul",
     "isp": "Korea Telecom",
-    "org": "sudogwonseobubonbu",
+    "org": "",
     "as": "AS4766 Korea Telecom",
-    "query": "211.221.198.244"
+    "query": "118.41.236.148"
   },
   "125.199.40.49": {
     "status": "success",
@@ -319,22 +335,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "114.206.223.158"
   },
-  "192.145.96.207": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KYA",
-    "regionName": "Krasnoyarsk Krai",
-    "city": "Krasnoyarsk",
-    "zip": "660000",
-    "lat": 56.0133,
-    "lon": 92.7885,
-    "timezone": "Asia/Krasnoyarsk",
-    "isp": "Telezon-Seti LLC",
-    "org": "Telezon",
-    "as": "AS34858 Telezon-Seti LLC",
-    "query": "192.145.96.207"
-  },
   "180.230.179.174": {
     "status": "success",
     "country": "South Korea",
@@ -350,6 +350,22 @@
     "org": "LG POWERCOMM",
     "as": "AS17858 LG POWERCOMM",
     "query": "180.230.179.174"
+  },
+  "192.145.96.207": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KYA",
+    "regionName": "Krasnoyarsk Krai",
+    "city": "Krasnoyarsk",
+    "zip": "660000",
+    "lat": 56.0133,
+    "lon": 92.7885,
+    "timezone": "Asia/Krasnoyarsk",
+    "isp": "Telezon-Seti LLC",
+    "org": "Telezon",
+    "as": "AS34858 Telezon-Seti LLC",
+    "query": "192.145.96.207"
   },
   "219.100.37.102": {
     "status": "success",
@@ -622,21 +638,5 @@
     "org": "LG POWERCOMM",
     "as": "AS17858 LG POWERCOMM",
     "query": "182.213.69.54"
-  },
-  "98.237.195.169": {
-    "status": "success",
-    "country": "United States",
-    "countryCode": "US",
-    "region": "WA",
-    "regionName": "Washington",
-    "city": "Kirkland",
-    "zip": "98033",
-    "lat": 47.6784,
-    "lon": -122.1857,
-    "timezone": "America/Los_Angeles",
-    "isp": "Comcast Cable Communications, LLC",
-    "org": "Comcast Cable Communications, Inc.",
-    "as": "AS7922 Comcast Cable Communications, LLC",
-    "query": "98.237.195.169"
   }
 }
