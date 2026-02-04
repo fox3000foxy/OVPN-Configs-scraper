@@ -95,22 +95,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.16"
   },
-  "34.142.207.18": {
-    "status": "success",
-    "country": "Singapore",
-    "countryCode": "SG",
-    "region": "01",
-    "regionName": "Central Singapore",
-    "city": "Singapore",
-    "zip": "190464",
-    "lat": 1.3048,
-    "lon": 103.8622,
-    "timezone": "Asia/Singapore",
-    "isp": "Google LLC",
-    "org": "Google Cloud (asia-southeast1)",
-    "as": "AS396982 Google LLC",
-    "query": "34.142.207.18"
-  },
   "219.100.37.109": {
     "status": "success",
     "country": "Japan",
@@ -142,6 +126,22 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.204"
+  },
+  "34.142.207.18": {
+    "status": "success",
+    "country": "Singapore",
+    "countryCode": "SG",
+    "region": "01",
+    "regionName": "Central Singapore",
+    "city": "Singapore",
+    "zip": "190464",
+    "lat": 1.3048,
+    "lon": 103.8622,
+    "timezone": "Asia/Singapore",
+    "isp": "Google LLC",
+    "org": "Google Cloud (asia-southeast1)",
+    "as": "AS396982 Google LLC",
+    "query": "34.142.207.18"
   },
   "60.113.239.82": {
     "status": "success",
@@ -367,6 +367,22 @@
     "as": "AS59533 Lukyanov Evgeniy Vladimirovich PE",
     "query": "91.219.203.117"
   },
+  "218.154.111.211": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "31",
+    "regionName": "Ulsan",
+    "city": "Nam-gu",
+    "zip": "446",
+    "lat": 35.5335,
+    "lon": 129.3173,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "218.154.111.211"
+  },
   "1.246.131.93": {
     "status": "success",
     "country": "South Korea",
@@ -543,22 +559,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.227.37.140"
   },
-  "58.94.26.42": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "16",
-    "regionName": "Toyama",
-    "city": "Mikkaichi",
-    "zip": "938-0031",
-    "lat": 36.8787,
-    "lon": 137.4489,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "NTT Communications Corporation",
-    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
-    "query": "58.94.26.42"
-  },
   "121.164.172.243": {
     "status": "success",
     "country": "South Korea",
@@ -655,21 +655,21 @@
     "as": "AS10036 DLIVE",
     "query": "58.140.73.52"
   },
-  "1.220.0.57": {
+  "175.28.24.204": {
     "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Areannamkwaengi",
-    "zip": "129",
-    "lat": 37.0745,
-    "lon": 127.3264,
-    "timezone": "Asia/Seoul",
-    "isp": "LG DACOM Corporation",
-    "org": "LG Uplus",
-    "as": "AS3786 LG DACOM Corporation",
-    "query": "1.220.0.57"
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "24",
+    "regionName": "Mie",
+    "city": "Shima",
+    "zip": "517-0201",
+    "lat": 34.4609,
+    "lon": 136.8654,
+    "timezone": "Asia/Tokyo",
+    "isp": "Matsusaka CATV Station Co., Ltd.",
+    "org": "MCTV",
+    "as": "AS10019 Matsusaka Cable-TV Station Inc.",
+    "query": "175.28.24.204"
   },
   "218.235.89.115": {
     "status": "success",
@@ -686,5 +686,21 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "218.235.89.115"
+  },
+  "1.220.0.57": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Areannamkwaengi",
+    "zip": "129",
+    "lat": 37.0745,
+    "lon": 127.3264,
+    "timezone": "Asia/Seoul",
+    "isp": "LG DACOM Corporation",
+    "org": "LG Uplus",
+    "as": "AS3786 LG DACOM Corporation",
+    "query": "1.220.0.57"
   }
 }
