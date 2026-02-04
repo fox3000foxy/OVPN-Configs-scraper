@@ -239,22 +239,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "211.221.198.244"
   },
-  "125.199.40.49": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0071",
-    "lat": 35.6837,
-    "lon": 139.6805,
-    "timezone": "Asia/Tokyo",
-    "isp": "NEC BIGLOBE Ltd.",
-    "org": "BIGLOBE",
-    "as": "AS2518 BIGLOBE Inc.",
-    "query": "125.199.40.49"
-  },
   "180.68.118.32": {
     "status": "success",
     "country": "South Korea",
@@ -270,6 +254,22 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "180.68.118.32"
+  },
+  "125.199.40.49": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tokyo",
+    "zip": "151-0071",
+    "lat": 35.6837,
+    "lon": 139.6805,
+    "timezone": "Asia/Tokyo",
+    "isp": "NEC BIGLOBE Ltd.",
+    "org": "BIGLOBE",
+    "as": "AS2518 BIGLOBE Inc.",
+    "query": "125.199.40.49"
   },
   "59.23.123.76": {
     "status": "success",
@@ -350,22 +350,6 @@
     "org": "LG POWERCOMM",
     "as": "AS17858 LG POWERCOMM",
     "query": "180.230.179.174"
-  },
-  "95.84.132.179": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "MOW",
-    "regionName": "Moscow",
-    "city": "Moscow",
-    "zip": "127474",
-    "lat": 55.7487,
-    "lon": 37.6187,
-    "timezone": "Europe/Moscow",
-    "isp": "NCNET",
-    "org": "",
-    "as": "AS42610 PJSC Rostelecom",
-    "query": "95.84.132.179"
   },
   "219.100.37.102": {
     "status": "success",
@@ -495,6 +479,38 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "178.186.247.108"
   },
+  "217.178.129.202": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Setagaya City",
+    "zip": "154-0011",
+    "lat": 35.6413,
+    "lon": 139.6662,
+    "timezone": "Asia/Tokyo",
+    "isp": "Internet Multifeed CO.",
+    "org": "Internet Multifeed CO.",
+    "as": "AS55391 INTERNET MULTIFEED CO.",
+    "query": "217.178.129.202"
+  },
+  "116.220.199.154": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Higashimurayama",
+    "zip": "189-0021",
+    "lat": 35.7554,
+    "lon": 139.4693,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM Co., Ltd.",
+    "org": "Jupiter Telecommunication Co. Ltd",
+    "as": "AS9824 JCOM Co., Ltd.",
+    "query": "116.220.199.154"
+  },
   "49.166.203.172": {
     "status": "success",
     "country": "South Korea",
@@ -526,6 +542,22 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "110.13.100.198"
+  },
+  "182.170.87.159": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "12",
+    "regionName": "Chiba",
+    "city": "Ichikawa",
+    "zip": "272-0031",
+    "lat": 35.7233,
+    "lon": 139.9132,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc.",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "182.170.87.159"
   },
   "121.141.234.161": {
     "status": "success",
@@ -575,37 +607,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "59.28.247.22"
   },
-  "149.50.173.152": {
-    "status": "success",
-    "country": "United Kingdom",
-    "countryCode": "GB",
-    "region": "ENG",
-    "regionName": "England",
-    "city": "London",
-    "zip": "EC1N",
-    "lat": 51.5081,
-    "lon": -0.1278,
-    "timezone": "Europe/London",
-    "isp": "Fibrus Networks LTD",
-    "org": "Fibrus Networks ltd",
-    "as": "AS202282 FIBRUS NETWORKS LTD",
-    "query": "149.50.173.152"
-  },
-  "121.133.138.66": {
+  "112.186.44.216": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Songpa-gu",
-    "zip": "055",
-    "lat": 37.5108,
-    "lon": 127.1048,
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Pyeongtaek-si",
+    "zip": "177",
+    "lat": 37.0847,
+    "lon": 127.0525,
     "timezone": "Asia/Seoul",
     "isp": "Korea Telecom",
-    "org": "",
+    "org": "Korea Telecom",
     "as": "AS4766 Korea Telecom",
-    "query": "121.133.138.66"
+    "query": "112.186.44.216"
   },
   "182.213.69.54": {
     "status": "success",
