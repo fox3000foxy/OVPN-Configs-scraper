@@ -207,6 +207,22 @@
     "as": "AS7552 Viettel Group",
     "query": "115.78.10.208"
   },
+  "220.212.128.195": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "ULTINA",
+    "as": "AS4725 SoftBank Corp.",
+    "query": "220.212.128.195"
+  },
   "126.109.156.167": {
     "status": "success",
     "country": "Japan",
@@ -495,22 +511,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "112.184.70.55"
   },
-  "106.159.95.188": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "04",
-    "regionName": "Miyagi",
-    "city": "Ōhira",
-    "zip": "981-3601",
-    "lat": 38.4817,
-    "lon": 140.8278,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "106.159.95.188"
-  },
   "222.96.64.242": {
     "status": "success",
     "country": "South Korea",
@@ -526,6 +526,22 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "222.96.64.242"
+  },
+  "106.159.95.188": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "04",
+    "regionName": "Miyagi",
+    "city": "Ōhira",
+    "zip": "981-3601",
+    "lat": 38.4817,
+    "lon": 140.8278,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "106.159.95.188"
   },
   "182.165.175.21": {
     "status": "success",
@@ -590,22 +606,6 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "116.124.32.221"
-  },
-  "113.211.212.223": {
-    "status": "success",
-    "country": "Malaysia",
-    "countryCode": "MY",
-    "region": "10",
-    "regionName": "Selangor",
-    "city": "Petaling Jaya",
-    "zip": "46100",
-    "lat": 3.1023,
-    "lon": 101.6265,
-    "timezone": "Asia/Kuala_Lumpur",
-    "isp": "Maxis Broadband Sdn.Bhd",
-    "org": "",
-    "as": "AS9534 Binariang Berhad",
-    "query": "113.211.212.223"
   },
   "176.210.161.19": {
     "status": "success",
