@@ -271,22 +271,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.50"
   },
-  "153.160.148.90": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Osaka",
-    "zip": "550-0001",
-    "lat": 34.6892,
-    "lon": 135.4899,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "Open Computer Network",
-    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
-    "query": "153.160.148.90"
-  },
   "188.186.186.127": {
     "status": "success",
     "country": "Russia",
@@ -302,6 +286,22 @@
     "org": "JSC \"ER-Telecom Holding\" Tyumen' branch",
     "as": "AS41682 JSC ER-Telecom Holding",
     "query": "188.186.186.127"
+  },
+  "153.160.148.90": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Osaka",
+    "zip": "550-0001",
+    "lat": 34.6892,
+    "lon": 135.4899,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "Open Computer Network",
+    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
+    "query": "153.160.148.90"
   },
   "222.109.180.8": {
     "status": "success",
@@ -686,22 +686,6 @@
     "org": "OJSC Sibirtelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "95.191.216.192"
-  },
-  "5.100.81.48": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PRI",
-    "regionName": "Primorye",
-    "city": "Vladivostok",
-    "zip": "690001",
-    "lat": 43.1068,
-    "lon": 131.8692,
-    "timezone": "Asia/Vladivostok",
-    "isp": "VLADLINK",
-    "org": "VladLink LTD",
-    "as": "AS42038 Krivets Sergey Sergeevich",
-    "query": "5.100.81.48"
   },
   "95.70.72.180": {
     "status": "success",
