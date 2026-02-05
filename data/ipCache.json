@@ -399,6 +399,22 @@
     "as": "AS42610 PJSC Rostelecom",
     "query": "37.110.83.193"
   },
+  "186.122.11.104": {
+    "status": "success",
+    "country": "Argentina",
+    "countryCode": "AR",
+    "region": "T",
+    "regionName": "Tucuman",
+    "city": "San Miguel de Tucumán",
+    "zip": "4000",
+    "lat": -26.816,
+    "lon": -65.2154,
+    "timezone": "America/Argentina/Tucuman",
+    "isp": "Techtel LMDS Comunicaciones Interactivas S.A.",
+    "org": "",
+    "as": "AS11664 Techtel LMDS Comunicaciones Interactivas S.A.",
+    "query": "186.122.11.104"
+  },
   "218.216.32.95": {
     "status": "success",
     "country": "Japan",
@@ -446,22 +462,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "220.86.64.116"
-  },
-  "186.122.11.104": {
-    "status": "success",
-    "country": "Argentina",
-    "countryCode": "AR",
-    "region": "T",
-    "regionName": "Tucuman",
-    "city": "San Miguel de Tucumán",
-    "zip": "4000",
-    "lat": -26.816,
-    "lon": -65.2154,
-    "timezone": "America/Argentina/Tucuman",
-    "isp": "Techtel LMDS Comunicaciones Interactivas S.A.",
-    "org": "",
-    "as": "AS11664 Techtel LMDS Comunicaciones Interactivas S.A.",
-    "query": "186.122.11.104"
   },
   "211.217.217.150": {
     "status": "success",
@@ -686,21 +686,5 @@
     "org": "Comcast Cable Communications",
     "as": "AS7922 Comcast Cable Communications, LLC",
     "query": "24.19.50.63"
-  },
-  "220.88.141.12": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Yangju",
-    "zip": "114",
-    "lat": 37.8119,
-    "lon": 127.08,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "220.88.141.12"
   }
 }
