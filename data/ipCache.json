@@ -415,6 +415,22 @@
     "as": "AS133481 AIS Fibre",
     "query": "49.228.251.232"
   },
+  "106.166.136.213": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "08",
+    "regionName": "Ibaraki",
+    "city": "Koga",
+    "zip": "306-0001",
+    "lat": 36.2024,
+    "lon": 139.7085,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "106.166.136.213"
+  },
   "112.156.19.217": {
     "status": "success",
     "country": "South Korea",
@@ -462,22 +478,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "121.130.138.116"
-  },
-  "124.187.234.189": {
-    "status": "success",
-    "country": "Australia",
-    "countryCode": "AU",
-    "region": "VIC",
-    "regionName": "Victoria",
-    "city": "Melbourne",
-    "zip": "3029",
-    "lat": -37.8363,
-    "lon": 144.6595,
-    "timezone": "Australia/Melbourne",
-    "isp": "Telstra Internet",
-    "org": "",
-    "as": "AS1221 Telstra Limited",
-    "query": "124.187.234.189"
   },
   "118.87.61.88": {
     "status": "success",
@@ -623,22 +623,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.160.109.182"
   },
-  "121.157.254.201": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Gwangju",
-    "zip": "127",
-    "lat": 37.3661,
-    "lon": 127.2255,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "121.157.254.201"
-  },
   "222.236.200.106": {
     "status": "success",
     "country": "South Korea",
@@ -654,6 +638,22 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "222.236.200.106"
+  },
+  "121.157.254.201": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Gwangju",
+    "zip": "127",
+    "lat": 37.3661,
+    "lon": 127.2255,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "121.157.254.201"
   },
   "179.61.221.26": {
     "status": "success",
@@ -686,6 +686,22 @@
     "org": "Boranet",
     "as": "AS3786 LG DACOM Corporation",
     "query": "106.242.179.250"
+  },
+  "121.50.255.67": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Seoul",
+    "zip": "04625",
+    "lat": 37.5614,
+    "lon": 126.996,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "TBROAD NakdongDongnamSeobusan",
+    "as": "AS17857 SK Broadband Co Ltd",
+    "query": "121.50.255.67"
   },
   "60.137.217.108": {
     "status": "success",
@@ -734,5 +750,21 @@
     "org": "Enter, LLC",
     "as": "AS12389 PJSC Rostelecom",
     "query": "188.133.203.74"
+  },
+  "109.226.248.25": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KYA",
+    "regionName": "Krasnoyarsk Krai",
+    "city": "Krasnoyarsk",
+    "zip": "660017",
+    "lat": 56.0374,
+    "lon": 92.9314,
+    "timezone": "Asia/Krasnoyarsk",
+    "isp": "Orion Telecom LLC",
+    "org": "Orion Telecom LLC",
+    "as": "AS50427 Orion Telecom LLC",
+    "query": "109.226.248.25"
   }
 }
