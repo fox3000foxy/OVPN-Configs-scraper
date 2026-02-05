@@ -143,21 +143,21 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "60.36.150.117"
   },
-  "122.210.185.27": {
+  "218.145.181.197": {
     "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Yokohama",
-    "zip": "231-0841",
-    "lat": 35.4337,
-    "lon": 139.6499,
-    "timezone": "Asia/Tokyo",
-    "isp": "ARTERIA Networks Corporation",
-    "org": "UCOM Corporation",
-    "as": "AS17506 ARTERIA Networks Corporation",
-    "query": "122.210.185.27"
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Gangnam-gu",
+    "zip": "060",
+    "lat": 37.5245,
+    "lon": 127.0354,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "218.145.181.197"
   },
   "211.221.198.244": {
     "status": "success",
@@ -287,6 +287,22 @@
     "as": "AS45758 Triple T Broadband Public Company Limited",
     "query": "223.207.235.1"
   },
+  "126.217.201.240": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.217.201.240"
+  },
   "68.149.154.94": {
     "status": "success",
     "country": "Canada",
@@ -302,22 +318,6 @@
     "org": "Shaw Communications Inc.",
     "as": "AS6327 Shaw Communications",
     "query": "68.149.154.94"
-  },
-  "218.155.19.68": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Seongnam-si",
-    "zip": "133",
-    "lat": 37.4331,
-    "lon": 127.1375,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "218.155.19.68"
   },
   "220.125.51.211": {
     "status": "success",
