@@ -447,22 +447,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "220.26.103.76"
   },
-  "126.235.215.236": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.235.215.236"
-  },
   "114.173.34.110": {
     "status": "success",
     "country": "Japan",
@@ -479,21 +463,21 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "114.173.34.110"
   },
-  "60.141.151.166": {
+  "218.110.234.120": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
     "region": "13",
     "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
+    "city": "Machida",
+    "zip": "194-0001",
+    "lat": 35.557,
+    "lon": 139.4458,
     "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan Nation-wide Network of Softbank Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "60.141.151.166"
+    "isp": "Sony Communication Network Corporation",
+    "org": "Sony Communication Network Corporation",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "218.110.234.120"
   },
   "92.37.244.242": {
     "status": "success",
