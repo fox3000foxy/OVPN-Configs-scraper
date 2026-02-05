@@ -351,22 +351,6 @@
     "as": "AS9595 NTT-ME Corporation",
     "query": "124.44.74.37"
   },
-  "14.52.253.14": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Songpa-gu",
-    "zip": "055",
-    "lat": 37.5108,
-    "lon": 127.1048,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "14.52.253.14"
-  },
   "46.37.132.36": {
     "status": "success",
     "country": "Russia",
@@ -463,6 +447,22 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "220.26.103.76"
   },
+  "58.76.172.219": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Dongjak-gu",
+    "zip": "070",
+    "lat": 37.4926,
+    "lon": 126.92,
+    "timezone": "Asia/Seoul",
+    "isp": "LG DACOM Corporation",
+    "org": "LG Uplus",
+    "as": "AS7562 HCN Dongjak",
+    "query": "58.76.172.219"
+  },
   "61.75.115.245": {
     "status": "success",
     "country": "South Korea",
@@ -510,22 +510,6 @@
     "org": "",
     "as": "AS12389 PJSC Rostelecom",
     "query": "92.37.244.242"
-  },
-  "221.157.130.155": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "27",
-    "regionName": "Daegu",
-    "city": "Dalseo-gu",
-    "zip": "427",
-    "lat": 35.8475,
-    "lon": 128.4805,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Korea Telecom",
-    "as": "AS4766 Korea Telecom",
-    "query": "221.157.130.155"
   },
   "121.181.197.225": {
     "status": "success",
@@ -638,5 +622,37 @@
     "org": "HVGaya",
     "as": "AS10066 LG HelloVision Corp.",
     "query": "115.41.35.173"
+  },
+  "73.157.28.181": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WA",
+    "regionName": "Washington",
+    "city": "Seattle",
+    "zip": "98115",
+    "lat": 47.6859,
+    "lon": -122.2994,
+    "timezone": "America/Los_Angeles",
+    "isp": "Comcast Cable Communications, LLC",
+    "org": "Comcast IP Services, L.L.C.",
+    "as": "AS7922 Comcast Cable Communications, LLC",
+    "query": "73.157.28.181"
+  },
+  "14.7.11.249": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "45",
+    "regionName": "Jeollabuk-do",
+    "city": "Gunsan",
+    "zip": "541",
+    "lat": 35.9812,
+    "lon": 126.712,
+    "timezone": "Asia/Seoul",
+    "isp": "LG POWERCOMM",
+    "org": "DACOM-PUBNETPLUS",
+    "as": "AS17858 LG POWERCOMM",
+    "query": "14.7.11.249"
   }
 }
