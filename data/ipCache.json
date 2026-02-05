@@ -127,22 +127,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.204"
   },
-  "1.21.121.201": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Suita",
-    "zip": "564-0041",
-    "lat": 34.7614,
-    "lon": 135.516,
-    "timezone": "Asia/Tokyo",
-    "isp": "ARTERIA Networks Corporation",
-    "org": "Marubeni Access Solutions Inc.",
-    "as": "AS2519 ARTERIA Networks Corporation",
-    "query": "1.21.121.201"
-  },
   "111.238.189.171": {
     "status": "success",
     "country": "Japan",
@@ -158,6 +142,22 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "111.238.189.171"
+  },
+  "1.21.121.201": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Suita",
+    "zip": "564-0041",
+    "lat": 34.7614,
+    "lon": 135.516,
+    "timezone": "Asia/Tokyo",
+    "isp": "ARTERIA Networks Corporation",
+    "org": "Marubeni Access Solutions Inc.",
+    "as": "AS2519 ARTERIA Networks Corporation",
+    "query": "1.21.121.201"
   },
   "118.240.68.160": {
     "status": "success",
@@ -287,22 +287,6 @@
     "as": "AS17506 ARTERIA Networks Corporation",
     "query": "122.208.249.174"
   },
-  "1.66.34.134": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Osaka",
-    "zip": "530-0041",
-    "lat": 34.6967,
-    "lon": 135.5154,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Docomo, inc.",
-    "org": "NTTDoCoMo",
-    "as": "AS9605 NTT DOCOMO, INC.",
-    "query": "1.66.34.134"
-  },
   "125.137.243.222": {
     "status": "success",
     "country": "South Korea",
@@ -334,6 +318,22 @@
     "org": "Xpeed",
     "as": "AS17858 LG POWERCOMM",
     "query": "116.34.216.160"
+  },
+  "1.66.34.134": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Osaka",
+    "zip": "530-0041",
+    "lat": 34.6967,
+    "lon": 135.5154,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Docomo, inc.",
+    "org": "NTTDoCoMo",
+    "as": "AS9605 NTT DOCOMO, INC.",
+    "query": "1.66.34.134"
   },
   "60.127.238.103": {
     "status": "success",
@@ -431,37 +431,21 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "176.49.251.231"
   },
-  "180.5.76.17": {
+  "106.166.136.213": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "11",
-    "regionName": "Saitama",
-    "city": "Tokiwa",
-    "zip": "330-0061",
-    "lat": 35.8669,
-    "lon": 139.6469,
+    "region": "08",
+    "regionName": "Ibaraki",
+    "city": "Koga",
+    "zip": "306-0001",
+    "lat": 36.2024,
+    "lon": 139.7085,
     "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "Open Computer Network",
-    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
-    "query": "180.5.76.17"
-  },
-  "49.228.251.232": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "20",
-    "regionName": "Chon Buri",
-    "city": "Bang Lamung",
-    "zip": "20150",
-    "lat": 13.0508,
-    "lon": 100.9367,
-    "timezone": "Asia/Bangkok",
-    "isp": "Advanced Wireless Network Company Limited",
-    "org": "",
-    "as": "AS133481 AIS Fibre",
-    "query": "49.228.251.232"
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "106.166.136.213"
   },
   "112.156.19.217": {
     "status": "success",
@@ -542,6 +526,22 @@
     "org": "Jeonnambonbujang",
     "as": "AS4766 Korea Telecom",
     "query": "121.148.48.93"
+  },
+  "221.45.99.215": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan nation-wide Network of SOFTBANK BB Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "221.45.99.215"
   },
   "121.168.94.176": {
     "status": "success",
@@ -702,6 +702,22 @@
     "org": "Boranet",
     "as": "AS3786 LG DACOM Corporation",
     "query": "106.242.179.250"
+  },
+  "219.126.126.150": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Asagayakita",
+    "zip": "166-0001",
+    "lat": 35.7094,
+    "lon": 139.6381,
+    "timezone": "Asia/Tokyo",
+    "isp": "TOKAI Communications Corporation",
+    "org": "TOKAI Corporation",
+    "as": "AS10010 TOKAI Communications Corporation",
+    "query": "219.126.126.150"
   },
   "188.133.203.74": {
     "status": "success",
