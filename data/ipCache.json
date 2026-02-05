@@ -495,6 +495,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "14.35.12.234"
   },
+  "121.85.131.250": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Sakai",
+    "zip": "590-0971",
+    "lat": 34.5963,
+    "lon": 135.4868,
+    "timezone": "Asia/Tokyo",
+    "isp": "OPTAGE Inc.",
+    "org": "K-Opticom Corporation",
+    "as": "AS17511 OPTAGE Inc.",
+    "query": "121.85.131.250"
+  },
   "223.218.22.136": {
     "status": "success",
     "country": "Japan",
@@ -574,22 +590,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "14.34.201.93"
-  },
-  "125.198.42.151": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Hyakuninchō",
-    "zip": "169-0071",
-    "lat": 35.7075,
-    "lon": 139.7007,
-    "timezone": "Asia/Tokyo",
-    "isp": "BIGLOBE Inc.",
-    "org": "BIGLOBE",
-    "as": "AS2518 BIGLOBE Inc.",
-    "query": "125.198.42.151"
   },
   "112.145.244.242": {
     "status": "success",
