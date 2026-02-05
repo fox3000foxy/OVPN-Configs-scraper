@@ -143,6 +143,22 @@
     "as": "AS2519 ARTERIA Networks Corporation",
     "query": "1.21.121.201"
   },
+  "111.238.189.171": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tagara",
+    "zip": "179-0071",
+    "lat": 35.7681,
+    "lon": 139.6258,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "111.238.189.171"
+  },
   "131.147.142.132": {
     "status": "success",
     "country": "Japan",
@@ -158,6 +174,22 @@
     "org": "Sony Network Communications Inc.",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "131.147.142.132"
+  },
+  "121.106.148.235": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "01",
+    "regionName": "Hokkaido",
+    "city": "Sapporo",
+    "zip": "065-0011",
+    "lat": 43.0763,
+    "lon": 141.3654,
+    "timezone": "Asia/Tokyo",
+    "isp": "DION (KDDI CORPORATION)",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "121.106.148.235"
   },
   "112.220.30.58": {
     "status": "success",
@@ -415,22 +447,6 @@
     "as": "AS133481 AIS Fibre",
     "query": "49.228.251.232"
   },
-  "106.166.136.213": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "08",
-    "regionName": "Ibaraki",
-    "city": "Koga",
-    "zip": "306-0001",
-    "lat": 36.2024,
-    "lon": 139.7085,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "106.166.136.213"
-  },
   "112.156.19.217": {
     "status": "success",
     "country": "South Korea",
@@ -462,6 +478,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "115.22.254.150"
+  },
+  "210.106.55.92": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Gimpo-si",
+    "zip": "100",
+    "lat": 37.7542,
+    "lon": 126.557,
+    "timezone": "Asia/Seoul",
+    "isp": "CJ-HELLOVISION",
+    "org": "DreamcityMedia",
+    "as": "AS17839 LG HelloVision Corp.",
+    "query": "210.106.55.92"
   },
   "121.130.138.116": {
     "status": "success",
@@ -559,38 +591,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.225.128.156"
   },
-  "121.154.104.189": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "45",
-    "regionName": "Jeollabuk-do",
-    "city": "Jeonju",
-    "zip": "550",
-    "lat": 35.8014,
-    "lon": 127.1076,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "121.154.104.189"
-  },
-  "221.152.239.167": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "26",
-    "regionName": "Busan",
-    "city": "Buk-gu",
-    "zip": "466",
-    "lat": 35.1996,
-    "lon": 128.9874,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Korea Telecom",
-    "as": "AS4766 Korea Telecom",
-    "query": "221.152.239.167"
-  },
   "118.218.227.187": {
     "status": "success",
     "country": "South Korea",
@@ -622,22 +622,6 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "121.160.109.182"
-  },
-  "222.236.200.106": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "43",
-    "regionName": "North Chungcheong",
-    "city": "Danyang-gun",
-    "zip": "270",
-    "lat": 36.9848,
-    "lon": 128.3735,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "222.236.200.106"
   },
   "121.157.254.201": {
     "status": "success",
@@ -687,22 +671,6 @@
     "as": "AS3786 LG DACOM Corporation",
     "query": "106.242.179.250"
   },
-  "121.50.255.67": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Seoul",
-    "zip": "04625",
-    "lat": 37.5614,
-    "lon": 126.996,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "TBROAD NakdongDongnamSeobusan",
-    "as": "AS17857 SK Broadband Co Ltd",
-    "query": "121.50.255.67"
-  },
   "60.137.217.108": {
     "status": "success",
     "country": "Japan",
@@ -719,21 +687,21 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.137.217.108"
   },
-  "176.210.161.19": {
+  "124.110.21.97": {
     "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KEM",
-    "regionName": "Kemerovo Oblast",
-    "city": "Kemerovo",
-    "zip": "650000",
-    "lat": 55.3299,
-    "lon": 86.0765,
-    "timezone": "Asia/Novokuznetsk",
-    "isp": "JSC Rostelecom regional branch \"Siberia\"",
-    "org": "JSC Rostelecom regional branch Siberia",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "176.210.161.19"
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "21",
+    "regionName": "Gifu",
+    "city": "Yamagata",
+    "zip": "502-0005",
+    "lat": 35.4762,
+    "lon": 136.772,
+    "timezone": "Asia/Tokyo",
+    "isp": "ARTERIA Networks Corporation",
+    "org": "ARTERIA Networks Corporation",
+    "as": "AS2519 ARTERIA Networks Corporation",
+    "query": "124.110.21.97"
   },
   "188.133.203.74": {
     "status": "success",
