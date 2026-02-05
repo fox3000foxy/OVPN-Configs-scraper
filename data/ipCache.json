@@ -415,6 +415,22 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "92.37.244.242"
   },
+  "49.228.170.167": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "10",
+    "regionName": "Bangkok",
+    "city": "Bangkok",
+    "zip": "10330",
+    "lat": 13.7749,
+    "lon": 100.5197,
+    "timezone": "Asia/Bangkok",
+    "isp": "Advanced Wireless Network Company Limited",
+    "org": "AIS Fibre",
+    "as": "AS133481 AIS Fibre",
+    "query": "49.228.170.167"
+  },
   "171.22.174.247": {
     "status": "success",
     "country": "Germany",
@@ -606,22 +622,6 @@
     "org": "TH AIS Mobile Internet",
     "as": "AS131445 Advance Wireless Network",
     "query": "49.230.44.150"
-  },
-  "95.70.55.29": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KHA",
-    "regionName": "Khabarovsk",
-    "city": "Khabarovsk",
-    "zip": "680000",
-    "lat": 48.4817,
-    "lon": 135.083,
-    "timezone": "Asia/Vladivostok",
-    "isp": "Rostelecom networks",
-    "org": "",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "95.70.55.29"
   },
   "157.5.14.19": {
     "status": "success",
