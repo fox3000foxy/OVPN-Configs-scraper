@@ -383,22 +383,6 @@
     "as": "AS4725 SoftBank Corp.",
     "query": "220.212.128.195"
   },
-  "58.150.189.252": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Jongno-gu",
-    "zip": "031",
-    "lat": 37.5692,
-    "lon": 126.9775,
-    "timezone": "Asia/Seoul",
-    "isp": "LG DACOM Corporation",
-    "org": "Boranet",
-    "as": "AS3786 LG DACOM Corporation",
-    "query": "58.150.189.252"
-  },
   "176.49.251.231": {
     "status": "success",
     "country": "Russia",
@@ -479,22 +463,6 @@
     "as": "AS23959 Owl Limited",
     "query": "194.114.136.19"
   },
-  "106.166.136.213": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "08",
-    "regionName": "Ibaraki",
-    "city": "Koga",
-    "zip": "306-0001",
-    "lat": 36.2024,
-    "lon": 139.7085,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "106.166.136.213"
-  },
   "31.200.225.17": {
     "status": "success",
     "country": "Russia",
@@ -558,6 +526,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "121.130.138.116"
+  },
+  "111.238.218.220": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Ōmorikita",
+    "zip": "143-0011",
+    "lat": 35.5845,
+    "lon": 139.7385,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "111.238.218.220"
   },
   "184.22.240.227": {
     "status": "success",
@@ -655,21 +639,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.172.39.145"
   },
-  "222.236.200.106": {
+  "219.241.27.76": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
-    "region": "43",
-    "regionName": "North Chungcheong",
-    "city": "Danyang-gun",
-    "zip": "270",
-    "lat": 36.9848,
-    "lon": 128.3735,
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Suwon",
+    "zip": "166",
+    "lat": 37.2506,
+    "lon": 127.0668,
     "timezone": "Asia/Seoul",
     "isp": "SK Broadband Co Ltd",
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
-    "query": "222.236.200.106"
+    "query": "219.241.27.76"
   },
   "95.67.219.254": {
     "status": "success",
@@ -734,5 +718,37 @@
     "org": "Enter, LLC",
     "as": "AS12389 PJSC Rostelecom",
     "query": "188.133.203.74"
+  },
+  "109.226.248.25": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KYA",
+    "regionName": "Krasnoyarsk Krai",
+    "city": "Krasnoyarsk",
+    "zip": "660017",
+    "lat": 56.0374,
+    "lon": 92.9314,
+    "timezone": "Asia/Krasnoyarsk",
+    "isp": "Orion Telecom LLC",
+    "org": "Orion Telecom LLC",
+    "as": "AS50427 Orion Telecom LLC",
+    "query": "109.226.248.25"
+  },
+  "58.140.73.52": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Namyangju",
+    "zip": "122",
+    "lat": 37.6224,
+    "lon": 127.1502,
+    "timezone": "Asia/Seoul",
+    "isp": "DLIVE",
+    "org": "DLIVE Gyeongdogn Cable TV",
+    "as": "AS10036 DLIVE",
+    "query": "58.140.73.52"
   }
 }
