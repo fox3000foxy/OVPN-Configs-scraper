@@ -271,6 +271,22 @@
     "as": "AS8416 InfoLada Ltd",
     "query": "178.163.69.1"
   },
+  "138.64.69.170": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Gohongi",
+    "zip": "153-0051",
+    "lat": 35.6383,
+    "lon": 139.6937,
+    "timezone": "Asia/Tokyo",
+    "isp": "ASAHI Net, Inc.",
+    "org": "ASAHI",
+    "as": "AS4685 Asahi Net",
+    "query": "138.64.69.170"
+  },
   "103.152.178.62": {
     "status": "success",
     "country": "Japan",
@@ -383,22 +399,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.240.44.87"
   },
-  "106.156.91.45": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "34",
-    "regionName": "Hiroshima",
-    "city": "Fukuyama",
-    "zip": "720-0811",
-    "lat": 34.4835,
-    "lon": 133.3661,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "106.156.91.45"
-  },
   "118.222.200.243": {
     "status": "success",
     "country": "South Korea",
@@ -463,6 +463,22 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "59.138.16.13"
   },
+  "186.122.11.104": {
+    "status": "success",
+    "country": "Argentina",
+    "countryCode": "AR",
+    "region": "T",
+    "regionName": "Tucuman",
+    "city": "San Miguel de Tucumán",
+    "zip": "4000",
+    "lat": -26.816,
+    "lon": -65.2154,
+    "timezone": "America/Argentina/Tucuman",
+    "isp": "Techtel LMDS Comunicaciones Interactivas S.A.",
+    "org": "",
+    "as": "AS11664 Techtel LMDS Comunicaciones Interactivas S.A.",
+    "query": "186.122.11.104"
+  },
   "60.91.40.164": {
     "status": "success",
     "country": "Japan",
@@ -478,22 +494,6 @@
     "org": "Japan Nation-wide Network of Softbank Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "60.91.40.164"
-  },
-  "175.133.128.210": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Zama",
-    "zip": "252-0021",
-    "lat": 35.49,
-    "lon": 139.4118,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "175.133.128.210"
   },
   "220.84.162.134": {
     "status": "success",
@@ -511,21 +511,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "220.84.162.134"
   },
-  "211.107.136.245": {
+  "221.166.133.88": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
     "region": "27",
     "regionName": "Daegu",
-    "city": "Dalseo-gu",
-    "zip": "427",
-    "lat": 35.8475,
-    "lon": 128.4805,
+    "city": "Daegu",
+    "zip": "412",
+    "lat": 35.8699,
+    "lon": 128.6314,
     "timezone": "Asia/Seoul",
     "isp": "Korea Telecom",
-    "org": "Korea Telecom",
+    "org": "Kornet",
     "as": "AS4766 Korea Telecom",
-    "query": "211.107.136.245"
+    "query": "221.166.133.88"
   },
   "94.190.39.192": {
     "status": "success",
@@ -559,6 +559,38 @@
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "61.24.93.129"
   },
+  "91.132.22.148": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KYA",
+    "regionName": "Krasnoyarsk Krai",
+    "city": "Krasnoyarsk",
+    "zip": "660049",
+    "lat": 56.0374,
+    "lon": 92.9314,
+    "timezone": "Asia/Krasnoyarsk",
+    "isp": "Igra-Service LLC",
+    "org": "Netname",
+    "as": "AS33991 Igra-Service LLC",
+    "query": "91.132.22.148"
+  },
+  "211.117.78.220": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Seoul",
+    "zip": "04524",
+    "lat": 37.5658,
+    "lon": 126.978,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "SK Broadband Co Ltd",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "211.117.78.220"
+  },
   "37.21.241.126": {
     "status": "success",
     "country": "Russia",
@@ -574,22 +606,6 @@
     "org": "JSC Rostelecom regional branch Siberia",
     "as": "AS12389 PJSC Rostelecom",
     "query": "37.21.241.126"
-  },
-  "220.76.124.142": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Seoul",
-    "zip": "04524",
-    "lat": 37.5658,
-    "lon": 126.978,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Sudogwonseobubonbu",
-    "as": "AS4766 Korea Telecom",
-    "query": "220.76.124.142"
   },
   "2.61.160.16": {
     "status": "success",
@@ -622,37 +638,5 @@
     "org": "TBROAD Jeonju",
     "as": "AS17854 SK Broadband Co Ltd",
     "query": "211.116.113.124"
-  },
-  "133.106.33.156": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Ichigaya-honmurachō",
-    "zip": "102-0076",
-    "lat": 35.6944,
-    "lon": 139.729,
-    "timezone": "Asia/Tokyo",
-    "isp": "Rakuten Mobile, Inc.",
-    "org": "RMN",
-    "as": "AS138384 Rakuten Mobile Network, Inc.",
-    "query": "133.106.33.156"
-  },
-  "112.149.208.200": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "30",
-    "regionName": "Daejeon",
-    "city": "Yuseong-gu",
-    "zip": "341",
-    "lat": 36.3567,
-    "lon": 127.3344,
-    "timezone": "Asia/Seoul",
-    "isp": "LG POWERCOMM",
-    "org": "LG POWERCOMM",
-    "as": "AS17858 LG POWERCOMM",
-    "query": "112.149.208.200"
   }
 }
