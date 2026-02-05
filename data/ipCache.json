@@ -351,22 +351,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "14.52.253.14"
   },
-  "49.228.241.126": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "50",
-    "regionName": "Chiang Mai",
-    "city": "Chiang Mai",
-    "zip": "50000",
-    "lat": 18.7857,
-    "lon": 98.9736,
-    "timezone": "Asia/Bangkok",
-    "isp": "Advanced Wireless Network Company Limited",
-    "org": "",
-    "as": "AS133481 AIS Fibre",
-    "query": "49.228.241.126"
-  },
   "46.37.132.36": {
     "status": "success",
     "country": "Russia",
