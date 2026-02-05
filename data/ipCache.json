@@ -303,22 +303,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "125.137.243.222"
   },
-  "1.66.34.134": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Osaka",
-    "zip": "530-0041",
-    "lat": 34.6967,
-    "lon": 135.5154,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Docomo, inc.",
-    "org": "NTTDoCoMo",
-    "as": "AS9605 NTT DOCOMO, INC.",
-    "query": "1.66.34.134"
-  },
   "122.208.249.174": {
     "status": "success",
     "country": "Japan",
@@ -334,6 +318,22 @@
     "org": "UCOM Corporation",
     "as": "AS17506 ARTERIA Networks Corporation",
     "query": "122.208.249.174"
+  },
+  "1.66.33.240": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Osaka",
+    "zip": "530-0041",
+    "lat": 34.6967,
+    "lon": 135.5154,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Docomo, inc.",
+    "org": "NTTDoCoMo",
+    "as": "AS9605 NTT DOCOMO, INC.",
+    "query": "1.66.33.240"
   },
   "110.46.158.118": {
     "status": "success",
@@ -495,22 +495,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "115.22.254.150"
   },
-  "121.130.138.116": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Gwangjin-gu",
-    "zip": "050",
-    "lat": 37.5409,
-    "lon": 127.0762,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "121.130.138.116"
-  },
   "210.106.55.92": {
     "status": "success",
     "country": "South Korea",
@@ -526,6 +510,22 @@
     "org": "DreamcityMedia",
     "as": "AS17839 LG HelloVision Corp.",
     "query": "210.106.55.92"
+  },
+  "121.130.138.116": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Gwangjin-gu",
+    "zip": "050",
+    "lat": 37.5409,
+    "lon": 127.0762,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "121.130.138.116"
   },
   "121.148.48.93": {
     "status": "success",
@@ -559,22 +559,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "221.45.99.215"
   },
-  "133.123.153.65": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "38",
-    "regionName": "Ehime",
-    "city": "Uwajima",
-    "zip": "798-0031",
-    "lat": 33.2225,
-    "lon": 132.5629,
-    "timezone": "Asia/Tokyo",
-    "isp": "STNet, Incorporated",
-    "org": "Foretune Co., Ltd.",
-    "as": "AS7522 STNet, Incorporated",
-    "query": "133.123.153.65"
-  },
   "121.168.94.176": {
     "status": "success",
     "country": "South Korea",
@@ -590,6 +574,22 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "121.168.94.176"
+  },
+  "133.123.153.65": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "38",
+    "regionName": "Ehime",
+    "city": "Uwajima",
+    "zip": "798-0031",
+    "lat": 33.2225,
+    "lon": 132.5629,
+    "timezone": "Asia/Tokyo",
+    "isp": "STNet, Incorporated",
+    "org": "Foretune Co., Ltd.",
+    "as": "AS7522 STNet, Incorporated",
+    "query": "133.123.153.65"
   },
   "1.225.128.156": {
     "status": "success",
@@ -654,22 +654,6 @@
     "org": "Korea Telecom",
     "as": "AS4766 Korea Telecom",
     "query": "221.158.167.4"
-  },
-  "106.242.179.250": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Seodaemun-gu",
-    "zip": "037",
-    "lat": 37.5551,
-    "lon": 126.9369,
-    "timezone": "Asia/Seoul",
-    "isp": "LG DACOM Corporation",
-    "org": "Boranet",
-    "as": "AS3786 LG DACOM Corporation",
-    "query": "106.242.179.250"
   },
   "219.126.126.150": {
     "status": "success",
@@ -750,5 +734,21 @@
     "org": "Orion Telecom LLC",
     "as": "AS50427 Orion Telecom LLC",
     "query": "109.226.248.25"
+  },
+  "77.35.249.88": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Vladivostok",
+    "zip": "690001",
+    "lat": 43.1068,
+    "lon": 131.8692,
+    "timezone": "Asia/Vladivostok",
+    "isp": "Rostelecom networks",
+    "org": "",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "77.35.249.88"
   }
 }
