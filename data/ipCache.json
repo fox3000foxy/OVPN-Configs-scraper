@@ -207,6 +207,22 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "59.139.128.191"
   },
+  "211.221.198.244": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Yongin-si",
+    "zip": "171",
+    "lat": 37.1522,
+    "lon": 127.1752,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "sudogwonseobubonbu",
+    "as": "AS4766 Korea Telecom",
+    "query": "211.221.198.244"
+  },
   "180.68.118.32": {
     "status": "success",
     "country": "South Korea",
@@ -270,22 +286,6 @@
     "org": "SDCC-East01",
     "as": "AS38074 SDCC Japan-West Area",
     "query": "103.152.178.62"
-  },
-  "211.221.198.244": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Yongin-si",
-    "zip": "171",
-    "lat": 37.1522,
-    "lon": 127.1752,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "sudogwonseobubonbu",
-    "as": "AS4766 Korea Telecom",
-    "query": "211.221.198.244"
   },
   "126.1.42.49": {
     "status": "success",
@@ -495,6 +495,22 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "61.255.26.99"
   },
+  "14.34.22.223": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "28",
+    "regionName": "Incheon",
+    "city": "Yeonsu-gu",
+    "zip": "219",
+    "lat": 37.3736,
+    "lon": 126.6555,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "14.34.22.223"
+  },
   "1.239.79.205": {
     "status": "success",
     "country": "South Korea",
@@ -510,22 +526,6 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.239.79.205"
-  },
-  "58.186.91.90": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "HN",
-    "regionName": "Hanoi",
-    "city": "Hanoi",
-    "zip": "100000",
-    "lat": 21.0184,
-    "lon": 105.8461,
-    "timezone": "Asia/Bangkok",
-    "isp": "FPT Telecom Company",
-    "org": "Vietnam Internet Network Information Center",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "58.186.91.90"
   },
   "31.200.228.210": {
     "status": "success",
