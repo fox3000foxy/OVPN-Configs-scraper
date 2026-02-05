@@ -319,22 +319,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "39.119.183.162"
   },
-  "38.79.166.157": {
-    "status": "success",
-    "country": "United States",
-    "countryCode": "US",
-    "region": "TN",
-    "regionName": "Tennessee",
-    "city": "Nashville",
-    "zip": "37222",
-    "lat": 36.1671,
-    "lon": -86.7861,
-    "timezone": "America/Chicago",
-    "isp": "Electric Plant Board of the city of Franklin Kentucky",
-    "org": "City of Franklin, Electric Plant Board",
-    "as": "AS393278 Electric Plant Board of the city of Franklin Kentucky",
-    "query": "38.79.166.157"
-  },
   "182.237.221.37": {
     "status": "success",
     "country": "South Korea",
@@ -527,22 +511,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "221.166.133.88"
   },
-  "94.190.39.192": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "SVE",
-    "regionName": "Sverdlovsk Oblast",
-    "city": "Novoural'sk",
-    "zip": "624170",
-    "lat": 57.2511,
-    "lon": 60.0886,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "Interra TG, Ltd.",
-    "org": "\"Interra\" Ltd",
-    "as": "AS48524 INTERRA telecommunications group, Ltd.",
-    "query": "94.190.39.192"
-  },
   "61.24.93.129": {
     "status": "success",
     "country": "Japan",
@@ -638,5 +606,37 @@
     "org": "TBROAD Jeonju",
     "as": "AS17854 SK Broadband Co Ltd",
     "query": "211.116.113.124"
+  },
+  "94.190.39.192": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "SVE",
+    "regionName": "Sverdlovsk Oblast",
+    "city": "Novoural'sk",
+    "zip": "624170",
+    "lat": 57.2511,
+    "lon": 60.0886,
+    "timezone": "Asia/Yekaterinburg",
+    "isp": "Interra TG, Ltd.",
+    "org": "\"Interra\" Ltd",
+    "as": "AS48524 INTERRA telecommunications group, Ltd.",
+    "query": "94.190.39.192"
+  },
+  "133.106.33.156": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Ichigaya-honmurachō",
+    "zip": "102-0076",
+    "lat": 35.6944,
+    "lon": 139.729,
+    "timezone": "Asia/Tokyo",
+    "isp": "Rakuten Mobile, Inc.",
+    "org": "RMN",
+    "as": "AS138384 Rakuten Mobile Network, Inc.",
+    "query": "133.106.33.156"
   }
 }
