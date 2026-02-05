@@ -143,22 +143,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.204"
   },
-  "114.35.64.20": {
-    "status": "success",
-    "country": "Taiwan",
-    "countryCode": "TW",
-    "region": "NWT",
-    "regionName": "New Taipei City",
-    "city": "New Taipei City",
-    "zip": "",
-    "lat": 25.0693,
-    "lon": 121.4626,
-    "timezone": "Asia/Taipei",
-    "isp": "Chunghwa Telecom Co., Ltd.",
-    "org": "Chunghwa Telecom Co. Ltd.",
-    "as": "AS3462 Data Communication Business Group",
-    "query": "114.35.64.20"
-  },
   "60.95.76.42": {
     "status": "success",
     "country": "Japan",
@@ -174,6 +158,22 @@
     "org": "Japan Nation-wide Network of Softbank Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "60.95.76.42"
+  },
+  "114.35.64.20": {
+    "status": "success",
+    "country": "Taiwan",
+    "countryCode": "TW",
+    "region": "NWT",
+    "regionName": "New Taipei City",
+    "city": "New Taipei City",
+    "zip": "",
+    "lat": 25.0693,
+    "lon": 121.4626,
+    "timezone": "Asia/Taipei",
+    "isp": "Chunghwa Telecom Co., Ltd.",
+    "org": "Chunghwa Telecom Co. Ltd.",
+    "as": "AS3462 Data Communication Business Group",
+    "query": "114.35.64.20"
   },
   "126.88.128.168": {
     "status": "success",
@@ -255,22 +255,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "222.109.124.1"
   },
-  "103.152.178.62": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-0001",
-    "lat": 35.694,
-    "lon": 139.754,
-    "timezone": "Asia/Tokyo",
-    "isp": "Ayao Takata",
-    "org": "SDCC-East01",
-    "as": "AS38074 SDCC Japan-West Area",
-    "query": "103.152.178.62"
-  },
   "27.85.1.30": {
     "status": "success",
     "country": "Japan",
@@ -302,6 +286,22 @@
     "org": "Infoline Ltd.",
     "as": "AS8416 InfoLada Ltd",
     "query": "178.163.69.1"
+  },
+  "103.152.178.62": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-0001",
+    "lat": 35.694,
+    "lon": 139.754,
+    "timezone": "Asia/Tokyo",
+    "isp": "Ayao Takata",
+    "org": "SDCC-East01",
+    "as": "AS38074 SDCC Japan-West Area",
+    "query": "103.152.178.62"
   },
   "211.205.56.227": {
     "status": "success",
@@ -447,21 +447,21 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "118.222.200.243"
   },
-  "133.106.48.12": {
+  "42.119.120.222": {
     "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "22",
-    "regionName": "Shizuoka",
-    "city": "Fukuroi",
-    "zip": "437-0026",
-    "lat": 34.75,
-    "lon": 137.917,
-    "timezone": "Asia/Tokyo",
-    "isp": "Rakuten Mobile, Inc.",
-    "org": "RMN",
-    "as": "AS138384 Rakuten Mobile Network, Inc.",
-    "query": "133.106.48.12"
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "SG",
+    "regionName": "Ho Chi Minh",
+    "city": "Ho Chi Minh City",
+    "zip": "700000",
+    "lat": 10.822,
+    "lon": 106.6257,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "isp": "FPT Telecom Company",
+    "org": "Vietnam Internet Network Information Center",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "42.119.120.222"
   },
   "59.138.16.13": {
     "status": "success",
@@ -543,22 +543,6 @@
     "as": "AS48524 INTERRA telecommunications group, Ltd.",
     "query": "94.190.39.192"
   },
-  "113.22.12.22": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "SG",
-    "regionName": "Ho Chi Minh",
-    "city": "Ho Chi Minh City",
-    "zip": "700000",
-    "lat": 10.822,
-    "lon": 106.6257,
-    "timezone": "Asia/Ho_Chi_Minh",
-    "isp": "FPT Telecom Company",
-    "org": "Vietnam Internet Network Information Center",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "113.22.12.22"
-  },
   "37.21.241.126": {
     "status": "success",
     "country": "Russia",
@@ -622,6 +606,22 @@
     "org": "TBROAD Jeonju",
     "as": "AS17854 SK Broadband Co Ltd",
     "query": "211.116.113.124"
+  },
+  "133.106.33.156": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Ichigaya-honmurachō",
+    "zip": "102-0076",
+    "lat": 35.6944,
+    "lon": 139.729,
+    "timezone": "Asia/Tokyo",
+    "isp": "Rakuten Mobile, Inc.",
+    "org": "RMN",
+    "as": "AS138384 Rakuten Mobile Network, Inc.",
+    "query": "133.106.33.156"
   },
   "112.149.208.200": {
     "status": "success",
