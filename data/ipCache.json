@@ -383,22 +383,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "118.158.46.247"
   },
-  "103.120.201.220": {
-    "status": "success",
-    "country": "Bangladesh",
-    "countryCode": "BD",
-    "region": "B",
-    "regionName": "Chittagong",
-    "city": "Comilla",
-    "zip": "3500",
-    "lat": 23.3522,
-    "lon": 91.0593,
-    "timezone": "Asia/Dhaka",
-    "isp": "Carnival Internet",
-    "org": "",
-    "as": "AS63526 Systems Solutions & development Technologies Limited",
-    "query": "103.120.201.220"
-  },
   "124.212.183.144": {
     "status": "success",
     "country": "Japan",
@@ -447,21 +431,21 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.235.215.236"
   },
-  "106.159.145.248": {
+  "103.120.201.220": {
     "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "40",
-    "regionName": "Fukuoka",
-    "city": "Tenjin",
-    "zip": "810-0001",
-    "lat": 33.5959,
-    "lon": 130.4008,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "106.159.145.248"
+    "country": "Bangladesh",
+    "countryCode": "BD",
+    "region": "B",
+    "regionName": "Chittagong",
+    "city": "Comilla",
+    "zip": "3500",
+    "lat": 23.3522,
+    "lon": 91.0593,
+    "timezone": "Asia/Dhaka",
+    "isp": "Carnival Internet",
+    "org": "",
+    "as": "AS63526 Systems Solutions & development Technologies Limited",
+    "query": "103.120.201.220"
   },
   "121.174.76.166": {
     "status": "success",
@@ -479,21 +463,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.174.76.166"
   },
-  "118.240.3.52": {
+  "176.210.210.55": {
     "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "12",
-    "regionName": "Chiba",
-    "city": "Ichikawa",
-    "zip": "272-0811",
-    "lat": 35.7203,
-    "lon": 139.947,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "118.240.3.52"
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KEM",
+    "regionName": "Kemerovo Oblast",
+    "city": "Prokopyevsk",
+    "zip": "653017",
+    "lat": 53.9033,
+    "lon": 86.7138,
+    "timezone": "Asia/Novokuznetsk",
+    "isp": "JSC Rostelecom regional branch \"Siberia\"",
+    "org": "JSC Rostelecom regional branch Siberia",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "176.210.210.55"
   },
   "121.181.197.225": {
     "status": "success",
@@ -510,6 +494,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "121.181.197.225"
+  },
+  "126.109.254.124": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.109.254.124"
   },
   "217.175.14.88": {
     "status": "success",
@@ -574,22 +574,6 @@
     "org": "Korea Telecom",
     "as": "AS4766 Korea Telecom",
     "query": "125.132.236.134"
-  },
-  "211.206.8.149": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Jongno-gu",
-    "zip": "031",
-    "lat": 37.5692,
-    "lon": 126.9775,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "211.206.8.149"
   },
   "78.29.43.182": {
     "status": "success",
