@@ -127,6 +127,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.109"
   },
+  "173.80.88.246": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WV",
+    "regionName": "West Virginia",
+    "city": "Parkersburg",
+    "zip": "26104",
+    "lat": 39.2804,
+    "lon": -81.4936,
+    "timezone": "America/New_York",
+    "isp": "Suddenlink Communications",
+    "org": "Optimum",
+    "as": "AS19108 Optimum",
+    "query": "173.80.88.246"
+  },
   "71.193.41.92": {
     "status": "success",
     "country": "United States",
@@ -175,22 +191,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "175.214.156.135"
   },
-  "1.66.34.134": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Osaka",
-    "zip": "530-0041",
-    "lat": 34.6967,
-    "lon": 135.5154,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Docomo, inc.",
-    "org": "NTTDoCoMo",
-    "as": "AS9605 NTT DOCOMO, INC.",
-    "query": "1.66.34.134"
-  },
   "121.142.148.62": {
     "status": "success",
     "country": "South Korea",
@@ -206,6 +206,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "121.142.148.62"
+  },
+  "1.66.34.134": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Osaka",
+    "zip": "530-0041",
+    "lat": 34.6967,
+    "lon": 135.5154,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Docomo, inc.",
+    "org": "NTTDoCoMo",
+    "as": "AS9605 NTT DOCOMO, INC.",
+    "query": "1.66.34.134"
   },
   "126.206.11.243": {
     "status": "success",
@@ -383,22 +399,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.50"
   },
-  "173.80.88.246": {
-    "status": "success",
-    "country": "United States",
-    "countryCode": "US",
-    "region": "WV",
-    "regionName": "West Virginia",
-    "city": "Parkersburg",
-    "zip": "26104",
-    "lat": 39.2804,
-    "lon": -81.4936,
-    "timezone": "America/New_York",
-    "isp": "Suddenlink Communications",
-    "org": "Optimum",
-    "as": "AS19108 Optimum",
-    "query": "173.80.88.246"
-  },
   "153.209.230.94": {
     "status": "success",
     "country": "Japan",
@@ -495,22 +495,6 @@
     "as": "AS3786 LG DACOM Corporation",
     "query": "106.243.71.229"
   },
-  "14.11.147.128": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "22",
-    "regionName": "Shizuoka",
-    "city": "Hamamatsu",
-    "zip": "432-8041",
-    "lat": 34.6944,
-    "lon": 137.7216,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "14.11.147.128"
-  },
   "95.31.42.25": {
     "status": "success",
     "country": "Russia",
@@ -558,22 +542,6 @@
     "org": "NTT Communications Corporation",
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "223.218.22.136"
-  },
-  "153.211.41.111": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "01",
-    "regionName": "Hokkaido",
-    "city": "Sapporo",
-    "zip": "064-0801",
-    "lat": 43.0456,
-    "lon": 141.3522,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "Open Computer Network",
-    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
-    "query": "153.211.41.111"
   },
   "203.168.105.172": {
     "status": "success",
@@ -734,5 +702,21 @@
     "org": "OJSC Sibirtelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "90.189.196.154"
+  },
+  "95.104.240.54": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "AMU",
+    "regionName": "Amur Oblast",
+    "city": "Tynda",
+    "zip": "676282",
+    "lat": 55.1438,
+    "lon": 124.741,
+    "timezone": "Asia/Yakutsk",
+    "isp": "MTS PJSC",
+    "org": "MTS PJSC",
+    "as": "AS8359 MTS PJSC",
+    "query": "95.104.240.54"
   }
 }
