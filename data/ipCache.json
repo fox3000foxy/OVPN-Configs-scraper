@@ -479,6 +479,22 @@
     "as": "AS1221 Telstra Limited",
     "query": "124.187.234.189"
   },
+  "118.70.125.117": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "HN",
+    "regionName": "Hanoi",
+    "city": "Hanoi",
+    "zip": "100000",
+    "lat": 21.0184,
+    "lon": 105.8461,
+    "timezone": "Asia/Bangkok",
+    "isp": "FPT Telecom Company",
+    "org": "Vietnam Internet Network Information Center",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "118.70.125.117"
+  },
   "118.87.61.88": {
     "status": "success",
     "country": "Japan",
@@ -622,21 +638,5 @@
     "org": "Unesty Company",
     "as": "AS211301 Unesty Company",
     "query": "179.61.221.26"
-  },
-  "106.242.179.250": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Seodaemun-gu",
-    "zip": "037",
-    "lat": 37.5551,
-    "lon": 126.9369,
-    "timezone": "Asia/Seoul",
-    "isp": "LG DACOM Corporation",
-    "org": "Boranet",
-    "as": "AS3786 LG DACOM Corporation",
-    "query": "106.242.179.250"
   }
 }
