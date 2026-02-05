@@ -287,6 +287,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.50"
   },
+  "175.209.13.17": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Gangdong-gu",
+    "zip": "053",
+    "lat": 37.536,
+    "lon": 127.1426,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "175.209.13.17"
+  },
   "125.52.118.171": {
     "status": "success",
     "country": "Japan",
@@ -479,22 +495,6 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "114.173.34.110"
   },
-  "218.110.234.120": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Machida",
-    "zip": "194-0001",
-    "lat": 35.557,
-    "lon": 139.4458,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Communication Network Corporation",
-    "org": "Sony Communication Network Corporation",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "218.110.234.120"
-  },
   "92.37.244.242": {
     "status": "success",
     "country": "Russia",
@@ -622,21 +622,5 @@
     "org": "",
     "as": "AS25591 BCLan LLC",
     "query": "217.175.14.88"
-  },
-  "217.29.181.61": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "UD",
-    "regionName": "Udmurtiya Republic",
-    "city": "Izhevsk",
-    "zip": "426006",
-    "lat": 56.85,
-    "lon": 53.2025,
-    "timezone": "Europe/Samara",
-    "isp": "MARK-ITT",
-    "org": "",
-    "as": "AS3226 OOO \"NI\"",
-    "query": "217.29.181.61"
   }
 }
