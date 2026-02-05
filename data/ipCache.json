@@ -383,22 +383,6 @@
     "as": "AS17506 ARTERIA Networks Corporation",
     "query": "122.211.144.105"
   },
-  "112.145.244.242": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "50",
-    "regionName": "Sejong-si",
-    "city": "Sejong",
-    "zip": "30113",
-    "lat": 36.5916,
-    "lon": 127.2916,
-    "timezone": "Asia/Seoul",
-    "isp": "LG POWERCOMM",
-    "org": "LG POWERCOMM",
-    "as": "AS17858 LG POWERCOMM",
-    "query": "112.145.244.242"
-  },
   "37.110.83.193": {
     "status": "success",
     "country": "Russia",
@@ -511,22 +495,6 @@
     "as": "AS9943 KangNam CableTV",
     "query": "113.10.62.80"
   },
-  "182.224.198.133": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Seongnam-si",
-    "zip": "134",
-    "lat": 37.4062,
-    "lon": 127.1077,
-    "timezone": "Asia/Seoul",
-    "isp": "LG POWERCOMM",
-    "org": "Xpeed",
-    "as": "AS17858 LG POWERCOMM",
-    "query": "182.224.198.133"
-  },
   "92.127.103.123": {
     "status": "success",
     "country": "Russia",
@@ -542,6 +510,22 @@
     "org": "OJSC Sibirtelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "92.127.103.123"
+  },
+  "182.224.198.133": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Seongnam-si",
+    "zip": "134",
+    "lat": 37.4062,
+    "lon": 127.1077,
+    "timezone": "Asia/Seoul",
+    "isp": "LG POWERCOMM",
+    "org": "Xpeed",
+    "as": "AS17858 LG POWERCOMM",
+    "query": "182.224.198.133"
   },
   "61.47.212.110": {
     "status": "success",
@@ -686,5 +670,37 @@
     "org": "Comcast Cable Communications, Inc",
     "as": "AS7922 Comcast Cable Communications, LLC",
     "query": "69.245.179.46"
+  },
+  "24.19.50.63": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WA",
+    "regionName": "Washington",
+    "city": "Everett",
+    "zip": "98208",
+    "lat": 47.8948,
+    "lon": -122.2031,
+    "timezone": "America/Los_Angeles",
+    "isp": "Comcast Cable Communications, LLC",
+    "org": "Comcast Cable Communications",
+    "as": "AS7922 Comcast Cable Communications, LLC",
+    "query": "24.19.50.63"
+  },
+  "220.88.141.12": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Yangju",
+    "zip": "114",
+    "lat": 37.8119,
+    "lon": 127.08,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "220.88.141.12"
   }
 }
