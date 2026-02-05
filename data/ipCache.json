@@ -383,6 +383,22 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "59.138.182.93"
   },
+  "180.29.209.35": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "42",
+    "regionName": "Nagasaki",
+    "city": "Nagasaki",
+    "zip": "850-0901",
+    "lat": 32.7481,
+    "lon": 129.8816,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "NTT Communications Corporation",
+    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
+    "query": "180.29.209.35"
+  },
   "221.118.47.135": {
     "status": "success",
     "country": "Japan",
@@ -606,22 +622,6 @@
     "org": "OJSC Sibirtelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "90.189.50.91"
-  },
-  "49.230.44.150": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "10",
-    "regionName": "Bangkok",
-    "city": "Bangkok",
-    "zip": "10110",
-    "lat": 13.7101,
-    "lon": 100.4543,
-    "timezone": "Asia/Bangkok",
-    "isp": "Advanced Wireless Network Company Limited",
-    "org": "TH AIS Mobile Internet",
-    "as": "AS131445 Advance Wireless Network",
-    "query": "49.230.44.150"
   },
   "157.5.14.19": {
     "status": "success",
