@@ -431,6 +431,22 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "180.5.76.17"
   },
+  "194.114.136.19": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Ōsaka",
+    "city": "Osaka",
+    "zip": "",
+    "lat": 34.6937,
+    "lon": 135.5022,
+    "timezone": "Asia/Tokyo",
+    "isp": "Owl Limited",
+    "org": "Owl Limited",
+    "as": "AS23959 Owl Limited",
+    "query": "194.114.136.19"
+  },
   "106.166.136.213": {
     "status": "success",
     "country": "Japan",
@@ -511,22 +527,6 @@
     "as": "AS17839 LG HelloVision Corp.",
     "query": "210.106.55.92"
   },
-  "220.211.173.112": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Yokohama",
-    "zip": "231-0841",
-    "lat": 35.4337,
-    "lon": 139.6499,
-    "timezone": "Asia/Tokyo",
-    "isp": "Japan Network Information Center",
-    "org": "SO-Net Service",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "220.211.173.112"
-  },
   "121.148.48.93": {
     "status": "success",
     "country": "South Korea",
@@ -559,22 +559,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "221.45.99.215"
   },
-  "121.168.94.176": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Yongin-si",
-    "zip": "17091",
-    "lat": 37.2447,
-    "lon": 127.1752,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "121.168.94.176"
-  },
   "133.123.153.65": {
     "status": "success",
     "country": "Japan",
@@ -590,6 +574,22 @@
     "org": "Foretune Co., Ltd.",
     "as": "AS7522 STNet, Incorporated",
     "query": "133.123.153.65"
+  },
+  "121.168.94.176": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Yongin-si",
+    "zip": "17091",
+    "lat": 37.2447,
+    "lon": 127.1752,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "121.168.94.176"
   },
   "1.225.128.156": {
     "status": "success",
