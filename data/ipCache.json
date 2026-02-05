@@ -287,6 +287,22 @@
     "as": "AS17506 ARTERIA Networks Corporation",
     "query": "122.208.249.174"
   },
+  "1.66.34.134": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Osaka",
+    "zip": "530-0041",
+    "lat": 34.6967,
+    "lon": 135.5154,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Docomo, inc.",
+    "org": "NTTDoCoMo",
+    "as": "AS9605 NTT DOCOMO, INC.",
+    "query": "1.66.34.134"
+  },
   "125.137.243.222": {
     "status": "success",
     "country": "South Korea",
@@ -334,22 +350,6 @@
     "org": "HVHaeundae",
     "as": "AS9697 LG HelloVision Corp.",
     "query": "110.46.158.118"
-  },
-  "1.66.34.134": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Osaka",
-    "zip": "530-0041",
-    "lat": 34.6967,
-    "lon": 135.5154,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Docomo, inc.",
-    "org": "NTTDoCoMo",
-    "as": "AS9605 NTT DOCOMO, INC.",
-    "query": "1.66.34.134"
   },
   "60.127.238.103": {
     "status": "success",
@@ -431,22 +431,6 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "180.5.76.17"
   },
-  "49.228.251.232": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "20",
-    "regionName": "Chon Buri",
-    "city": "Bang Lamung",
-    "zip": "20150",
-    "lat": 13.0508,
-    "lon": 100.9367,
-    "timezone": "Asia/Bangkok",
-    "isp": "Advanced Wireless Network Company Limited",
-    "org": "",
-    "as": "AS133481 AIS Fibre",
-    "query": "49.228.251.232"
-  },
   "112.156.19.217": {
     "status": "success",
     "country": "South Korea",
@@ -511,22 +495,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.130.138.116"
   },
-  "118.87.61.88": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "40",
-    "regionName": "Fukuoka",
-    "city": "Kitaku",
-    "zip": "807-1154",
-    "lat": 33.7937,
-    "lon": 130.687,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM",
-    "org": "Jupiter Telecommunications Co., Ltd.",
-    "as": "AS4721 JCOM Co., Ltd.",
-    "query": "118.87.61.88"
-  },
   "121.148.48.93": {
     "status": "success",
     "country": "South Korea",
@@ -542,6 +510,22 @@
     "org": "Jeonnambonbujang",
     "as": "AS4766 Korea Telecom",
     "query": "121.148.48.93"
+  },
+  "221.45.99.215": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan nation-wide Network of SOFTBANK BB Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "221.45.99.215"
   },
   "121.168.94.176": {
     "status": "success",
@@ -671,22 +655,6 @@
     "as": "AS3786 LG DACOM Corporation",
     "query": "106.242.179.250"
   },
-  "60.137.217.108": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan Nation-wide Network of Softbank Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "60.137.217.108"
-  },
   "124.110.21.97": {
     "status": "success",
     "country": "Japan",
@@ -734,5 +702,21 @@
     "org": "Orion Telecom LLC",
     "as": "AS50427 Orion Telecom LLC",
     "query": "109.226.248.25"
+  },
+  "222.236.200.106": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "43",
+    "regionName": "North Chungcheong",
+    "city": "Danyang-gun",
+    "zip": "270",
+    "lat": 36.9848,
+    "lon": 128.3735,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "222.236.200.106"
   }
 }
