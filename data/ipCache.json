@@ -143,6 +143,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "221.144.197.228"
   },
+  "126.109.156.167": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.109.156.167"
+  },
   "118.237.134.168": {
     "status": "success",
     "country": "Japan",
@@ -206,22 +222,6 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "27.83.68.134"
-  },
-  "114.180.103.113": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "10",
-    "regionName": "Gunma",
-    "city": "Takasaki",
-    "zip": "370-0061",
-    "lat": 36.3369,
-    "lon": 139.0189,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "NTT Communications Corporation",
-    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
-    "query": "114.180.103.113"
   },
   "153.160.148.90": {
     "status": "success",
@@ -447,22 +447,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.235.215.236"
   },
-  "203.153.79.138": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Yokohama",
-    "zip": "231-0841",
-    "lat": 35.4337,
-    "lon": 139.6499,
-    "timezone": "Asia/Tokyo",
-    "isp": "Netforest, Inc.",
-    "org": "Netforest, Inc",
-    "as": "AS17931 Netforest,Inc.",
-    "query": "203.153.79.138"
-  },
   "121.174.76.166": {
     "status": "success",
     "country": "South Korea",
@@ -494,22 +478,6 @@
     "org": "Sony Network Communications Inc.",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "118.240.3.52"
-  },
-  "176.210.210.55": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KEM",
-    "regionName": "Kemerovo Oblast",
-    "city": "Prokopyevsk",
-    "zip": "653017",
-    "lat": 53.9033,
-    "lon": 86.7138,
-    "timezone": "Asia/Novokuznetsk",
-    "isp": "JSC Rostelecom regional branch \"Siberia\"",
-    "org": "JSC Rostelecom regional branch Siberia",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "176.210.210.55"
   },
   "121.181.197.225": {
     "status": "success",
@@ -750,21 +718,5 @@
     "org": "Dynamic distribution IPs for broadband services",
     "as": "AS12389 PJSC Rostelecom",
     "query": "178.47.13.68"
-  },
-  "95.191.216.192": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "NVS",
-    "regionName": "Novosibirsk Oblast",
-    "city": "Novosibirsk",
-    "zip": "630000",
-    "lat": 55.0226,
-    "lon": 82.9317,
-    "timezone": "Asia/Novosibirsk",
-    "isp": "Rostelecom networks",
-    "org": "OJSC Sibirtelecom",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "95.191.216.192"
   }
 }
