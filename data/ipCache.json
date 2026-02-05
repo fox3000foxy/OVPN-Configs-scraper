@@ -143,22 +143,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "221.144.197.228"
   },
-  "103.152.178.62": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-0001",
-    "lat": 35.694,
-    "lon": 139.754,
-    "timezone": "Asia/Tokyo",
-    "isp": "Ayao Takata",
-    "org": "SDCC-East01",
-    "as": "AS38074 SDCC Japan-West Area",
-    "query": "103.152.178.62"
-  },
   "58.136.165.59": {
     "status": "success",
     "country": "Thailand",
@@ -414,6 +398,22 @@
     "org": "AITAI-NET(Himawari Network Inc.)",
     "as": "AS9354 Community Network Center Inc.",
     "query": "221.118.47.135"
+  },
+  "60.141.151.166": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.141.151.166"
   },
   "92.37.244.242": {
     "status": "success",
