@@ -527,21 +527,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "14.34.22.223"
   },
-  "1.239.79.205": {
+  "133.218.202.2": {
     "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Seongnam-si",
-    "zip": "133",
-    "lat": 37.4331,
-    "lon": 127.1375,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "1.239.79.205"
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "23",
+    "regionName": "Aichi",
+    "city": "Nagoya",
+    "zip": "462-0841",
+    "lat": 35.1926,
+    "lon": 136.906,
+    "timezone": "Asia/Tokyo",
+    "isp": "Internet Initiative Japan Inc.",
+    "org": "Rikei Corporation",
+    "as": "AS2497 Internet Initiative Japan Inc.",
+    "query": "133.218.202.2"
   },
   "31.200.228.210": {
     "status": "success",
@@ -574,5 +574,21 @@
     "org": "Cox Communications",
     "as": "AS22773 Cox Communications Inc.",
     "query": "98.176.195.140"
+  },
+  "87.103.250.204": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "NVS",
+    "regionName": "Novosibirsk Oblast",
+    "city": "Novosibirsk",
+    "zip": "630075",
+    "lat": 55.0285,
+    "lon": 82.9202,
+    "timezone": "Asia/Novosibirsk",
+    "isp": "Rostelecom networks",
+    "org": "OJSC Sibirtelecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "87.103.250.204"
   }
 }
