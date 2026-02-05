@@ -639,22 +639,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "220.76.124.142"
   },
-  "220.124.194.98": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "49",
-    "regionName": "Jeju-do",
-    "city": "Jeju City",
-    "zip": "630",
-    "lat": 33.4832,
-    "lon": 126.4837,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "220.124.194.98"
-  },
   "2.61.160.16": {
     "status": "success",
     "country": "Russia",
