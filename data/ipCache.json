@@ -159,21 +159,21 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "111.238.189.171"
   },
-  "131.147.142.132": {
+  "118.240.68.160": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Wada",
-    "zip": "166-0011",
-    "lat": 35.6945,
-    "lon": 139.6524,
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Kamikuratachō",
+    "zip": "244-0816",
+    "lat": 35.3973,
+    "lon": 139.5453,
     "timezone": "Asia/Tokyo",
     "isp": "Sony Network Communications Inc",
     "org": "Sony Network Communications Inc.",
     "as": "AS2527 Sony Network Communications Inc.",
-    "query": "131.147.142.132"
+    "query": "118.240.68.160"
   },
   "121.106.148.235": {
     "status": "success",
@@ -431,6 +431,22 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "180.5.76.17"
   },
+  "49.228.251.232": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "20",
+    "regionName": "Chon Buri",
+    "city": "Bang Lamung",
+    "zip": "20150",
+    "lat": 13.0508,
+    "lon": 100.9367,
+    "timezone": "Asia/Bangkok",
+    "isp": "Advanced Wireless Network Company Limited",
+    "org": "",
+    "as": "AS133481 AIS Fibre",
+    "query": "49.228.251.232"
+  },
   "112.156.19.217": {
     "status": "success",
     "country": "South Korea",
@@ -510,22 +526,6 @@
     "org": "Jeonnambonbujang",
     "as": "AS4766 Korea Telecom",
     "query": "121.148.48.93"
-  },
-  "221.45.99.215": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan nation-wide Network of SOFTBANK BB Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "221.45.99.215"
   },
   "121.168.94.176": {
     "status": "success",
@@ -686,37 +686,5 @@
     "org": "Enter, LLC",
     "as": "AS12389 PJSC Rostelecom",
     "query": "188.133.203.74"
-  },
-  "109.226.248.25": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KYA",
-    "regionName": "Krasnoyarsk Krai",
-    "city": "Krasnoyarsk",
-    "zip": "660017",
-    "lat": 56.0374,
-    "lon": 92.9314,
-    "timezone": "Asia/Krasnoyarsk",
-    "isp": "Orion Telecom LLC",
-    "org": "Orion Telecom LLC",
-    "as": "AS50427 Orion Telecom LLC",
-    "query": "109.226.248.25"
-  },
-  "222.236.200.106": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "43",
-    "regionName": "North Chungcheong",
-    "city": "Danyang-gun",
-    "zip": "270",
-    "lat": 36.9848,
-    "lon": 128.3735,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "222.236.200.106"
   }
 }
