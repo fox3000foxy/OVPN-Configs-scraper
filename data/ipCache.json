@@ -558,5 +558,21 @@
     "org": "",
     "as": "AS196949 Natalia Sergeevna Filicheva",
     "query": "31.200.228.210"
+  },
+  "98.176.195.140": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA",
+    "regionName": "California",
+    "city": "Oceanside",
+    "zip": "92056",
+    "lat": 33.1955,
+    "lon": -117.2862,
+    "timezone": "America/Los_Angeles",
+    "isp": "Cox Communications Inc.",
+    "org": "Cox Communications",
+    "as": "AS22773 Cox Communications Inc.",
+    "query": "98.176.195.140"
   }
 }
