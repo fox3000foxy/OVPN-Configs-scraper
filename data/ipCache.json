@@ -207,6 +207,22 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "92.202.199.250"
   },
+  "220.150.148.16": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "08",
+    "regionName": "Ibaraki",
+    "city": "Tsukuba",
+    "zip": "305-0021",
+    "lat": 36.096,
+    "lon": 140.1503,
+    "timezone": "Asia/Tokyo",
+    "isp": "ASAHI Net, Inc.",
+    "org": "ASAHI",
+    "as": "AS4685 Asahi Net",
+    "query": "220.150.148.16"
+  },
   "118.157.139.36": {
     "status": "success",
     "country": "Japan",
@@ -382,22 +398,6 @@
     "org": "Sony Network Communications Inc.",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "182.171.116.240"
-  },
-  "60.149.114.11": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan Nation-wide Network of Softbank Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "60.149.114.11"
   },
   "185.190.42.79": {
     "status": "success",
@@ -654,5 +654,21 @@
     "org": "TBROAD Jeonju",
     "as": "AS17854 SK Broadband Co Ltd",
     "query": "211.116.113.124"
+  },
+  "133.106.33.156": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Ichigaya-honmurachō",
+    "zip": "102-0076",
+    "lat": 35.6944,
+    "lon": 139.729,
+    "timezone": "Asia/Tokyo",
+    "isp": "Rakuten Mobile, Inc.",
+    "org": "RMN",
+    "as": "AS138384 Rakuten Mobile Network, Inc.",
+    "query": "133.106.33.156"
   }
 }
