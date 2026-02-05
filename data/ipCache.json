@@ -431,22 +431,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "92.37.244.242"
   },
-  "49.228.170.167": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "10",
-    "regionName": "Bangkok",
-    "city": "Bangkok",
-    "zip": "10330",
-    "lat": 13.7749,
-    "lon": 100.5197,
-    "timezone": "Asia/Bangkok",
-    "isp": "Advanced Wireless Network Company Limited",
-    "org": "AIS Fibre",
-    "as": "AS133481 AIS Fibre",
-    "query": "49.228.170.167"
-  },
   "171.22.174.247": {
     "status": "success",
     "country": "Germany",
