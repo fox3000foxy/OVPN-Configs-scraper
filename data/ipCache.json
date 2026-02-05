@@ -191,22 +191,6 @@
     "as": "AS7552 Viettel Group",
     "query": "115.78.10.208"
   },
-  "221.144.197.228": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "42",
-    "regionName": "Gangwon-do",
-    "city": "Wŏnju",
-    "zip": "263",
-    "lat": 37.384,
-    "lon": 127.8724,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Korea Telecom",
-    "as": "AS4766 Korea Telecom",
-    "query": "221.144.197.228"
-  },
   "36.13.6.150": {
     "status": "success",
     "country": "Japan",
@@ -319,6 +303,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "222.109.180.8"
   },
+  "210.100.238.121": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Suwon",
+    "zip": "163",
+    "lat": 37.2905,
+    "lon": 126.9877,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "210.100.238.121"
+  },
   "1.240.128.118": {
     "status": "success",
     "country": "South Korea",
@@ -415,6 +415,22 @@
     "as": "AS18129 OKAYAMA NETWORK INC.",
     "query": "119.47.102.55"
   },
+  "59.138.182.93": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "11",
+    "regionName": "Saitama",
+    "city": "Tokorozawa",
+    "zip": "359-1161",
+    "lat": 35.7904,
+    "lon": 139.4636,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "59.138.182.93"
+  },
   "61.77.96.102": {
     "status": "success",
     "country": "South Korea",
@@ -478,22 +494,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "61.75.115.245"
-  },
-  "175.132.127.244": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "12",
-    "regionName": "Chiba",
-    "city": "Ichikawa",
-    "zip": "272-0031",
-    "lat": 35.7233,
-    "lon": 139.9132,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "175.132.127.244"
   },
   "92.37.244.242": {
     "status": "success",
@@ -654,5 +654,37 @@
     "org": "DACOM-PUBNETPLUS",
     "as": "AS17858 LG POWERCOMM",
     "query": "14.7.11.249"
+  },
+  "5.100.81.48": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Vladivostok",
+    "zip": "690001",
+    "lat": 43.1068,
+    "lon": 131.8692,
+    "timezone": "Asia/Vladivostok",
+    "isp": "VLADLINK",
+    "org": "VladLink LTD",
+    "as": "AS42038 Krivets Sergey Sergeevich",
+    "query": "5.100.81.48"
+  },
+  "95.70.72.180": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KHA",
+    "regionName": "Khabarovsk",
+    "city": "Khabarovsk",
+    "zip": "680000",
+    "lat": 48.4817,
+    "lon": 135.083,
+    "timezone": "Asia/Vladivostok",
+    "isp": "PJSC Rostelecom",
+    "org": "KHT Xdsl",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "95.70.72.180"
   }
 }
