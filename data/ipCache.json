@@ -95,22 +95,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.126"
   },
-  "50.47.103.146": {
-    "status": "success",
-    "country": "United States",
-    "countryCode": "US",
-    "region": "WA",
-    "regionName": "Washington",
-    "city": "Lynnwood",
-    "zip": "98036",
-    "lat": 47.8022,
-    "lon": -122.286,
-    "timezone": "America/Los_Angeles",
-    "isp": "Wholesail networks LLC",
-    "org": "Ziply Fiber",
-    "as": "AS20055 Wholesail networks LLC",
-    "query": "50.47.103.146"
-  },
   "219.100.37.109": {
     "status": "success",
     "country": "Japan",
@@ -158,6 +142,22 @@
     "org": "Marubeni Access Solutions Inc.",
     "as": "AS2519 ARTERIA Networks Corporation",
     "query": "1.21.121.201"
+  },
+  "124.255.80.220": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "23",
+    "regionName": "Aichi",
+    "city": "Nagoya",
+    "zip": "461-0001",
+    "lat": 35.1796,
+    "lon": 136.9166,
+    "timezone": "Asia/Tokyo",
+    "isp": "FreeBit Co., Ltd.",
+    "org": "FreeBit Co., Ltd.",
+    "as": "AS10013 FreeBit Co.,Ltd.",
+    "query": "124.255.80.220"
   },
   "118.240.68.160": {
     "status": "success",
@@ -255,22 +255,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.102"
   },
-  "122.208.249.174": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0071",
-    "lat": 35.6837,
-    "lon": 139.6805,
-    "timezone": "Asia/Tokyo",
-    "isp": "ARTERIA Networks Corporation",
-    "org": "UCOM Corporation",
-    "as": "AS17506 ARTERIA Networks Corporation",
-    "query": "122.208.249.174"
-  },
   "27.83.68.134": {
     "status": "success",
     "country": "Japan",
@@ -334,6 +318,22 @@
     "org": "NTTDoCoMo",
     "as": "AS9605 NTT DOCOMO, INC.",
     "query": "1.66.34.134"
+  },
+  "122.208.249.174": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tokyo",
+    "zip": "151-0071",
+    "lat": 35.6837,
+    "lon": 139.6805,
+    "timezone": "Asia/Tokyo",
+    "isp": "ARTERIA Networks Corporation",
+    "org": "UCOM Corporation",
+    "as": "AS17506 ARTERIA Networks Corporation",
+    "query": "122.208.249.174"
   },
   "110.46.158.118": {
     "status": "success",
@@ -591,22 +591,6 @@
     "as": "AS7522 STNet, Incorporated",
     "query": "133.123.153.65"
   },
-  "180.25.168.239": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "43",
-    "regionName": "Kumamoto",
-    "city": "Kumamoto",
-    "zip": "860-0011",
-    "lat": 32.7959,
-    "lon": 130.7065,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "Open Computer Network",
-    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
-    "query": "180.25.168.239"
-  },
   "1.225.128.156": {
     "status": "success",
     "country": "South Korea",
@@ -622,22 +606,6 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.225.128.156"
-  },
-  "118.218.227.187": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "43",
-    "regionName": "North Chungcheong",
-    "city": "Cheongju-si",
-    "zip": "28515",
-    "lat": 36.6378,
-    "lon": 127.4838,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "118.218.227.187"
   },
   "121.160.109.182": {
     "status": "success",
@@ -735,6 +703,22 @@
     "as": "AS17857 SK Broadband Co Ltd",
     "query": "121.50.255.67"
   },
+  "118.218.227.187": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "43",
+    "regionName": "North Chungcheong",
+    "city": "Cheongju-si",
+    "zip": "28515",
+    "lat": 36.6378,
+    "lon": 127.4838,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "118.218.227.187"
+  },
   "188.133.203.74": {
     "status": "success",
     "country": "Russia",
@@ -766,21 +750,5 @@
     "org": "Orion Telecom LLC",
     "as": "AS50427 Orion Telecom LLC",
     "query": "109.226.248.25"
-  },
-  "77.35.249.88": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PRI",
-    "regionName": "Primorye",
-    "city": "Vladivostok",
-    "zip": "690001",
-    "lat": 43.1068,
-    "lon": 131.8692,
-    "timezone": "Asia/Vladivostok",
-    "isp": "Rostelecom networks",
-    "org": "",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "77.35.249.88"
   }
 }
