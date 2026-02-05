@@ -303,6 +303,22 @@
     "as": "AS6327 Shaw Communications",
     "query": "68.149.154.94"
   },
+  "60.144.85.226": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.144.85.226"
+  },
   "220.125.51.211": {
     "status": "success",
     "country": "South Korea",
@@ -350,22 +366,6 @@
     "org": "Triple T Broadband Public Company Limited",
     "as": "AS45758 Triple T Broadband Public Company Limited",
     "query": "171.7.60.101"
-  },
-  "171.5.189.116": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "24",
-    "regionName": "Chachoengsao",
-    "city": "Chachoengsao",
-    "zip": "24000",
-    "lat": 13.6807,
-    "lon": 101.1924,
-    "timezone": "Asia/Bangkok",
-    "isp": "Triple T Broadband Public Company Limited",
-    "org": "Triple T Broadband Public Company Limited",
-    "as": "AS45758 Triple T Broadband Public Company Limited",
-    "query": "171.5.189.116"
   },
   "49.228.167.50": {
     "status": "success",
@@ -606,21 +606,5 @@
     "org": "OJSC Sibirtelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "87.103.250.204"
-  },
-  "92.125.12.76": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "TOM",
-    "regionName": "Tomsk Oblast",
-    "city": "Strezhevoy",
-    "zip": "636780",
-    "lat": 60.7232,
-    "lon": 77.596,
-    "timezone": "Asia/Tomsk",
-    "isp": "Rostelecom networks",
-    "org": "OJSC Sibirtelecom",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "92.125.12.76"
   }
 }
