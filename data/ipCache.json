@@ -447,6 +447,22 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.235.215.236"
   },
+  "106.159.145.248": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "40",
+    "regionName": "Fukuoka",
+    "city": "Tenjin",
+    "zip": "810-0001",
+    "lat": 33.5959,
+    "lon": 130.4008,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "106.159.145.248"
+  },
   "121.174.76.166": {
     "status": "success",
     "country": "South Korea",
