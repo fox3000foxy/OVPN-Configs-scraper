@@ -255,6 +255,22 @@
     "as": "AS9617 JCOM Co., Ltd.",
     "query": "119.24.254.96"
   },
+  "119.173.41.25": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Komone",
+    "zip": "173-0031",
+    "lat": 35.7458,
+    "lon": 139.6911,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM Co., Ltd.",
+    "org": "JCOM Co., Ltd",
+    "as": "AS9824 JCOM Co., Ltd.",
+    "query": "119.173.41.25"
+  },
   "219.100.37.50": {
     "status": "success",
     "country": "Japan",
@@ -478,22 +494,6 @@
     "org": "Japan nation-wide Network of SOFTBANK Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "220.26.103.76"
-  },
-  "61.75.115.245": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "26",
-    "regionName": "Busan",
-    "city": "Buk-gu",
-    "zip": "466",
-    "lat": 35.1996,
-    "lon": 128.9874,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "61.75.115.245"
   },
   "92.37.244.242": {
     "status": "success",
