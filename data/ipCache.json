@@ -239,6 +239,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "118.33.153.180"
   },
+  "119.24.254.96": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "28",
+    "regionName": "Hyōgo",
+    "city": "Kobe",
+    "zip": "650-0011",
+    "lat": 34.6922,
+    "lon": 135.1816,
+    "timezone": "Asia/Tokyo",
+    "isp": "HCT",
+    "org": "Jupiter Telecommunications Co., Ltd.",
+    "as": "AS9617 JCOM Co., Ltd.",
+    "query": "119.24.254.96"
+  },
   "119.173.41.25": {
     "status": "success",
     "country": "Japan",
@@ -494,22 +510,6 @@
     "org": "",
     "as": "AS12389 PJSC Rostelecom",
     "query": "92.37.244.242"
-  },
-  "221.157.130.155": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "27",
-    "regionName": "Daegu",
-    "city": "Dalseo-gu",
-    "zip": "427",
-    "lat": 35.8475,
-    "lon": 128.4805,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Korea Telecom",
-    "as": "AS4766 Korea Telecom",
-    "query": "221.157.130.155"
   },
   "121.181.197.225": {
     "status": "success",
