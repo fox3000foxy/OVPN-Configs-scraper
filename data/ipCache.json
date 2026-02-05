@@ -175,6 +175,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.204"
   },
+  "104.28.215.158": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "27",
+    "regionName": "Daegu",
+    "city": "Daegu",
+    "zip": "41934",
+    "lat": 35.8723,
+    "lon": 128.5924,
+    "timezone": "Asia/Seoul",
+    "isp": "Cloudflare, Inc.",
+    "org": "Cloudflare WARP",
+    "as": "AS13335 Cloudflare, Inc.",
+    "query": "104.28.215.158"
+  },
   "175.214.156.135": {
     "status": "success",
     "country": "South Korea",
@@ -222,22 +238,6 @@
     "org": "SOFTBANK Corp",
     "as": "AS17676 SoftBank Corp.",
     "query": "126.206.11.243"
-  },
-  "1.66.34.134": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Osaka",
-    "zip": "530-0041",
-    "lat": 34.6967,
-    "lon": 135.5154,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Docomo, inc.",
-    "org": "NTTDoCoMo",
-    "as": "AS9605 NTT DOCOMO, INC.",
-    "query": "1.66.34.134"
   },
   "175.194.212.166": {
     "status": "success",
@@ -463,22 +463,6 @@
     "as": "AS13285 TalkTalk Communications Limited",
     "query": "80.44.212.7"
   },
-  "112.160.133.80": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "48",
-    "regionName": "Gyeongsangnam-do",
-    "city": "Changwon",
-    "zip": "516",
-    "lat": 35.138,
-    "lon": 128.7034,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "112.160.133.80"
-  },
   "95.31.42.25": {
     "status": "success",
     "country": "Russia",
@@ -574,6 +558,22 @@
     "org": "broadNnet",
     "as": "AS17864 SK Broadband Co Ltd",
     "query": "61.109.29.48"
+  },
+  "5.206.58.2": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "CHE",
+    "regionName": "Chelyabinsk Oblast",
+    "city": "Chelyabinsk",
+    "zip": "454000",
+    "lat": 55.1586,
+    "lon": 61.4296,
+    "timezone": "Asia/Yekaterinburg",
+    "isp": "Intersvyaz-2 JSC",
+    "org": "",
+    "as": "AS8369 Intersvyaz-2 JSC",
+    "query": "5.206.58.2"
   },
   "14.34.201.93": {
     "status": "success",
