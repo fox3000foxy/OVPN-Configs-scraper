@@ -399,6 +399,22 @@
     "as": "AS42038 Krivets Sergey Sergeevich",
     "query": "46.37.132.36"
   },
+  "126.221.40.75": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.221.40.75"
+  },
   "124.212.183.144": {
     "status": "success",
     "country": "Japan",
@@ -446,22 +462,6 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "59.138.182.93"
-  },
-  "220.26.103.76": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan nation-wide Network of SOFTBANK Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "220.26.103.76"
   },
   "126.235.215.236": {
     "status": "success",
