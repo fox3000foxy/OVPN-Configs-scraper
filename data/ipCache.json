@@ -271,22 +271,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "222.109.124.1"
   },
-  "27.85.1.30": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Miharadai",
-    "zip": "590-0111",
-    "lat": 34.4996,
-    "lon": 135.5485,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "27.85.1.30"
-  },
   "178.163.69.1": {
     "status": "success",
     "country": "Russia",
@@ -526,6 +510,22 @@
     "org": "Sony Network Communications Inc.",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "131.147.59.94"
+  },
+  "60.91.40.164": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.91.40.164"
   },
   "220.84.162.134": {
     "status": "success",
