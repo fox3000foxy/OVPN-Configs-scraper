@@ -127,22 +127,6 @@
     "as": "AS2519 ARTERIA Networks Corporation",
     "query": "1.21.121.201"
   },
-  "111.238.189.171": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tagara",
-    "zip": "179-0071",
-    "lat": 35.7681,
-    "lon": 139.6258,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "111.238.189.171"
-  },
   "131.147.142.132": {
     "status": "success",
     "country": "Japan",
@@ -158,22 +142,6 @@
     "org": "Sony Network Communications Inc.",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "131.147.142.132"
-  },
-  "121.106.148.235": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "01",
-    "regionName": "Hokkaido",
-    "city": "Sapporo",
-    "zip": "065-0011",
-    "lat": 43.0763,
-    "lon": 141.3654,
-    "timezone": "Asia/Tokyo",
-    "isp": "DION (KDDI CORPORATION)",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "121.106.148.235"
   },
   "112.220.30.58": {
     "status": "success",
@@ -335,6 +303,22 @@
     "as": "AS9697 LG HelloVision Corp.",
     "query": "110.46.158.118"
   },
+  "60.127.238.103": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.127.238.103"
+  },
   "220.212.128.195": {
     "status": "success",
     "country": "Japan",
@@ -382,6 +366,22 @@
     "org": "Korea Telecom",
     "as": "AS4766 Korea Telecom",
     "query": "218.158.82.155"
+  },
+  "180.5.76.17": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "11",
+    "regionName": "Saitama",
+    "city": "Tokiwa",
+    "zip": "330-0061",
+    "lat": 35.8669,
+    "lon": 139.6469,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "Open Computer Network",
+    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
+    "query": "180.5.76.17"
   },
   "222.98.176.199": {
     "status": "success",
@@ -558,6 +558,22 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.225.128.156"
+  },
+  "221.152.239.167": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Buk-gu",
+    "zip": "466",
+    "lat": 35.1996,
+    "lon": 128.9874,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Korea Telecom",
+    "as": "AS4766 Korea Telecom",
+    "query": "221.152.239.167"
   },
   "118.218.227.187": {
     "status": "success",
