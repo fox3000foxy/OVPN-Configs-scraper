@@ -127,22 +127,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.208"
   },
-  "1.21.121.201": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Suita",
-    "zip": "564-0041",
-    "lat": 34.7614,
-    "lon": 135.516,
-    "timezone": "Asia/Tokyo",
-    "isp": "ARTERIA Networks Corporation",
-    "org": "Marubeni Access Solutions Inc.",
-    "as": "AS2519 ARTERIA Networks Corporation",
-    "query": "1.21.121.201"
-  },
   "124.255.80.220": {
     "status": "success",
     "country": "Japan",
@@ -206,6 +190,22 @@
     "org": "Japan Nation-wide Network of Softbank Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "60.153.147.72"
+  },
+  "1.21.121.201": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Suita",
+    "zip": "564-0041",
+    "lat": 34.7614,
+    "lon": 135.516,
+    "timezone": "Asia/Tokyo",
+    "isp": "ARTERIA Networks Corporation",
+    "org": "Marubeni Access Solutions Inc.",
+    "as": "AS2519 ARTERIA Networks Corporation",
+    "query": "1.21.121.201"
   },
   "115.22.171.164": {
     "status": "success",
@@ -335,6 +335,22 @@
     "as": "AS9605 NTT DOCOMO, INC.",
     "query": "1.66.33.240"
   },
+  "113.144.29.135": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Nakano City",
+    "zip": "164-0011",
+    "lat": 35.7027,
+    "lon": 139.6749,
+    "timezone": "Asia/Tokyo",
+    "isp": "DION (KDDI CORPORATION)",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "113.144.29.135"
+  },
   "110.46.158.118": {
     "status": "success",
     "country": "South Korea",
@@ -351,21 +367,21 @@
     "as": "AS9697 LG HelloVision Corp.",
     "query": "110.46.158.118"
   },
-  "113.144.29.135": {
+  "117.55.150.209": {
     "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Nakano City",
-    "zip": "164-0011",
-    "lat": 35.7027,
-    "lon": 139.6749,
-    "timezone": "Asia/Tokyo",
-    "isp": "DION (KDDI CORPORATION)",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "113.144.29.135"
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "47",
+    "regionName": "Gyeongsangbuk-do",
+    "city": "Gyeongsan-si",
+    "zip": "386",
+    "lat": 35.824,
+    "lon": 128.7304,
+    "timezone": "Asia/Seoul",
+    "isp": "CJ Hello Co",
+    "org": "HVDaegu",
+    "as": "AS9770 LG HelloVision Corp.",
+    "query": "117.55.150.209"
   },
   "220.212.128.195": {
     "status": "success",
@@ -639,6 +655,22 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "222.236.200.106"
   },
+  "175.124.82.169": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Dongdaemun",
+    "zip": "024",
+    "lat": 37.5841,
+    "lon": 127.0616,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "SK Broadband Co Ltd",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "175.124.82.169"
+  },
   "221.158.167.4": {
     "status": "success",
     "country": "South Korea",
@@ -670,22 +702,6 @@
     "org": "TOKAI Corporation",
     "as": "AS10010 TOKAI Communications Corporation",
     "query": "219.126.126.150"
-  },
-  "121.50.255.67": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Seoul",
-    "zip": "04625",
-    "lat": 37.5614,
-    "lon": 126.996,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "TBROAD NakdongDongnamSeobusan",
-    "as": "AS17857 SK Broadband Co Ltd",
-    "query": "121.50.255.67"
   },
   "188.133.203.74": {
     "status": "success",
@@ -719,22 +735,6 @@
     "as": "AS50427 Orion Telecom LLC",
     "query": "109.226.248.25"
   },
-  "58.140.73.52": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Namyangju",
-    "zip": "122",
-    "lat": 37.6224,
-    "lon": 127.1502,
-    "timezone": "Asia/Seoul",
-    "isp": "DLIVE",
-    "org": "DLIVE Gyeongdogn Cable TV",
-    "as": "AS10036 DLIVE",
-    "query": "58.140.73.52"
-  },
   "77.35.249.88": {
     "status": "success",
     "country": "Russia",
@@ -750,5 +750,21 @@
     "org": "",
     "as": "AS12389 PJSC Rostelecom",
     "query": "77.35.249.88"
+  },
+  "58.140.73.52": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Namyangju",
+    "zip": "122",
+    "lat": 37.6224,
+    "lon": 127.1502,
+    "timezone": "Asia/Seoul",
+    "isp": "DLIVE",
+    "org": "DLIVE Gyeongdogn Cable TV",
+    "as": "AS10036 DLIVE",
+    "query": "58.140.73.52"
   }
 }
