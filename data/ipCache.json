@@ -399,22 +399,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.55.239.154"
   },
-  "171.7.60.101": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "10",
-    "regionName": "Bangkok",
-    "city": "Bangkok",
-    "zip": "10400",
-    "lat": 13.7618,
-    "lon": 100.5324,
-    "timezone": "Asia/Bangkok",
-    "isp": "Triple T Broadband Public Company Limited",
-    "org": "Triple T Broadband Public Company Limited",
-    "as": "AS45758 Triple T Broadband Public Company Limited",
-    "query": "171.7.60.101"
-  },
   "222.97.142.229": {
     "status": "success",
     "country": "South Korea",
@@ -430,6 +414,22 @@
     "org": "KORNET",
     "as": "AS4766 Korea Telecom",
     "query": "222.97.142.229"
+  },
+  "171.7.60.101": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "10",
+    "regionName": "Bangkok",
+    "city": "Bangkok",
+    "zip": "10400",
+    "lat": 13.7618,
+    "lon": 100.5324,
+    "timezone": "Asia/Bangkok",
+    "isp": "Triple T Broadband Public Company Limited",
+    "org": "Triple T Broadband Public Company Limited",
+    "as": "AS45758 Triple T Broadband Public Company Limited",
+    "query": "171.7.60.101"
   },
   "79.105.250.60": {
     "status": "success",
