@@ -255,6 +255,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "222.109.180.8"
   },
+  "121.110.185.12": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Yokohama",
+    "zip": "231-0841",
+    "lat": 35.4337,
+    "lon": 139.6499,
+    "timezone": "Asia/Tokyo",
+    "isp": "DION (KDDI CORPORATION)",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "121.110.185.12"
+  },
   "1.240.128.118": {
     "status": "success",
     "country": "South Korea",
@@ -286,6 +302,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "14.52.253.14"
+  },
+  "126.200.149.103": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.200.149.103"
   },
   "180.29.209.35": {
     "status": "success",
@@ -367,22 +399,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "92.203.159.128"
   },
-  "46.226.245.188": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "SAM",
-    "regionName": "Samara Oblast",
-    "city": "Chapayevsk",
-    "zip": "446100",
-    "lat": 52.9852,
-    "lon": 49.7125,
-    "timezone": "Europe/Samara",
-    "isp": "Limited Liability Company \"TTK-Svyaz\"",
-    "org": "TTK Samara",
-    "as": "AS15774 Limited Liability Company TTK-Svyaz",
-    "query": "46.226.245.188"
-  },
   "118.34.224.134": {
     "status": "success",
     "country": "South Korea",
@@ -398,6 +414,22 @@
     "org": "Sudogwongangnambonbu",
     "as": "AS4766 Korea Telecom",
     "query": "118.34.224.134"
+  },
+  "221.145.15.42": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Nowon-gu",
+    "zip": "016",
+    "lat": 37.6576,
+    "lon": 127.072,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "KORNET",
+    "as": "AS4766 Korea Telecom",
+    "query": "221.145.15.42"
   },
   "119.47.59.136": {
     "status": "success",
@@ -447,22 +479,6 @@
     "as": "AS18126 Chubu Telecommunications Company, Inc.",
     "query": "222.9.173.113"
   },
-  "175.28.146.212": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "40",
-    "regionName": "Fukuoka",
-    "city": "Mugino",
-    "zip": "812-0881",
-    "lat": 33.5553,
-    "lon": 130.4689,
-    "timezone": "Asia/Tokyo",
-    "isp": "QTnet, Inc.",
-    "org": "QTnet, Inc.",
-    "as": "AS7679 QTnet,Inc.",
-    "query": "175.28.146.212"
-  },
   "61.75.115.245": {
     "status": "success",
     "country": "South Korea",
@@ -478,22 +494,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "61.75.115.245"
-  },
-  "49.228.234.205": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "10",
-    "regionName": "Bangkok",
-    "city": "Bangkok",
-    "zip": "10110",
-    "lat": 13.7101,
-    "lon": 100.4543,
-    "timezone": "Asia/Bangkok",
-    "isp": "Advanced Wireless Network Company Limited",
-    "org": "AIS Fibre",
-    "as": "AS133481 AIS Fibre",
-    "query": "49.228.234.205"
   },
   "221.166.252.60": {
     "status": "success",
