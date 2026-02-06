@@ -143,6 +143,22 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "111.97.191.114"
   },
+  "223.132.208.135": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "21",
+    "regionName": "Gifu",
+    "city": "Gifu",
+    "zip": "500-8821",
+    "lat": 35.4256,
+    "lon": 136.7614,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "223.132.208.135"
+  },
   "185.124.155.182": {
     "status": "success",
     "country": "Russia",
@@ -303,21 +319,21 @@
     "as": "AS7131 PTI Pacifica Inc.",
     "query": "202.88.80.26"
   },
-  "222.112.153.210": {
+  "222.236.114.192": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Geumcheon-gu",
-    "zip": "085",
-    "lat": 37.4784,
-    "lon": 126.8982,
+    "region": "28",
+    "regionName": "Incheon",
+    "city": "Incheon",
+    "zip": "221",
+    "lat": 37.4723,
+    "lon": 126.6594,
     "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "222.112.153.210"
+    "isp": "SK Broadband Co Ltd",
+    "org": "SK Broadband Co Ltd",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "222.236.114.192"
   },
   "92.202.59.17": {
     "status": "success",
@@ -382,22 +398,6 @@
     "org": "LG POWERCOMM",
     "as": "AS17858 LG POWERCOMM",
     "query": "49.167.12.160"
-  },
-  "42.127.118.159": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "22",
-    "regionName": "Shizuoka",
-    "city": "Shimoyabuta",
-    "zip": "426-0201",
-    "lat": 34.8853,
-    "lon": 138.2689,
-    "timezone": "Asia/Tokyo",
-    "isp": "TOKAI Communications Corporation",
-    "org": "TOKAI",
-    "as": "AS10010 TOKAI Communications Corporation",
-    "query": "42.127.118.159"
   },
   "182.21.147.85": {
     "status": "success",
