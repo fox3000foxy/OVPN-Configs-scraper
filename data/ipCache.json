@@ -431,6 +431,22 @@
     "as": "AS45758 Triple T Broadband Public Company Limited",
     "query": "171.7.60.101"
   },
+  "126.207.64.178": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.207.64.178"
+  },
   "220.74.79.4": {
     "status": "success",
     "country": "South Korea",
@@ -446,22 +462,6 @@
     "org": "KORNET",
     "as": "AS4766 Korea Telecom",
     "query": "220.74.79.4"
-  },
-  "138.64.194.75": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Osaka",
-    "zip": "550-0001",
-    "lat": 34.6892,
-    "lon": 135.4899,
-    "timezone": "Asia/Tokyo",
-    "isp": "ASAHI Net, Inc.",
-    "org": "ASAHI",
-    "as": "AS4685 Asahi Net",
-    "query": "138.64.194.75"
   },
   "60.144.85.226": {
     "status": "success",
@@ -654,5 +654,21 @@
     "org": "",
     "as": "AS133481 AIS Fibre",
     "query": "184.22.114.230"
+  },
+  "119.192.208.193": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Mapo-gu",
+    "zip": "039",
+    "lat": 37.5681,
+    "lon": 126.8998,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "119.192.208.193"
   }
 }
