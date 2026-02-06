@@ -415,22 +415,6 @@
     "as": "AS17939 miyazaki cabletelevision network Co.,LTD",
     "query": "218.216.32.95"
   },
-  "2.61.160.16": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KK",
-    "regionName": "Khakasiya Republic",
-    "city": "Sayanogorsk",
-    "zip": "655619",
-    "lat": 53.0998,
-    "lon": 91.4074,
-    "timezone": "Asia/Krasnoyarsk",
-    "isp": "Rostelecom networks",
-    "org": "OJSC Sibirtelecom",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "2.61.160.16"
-  },
   "175.205.27.17": {
     "status": "success",
     "country": "South Korea",
@@ -543,6 +527,22 @@
     "as": "AS17597 SK Broadband Co Ltd",
     "query": "61.47.212.110"
   },
+  "92.127.103.123": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KEM",
+    "regionName": "Kemerovo Oblast",
+    "city": "Kiselëvsk",
+    "zip": "652701",
+    "lat": 53.99,
+    "lon": 86.6621,
+    "timezone": "Asia/Novokuznetsk",
+    "isp": "OJSC \"Sibirtelecom\"",
+    "org": "OJSC Sibirtelecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "92.127.103.123"
+  },
   "133.106.162.14": {
     "status": "success",
     "country": "Japan",
@@ -638,5 +638,21 @@
     "org": "Comcast Cable Communications",
     "as": "AS7922 Comcast Cable Communications, LLC",
     "query": "24.19.50.63"
+  },
+  "95.79.250.172": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "NIZ",
+    "regionName": "Nizhny Novgorod Oblast",
+    "city": "Nizhniy Novgorod",
+    "zip": "603000",
+    "lat": 56.3327,
+    "lon": 44.0012,
+    "timezone": "Europe/Moscow",
+    "isp": "CJSC \"ER-Telecom Holding\" Nizhny Novgorod branch",
+    "org": "JSC \"ER-Telecom Holding\" Nizhny Novgorod",
+    "as": "AS42682 JSC ER-Telecom Holding",
+    "query": "95.79.250.172"
   }
 }
