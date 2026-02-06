@@ -95,6 +95,22 @@
     "as": "AS22773 Cox Communications Inc.",
     "query": "72.196.67.191"
   },
+  "114.35.64.20": {
+    "status": "success",
+    "country": "Taiwan",
+    "countryCode": "TW",
+    "region": "NWT",
+    "regionName": "New Taipei City",
+    "city": "New Taipei City",
+    "zip": "",
+    "lat": 25.0693,
+    "lon": 121.4626,
+    "timezone": "Asia/Taipei",
+    "isp": "Chunghwa Telecom Co., Ltd.",
+    "org": "Chunghwa Telecom Co. Ltd.",
+    "as": "AS3462 Data Communication Business Group",
+    "query": "114.35.64.20"
+  },
   "60.36.150.117": {
     "status": "success",
     "country": "Japan",
@@ -383,22 +399,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "106.156.91.45"
   },
-  "126.55.239.154": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.55.239.154"
-  },
   "150.147.126.178": {
     "status": "success",
     "country": "Japan",
@@ -446,6 +446,22 @@
     "org": "Triple T Broadband Public Company Limited",
     "as": "AS45758 Triple T Broadband Public Company Limited",
     "query": "171.7.60.101"
+  },
+  "60.119.199.206": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.119.199.206"
   },
   "126.207.64.178": {
     "status": "success",
@@ -607,22 +623,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.122.72.195"
   },
-  "1.53.243.255": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "SG",
-    "regionName": "Ho Chi Minh",
-    "city": "Ho Chi Minh City",
-    "zip": "700000",
-    "lat": 10.822,
-    "lon": 106.6257,
-    "timezone": "Asia/Ho_Chi_Minh",
-    "isp": "FPT Telecom Company",
-    "org": "Vietnam Internet Network Information Center",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "1.53.243.255"
-  },
   "171.6.118.177": {
     "status": "success",
     "country": "Thailand",
@@ -654,21 +654,5 @@
     "org": "Jupiter Telecommunication Co. Ltd",
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "42.146.135.174"
-  },
-  "184.22.114.230": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "40",
-    "regionName": "Khon Kaen",
-    "city": "Khon Kaen",
-    "zip": "40160",
-    "lat": 16.4467,
-    "lon": 102.833,
-    "timezone": "Asia/Bangkok",
-    "isp": "AIS-Fibre",
-    "org": "",
-    "as": "AS133481 AIS Fibre",
-    "query": "184.22.114.230"
   }
 }
