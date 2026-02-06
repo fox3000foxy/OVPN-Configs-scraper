@@ -431,22 +431,6 @@
     "as": "AS11664 Techtel LMDS Comunicaciones Interactivas S.A.",
     "query": "186.122.11.104"
   },
-  "118.36.136.132": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Geumcheon-gu",
-    "zip": "086",
-    "lat": 37.4565,
-    "lon": 126.8919,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "118.36.136.132"
-  },
   "184.22.23.182": {
     "status": "success",
     "country": "Thailand",
@@ -478,6 +462,22 @@
     "org": "NTTDoCoMo",
     "as": "AS9605 NTT DOCOMO, INC.",
     "query": "1.66.33.240"
+  },
+  "118.36.136.132": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Geumcheon-gu",
+    "zip": "086",
+    "lat": 37.4565,
+    "lon": 126.8919,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "118.36.136.132"
   },
   "181.44.40.174": {
     "status": "success",
@@ -543,6 +543,22 @@
     "as": "AS4685 Asahi Net",
     "query": "138.64.64.161"
   },
+  "175.214.152.6": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Suyeong-gu",
+    "zip": "482",
+    "lat": 35.1513,
+    "lon": 129.1203,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "175.214.152.6"
+  },
   "221.162.98.36": {
     "status": "success",
     "country": "South Korea",
@@ -607,22 +623,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "125.139.49.108"
   },
-  "116.120.151.42": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Yongin-si",
-    "zip": "17091",
-    "lat": 37.2447,
-    "lon": 127.1752,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "116.120.151.42"
-  },
   "212.14.195.153": {
     "status": "success",
     "country": "Russia",
@@ -670,6 +670,22 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.226.8.88"
+  },
+  "90.189.196.154": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "NVS",
+    "regionName": "Novosibirsk Oblast",
+    "city": "Novosibirsk",
+    "zip": "630000",
+    "lat": 55.0226,
+    "lon": 82.9317,
+    "timezone": "Asia/Novosibirsk",
+    "isp": "Rostelecom networks",
+    "org": "OJSC Sibirtelecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "90.189.196.154"
   },
   "46.53.249.161": {
     "status": "success",
