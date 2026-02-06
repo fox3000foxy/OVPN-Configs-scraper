@@ -271,21 +271,21 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "182.171.116.240"
   },
-  "113.148.186.91": {
+  "106.243.71.229": {
     "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "26",
-    "regionName": "Kyoto",
-    "city": "Uji",
-    "zip": "611-0041",
-    "lat": 34.8992,
-    "lon": 135.7859,
-    "timezone": "Asia/Tokyo",
-    "isp": "DION (KDDI CORPORATION)",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "113.148.186.91"
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "42",
+    "regionName": "Gangwon-do",
+    "city": "Wŏnju",
+    "zip": "263",
+    "lat": 37.384,
+    "lon": 127.8724,
+    "timezone": "Asia/Seoul",
+    "isp": "LG DACOM Corporation",
+    "org": "Boranet",
+    "as": "AS3786 LG DACOM Corporation",
+    "query": "106.243.71.229"
   },
   "218.115.121.212": {
     "status": "success",
@@ -447,6 +447,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "220.86.64.116"
   },
+  "81.201.19.107": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "SPE",
+    "regionName": "St.-Petersburg",
+    "city": "St Petersburg",
+    "zip": "190990",
+    "lat": 59.8983,
+    "lon": 30.2618,
+    "timezone": "Europe/Moscow",
+    "isp": "OJSC \"Mobile TeleSystems\"",
+    "org": "PJSC \"Mobile TeleSystems\"",
+    "as": "AS8359 MTS PJSC",
+    "query": "81.201.19.107"
+  },
   "211.217.217.150": {
     "status": "success",
     "country": "South Korea",
@@ -543,22 +559,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "92.127.103.123"
   },
-  "133.106.162.14": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "96337",
-    "lat": 35.6895,
-    "lon": 139.692,
-    "timezone": "Asia/Tokyo",
-    "isp": "Rakuten Mobile, Inc.",
-    "org": "RMN",
-    "as": "AS138384 Rakuten Mobile Network, Inc.",
-    "query": "133.106.162.14"
-  },
   "211.116.113.124": {
     "status": "success",
     "country": "South Korea",
@@ -574,6 +574,22 @@
     "org": "TBROAD Jeonju",
     "as": "AS17854 SK Broadband Co Ltd",
     "query": "211.116.113.124"
+  },
+  "133.106.162.14": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tokyo",
+    "zip": "96337",
+    "lat": 35.6895,
+    "lon": 139.692,
+    "timezone": "Asia/Tokyo",
+    "isp": "Rakuten Mobile, Inc.",
+    "org": "RMN",
+    "as": "AS138384 Rakuten Mobile Network, Inc.",
+    "query": "133.106.162.14"
   },
   "90.189.153.227": {
     "status": "success",
