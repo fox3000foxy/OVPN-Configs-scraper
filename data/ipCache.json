@@ -734,21 +734,5 @@
     "org": "Atlanttelecomendusers",
     "as": "AS42772 Unitary enterprise A1",
     "query": "46.53.249.161"
-  },
-  "188.168.117.75": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KHA",
-    "regionName": "Khabarovsk",
-    "city": "Khabarovsk",
-    "zip": "680003",
-    "lat": 48.4814,
-    "lon": 135.072,
-    "timezone": "Asia/Vladivostok",
-    "isp": "Limited Liability Company \"TTK-Svyaz\"",
-    "org": "",
-    "as": "AS15774 Limited Liability Company TTK-Svyaz",
-    "query": "188.168.117.75"
   }
 }
