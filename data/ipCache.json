@@ -303,22 +303,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "36.14.74.224"
   },
-  "113.144.29.135": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Nakano City",
-    "zip": "164-0011",
-    "lat": 35.7027,
-    "lon": 139.6749,
-    "timezone": "Asia/Tokyo",
-    "isp": "DION (KDDI CORPORATION)",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "113.144.29.135"
-  },
   "91.219.203.117": {
     "status": "success",
     "country": "Russia",
@@ -446,6 +430,22 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "59.140.6.12"
+  },
+  "120.74.15.94": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Nakatehara",
+    "zip": "222-0021",
+    "lat": 35.5011,
+    "lon": 139.6329,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "120.74.15.94"
   },
   "1.239.79.205": {
     "status": "success",
@@ -591,22 +591,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "221.154.140.176"
   },
-  "220.92.38.76": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "48",
-    "regionName": "Gyeongsangnam-do",
-    "city": "Changwon",
-    "zip": "511",
-    "lat": 35.2733,
-    "lon": 128.653,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "220.92.38.76"
-  },
   "39.126.152.48": {
     "status": "success",
     "country": "South Korea",
@@ -734,6 +718,22 @@
     "org": "Sakhalin Cable Telesystems Ltd",
     "as": "AS51004 Sakhalin Cable Telesystems Ltd",
     "query": "188.113.183.138"
+  },
+  "220.92.38.76": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "48",
+    "regionName": "Gyeongsangnam-do",
+    "city": "Changwon",
+    "zip": "511",
+    "lat": 35.2733,
+    "lon": 128.653,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "220.92.38.76"
   },
   "109.126.225.28": {
     "status": "success",
