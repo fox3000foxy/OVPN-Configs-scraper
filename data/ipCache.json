@@ -127,6 +127,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.204"
   },
+  "36.13.6.150": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "11",
+    "regionName": "Saitama",
+    "city": "Honchō",
+    "zip": "335-0021",
+    "lat": 35.8103,
+    "lon": 139.6696,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "36.13.6.150"
+  },
   "58.136.165.59": {
     "status": "success",
     "country": "Thailand",
@@ -303,22 +319,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "14.52.253.14"
   },
-  "126.200.149.103": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.200.149.103"
-  },
   "180.29.209.35": {
     "status": "success",
     "country": "Japan",
@@ -382,22 +382,6 @@
     "org": "Korea Telecom",
     "as": "AS4766 Korea Telecom",
     "query": "221.157.130.155"
-  },
-  "217.175.14.88": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KDA",
-    "regionName": "Krasnodar Krai",
-    "city": "Taman'",
-    "zip": "353555",
-    "lat": 45.212,
-    "lon": 36.7103,
-    "timezone": "Europe/Moscow",
-    "isp": "CrystalNET Plus",
-    "org": "",
-    "as": "AS25591 BCLan LLC",
-    "query": "217.175.14.88"
   },
   "118.34.224.134": {
     "status": "success",
@@ -463,21 +447,37 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "121.3.217.251"
   },
-  "222.9.173.113": {
+  "124.44.74.37": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "23",
-    "regionName": "Aichi",
-    "city": "Okazaki",
-    "zip": "444-0861",
-    "lat": 34.9555,
-    "lon": 137.1653,
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6906,
+    "lon": 139.77,
     "timezone": "Asia/Tokyo",
-    "isp": "Chubu Telecommunications Company, Inc.",
-    "org": "Chubu Telecommunications Co., Inc.",
-    "as": "AS18126 Chubu Telecommunications Company, Inc.",
-    "query": "222.9.173.113"
+    "isp": "NTT-ME Corporation",
+    "org": "NTT-ME Corporation",
+    "as": "AS9595 NTT-ME Corporation",
+    "query": "124.44.74.37"
+  },
+  "217.175.14.88": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KDA",
+    "regionName": "Krasnodar Krai",
+    "city": "Taman'",
+    "zip": "353555",
+    "lat": 45.212,
+    "lon": 36.7103,
+    "timezone": "Europe/Moscow",
+    "isp": "CrystalNET Plus",
+    "org": "",
+    "as": "AS25591 BCLan LLC",
+    "query": "217.175.14.88"
   },
   "61.75.115.245": {
     "status": "success",
@@ -494,6 +494,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "61.75.115.245"
+  },
+  "126.79.96.181": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.79.96.181"
   },
   "221.166.252.60": {
     "status": "success",
@@ -670,21 +686,5 @@
     "org": "Xpeed",
     "as": "AS17858 LG POWERCOMM",
     "query": "122.47.245.200"
-  },
-  "14.7.48.190": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "28",
-    "regionName": "Incheon",
-    "city": "Namdong-gu",
-    "zip": "215",
-    "lat": 37.4562,
-    "lon": 126.7288,
-    "timezone": "Asia/Seoul",
-    "isp": "LG POWERCOMM",
-    "org": "DACOM-PUBNETPLUS",
-    "as": "AS17858 LG POWERCOMM",
-    "query": "14.7.48.190"
   }
 }
