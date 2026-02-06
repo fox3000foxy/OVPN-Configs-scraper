@@ -287,6 +287,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "218.154.111.211"
   },
+  "36.14.74.224": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Machida",
+    "zip": "194-0041",
+    "lat": 35.5652,
+    "lon": 139.4642,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "36.14.74.224"
+  },
   "113.144.29.135": {
     "status": "success",
     "country": "Japan",
@@ -447,22 +463,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "36.14.133.245"
   },
-  "210.174.55.239": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "12",
-    "regionName": "Chiba",
-    "city": "Matsudo",
-    "zip": "271-0091",
-    "lat": 35.7834,
-    "lon": 139.8958,
-    "timezone": "Asia/Tokyo",
-    "isp": "Japan Network Information Center",
-    "org": "SO-Net Service",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "210.174.55.239"
-  },
   "92.125.12.76": {
     "status": "success",
     "country": "Russia",
@@ -591,6 +591,22 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.239.79.205"
   },
+  "220.92.38.76": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "48",
+    "regionName": "Gyeongsangnam-do",
+    "city": "Changwon",
+    "zip": "511",
+    "lat": 35.2733,
+    "lon": 128.653,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "220.92.38.76"
+  },
   "39.126.152.48": {
     "status": "success",
     "country": "South Korea",
@@ -622,22 +638,6 @@
     "org": "Sibirtelecom Co.",
     "as": "AS12389 PJSC Rostelecom",
     "query": "178.187.92.101"
-  },
-  "220.92.38.76": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "48",
-    "regionName": "Gyeongsangnam-do",
-    "city": "Changwon",
-    "zip": "511",
-    "lat": 35.2733,
-    "lon": 128.653,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "220.92.38.76"
   },
   "1.52.244.74": {
     "status": "success",
