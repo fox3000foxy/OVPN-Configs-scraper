@@ -191,21 +191,21 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.153.147.72"
   },
-  "59.139.128.191": {
+  "27.83.68.134": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "02",
-    "regionName": "Aomori",
-    "city": "Kuroishi",
-    "zip": "036-0351",
-    "lat": 40.6485,
-    "lon": 140.5872,
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Nihonbashi-Kayabachō",
+    "zip": "103-0025",
+    "lat": 35.6792,
+    "lon": 139.779,
     "timezone": "Asia/Tokyo",
-    "isp": "DION (KDDI CORPORATION)",
+    "isp": "Kddi Corporation",
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
-    "query": "59.139.128.191"
+    "query": "27.83.68.134"
   },
   "1.246.154.63": {
     "status": "success",
@@ -222,22 +222,6 @@
     "org": "SK Broadband Co Ltd",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.246.154.63"
-  },
-  "27.83.68.134": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Nihonbashi-Kayabachō",
-    "zip": "103-0025",
-    "lat": 35.6792,
-    "lon": 139.779,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "27.83.68.134"
   },
   "39.125.14.120": {
     "status": "success",
@@ -415,22 +399,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "59.140.6.12"
   },
-  "120.74.15.94": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Nakatehara",
-    "zip": "222-0021",
-    "lat": 35.5011,
-    "lon": 139.6329,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "120.74.15.94"
-  },
   "210.174.55.239": {
     "status": "success",
     "country": "Japan",
@@ -446,6 +414,22 @@
     "org": "SO-Net Service",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "210.174.55.239"
+  },
+  "14.132.54.86": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "23",
+    "regionName": "Aichi",
+    "city": "Komaki",
+    "zip": "485-0041",
+    "lat": 35.2853,
+    "lon": 136.9125,
+    "timezone": "Asia/Tokyo",
+    "isp": "Chubu Telecommunications Company, Inc.",
+    "org": "Chubu Telecommunications Co., Inc.",
+    "as": "AS18126 Chubu Telecommunications Company, Inc.",
+    "query": "14.132.54.86"
   },
   "1.239.79.205": {
     "status": "success",
@@ -494,6 +478,22 @@
     "org": "Community Network Center Inc.",
     "as": "AS17529 STARCAT Co .,LTD.",
     "query": "180.200.120.212"
+  },
+  "42.145.180.138": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Yokosuka",
+    "zip": "238-0041",
+    "lat": 35.2786,
+    "lon": 139.6477,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM Co., Ltd.",
+    "org": "Jupiter Telecommunication Co. Ltd",
+    "as": "AS9824 JCOM Co., Ltd.",
+    "query": "42.145.180.138"
   },
   "5.137.74.168": {
     "status": "success",
@@ -734,21 +734,5 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "58.123.159.246"
-  },
-  "109.126.225.28": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "VLA",
-    "regionName": "Vladimir Oblast",
-    "city": "Vladimir",
-    "zip": "600017",
-    "lat": 56.1342,
-    "lon": 40.3888,
-    "timezone": "Europe/Moscow",
-    "isp": "Elcom ISP",
-    "org": "OJSC Rostelecom",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "109.126.225.28"
   }
 }
