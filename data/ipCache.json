@@ -415,22 +415,6 @@
     "as": "AS17858 LG POWERCOMM",
     "query": "112.145.244.242"
   },
-  "186.122.11.104": {
-    "status": "success",
-    "country": "Argentina",
-    "countryCode": "AR",
-    "region": "T",
-    "regionName": "Tucuman",
-    "city": "San Miguel de Tucumán",
-    "zip": "4000",
-    "lat": -26.816,
-    "lon": -65.2154,
-    "timezone": "America/Argentina/Tucuman",
-    "isp": "Techtel LMDS Comunicaciones Interactivas S.A.",
-    "org": "",
-    "as": "AS11664 Techtel LMDS Comunicaciones Interactivas S.A.",
-    "query": "186.122.11.104"
-  },
   "184.22.23.182": {
     "status": "success",
     "country": "Thailand",
@@ -670,6 +654,22 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.226.8.88"
+  },
+  "46.181.173.59": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KEM",
+    "regionName": "Kemerovo Oblast",
+    "city": "Kemerovo",
+    "zip": "650000",
+    "lat": 55.3299,
+    "lon": 86.0765,
+    "timezone": "Asia/Novokuznetsk",
+    "isp": "Goodline.info",
+    "org": "",
+    "as": "AS39927 E-Light-Telecom Ltd.",
+    "query": "46.181.173.59"
   },
   "90.189.196.154": {
     "status": "success",
