@@ -255,22 +255,6 @@
     "as": "AS44724 Octopusnet LTD",
     "query": "95.154.89.139"
   },
-  "119.235.113.226": {
-    "status": "success",
-    "country": "Turkmenistan",
-    "countryCode": "TM",
-    "region": "S",
-    "regionName": "Ashgabat",
-    "city": "Ashgabat",
-    "zip": "",
-    "lat": 37.9601,
-    "lon": 58.3261,
-    "timezone": "Asia/Ashgabat",
-    "isp": "State Company of Electro Communications Turkmentelecom",
-    "org": "State Company of Electro Communications Turkmentelecom",
-    "as": "AS20661 State Company of Electro Communications Turkmentelecom",
-    "query": "119.235.113.226"
-  },
   "58.123.224.213": {
     "status": "success",
     "country": "South Korea",
@@ -286,6 +270,22 @@
     "org": "SK Broadband Co Ltd",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "58.123.224.213"
+  },
+  "119.235.113.226": {
+    "status": "success",
+    "country": "Turkmenistan",
+    "countryCode": "TM",
+    "region": "S",
+    "regionName": "Ashgabat",
+    "city": "Ashgabat",
+    "zip": "",
+    "lat": 37.9601,
+    "lon": 58.3261,
+    "timezone": "Asia/Ashgabat",
+    "isp": "State Company of Electro Communications Turkmentelecom",
+    "org": "State Company of Electro Communications Turkmentelecom",
+    "as": "AS20661 State Company of Electro Communications Turkmentelecom",
+    "query": "119.235.113.226"
   },
   "219.100.37.50": {
     "status": "success",
@@ -319,22 +319,6 @@
     "as": "AS3786 LG DACOM Corporation",
     "query": "106.243.71.229"
   },
-  "223.205.66.19": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "20",
-    "regionName": "Chon Buri",
-    "city": "Bang Lamung",
-    "zip": "20150",
-    "lat": 13.0508,
-    "lon": 100.9367,
-    "timezone": "Asia/Bangkok",
-    "isp": "Triple T Broadband Public Company Limited",
-    "org": "Triple T Broadband Public Company Limited",
-    "as": "AS45758 Triple T Broadband Public Company Limited",
-    "query": "223.205.66.19"
-  },
   "180.144.149.181": {
     "status": "success",
     "country": "Japan",
@@ -350,6 +334,22 @@
     "org": "K-Opticom Corporation",
     "as": "AS17511 OPTAGE Inc.",
     "query": "180.144.149.181"
+  },
+  "223.205.66.19": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "20",
+    "regionName": "Chon Buri",
+    "city": "Bang Lamung",
+    "zip": "20150",
+    "lat": 13.0508,
+    "lon": 100.9367,
+    "timezone": "Asia/Bangkok",
+    "isp": "Triple T Broadband Public Company Limited",
+    "org": "Triple T Broadband Public Company Limited",
+    "as": "AS45758 Triple T Broadband Public Company Limited",
+    "query": "223.205.66.19"
   },
   "61.109.29.48": {
     "status": "success",
@@ -415,6 +415,22 @@
     "as": "AS9605 NTT DOCOMO, INC.",
     "query": "1.66.33.240"
   },
+  "193.114.24.200": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "15",
+    "regionName": "Niigata",
+    "city": "Nagaoka",
+    "zip": "940-0061",
+    "lat": 37.4506,
+    "lon": 138.858,
+    "timezone": "Asia/Tokyo",
+    "isp": "NCT Co., ltd.",
+    "org": "NCT",
+    "as": "AS59126 NCT CO.,LTD.",
+    "query": "193.114.24.200"
+  },
   "118.36.136.132": {
     "status": "success",
     "country": "South Korea",
@@ -462,22 +478,6 @@
     "org": "Telecentro S.A",
     "as": "AS27747 Telecentro S.A.",
     "query": "181.44.40.174"
-  },
-  "219.50.202.147": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan nation-wide Network of SOFTBANK Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "219.50.202.147"
   },
   "118.69.94.50": {
     "status": "success",
@@ -575,6 +575,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "221.162.98.36"
   },
+  "212.14.195.153": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "MAG",
+    "regionName": "Magadan Oblast",
+    "city": "Magadan",
+    "zip": "685000",
+    "lat": 59.5686,
+    "lon": 150.8133,
+    "timezone": "Asia/Magadan",
+    "isp": "Telephone&Telegraph Station",
+    "org": "Northern International University",
+    "as": "AS34205 PJSC Rostelecom",
+    "query": "212.14.195.153"
+  },
   "118.216.146.202": {
     "status": "success",
     "country": "South Korea",
@@ -622,22 +638,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "125.139.49.108"
-  },
-  "212.14.195.153": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "MAG",
-    "regionName": "Magadan Oblast",
-    "city": "Magadan",
-    "zip": "685000",
-    "lat": 59.5686,
-    "lon": 150.8133,
-    "timezone": "Asia/Magadan",
-    "isp": "Telephone&Telegraph Station",
-    "org": "Northern International University",
-    "as": "AS34205 PJSC Rostelecom",
-    "query": "212.14.195.153"
   },
   "178.218.191.245": {
     "status": "success",
