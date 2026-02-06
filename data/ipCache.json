@@ -463,22 +463,6 @@
     "as": "AS18126 Chubu Telecommunications Company, Inc.",
     "query": "118.106.207.67"
   },
-  "219.115.140.82": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "28",
-    "regionName": "Hyōgo",
-    "city": "Kobe",
-    "zip": "650-0011",
-    "lat": 34.6922,
-    "lon": 135.1816,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM",
-    "org": "J:COM WEST Co., Ltd.",
-    "as": "AS9617 JCOM Co., Ltd.",
-    "query": "219.115.140.82"
-  },
   "112.185.246.157": {
     "status": "success",
     "country": "South Korea",
@@ -719,6 +703,22 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "90.189.217.65"
   },
+  "188.113.151.243": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "SAK",
+    "regionName": "Sakhalin Oblast",
+    "city": "Yuzhno-Sakhalinsk",
+    "zip": "693004",
+    "lat": 46.9557,
+    "lon": 142.733,
+    "timezone": "Asia/Sakhalin",
+    "isp": "Sakhalin Cable Telesystems Ltd",
+    "org": "Sakhalin Cable Telesystems Ltd",
+    "as": "AS51004 Sakhalin Cable Telesystems Ltd",
+    "query": "188.113.151.243"
+  },
   "1.55.69.211": {
     "status": "success",
     "country": "Vietnam",
@@ -767,6 +767,22 @@
     "as": "AS9845 LG HelloVision Corp.",
     "query": "123.248.182.124"
   },
+  "49.237.98.60": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "10",
+    "regionName": "Bangkok",
+    "city": "Din Daeng",
+    "zip": "10320",
+    "lat": 13.7625,
+    "lon": 100.568,
+    "timezone": "Asia/Bangkok",
+    "isp": "True Move Company Limited",
+    "org": "",
+    "as": "AS132618 Real Future Company Limited",
+    "query": "49.237.98.60"
+  },
   "1.66.33.240": {
     "status": "success",
     "country": "Japan",
@@ -782,5 +798,37 @@
     "org": "NTTDoCoMo",
     "as": "AS9605 NTT DOCOMO, INC.",
     "query": "1.66.33.240"
+  },
+  "112.133.179.228": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "46",
+    "regionName": "Jeollanam-do",
+    "city": "Hampyeong-gun",
+    "zip": "571",
+    "lat": 35.0611,
+    "lon": 126.5147,
+    "timezone": "Asia/Seoul",
+    "isp": "CMB Kwangju Broadcasting",
+    "org": "CMB Kwangju Broadcasting",
+    "as": "AS10054 CMB Kwangju Broadcasting",
+    "query": "112.133.179.228"
+  },
+  "178.186.170.20": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "ALT",
+    "regionName": "Altai Krai",
+    "city": "Barnaul",
+    "zip": "656002",
+    "lat": 53.362,
+    "lon": 83.7279,
+    "timezone": "Asia/Barnaul",
+    "isp": "OJSC \"Sibirtelecom\"",
+    "org": "Sibirtelecom Co.",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "178.186.170.20"
   }
 }
