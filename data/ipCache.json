@@ -335,22 +335,6 @@
     "as": "AS45758 Triple T Broadband Public Company Limited",
     "query": "223.205.66.19"
   },
-  "125.129.85.155": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Jungnang-gu",
-    "zip": "021",
-    "lat": 37.5859,
-    "lon": 127.1029,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "125.129.85.155"
-  },
   "180.144.149.181": {
     "status": "success",
     "country": "Japan",
@@ -366,22 +350,6 @@
     "org": "K-Opticom Corporation",
     "as": "AS17511 OPTAGE Inc.",
     "query": "180.144.149.181"
-  },
-  "223.218.22.136": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "11",
-    "regionName": "Saitama",
-    "city": "Negishi",
-    "zip": "336-0021",
-    "lat": 35.8553,
-    "lon": 139.6416,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "NTT Communications Corporation",
-    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
-    "query": "223.218.22.136"
   },
   "64.52.131.191": {
     "status": "success",
@@ -414,6 +382,22 @@
     "org": "broadNnet",
     "as": "AS17864 SK Broadband Co Ltd",
     "query": "61.109.29.48"
+  },
+  "106.168.67.207": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Yokohama",
+    "zip": "231-0841",
+    "lat": 35.4337,
+    "lon": 139.6499,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "106.168.67.207"
   },
   "112.145.244.242": {
     "status": "success",
@@ -478,6 +462,22 @@
     "org": "",
     "as": "AS133481 AIS Fibre",
     "query": "184.22.23.182"
+  },
+  "1.66.33.240": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Osaka",
+    "zip": "530-0041",
+    "lat": 34.6967,
+    "lon": 135.5154,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Docomo, inc.",
+    "org": "NTTDoCoMo",
+    "as": "AS9605 NTT DOCOMO, INC.",
+    "query": "1.66.33.240"
   },
   "181.44.40.174": {
     "status": "success",
@@ -702,5 +702,21 @@
     "org": "Cox Communications",
     "as": "AS22773 Cox Communications Inc.",
     "query": "72.220.99.177"
+  },
+  "188.168.117.75": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KHA",
+    "regionName": "Khabarovsk",
+    "city": "Khabarovsk",
+    "zip": "680003",
+    "lat": 48.4814,
+    "lon": 135.072,
+    "timezone": "Asia/Vladivostok",
+    "isp": "Limited Liability Company \"TTK-Svyaz\"",
+    "org": "",
+    "as": "AS15774 Limited Liability Company TTK-Svyaz",
+    "query": "188.168.117.75"
   }
 }
