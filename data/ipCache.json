@@ -223,6 +223,22 @@
     "as": "AS9770 LG HelloVision Corp.",
     "query": "113.52.211.252"
   },
+  "58.123.224.213": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Anyang-si",
+    "zip": "139",
+    "lat": 37.4027,
+    "lon": 126.9257,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "SK Broadband Co Ltd",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "58.123.224.213"
+  },
   "112.170.21.41": {
     "status": "success",
     "country": "South Korea",
@@ -254,22 +270,6 @@
     "org": "",
     "as": "AS44724 Octopusnet LTD",
     "query": "95.154.89.139"
-  },
-  "58.123.224.213": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Anyang-si",
-    "zip": "139",
-    "lat": 37.4027,
-    "lon": 126.9257,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "SK Broadband Co Ltd",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "58.123.224.213"
   },
   "119.235.113.226": {
     "status": "success",
@@ -303,21 +303,21 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.50"
   },
-  "106.243.71.229": {
+  "173.80.88.246": {
     "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "42",
-    "regionName": "Gangwon-do",
-    "city": "Wŏnju",
-    "zip": "263",
-    "lat": 37.384,
-    "lon": 127.8724,
-    "timezone": "Asia/Seoul",
-    "isp": "LG DACOM Corporation",
-    "org": "Boranet",
-    "as": "AS3786 LG DACOM Corporation",
-    "query": "106.243.71.229"
+    "country": "United States",
+    "countryCode": "US",
+    "region": "WV",
+    "regionName": "West Virginia",
+    "city": "Parkersburg",
+    "zip": "26104",
+    "lat": 39.2804,
+    "lon": -81.4936,
+    "timezone": "America/New_York",
+    "isp": "Suddenlink Communications",
+    "org": "Optimum",
+    "as": "AS19108 Optimum",
+    "query": "173.80.88.246"
   },
   "180.144.149.181": {
     "status": "success",
@@ -446,6 +446,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "118.36.136.132"
+  },
+  "124.45.52.79": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT-ME Corporation",
+    "org": "NTT-ME Corporation",
+    "as": "AS9595 NTT-ME Corporation",
+    "query": "124.45.52.79"
   },
   "184.22.23.182": {
     "status": "success",
