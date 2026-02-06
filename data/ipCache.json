@@ -670,21 +670,5 @@
     "org": "Vietnam Internet Network Information Center",
     "as": "AS18403 FPT Telecom Company",
     "query": "58.186.27.98"
-  },
-  "188.133.203.74": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "ALT",
-    "regionName": "Altai Krai",
-    "city": "Barnaul",
-    "zip": "656002",
-    "lat": 53.362,
-    "lon": 83.7279,
-    "timezone": "Asia/Barnaul",
-    "isp": "ENTER-NETWORK",
-    "org": "Enter, LLC",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "188.133.203.74"
   }
 }
