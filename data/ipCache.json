@@ -175,6 +175,22 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "118.157.139.36"
   },
+  "27.85.1.30": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Miharadai",
+    "zip": "590-0111",
+    "lat": 34.4996,
+    "lon": 135.5485,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "27.85.1.30"
+  },
   "58.123.224.213": {
     "status": "success",
     "country": "South Korea",
@@ -622,37 +638,5 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.226.8.88"
-  },
-  "37.110.83.193": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "MOW",
-    "regionName": "Moscow",
-    "city": "Moscow",
-    "zip": "127474",
-    "lat": 55.7487,
-    "lon": 37.6187,
-    "timezone": "Europe/Moscow",
-    "isp": "NCNET",
-    "org": "",
-    "as": "AS42610 PJSC Rostelecom",
-    "query": "37.110.83.193"
-  },
-  "24.19.50.63": {
-    "status": "success",
-    "country": "United States",
-    "countryCode": "US",
-    "region": "WA",
-    "regionName": "Washington",
-    "city": "Everett",
-    "zip": "98208",
-    "lat": 47.8948,
-    "lon": -122.2031,
-    "timezone": "America/Los_Angeles",
-    "isp": "Comcast Cable Communications, LLC",
-    "org": "Comcast Cable Communications",
-    "as": "AS7922 Comcast Cable Communications, LLC",
-    "query": "24.19.50.63"
   }
 }
