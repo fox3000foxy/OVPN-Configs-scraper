@@ -255,6 +255,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "14.52.253.14"
   },
+  "118.158.46.247": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Hōyachō",
+    "zip": "202-0011",
+    "lat": 35.7422,
+    "lon": 139.5518,
+    "timezone": "Asia/Tokyo",
+    "isp": "DION (KDDI CORPORATION)",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "118.158.46.247"
+  },
   "153.160.148.90": {
     "status": "success",
     "country": "Japan",
@@ -270,22 +286,6 @@
     "org": "Open Computer Network",
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "153.160.148.90"
-  },
-  "60.83.88.123": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan Nation-wide Network of Softbank Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "60.83.88.123"
   },
   "222.4.112.69": {
     "status": "success",
@@ -479,6 +479,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "61.75.115.245"
   },
+  "175.28.146.212": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "40",
+    "regionName": "Fukuoka",
+    "city": "Mugino",
+    "zip": "812-0881",
+    "lat": 33.5553,
+    "lon": 130.4689,
+    "timezone": "Asia/Tokyo",
+    "isp": "QTnet, Inc.",
+    "org": "QTnet, Inc.",
+    "as": "AS7679 QTnet,Inc.",
+    "query": "175.28.146.212"
+  },
   "49.228.234.205": {
     "status": "success",
     "country": "Thailand",
@@ -654,21 +670,5 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "116.124.32.221"
-  },
-  "42.127.118.159": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "22",
-    "regionName": "Shizuoka",
-    "city": "Shimoyabuta",
-    "zip": "426-0201",
-    "lat": 34.8853,
-    "lon": 138.2689,
-    "timezone": "Asia/Tokyo",
-    "isp": "TOKAI Communications Corporation",
-    "org": "TOKAI",
-    "as": "AS10010 TOKAI Communications Corporation",
-    "query": "42.127.118.159"
   }
 }
