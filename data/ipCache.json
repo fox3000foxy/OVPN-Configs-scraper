@@ -495,21 +495,21 @@
     "as": "AS133481 AIS Fibre",
     "query": "49.228.120.16"
   },
-  "217.178.225.193": {
+  "151.66.222.69": {
     "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "23",
-    "regionName": "Aichi",
-    "city": "Owariasahi",
-    "zip": "491-0021",
-    "lat": 35.208,
-    "lon": 137.03,
-    "timezone": "Asia/Tokyo",
-    "isp": "Internet Multifeed CO.",
-    "org": "Internet Multifeed CO.",
-    "as": "AS55392 INTERNET MULTIFEED CO.",
-    "query": "217.178.225.193"
+    "country": "Italy",
+    "countryCode": "IT",
+    "region": "25",
+    "regionName": "Lombardy",
+    "city": "Paderno Dugnano",
+    "zip": "20037",
+    "lat": 45.5685,
+    "lon": 9.1726,
+    "timezone": "Europe/Rome",
+    "isp": "INFOSTRADA",
+    "org": "",
+    "as": "AS1267 WIND TRE S.P.A.",
+    "query": "151.66.222.69"
   },
   "79.105.223.157": {
     "status": "success",
