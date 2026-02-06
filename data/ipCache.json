@@ -607,22 +607,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "221.151.19.171"
   },
-  "1.73.21.162": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Osaka",
-    "zip": "530-0041",
-    "lat": 34.6967,
-    "lon": 135.5154,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Docomo, inc.",
-    "org": "NTTDoCoMo",
-    "as": "AS9605 NTT DOCOMO, INC.",
-    "query": "1.73.21.162"
-  },
   "178.187.41.196": {
     "status": "success",
     "country": "Russia",
@@ -719,21 +703,21 @@
     "as": "AS51004 Sakhalin Cable Telesystems Ltd",
     "query": "188.113.151.243"
   },
-  "1.55.69.211": {
+  "42.118.254.101": {
     "status": "success",
     "country": "Vietnam",
     "countryCode": "VN",
-    "region": "SG",
-    "regionName": "Ho Chi Minh",
-    "city": "Ho Chi Minh City",
-    "zip": "700000",
-    "lat": 10.822,
-    "lon": 106.6257,
-    "timezone": "Asia/Ho_Chi_Minh",
+    "region": "HN",
+    "regionName": "Hanoi",
+    "city": "Hanoi",
+    "zip": "100000",
+    "lat": 21.0184,
+    "lon": 105.8461,
+    "timezone": "Asia/Bangkok",
     "isp": "FPT Telecom Company",
     "org": "Vietnam Internet Network Information Center",
     "as": "AS18403 FPT Telecom Company",
-    "query": "1.55.69.211"
+    "query": "42.118.254.101"
   },
   "178.173.99.148": {
     "status": "success",
@@ -782,22 +766,6 @@
     "org": "",
     "as": "AS132618 Real Future Company Limited",
     "query": "49.237.98.60"
-  },
-  "1.66.33.240": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Osaka",
-    "zip": "530-0041",
-    "lat": 34.6967,
-    "lon": 135.5154,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Docomo, inc.",
-    "org": "NTTDoCoMo",
-    "as": "AS9605 NTT DOCOMO, INC.",
-    "query": "1.66.33.240"
   },
   "112.133.179.228": {
     "status": "success",
