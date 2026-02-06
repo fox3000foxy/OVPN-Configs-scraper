@@ -271,21 +271,21 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "182.171.116.240"
   },
-  "106.243.71.229": {
+  "113.148.186.91": {
     "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "42",
-    "regionName": "Gangwon-do",
-    "city": "Wŏnju",
-    "zip": "263",
-    "lat": 37.384,
-    "lon": 127.8724,
-    "timezone": "Asia/Seoul",
-    "isp": "LG DACOM Corporation",
-    "org": "Boranet",
-    "as": "AS3786 LG DACOM Corporation",
-    "query": "106.243.71.229"
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "26",
+    "regionName": "Kyoto",
+    "city": "Uji",
+    "zip": "611-0041",
+    "lat": 34.8992,
+    "lon": 135.7859,
+    "timezone": "Asia/Tokyo",
+    "isp": "DION (KDDI CORPORATION)",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "113.148.186.91"
   },
   "218.115.121.212": {
     "status": "success",
@@ -446,22 +446,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "220.86.64.116"
-  },
-  "81.201.19.107": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "SPE",
-    "regionName": "St.-Petersburg",
-    "city": "St Petersburg",
-    "zip": "190990",
-    "lat": 59.8983,
-    "lon": 30.2618,
-    "timezone": "Europe/Moscow",
-    "isp": "OJSC \"Mobile TeleSystems\"",
-    "org": "PJSC \"Mobile TeleSystems\"",
-    "as": "AS8359 MTS PJSC",
-    "query": "81.201.19.107"
   },
   "211.217.217.150": {
     "status": "success",
