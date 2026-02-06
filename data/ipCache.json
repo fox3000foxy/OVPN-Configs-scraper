@@ -95,22 +95,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.126"
   },
-  "219.100.37.109": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftEther",
-    "org": "SoftEther Corporation",
-    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.109"
-  },
   "34.142.207.18": {
     "status": "success",
     "country": "Singapore",
@@ -126,6 +110,22 @@
     "org": "Google Cloud (asia-southeast1)",
     "as": "AS396982 Google LLC",
     "query": "34.142.207.18"
+  },
+  "219.100.37.109": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftEther",
+    "org": "SoftEther Corporation",
+    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
+    "query": "219.100.37.109"
   },
   "219.100.37.208": {
     "status": "success",
@@ -463,37 +463,21 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "36.14.133.245"
   },
-  "1.66.33.240": {
+  "210.174.55.239": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Osaka",
-    "zip": "530-0041",
-    "lat": 34.6967,
-    "lon": 135.5154,
+    "region": "12",
+    "regionName": "Chiba",
+    "city": "Matsudo",
+    "zip": "271-0091",
+    "lat": 35.7834,
+    "lon": 139.8958,
     "timezone": "Asia/Tokyo",
-    "isp": "NTT Docomo, inc.",
-    "org": "NTTDoCoMo",
-    "as": "AS9605 NTT DOCOMO, INC.",
-    "query": "1.66.33.240"
-  },
-  "90.79.1.107": {
-    "status": "success",
-    "country": "France",
-    "countryCode": "FR",
-    "region": "IDF",
-    "regionName": "Île-de-France",
-    "city": "Paris",
-    "zip": "75017",
-    "lat": 48.8558,
-    "lon": 2.3494,
-    "timezone": "Europe/Paris",
-    "isp": "Orange",
-    "org": "",
-    "as": "AS3215 Orange S.A.",
-    "query": "90.79.1.107"
+    "isp": "Japan Network Information Center",
+    "org": "SO-Net Service",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "210.174.55.239"
   },
   "92.125.12.76": {
     "status": "success",
@@ -718,5 +702,21 @@
     "org": "Xpeed",
     "as": "AS17858 LG POWERCOMM",
     "query": "116.34.216.160"
+  },
+  "59.1.69.163": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "45",
+    "regionName": "Jeollabuk-do",
+    "city": "Jeonju",
+    "zip": "549",
+    "lat": 35.8345,
+    "lon": 127.1057,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Korea Telecom",
+    "as": "AS4766 Korea Telecom",
+    "query": "59.1.69.163"
   }
 }
