@@ -463,21 +463,21 @@
     "as": "AS9595 NTT-ME Corporation",
     "query": "124.45.52.79"
   },
-  "184.22.23.182": {
+  "220.102.233.254": {
     "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "10",
-    "regionName": "Bangkok",
-    "city": "Bangkok",
-    "zip": "10120",
-    "lat": 13.7101,
-    "lon": 100.4543,
-    "timezone": "Asia/Bangkok",
-    "isp": "AIS-Fibre",
-    "org": "",
-    "as": "AS133481 AIS Fibre",
-    "query": "184.22.23.182"
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "12",
+    "regionName": "Chiba",
+    "city": "Nagareyama",
+    "zip": "270-0151",
+    "lat": 35.8566,
+    "lon": 139.9185,
+    "timezone": "Asia/Tokyo",
+    "isp": "NEC BIGLOBE Ltd.",
+    "org": "BIGLOBE",
+    "as": "AS2518 BIGLOBE Inc.",
+    "query": "220.102.233.254"
   },
   "181.44.40.174": {
     "status": "success",
@@ -527,21 +527,21 @@
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "119.170.133.181"
   },
-  "138.64.64.161": {
+  "45.238.100.251": {
     "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Gohongi",
-    "zip": "153-0051",
-    "lat": 35.6383,
-    "lon": 139.6937,
-    "timezone": "Asia/Tokyo",
-    "isp": "ASAHI Net, Inc.",
-    "org": "ASAHI",
-    "as": "AS4685 Asahi Net",
-    "query": "138.64.64.161"
+    "country": "Brazil",
+    "countryCode": "BR",
+    "region": "GO",
+    "regionName": "Goiás",
+    "city": "Itaberaí",
+    "zip": "76630",
+    "lat": -16.111,
+    "lon": -49.8425,
+    "timezone": "America/Sao_Paulo",
+    "isp": "Oraclon Telecom",
+    "org": "Oraclon Telecom",
+    "as": "AS268335 ORACLON TELECOM",
+    "query": "45.238.100.251"
   },
   "175.214.152.6": {
     "status": "success",
@@ -639,21 +639,21 @@
     "as": "AS17858 LG POWERCOMM",
     "query": "180.224.138.7"
   },
-  "125.139.49.108": {
+  "118.71.197.179": {
     "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "45",
-    "regionName": "Jeollabuk-do",
-    "city": "Jeonju",
-    "zip": "548",
-    "lat": 35.8396,
-    "lon": 127.0671,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "125.139.49.108"
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "HN",
+    "regionName": "Hanoi",
+    "city": "Hanoi",
+    "zip": "100000",
+    "lat": 21.0184,
+    "lon": 105.8461,
+    "timezone": "Asia/Bangkok",
+    "isp": "Vietnam Internet Network Information Center",
+    "org": "",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "118.71.197.179"
   },
   "178.218.191.245": {
     "status": "success",
