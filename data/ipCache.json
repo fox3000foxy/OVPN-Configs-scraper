@@ -607,22 +607,6 @@
     "as": "AS9845 LG HelloVision Corp.",
     "query": "115.40.206.229"
   },
-  "121.162.135.220": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Mapo-gu",
-    "zip": "041",
-    "lat": 37.5521,
-    "lon": 126.9505,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "121.162.135.220"
-  },
   "37.23.161.117": {
     "status": "success",
     "country": "Russia",
