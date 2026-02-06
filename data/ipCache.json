@@ -367,21 +367,21 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.55.239.154"
   },
-  "221.49.114.110": {
+  "115.162.12.26": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
+    "region": "24",
+    "regionName": "Mie",
+    "city": "Ise",
+    "zip": "516-0031",
+    "lat": 34.4881,
+    "lon": 136.7163,
     "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan nation-wide Network of SOFTBANK BB Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "221.49.114.110"
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "115.162.12.26"
   },
   "171.7.60.101": {
     "status": "success",
@@ -654,5 +654,21 @@
     "org": "",
     "as": "AS133481 AIS Fibre",
     "query": "184.22.114.230"
+  },
+  "119.192.208.193": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Mapo-gu",
+    "zip": "039",
+    "lat": 37.5681,
+    "lon": 126.8998,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "119.192.208.193"
   }
 }
