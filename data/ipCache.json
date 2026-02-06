@@ -495,22 +495,6 @@
     "as": "AS9605 NTT DOCOMO, INC.",
     "query": "1.66.33.240"
   },
-  "42.115.78.206": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "39",
-    "regionName": "Đồng Nai Province",
-    "city": "Biên Hòa",
-    "zip": "810000",
-    "lat": 10.9413,
-    "lon": 106.8221,
-    "timezone": "Asia/Ho_Chi_Minh",
-    "isp": "FPT Telecom Company",
-    "org": "Vietnam Internet Network Information Center",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "42.115.78.206"
-  },
   "92.125.12.76": {
     "status": "success",
     "country": "Russia",
@@ -559,21 +543,21 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "5.137.74.168"
   },
-  "109.226.248.25": {
+  "211.33.239.18": {
     "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KYA",
-    "regionName": "Krasnoyarsk Krai",
-    "city": "Krasnoyarsk",
-    "zip": "660017",
-    "lat": 56.0374,
-    "lon": 92.9314,
-    "timezone": "Asia/Krasnoyarsk",
-    "isp": "Orion Telecom LLC",
-    "org": "Orion Telecom LLC",
-    "as": "AS50427 Orion Telecom LLC",
-    "query": "109.226.248.25"
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Saha-gu",
+    "zip": "495",
+    "lat": 35.0556,
+    "lon": 128.9842,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "KT Corporation",
+    "as": "AS4766 Korea Telecom",
+    "query": "211.33.239.18"
   },
   "211.107.198.109": {
     "status": "success",
