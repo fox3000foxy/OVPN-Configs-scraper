@@ -415,21 +415,21 @@
     "as": "AS18403 FPT Telecom Company",
     "query": "42.112.215.182"
   },
-  "138.64.65.21": {
+  "150.31.45.162": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
     "region": "13",
     "regionName": "Tokyo",
-    "city": "Gohongi",
-    "zip": "153-0051",
-    "lat": 35.6383,
-    "lon": 139.6937,
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6906,
+    "lon": 139.77,
     "timezone": "Asia/Tokyo",
-    "isp": "ASAHI Net, Inc.",
-    "org": "ASAHI",
-    "as": "AS4685 Asahi Net",
-    "query": "138.64.65.21"
+    "isp": "Internet Initiative Japan Inc.",
+    "org": "IIJ Internet",
+    "as": "AS2497 Internet Initiative Japan Inc.",
+    "query": "150.31.45.162"
   },
   "60.93.74.112": {
     "status": "success",
@@ -495,22 +495,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "219.241.27.76"
   },
-  "118.87.61.88": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "40",
-    "regionName": "Fukuoka",
-    "city": "Kitaku",
-    "zip": "807-1154",
-    "lat": 33.7937,
-    "lon": 130.687,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM",
-    "org": "Jupiter Telecommunications Co., Ltd.",
-    "as": "AS4721 JCOM Co., Ltd.",
-    "query": "118.87.61.88"
-  },
   "112.139.219.232": {
     "status": "success",
     "country": "Japan",
@@ -526,6 +510,22 @@
     "org": "TOKAI",
     "as": "AS10010 TOKAI Communications Corporation",
     "query": "112.139.219.232"
+  },
+  "49.228.250.244": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "20",
+    "regionName": "Chon Buri",
+    "city": "Bang Lamung",
+    "zip": "20150",
+    "lat": 13.0508,
+    "lon": 100.9367,
+    "timezone": "Asia/Bangkok",
+    "isp": "Advanced Wireless Network Company Limited",
+    "org": "",
+    "as": "AS133481 AIS Fibre",
+    "query": "49.228.250.244"
   },
   "211.219.73.150": {
     "status": "success",
