@@ -70,12 +70,6 @@ Or download individually:
 | 92.202.59.17 | Japan | Sony Network Communications Inc | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/92.202.59.17.ovpn) |
 
 
-### Northern Mariana Islands
-| IP | Country | ISP | Provider | Config |
-|---|---|---|---|---|
-| 202.88.80.26 | Northern Mariana Islands | PTI Pacifica Inc. | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/202.88.80.26.ovpn) |
-
-
 ### South Korea
 | IP | Country | ISP | Provider | Config |
 |---|---|---|---|---|
@@ -94,6 +88,7 @@ Or download individually:
 | 112.168.207.62 | South Korea | Korea Telecom | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/112.168.207.62.ovpn) |
 | 175.198.57.28 | South Korea | Korea Telecom | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/175.198.57.28.ovpn) |
 | 118.43.207.237 | South Korea | Korea Telecom | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/118.43.207.237.ovpn) |
+| 218.38.253.108 | South Korea | SK Broadband Co Ltd | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/218.38.253.108.ovpn) |
 | 110.14.247.155 | South Korea | SK Broadband Co Ltd | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/110.14.247.155.ovpn) |
 
 

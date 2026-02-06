@@ -207,22 +207,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "27.83.68.134"
   },
-  "185.124.155.182": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "NVS",
-    "regionName": "Novosibirsk Oblast",
-    "city": "Novosibirsk",
-    "zip": "",
-    "lat": 54.9833,
-    "lon": 82.8964,
-    "timezone": "Asia/Novosibirsk",
-    "isp": "KrasPromStroy, LLC",
-    "org": "",
-    "as": "AS12737 KrasPromStroy, LLC",
-    "query": "185.124.155.182"
-  },
   "183.99.115.65": {
     "status": "success",
     "country": "South Korea",
@@ -350,22 +334,6 @@
     "org": "SOFTBANK Corp",
     "as": "AS17676 SoftBank Corp.",
     "query": "126.21.26.64"
-  },
-  "202.88.80.26": {
-    "status": "success",
-    "country": "Northern Mariana Islands",
-    "countryCode": "MP",
-    "region": "S",
-    "regionName": "Saipan",
-    "city": "Saipan",
-    "zip": "",
-    "lat": 15.2136,
-    "lon": 145.7584,
-    "timezone": "Pacific/Saipan",
-    "isp": "PTI Pacifica Inc.",
-    "org": "The Micronesian Telecommunications Corporation",
-    "as": "AS7131 PTI Pacifica Inc.",
-    "query": "202.88.80.26"
   },
   "60.141.151.166": {
     "status": "success",
@@ -606,6 +574,22 @@
     "org": "HVGyeongnam",
     "as": "AS9845 LG HelloVision Corp.",
     "query": "115.40.206.229"
+  },
+  "218.38.253.108": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Yongin-si",
+    "zip": "169",
+    "lat": 37.298,
+    "lon": 127.0777,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "218.38.253.108"
   },
   "37.23.161.117": {
     "status": "success",
