@@ -191,6 +191,22 @@
     "as": "AS4725 SoftBank Corp.",
     "query": "220.212.128.195"
   },
+  "103.152.178.62": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-0001",
+    "lat": 35.694,
+    "lon": 139.754,
+    "timezone": "Asia/Tokyo",
+    "isp": "Ayao Takata",
+    "org": "SDCC-East01",
+    "as": "AS38074 SDCC Japan-West Area",
+    "query": "103.152.178.62"
+  },
   "112.220.30.58": {
     "status": "success",
     "country": "South Korea",
@@ -351,22 +367,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "222.98.176.199"
   },
-  "31.200.225.17": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PRI",
-    "regionName": "Primorye",
-    "city": "Nakhodka",
-    "zip": "692902",
-    "lat": 42.8318,
-    "lon": 132.9223,
-    "timezone": "Asia/Vladivostok",
-    "isp": "ISP Podryad Nets",
-    "org": "",
-    "as": "AS196949 Natalia Sergeevna Filicheva",
-    "query": "31.200.225.17"
-  },
   "42.115.78.206": {
     "status": "success",
     "country": "Vietnam",
@@ -447,22 +447,6 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "153.176.150.115"
   },
-  "150.31.45.162": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6906,
-    "lon": 139.77,
-    "timezone": "Asia/Tokyo",
-    "isp": "Internet Initiative Japan Inc.",
-    "org": "IIJ Internet",
-    "as": "AS2497 Internet Initiative Japan Inc.",
-    "query": "150.31.45.162"
-  },
   "222.109.72.106": {
     "status": "success",
     "country": "South Korea",
@@ -511,6 +495,22 @@
     "as": "AS18403 FPT Telecom Company",
     "query": "42.113.89.213"
   },
+  "180.5.76.17": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "11",
+    "regionName": "Saitama",
+    "city": "Tokiwa",
+    "zip": "330-0061",
+    "lat": 35.8669,
+    "lon": 139.6469,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "Open Computer Network",
+    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
+    "query": "180.5.76.17"
+  },
   "14.41.72.173": {
     "status": "success",
     "country": "South Korea",
@@ -526,22 +526,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "14.41.72.173"
-  },
-  "112.139.219.232": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "22",
-    "regionName": "Shizuoka",
-    "city": "Kamiashiarai",
-    "zip": "420-0841",
-    "lat": 34.9893,
-    "lon": 138.393,
-    "timezone": "Asia/Tokyo",
-    "isp": "TOKAI Communications Corporation",
-    "org": "TOKAI",
-    "as": "AS10010 TOKAI Communications Corporation",
-    "query": "112.139.219.232"
   },
   "219.126.126.150": {
     "status": "success",
