@@ -399,22 +399,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "79.105.250.60"
   },
-  "171.6.118.177": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "10",
-    "regionName": "Bangkok",
-    "city": "Bangkok",
-    "zip": "10110",
-    "lat": 13.7101,
-    "lon": 100.4543,
-    "timezone": "Asia/Bangkok",
-    "isp": "Triple T Broadband Public Company Limited",
-    "org": "Triple T Broadband Public Company Limited",
-    "as": "AS45758 Triple T Broadband Public Company Limited",
-    "query": "171.6.118.177"
-  },
   "126.207.64.178": {
     "status": "success",
     "country": "Japan",
@@ -430,6 +414,22 @@
     "org": "SOFTBANK Corp",
     "as": "AS17676 SoftBank Corp.",
     "query": "126.207.64.178"
+  },
+  "60.121.145.32": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.121.145.32"
   },
   "126.159.87.12": {
     "status": "success",
@@ -495,21 +495,21 @@
     "as": "AS133481 AIS Fibre",
     "query": "49.228.120.16"
   },
-  "151.66.222.69": {
+  "217.178.225.193": {
     "status": "success",
-    "country": "Italy",
-    "countryCode": "IT",
-    "region": "25",
-    "regionName": "Lombardy",
-    "city": "Paderno Dugnano",
-    "zip": "20037",
-    "lat": 45.5685,
-    "lon": 9.1726,
-    "timezone": "Europe/Rome",
-    "isp": "INFOSTRADA",
-    "org": "",
-    "as": "AS1267 WIND TRE S.P.A.",
-    "query": "151.66.222.69"
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "23",
+    "regionName": "Aichi",
+    "city": "Owariasahi",
+    "zip": "491-0021",
+    "lat": 35.208,
+    "lon": 137.03,
+    "timezone": "Asia/Tokyo",
+    "isp": "Internet Multifeed CO.",
+    "org": "Internet Multifeed CO.",
+    "as": "AS55392 INTERNET MULTIFEED CO.",
+    "query": "217.178.225.193"
   },
   "79.105.223.157": {
     "status": "success",
@@ -526,22 +526,6 @@
     "org": "OJSC Far Eastern Telecommunications Company Amursky st.",
     "as": "AS34137 PJSC Rostelecom",
     "query": "79.105.223.157"
-  },
-  "175.177.49.114": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Utsukushigaoka",
-    "zip": "225-0001",
-    "lat": 35.5803,
-    "lon": 139.5517,
-    "timezone": "Asia/Tokyo",
-    "isp": "its communications Inc.",
-    "org": "its communications Inc.",
-    "as": "AS9365 its communications Inc.",
-    "query": "175.177.49.114"
   },
   "87.103.250.204": {
     "status": "success",
