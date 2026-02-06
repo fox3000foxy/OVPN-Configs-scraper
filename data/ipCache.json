@@ -271,6 +271,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.102"
   },
+  "125.52.118.171": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "01",
+    "regionName": "Hokkaido",
+    "city": "Sapporo",
+    "zip": "065-0021",
+    "lat": 43.0885,
+    "lon": 141.3571,
+    "timezone": "Asia/Tokyo",
+    "isp": "DION (KDDI CORPORATION)",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "125.52.118.171"
+  },
   "219.100.37.50": {
     "status": "success",
     "country": "Japan",
@@ -367,22 +383,6 @@
     "as": "AS39785 Axioma, LLC",
     "query": "95.170.177.6"
   },
-  "180.29.209.35": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "42",
-    "regionName": "Nagasaki",
-    "city": "Nagasaki",
-    "zip": "850-0901",
-    "lat": 32.7481,
-    "lon": 129.8816,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "NTT Communications Corporation",
-    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
-    "query": "180.29.209.35"
-  },
   "221.157.130.155": {
     "status": "success",
     "country": "South Korea",
@@ -447,6 +447,22 @@
     "as": "AS15774 Limited Liability Company TTK-Svyaz",
     "query": "46.226.245.188"
   },
+  "122.203.244.115": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Seongdong-gu",
+    "zip": "047",
+    "lat": 37.5511,
+    "lon": 127.0387,
+    "timezone": "Asia/Seoul",
+    "isp": "DACOM-PUBNETPLUS",
+    "org": "Pubnetplus",
+    "as": "AS9316 DACOM-PUBNETPLUS",
+    "query": "122.203.244.115"
+  },
   "126.1.52.210": {
     "status": "success",
     "country": "Japan",
@@ -479,21 +495,21 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "121.3.217.251"
   },
-  "42.127.118.159": {
+  "126.87.220.117": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "22",
-    "regionName": "Shizuoka",
-    "city": "Shimoyabuta",
-    "zip": "426-0201",
-    "lat": 34.8853,
-    "lon": 138.2689,
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Higashiosaka",
+    "zip": "577-0801",
+    "lat": 34.6667,
+    "lon": 135.583,
     "timezone": "Asia/Tokyo",
-    "isp": "TOKAI Communications Corporation",
-    "org": "TOKAI",
-    "as": "AS10010 TOKAI Communications Corporation",
-    "query": "42.127.118.159"
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.87.220.117"
   },
   "124.44.74.37": {
     "status": "success",
