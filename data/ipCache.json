@@ -143,22 +143,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "218.145.181.197"
   },
-  "211.221.198.244": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Yongin-si",
-    "zip": "171",
-    "lat": 37.1522,
-    "lon": 127.1752,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "sudogwonseobubonbu",
-    "as": "AS4766 Korea Telecom",
-    "query": "211.221.198.244"
-  },
   "120.75.146.85": {
     "status": "success",
     "country": "Japan",
@@ -174,6 +158,22 @@
     "org": "Sony Network Communications Inc.",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "120.75.146.85"
+  },
+  "211.221.198.244": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Yongin-si",
+    "zip": "171",
+    "lat": 37.1522,
+    "lon": 127.1752,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "sudogwonseobubonbu",
+    "as": "AS4766 Korea Telecom",
+    "query": "211.221.198.244"
   },
   "180.68.118.32": {
     "status": "success",
