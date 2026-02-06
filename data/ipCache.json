@@ -111,21 +111,21 @@
     "as": "AS2519 ARTERIA Networks Corporation",
     "query": "1.21.121.201"
   },
-  "118.240.68.160": {
+  "131.147.142.132": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Kamikuratachō",
-    "zip": "244-0816",
-    "lat": 35.3973,
-    "lon": 139.5453,
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Wada",
+    "zip": "166-0011",
+    "lat": 35.6945,
+    "lon": 139.6524,
     "timezone": "Asia/Tokyo",
     "isp": "Sony Network Communications Inc",
     "org": "Sony Network Communications Inc.",
     "as": "AS2527 Sony Network Communications Inc.",
-    "query": "118.240.68.160"
+    "query": "131.147.142.132"
   },
   "220.212.128.195": {
     "status": "success",
@@ -175,38 +175,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "115.22.171.164"
   },
-  "103.152.178.62": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-0001",
-    "lat": 35.694,
-    "lon": 139.754,
-    "timezone": "Asia/Tokyo",
-    "isp": "Ayao Takata",
-    "org": "SDCC-East01",
-    "as": "AS38074 SDCC Japan-West Area",
-    "query": "103.152.178.62"
-  },
-  "110.46.158.118": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "26",
-    "regionName": "Busan",
-    "city": "Haeundae-gu",
-    "zip": "480",
-    "lat": 35.1692,
-    "lon": 129.1738,
-    "timezone": "Asia/Seoul",
-    "isp": "CJ Hello Co",
-    "org": "HVHaeundae",
-    "as": "AS9697 LG HelloVision Corp.",
-    "query": "110.46.158.118"
-  },
   "27.83.68.134": {
     "status": "success",
     "country": "Japan",
@@ -223,6 +191,22 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "27.83.68.134"
   },
+  "103.152.178.62": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-0001",
+    "lat": 35.694,
+    "lon": 139.754,
+    "timezone": "Asia/Tokyo",
+    "isp": "Ayao Takata",
+    "org": "SDCC-East01",
+    "as": "AS38074 SDCC Japan-West Area",
+    "query": "103.152.178.62"
+  },
   "219.100.37.102": {
     "status": "success",
     "country": "Japan",
@@ -238,6 +222,22 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.102"
+  },
+  "110.46.158.118": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Haeundae-gu",
+    "zip": "480",
+    "lat": 35.1692,
+    "lon": 129.1738,
+    "timezone": "Asia/Seoul",
+    "isp": "CJ Hello Co",
+    "org": "HVHaeundae",
+    "as": "AS9697 LG HelloVision Corp.",
+    "query": "110.46.158.118"
   },
   "70.95.182.216": {
     "status": "success",
@@ -447,6 +447,22 @@
     "as": "AS2497 Internet Initiative Japan Inc.",
     "query": "150.31.45.162"
   },
+  "93.118.43.183": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Kanda-jinbōchō",
+    "zip": "102-0073",
+    "lat": 35.6956,
+    "lon": 139.756,
+    "timezone": "Asia/Tokyo",
+    "isp": "Datatrip-ISP",
+    "org": "Packet Flip, LLC",
+    "as": "AS58325 Hydra Communications Ltd",
+    "query": "93.118.43.183"
+  },
   "222.109.72.106": {
     "status": "success",
     "country": "South Korea",
@@ -478,22 +494,6 @@
     "org": "FPTDYNAMICIP",
     "as": "AS18403 FPT Telecom Company",
     "query": "42.113.89.213"
-  },
-  "219.241.27.76": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Suwon",
-    "zip": "166",
-    "lat": 37.2506,
-    "lon": 127.0668,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "219.241.27.76"
   },
   "112.139.219.232": {
     "status": "success",
