@@ -127,6 +127,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.204"
   },
+  "36.13.6.150": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "11",
+    "regionName": "Saitama",
+    "city": "Honchō",
+    "zip": "335-0021",
+    "lat": 35.8103,
+    "lon": 139.6696,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "36.13.6.150"
+  },
   "221.144.197.228": {
     "status": "success",
     "country": "South Korea",
@@ -302,22 +318,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "14.52.253.14"
-  },
-  "126.200.149.103": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.200.149.103"
   },
   "180.29.209.35": {
     "status": "success",
