@@ -303,6 +303,22 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "113.144.29.135"
   },
+  "36.14.74.224": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Machida",
+    "zip": "194-0041",
+    "lat": 35.5652,
+    "lon": 139.4642,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "36.14.74.224"
+  },
   "91.219.203.117": {
     "status": "success",
     "country": "Russia",
@@ -462,22 +478,6 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "36.14.133.245"
-  },
-  "210.174.55.239": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "12",
-    "regionName": "Chiba",
-    "city": "Matsudo",
-    "zip": "271-0091",
-    "lat": 35.7834,
-    "lon": 139.8958,
-    "timezone": "Asia/Tokyo",
-    "isp": "Japan Network Information Center",
-    "org": "SO-Net Service",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "210.174.55.239"
   },
   "92.125.12.76": {
     "status": "success",
@@ -639,22 +639,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "178.187.92.101"
   },
-  "45.140.95.66": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KHA",
-    "regionName": "Khabarovsk",
-    "city": "Khabarovsk",
-    "zip": "680000",
-    "lat": 48.4817,
-    "lon": 135.083,
-    "timezone": "Asia/Vladivostok",
-    "isp": "JSC \"Redcom-lnternet\"",
-    "org": "Redcom Retail Services",
-    "as": "AS8749 JSC Redcom-lnternet",
-    "query": "45.140.95.66"
-  },
   "1.52.244.74": {
     "status": "success",
     "country": "Vietnam",
@@ -670,6 +654,22 @@
     "org": "Vietnam Internet Network Information Center",
     "as": "AS18403 FPT Telecom Company",
     "query": "1.52.244.74"
+  },
+  "45.140.95.66": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KHA",
+    "regionName": "Khabarovsk",
+    "city": "Khabarovsk",
+    "zip": "680000",
+    "lat": 48.4817,
+    "lon": 135.083,
+    "timezone": "Asia/Vladivostok",
+    "isp": "JSC \"Redcom-lnternet\"",
+    "org": "Redcom Retail Services",
+    "as": "AS8749 JSC Redcom-lnternet",
+    "query": "45.140.95.66"
   },
   "95.191.46.223": {
     "status": "success",
@@ -718,5 +718,21 @@
     "org": "Korea Telecom",
     "as": "AS4766 Korea Telecom",
     "query": "59.1.69.163"
+  },
+  "109.126.225.28": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "VLA",
+    "regionName": "Vladimir Oblast",
+    "city": "Vladimir",
+    "zip": "600017",
+    "lat": 56.1342,
+    "lon": 40.3888,
+    "timezone": "Europe/Moscow",
+    "isp": "Elcom ISP",
+    "org": "OJSC Rostelecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "109.126.225.28"
   }
 }
