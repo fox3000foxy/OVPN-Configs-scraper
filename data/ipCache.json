@@ -351,22 +351,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "92.202.59.17"
   },
-  "121.170.248.105": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "28",
-    "regionName": "Incheon",
-    "city": "Seo-gu",
-    "zip": "228",
-    "lat": 37.5488,
-    "lon": 126.6578,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Sudogwonseobubonbu",
-    "as": "AS4766 Korea Telecom",
-    "query": "121.170.248.105"
-  },
   "58.136.88.65": {
     "status": "success",
     "country": "Thailand",
@@ -382,22 +366,6 @@
     "org": "",
     "as": "AS133481 AIS Fibre",
     "query": "58.136.88.65"
-  },
-  "49.167.12.160": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "44",
-    "regionName": "Chungcheongnam-do",
-    "city": "Tangjin",
-    "zip": "317",
-    "lat": 36.8951,
-    "lon": 126.625,
-    "timezone": "Asia/Seoul",
-    "isp": "LG POWERCOMM",
-    "org": "LG POWERCOMM",
-    "as": "AS17858 LG POWERCOMM",
-    "query": "49.167.12.160"
   },
   "182.21.147.85": {
     "status": "success",
@@ -543,6 +511,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.162.174.151"
   },
+  "121.153.54.145": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "44",
+    "regionName": "Chungcheongnam-do",
+    "city": "Hongseong-gun",
+    "zip": "322",
+    "lat": 36.5671,
+    "lon": 126.6263,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Korea Telecom",
+    "as": "AS4766 Korea Telecom",
+    "query": "121.153.54.145"
+  },
   "112.168.207.62": {
     "status": "success",
     "country": "South Korea",
@@ -590,6 +574,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "118.43.207.237"
+  },
+  "115.40.206.229": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "48",
+    "regionName": "Gyeongsangnam-do",
+    "city": "Changwon",
+    "zip": "515",
+    "lat": 35.2103,
+    "lon": 128.6712,
+    "timezone": "Asia/Seoul",
+    "isp": "CJ Hello Co",
+    "org": "HVGyeongnam",
+    "as": "AS9845 LG HelloVision Corp.",
+    "query": "115.40.206.229"
   },
   "121.162.135.220": {
     "status": "success",
@@ -734,5 +734,21 @@
     "org": "K-Opticom Corporation",
     "as": "AS17511 OPTAGE Inc.",
     "query": "121.83.124.99"
+  },
+  "110.14.247.155": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "43",
+    "regionName": "North Chungcheong",
+    "city": "Cheongju-si",
+    "zip": "28515",
+    "lat": 36.6378,
+    "lon": 127.4838,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "SK Broadband Co Ltd",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "110.14.247.155"
   }
 }
