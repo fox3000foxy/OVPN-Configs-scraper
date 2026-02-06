@@ -447,21 +447,21 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "59.140.6.12"
   },
-  "36.14.133.245": {
+  "1.239.79.205": {
     "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "20",
-    "regionName": "Nagano",
-    "city": "Okaya Shi",
-    "zip": "394-0021",
-    "lat": 36.071,
-    "lon": 138.0434,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "36.14.133.245"
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Seongnam-si",
+    "zip": "133",
+    "lat": 37.4331,
+    "lon": 127.1375,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "1.239.79.205"
   },
   "92.125.12.76": {
     "status": "success",
@@ -510,6 +510,22 @@
     "org": "JSC Rostelecom regional branch Siberia",
     "as": "AS12389 PJSC Rostelecom",
     "query": "5.137.74.168"
+  },
+  "78.63.51.6": {
+    "status": "success",
+    "country": "Lithuania",
+    "countryCode": "LT",
+    "region": "PN",
+    "regionName": "Panevėžys",
+    "city": "Panevezys",
+    "zip": "38082",
+    "lat": 55.7309,
+    "lon": 24.3526,
+    "timezone": "Europe/Vilnius",
+    "isp": "Telia Lietuva",
+    "org": "Telia Lietuva, AB",
+    "as": "AS8764 Telia Lietuva, AB",
+    "query": "78.63.51.6"
   },
   "211.107.198.109": {
     "status": "success",
@@ -575,22 +591,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "221.154.140.176"
   },
-  "1.239.79.205": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Seongnam-si",
-    "zip": "133",
-    "lat": 37.4331,
-    "lon": 127.1375,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "1.239.79.205"
-  },
   "220.92.38.76": {
     "status": "success",
     "country": "South Korea",
@@ -638,6 +638,22 @@
     "org": "Sibirtelecom Co.",
     "as": "AS12389 PJSC Rostelecom",
     "query": "178.187.92.101"
+  },
+  "122.43.90.99": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Paju",
+    "zip": "109",
+    "lat": 37.7191,
+    "lon": 126.7615,
+    "timezone": "Asia/Seoul",
+    "isp": "LG POWERCOMM",
+    "org": "Xpeed",
+    "as": "AS17858 LG POWERCOMM",
+    "query": "122.43.90.99"
   },
   "1.52.244.74": {
     "status": "success",
