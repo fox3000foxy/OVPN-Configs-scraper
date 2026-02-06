@@ -319,21 +319,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "221.147.114.46"
   },
-  "182.235.231.66": {
+  "95.154.89.139": {
     "status": "success",
-    "country": "Taiwan",
-    "countryCode": "TW",
-    "region": "KHH",
-    "regionName": "Kaohsiung",
-    "city": "Kaohsiung",
-    "zip": "",
-    "lat": 22.6148,
-    "lon": 120.3139,
-    "timezone": "Asia/Taipei",
-    "isp": "Hoshin Multimedia Center Inc.",
-    "org": "Hoshin Multimedia Center Inc",
-    "as": "AS18042 Koos Broadband Telecom",
-    "query": "182.235.231.66"
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Vladivostok",
+    "zip": "690001",
+    "lat": 43.1068,
+    "lon": 131.8692,
+    "timezone": "Asia/Vladivostok",
+    "isp": "OCTOPUSNET-SUBSCRIBERS",
+    "org": "",
+    "as": "AS44724 Octopusnet LTD",
+    "query": "95.154.89.139"
   },
   "219.100.37.50": {
     "status": "success",
@@ -591,22 +591,6 @@
     "as": "AS268678 CSI SOLUCOES TECNOLOGICAS LTDA",
     "query": "45.165.151.206"
   },
-  "50.65.169.125": {
-    "status": "success",
-    "country": "Canada",
-    "countryCode": "CA",
-    "region": "AB",
-    "regionName": "Alberta",
-    "city": "Edmonton",
-    "zip": "T5T",
-    "lat": 53.5185,
-    "lon": -113.6579,
-    "timezone": "America/Edmonton",
-    "isp": "Shaw Communications",
-    "org": "Shaw Communications Inc",
-    "as": "AS6327 Shaw Communications",
-    "query": "50.65.169.125"
-  },
   "175.214.152.6": {
     "status": "success",
     "country": "South Korea",
@@ -751,22 +735,6 @@
     "as": "AS39927 E-Light-Telecom Ltd.",
     "query": "46.181.173.59"
   },
-  "1.176.3.43": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "48",
-    "regionName": "Gyeongsangnam-do",
-    "city": "Changwon",
-    "zip": "511",
-    "lat": 35.2733,
-    "lon": 128.653,
-    "timezone": "Asia/Seoul",
-    "isp": "LG HelloVision Corp.",
-    "org": "CJ Hellovision",
-    "as": "AS38091 LG HelloVision Corp.",
-    "query": "1.176.3.43"
-  },
   "90.189.196.154": {
     "status": "success",
     "country": "Russia",
@@ -782,5 +750,21 @@
     "org": "OJSC Sibirtelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "90.189.196.154"
+  },
+  "46.53.249.161": {
+    "status": "success",
+    "country": "Belarus",
+    "countryCode": "BY",
+    "region": "HM",
+    "regionName": "Minsk City",
+    "city": "Minsk",
+    "zip": "220030",
+    "lat": 53.901,
+    "lon": 27.5707,
+    "timezone": "Europe/Minsk",
+    "isp": "Unitary enterprise A1",
+    "org": "Atlanttelecomendusers",
+    "as": "AS42772 Unitary enterprise A1",
+    "query": "46.53.249.161"
   }
 }
