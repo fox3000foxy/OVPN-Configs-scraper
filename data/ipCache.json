@@ -287,22 +287,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "218.154.111.211"
   },
-  "36.14.74.224": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Machida",
-    "zip": "194-0041",
-    "lat": 35.5652,
-    "lon": 139.4642,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "36.14.74.224"
-  },
   "91.219.203.117": {
     "status": "success",
     "country": "Russia",
@@ -446,6 +430,22 @@
     "org": "Sony Network Communications Inc.",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "120.74.15.94"
+  },
+  "210.174.55.239": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "12",
+    "regionName": "Chiba",
+    "city": "Matsudo",
+    "zip": "271-0091",
+    "lat": 35.7834,
+    "lon": 139.8958,
+    "timezone": "Asia/Tokyo",
+    "isp": "Japan Network Information Center",
+    "org": "SO-Net Service",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "210.174.55.239"
   },
   "1.239.79.205": {
     "status": "success",
@@ -607,6 +607,22 @@
     "as": "AS23584 PUSAN CABLE TV SYSTEM CO., LTD.",
     "query": "39.126.152.48"
   },
+  "220.92.38.76": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "48",
+    "regionName": "Gyeongsangnam-do",
+    "city": "Changwon",
+    "zip": "511",
+    "lat": 35.2733,
+    "lon": 128.653,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "220.92.38.76"
+  },
   "178.187.92.101": {
     "status": "success",
     "country": "Russia",
@@ -687,22 +703,6 @@
     "as": "AS17858 LG POWERCOMM",
     "query": "116.34.216.160"
   },
-  "95.191.46.223": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "TOM",
-    "regionName": "Tomsk Oblast",
-    "city": "Tomsk",
-    "zip": "634009",
-    "lat": 56.4957,
-    "lon": 84.9636,
-    "timezone": "Asia/Tomsk",
-    "isp": "OJSC \"Sibirtelecom\"",
-    "org": "OJSC Sibirtelecom",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "95.191.46.223"
-  },
   "188.113.183.138": {
     "status": "success",
     "country": "Russia",
@@ -719,21 +719,21 @@
     "as": "AS51004 Sakhalin Cable Telesystems Ltd",
     "query": "188.113.183.138"
   },
-  "220.92.38.76": {
+  "58.123.159.246": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
-    "region": "48",
-    "regionName": "Gyeongsangnam-do",
-    "city": "Changwon",
-    "zip": "511",
-    "lat": 35.2733,
-    "lon": 128.653,
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Guro-gu",
+    "zip": "083",
+    "lat": 37.4784,
+    "lon": 126.8982,
     "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "220.92.38.76"
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "58.123.159.246"
   },
   "109.126.225.28": {
     "status": "success",
