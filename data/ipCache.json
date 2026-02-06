@@ -654,5 +654,21 @@
     "org": "",
     "as": "AS133481 AIS Fibre",
     "query": "184.22.114.230"
+  },
+  "119.192.208.193": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Mapo-gu",
+    "zip": "039",
+    "lat": 37.5681,
+    "lon": 126.8998,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "119.192.208.193"
   }
 }
