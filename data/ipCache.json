@@ -415,6 +415,22 @@
     "as": "AS33993 UFO Hosting LLC",
     "query": "91.207.183.220"
   },
+  "1.246.131.93": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "43",
+    "regionName": "North Chungcheong",
+    "city": "Cheongju-si",
+    "zip": "287",
+    "lat": 36.6228,
+    "lon": 127.4931,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "1.246.131.93"
+  },
   "42.112.215.182": {
     "status": "success",
     "country": "Vietnam",
@@ -462,22 +478,6 @@
     "org": "IIJ Internet",
     "as": "AS2497 Internet Initiative Japan Inc.",
     "query": "150.31.45.162"
-  },
-  "93.118.43.183": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Kanda-jinbōchō",
-    "zip": "102-0073",
-    "lat": 35.6956,
-    "lon": 139.756,
-    "timezone": "Asia/Tokyo",
-    "isp": "Datatrip-ISP",
-    "org": "Packet Flip, LLC",
-    "as": "AS58325 Hydra Communications Ltd",
-    "query": "93.118.43.183"
   },
   "222.109.72.106": {
     "status": "success",
@@ -543,6 +543,22 @@
     "as": "AS10010 TOKAI Communications Corporation",
     "query": "219.126.126.150"
   },
+  "219.241.27.76": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Suwon",
+    "zip": "166",
+    "lat": 37.2506,
+    "lon": 127.0668,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "219.241.27.76"
+  },
   "178.44.131.32": {
     "status": "success",
     "country": "Russia",
@@ -574,22 +590,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "210.104.241.53"
-  },
-  "79.136.162.26": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "OMS",
-    "regionName": "Omsk Oblast",
-    "city": "Omsk",
-    "zip": "644000",
-    "lat": 54.9817,
-    "lon": 73.3876,
-    "timezone": "Asia/Omsk",
-    "isp": "CJSC \"ER-Telecom Holding\" Omsk branch",
-    "org": "JSC \"ER-Telecom Holding\" Omsk Branch",
-    "as": "AS41843 JSC ER-Telecom Holding",
-    "query": "79.136.162.26"
   },
   "118.218.227.187": {
     "status": "success",
@@ -654,5 +654,21 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "121.157.254.201"
+  },
+  "58.186.27.98": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "SG",
+    "regionName": "Ho Chi Minh",
+    "city": "Ho Chi Minh City",
+    "zip": "700000",
+    "lat": 10.822,
+    "lon": 106.6257,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "isp": "FPT Telecom Company",
+    "org": "Vietnam Internet Network Information Center",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "58.186.27.98"
   }
 }
