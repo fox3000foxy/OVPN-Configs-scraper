@@ -303,22 +303,6 @@
     "as": "AS7131 PTI Pacifica Inc.",
     "query": "202.88.80.26"
   },
-  "219.115.166.66": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Sakai",
-    "zip": "590-0071",
-    "lat": 34.5742,
-    "lon": 135.4777,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM",
-    "org": "J:COM WEST Co., Ltd.",
-    "as": "AS9617 JCOM Co., Ltd.",
-    "query": "219.115.166.66"
-  },
   "222.236.114.192": {
     "status": "success",
     "country": "South Korea",
