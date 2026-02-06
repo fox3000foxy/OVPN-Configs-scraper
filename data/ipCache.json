@@ -31,22 +31,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.82"
   },
-  "219.100.37.128": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftEther",
-    "org": "SoftEther Corporation",
-    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.128"
-  },
   "219.100.37.4": {
     "status": "success",
     "country": "Japan",
@@ -62,6 +46,22 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.4"
+  },
+  "219.100.37.128": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftEther",
+    "org": "SoftEther Corporation",
+    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
+    "query": "219.100.37.128"
   },
   "219.100.37.15": {
     "status": "success",
@@ -319,22 +319,6 @@
     "as": "AS3786 LG DACOM Corporation",
     "query": "106.243.71.229"
   },
-  "125.129.85.155": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Jungnang-gu",
-    "zip": "021",
-    "lat": 37.5859,
-    "lon": 127.1029,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "125.129.85.155"
-  },
   "223.205.66.19": {
     "status": "success",
     "country": "Thailand",
@@ -350,6 +334,22 @@
     "org": "Triple T Broadband Public Company Limited",
     "as": "AS45758 Triple T Broadband Public Company Limited",
     "query": "223.205.66.19"
+  },
+  "125.129.85.155": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Jungnang-gu",
+    "zip": "021",
+    "lat": 37.5859,
+    "lon": 127.1029,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "125.129.85.155"
   },
   "180.144.149.181": {
     "status": "success",
@@ -686,5 +686,21 @@
     "org": "Atlanttelecomendusers",
     "as": "AS42772 Unitary enterprise A1",
     "query": "46.53.249.161"
+  },
+  "72.220.99.177": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA",
+    "regionName": "California",
+    "city": "Poway",
+    "zip": "92064",
+    "lat": 32.9728,
+    "lon": -117.0379,
+    "timezone": "America/Los_Angeles",
+    "isp": "Cox Communications Inc.",
+    "org": "Cox Communications",
+    "as": "AS22773 Cox Communications Inc.",
+    "query": "72.220.99.177"
   }
 }
