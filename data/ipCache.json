@@ -143,6 +143,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "218.145.181.197"
   },
+  "180.68.118.32": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Busan",
+    "zip": "462",
+    "lat": 35.2582,
+    "lon": 129.0948,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "180.68.118.32"
+  },
   "120.75.146.85": {
     "status": "success",
     "country": "Japan",
@@ -174,22 +190,6 @@
     "org": "sudogwonseobubonbu",
     "as": "AS4766 Korea Telecom",
     "query": "211.221.198.244"
-  },
-  "180.68.118.32": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "26",
-    "regionName": "Busan",
-    "city": "Busan",
-    "zip": "462",
-    "lat": 35.2582,
-    "lon": 129.0948,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "180.68.118.32"
   },
   "59.23.123.76": {
     "status": "success",
@@ -255,22 +255,6 @@
     "as": "AS17858 LG POWERCOMM",
     "query": "180.230.179.174"
   },
-  "192.145.96.207": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KYA",
-    "regionName": "Krasnoyarsk Krai",
-    "city": "Krasnoyarsk",
-    "zip": "660000",
-    "lat": 56.0133,
-    "lon": 92.7885,
-    "timezone": "Asia/Krasnoyarsk",
-    "isp": "Telezon-Seti LLC",
-    "org": "Telezon",
-    "as": "AS34858 Telezon-Seti LLC",
-    "query": "192.145.96.207"
-  },
   "103.152.178.62": {
     "status": "success",
     "country": "Japan",
@@ -286,6 +270,22 @@
     "org": "SDCC-East01",
     "as": "AS38074 SDCC Japan-West Area",
     "query": "103.152.178.62"
+  },
+  "192.145.96.207": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KYA",
+    "regionName": "Krasnoyarsk Krai",
+    "city": "Krasnoyarsk",
+    "zip": "660000",
+    "lat": 56.0133,
+    "lon": 92.7885,
+    "timezone": "Asia/Krasnoyarsk",
+    "isp": "Telezon-Seti LLC",
+    "org": "Telezon",
+    "as": "AS34858 Telezon-Seti LLC",
+    "query": "192.145.96.207"
   },
   "114.206.223.158": {
     "status": "success",
@@ -430,22 +430,6 @@
     "org": "Triple T Broadband Public Company Limited",
     "as": "AS45758 Triple T Broadband Public Company Limited",
     "query": "171.7.60.101"
-  },
-  "79.105.250.60": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "AMU",
-    "regionName": "Amur Oblast",
-    "city": "Belogorsk",
-    "zip": "676850",
-    "lat": 50.9124,
-    "lon": 128.5124,
-    "timezone": "Asia/Yakutsk",
-    "isp": "Rostelecom networks",
-    "org": "OJSC Far Eastern Telecommunications Company Amursky st.",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "79.105.250.60"
   },
   "220.74.79.4": {
     "status": "success",
@@ -670,5 +654,37 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "119.192.208.193"
+  },
+  "118.219.21.191": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "27",
+    "regionName": "Daegu",
+    "city": "Daegu",
+    "zip": "412",
+    "lat": 35.8699,
+    "lon": 128.6314,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "118.219.21.191"
+  },
+  "27.72.25.249": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "HN",
+    "regionName": "Hanoi",
+    "city": "Hanoi",
+    "zip": "100000",
+    "lat": 21.0184,
+    "lon": 105.8461,
+    "timezone": "Asia/Bangkok",
+    "isp": "Newass2011xDSLHN",
+    "org": "",
+    "as": "AS7552 Viettel Group",
+    "query": "27.72.25.249"
   }
 }

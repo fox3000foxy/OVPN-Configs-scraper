@@ -85,6 +85,7 @@ Or download individually:
 | 180.68.118.32 | South Korea | SK Broadband Co Ltd | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/180.68.118.32.ovpn) |
 | 114.206.223.158 | South Korea | SK Broadband Co Ltd | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/114.206.223.158.ovpn) |
 | 1.232.152.53 | South Korea | SK Broadband Co Ltd | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/1.232.152.53.ovpn) |
+| 118.219.21.191 | South Korea | SK Broadband Co Ltd | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/118.219.21.191.ovpn) |
 
 
 ### Thailand
@@ -106,6 +107,7 @@ Or download individually:
 | IP | Country | ISP | Provider | Config |
 |---|---|---|---|---|
 | 1.53.243.255 | Vietnam | FPT Telecom Company | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/1.53.243.255.ovpn) |
+| 27.72.25.249 | Vietnam | Newass2011xDSLHN | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/27.72.25.249.ovpn) |
 
 > **Tip**: For the full list, check the `data/configs/` folder after running the scraper.
 
