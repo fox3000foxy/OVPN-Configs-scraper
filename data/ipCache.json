@@ -1,20 +1,4 @@
 {
-  "173.18.130.162": {
-    "status": "success",
-    "country": "United States",
-    "countryCode": "US",
-    "region": "AL",
-    "regionName": "Alabama",
-    "city": "Irvington",
-    "zip": "36544",
-    "lat": 30.4837,
-    "lon": -88.2414,
-    "timezone": "America/Chicago",
-    "isp": "Mediacom Communications Corp",
-    "org": "Mediacom Communications Corp",
-    "as": "AS30036 Mediacom Communications Corp",
-    "query": "173.18.130.162"
-  },
   "47.20.212.7": {
     "status": "success",
     "country": "United States",
@@ -223,6 +207,22 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.141.151.166"
   },
+  "175.132.127.244": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "12",
+    "regionName": "Chiba",
+    "city": "Ichikawa",
+    "zip": "272-0031",
+    "lat": 35.7233,
+    "lon": 139.9132,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "175.132.127.244"
+  },
   "126.241.23.14": {
     "status": "success",
     "country": "Japan",
@@ -302,22 +302,6 @@
     "org": "Korea Telecom",
     "as": "AS4766 Korea Telecom",
     "query": "222.114.218.186"
-  },
-  "153.211.40.154": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "01",
-    "regionName": "Hokkaido",
-    "city": "Sapporo",
-    "zip": "064-0801",
-    "lat": 43.0456,
-    "lon": 141.3522,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "Open Computer Network",
-    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
-    "query": "153.211.40.154"
   },
   "59.5.162.166": {
     "status": "success",
@@ -399,6 +383,22 @@
     "as": "AS17858 LG POWERCOMM",
     "query": "122.42.193.245"
   },
+  "125.52.118.171": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "01",
+    "regionName": "Hokkaido",
+    "city": "Sapporo",
+    "zip": "065-0021",
+    "lat": 43.0885,
+    "lon": 141.3571,
+    "timezone": "Asia/Tokyo",
+    "isp": "DION (KDDI CORPORATION)",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "125.52.118.171"
+  },
   "122.47.245.200": {
     "status": "success",
     "country": "South Korea",
@@ -414,22 +414,6 @@
     "org": "Xpeed",
     "as": "AS17858 LG POWERCOMM",
     "query": "122.47.245.200"
-  },
-  "113.33.96.52": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6906,
-    "lon": 139.77,
-    "timezone": "Asia/Tokyo",
-    "isp": "ARTERIA Networks Corporation",
-    "org": "UCOM Corporation",
-    "as": "AS17506 ARTERIA Networks Corporation",
-    "query": "113.33.96.52"
   },
   "121.174.247.158": {
     "status": "success",
@@ -495,6 +479,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "210.183.22.103"
   },
+  "122.203.244.115": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Seongdong-gu",
+    "zip": "047",
+    "lat": 37.5511,
+    "lon": 127.0387,
+    "timezone": "Asia/Seoul",
+    "isp": "DACOM-PUBNETPLUS",
+    "org": "Pubnetplus",
+    "as": "AS9316 DACOM-PUBNETPLUS",
+    "query": "122.203.244.115"
+  },
   "42.118.128.136": {
     "status": "success",
     "country": "Vietnam",
@@ -542,22 +542,6 @@
     "org": "DACOM-PUBNETPLUS",
     "as": "AS17858 LG POWERCOMM",
     "query": "14.7.11.249"
-  },
-  "61.27.117.83": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "01",
-    "regionName": "Hokkaido",
-    "city": "Sapporo",
-    "zip": "001-0021",
-    "lat": 43.0872,
-    "lon": 141.3456,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM Co., Ltd.",
-    "org": "JCOM Co., Ltd",
-    "as": "AS9824 JCOM Co., Ltd.",
-    "query": "61.27.117.83"
   },
   "115.40.206.229": {
     "status": "success",
@@ -670,6 +654,22 @@
     "org": "Enter, LLC",
     "as": "AS12389 PJSC Rostelecom",
     "query": "109.203.223.57"
+  },
+  "118.83.69.241": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Hachiōji",
+    "zip": "192-0051",
+    "lat": 35.6677,
+    "lon": 139.3193,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM",
+    "org": "Jupiter Telecommunications Co., Ltd.",
+    "as": "AS4721 JCOM Co., Ltd.",
+    "query": "118.83.69.241"
   },
   "109.124.209.118": {
     "status": "success",
