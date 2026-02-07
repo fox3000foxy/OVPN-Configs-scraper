@@ -415,22 +415,6 @@
     "as": "AS17597 SK Broadband Co Ltd",
     "query": "61.47.212.110"
   },
-  "2.61.131.86": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KK",
-    "regionName": "Khakasiya Republic",
-    "city": "Chernogorsk",
-    "zip": "655138",
-    "lat": 53.8288,
-    "lon": 91.3095,
-    "timezone": "Asia/Krasnoyarsk",
-    "isp": "Rostelecom networks",
-    "org": "OJSC Sibirtelecom",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "2.61.131.86"
-  },
   "81.201.19.107": {
     "status": "success",
     "country": "Russia",
@@ -446,6 +430,22 @@
     "org": "PJSC \"Mobile TeleSystems\"",
     "as": "AS8359 MTS PJSC",
     "query": "81.201.19.107"
+  },
+  "2.61.131.86": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KK",
+    "regionName": "Khakasiya Republic",
+    "city": "Chernogorsk",
+    "zip": "655138",
+    "lat": 53.8288,
+    "lon": 91.3095,
+    "timezone": "Asia/Krasnoyarsk",
+    "isp": "Rostelecom networks",
+    "org": "OJSC Sibirtelecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "2.61.131.86"
   },
   "59.20.42.192": {
     "status": "success",
@@ -638,21 +638,5 @@
     "org": "Comcast Cable Communications, Inc.",
     "as": "AS7922 Comcast Cable Communications, LLC",
     "query": "98.197.114.233"
-  },
-  "77.79.147.117": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "BA",
-    "regionName": "Bashkortostan Republic",
-    "city": "Ufa",
-    "zip": "450000",
-    "lat": 54.7431,
-    "lon": 55.9678,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "JSC \"Ufanet\"",
-    "org": "JSC Ufanet",
-    "as": "AS24955 JSC Ufanet",
-    "query": "77.79.147.117"
   }
 }
