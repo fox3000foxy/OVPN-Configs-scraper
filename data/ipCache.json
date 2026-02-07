@@ -319,22 +319,6 @@
     "as": "AS10010 TOKAI Communications Corporation",
     "query": "124.47.218.84"
   },
-  "222.98.176.199": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Suwon",
-    "zip": "163",
-    "lat": 37.2905,
-    "lon": 126.9877,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Korea Telecom",
-    "as": "AS4766 Korea Telecom",
-    "query": "222.98.176.199"
-  },
   "126.221.40.75": {
     "status": "success",
     "country": "Japan",
@@ -383,22 +367,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "175.132.127.244"
   },
-  "42.112.215.182": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "HN",
-    "regionName": "Hanoi",
-    "city": "Hanoi",
-    "zip": "100000",
-    "lat": 21.0184,
-    "lon": 105.8461,
-    "timezone": "Asia/Bangkok",
-    "isp": "FPT Telecom Company",
-    "org": "Vietnam Internet Network Information Center",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "42.112.215.182"
-  },
   "114.161.4.252": {
     "status": "success",
     "country": "Japan",
@@ -415,6 +383,22 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "114.161.4.252"
   },
+  "42.112.215.182": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "HN",
+    "regionName": "Hanoi",
+    "city": "Hanoi",
+    "zip": "100000",
+    "lat": 21.0184,
+    "lon": 105.8461,
+    "timezone": "Asia/Bangkok",
+    "isp": "FPT Telecom Company",
+    "org": "Vietnam Internet Network Information Center",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "42.112.215.182"
+  },
   "138.64.250.196": {
     "status": "success",
     "country": "Japan",
@@ -430,6 +414,22 @@
     "org": "ASAHI",
     "as": "AS4685 Asahi Net",
     "query": "138.64.250.196"
+  },
+  "119.47.59.136": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "40",
+    "regionName": "Fukuoka",
+    "city": "Kitakyushu",
+    "zip": "803-0865",
+    "lat": 33.8518,
+    "lon": 130.8503,
+    "timezone": "Asia/Tokyo",
+    "isp": "QTnet, Inc.",
+    "org": "Kyushu Telecommunication Network Co., Inc.",
+    "as": "AS7679 QTnet,Inc.",
+    "query": "119.47.59.136"
   },
   "175.28.146.212": {
     "status": "success",
@@ -511,6 +511,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "175.194.115.126"
   },
+  "171.6.53.41": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "10",
+    "regionName": "Bangkok",
+    "city": "Bangkok",
+    "zip": "10250",
+    "lat": 13.8582,
+    "lon": 100.478,
+    "timezone": "Asia/Bangkok",
+    "isp": "Triple T Broadband Public Company Limited",
+    "org": "Triple T Broadband Public Company Limited",
+    "as": "AS45758 Triple T Broadband Public Company Limited",
+    "query": "171.6.53.41"
+  },
   "211.204.251.153": {
     "status": "success",
     "country": "South Korea",
@@ -526,22 +542,6 @@
     "org": "SK Broadband Co Ltd",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "211.204.251.153"
-  },
-  "221.49.38.126": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan nation-wide Network of SOFTBANK BB Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "221.49.38.126"
   },
   "61.77.96.102": {
     "status": "success",
@@ -575,6 +575,22 @@
     "as": "AS17858 LG POWERCOMM",
     "query": "125.177.138.153"
   },
+  "171.241.40.37": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "HN",
+    "regionName": "Hanoi",
+    "city": "Hanoi",
+    "zip": "100000",
+    "lat": 21.0184,
+    "lon": 105.8461,
+    "timezone": "Asia/Bangkok",
+    "isp": "Viettel Corporation",
+    "org": "VIETEL",
+    "as": "AS7552 Viettel Group",
+    "query": "171.241.40.37"
+  },
   "122.42.193.245": {
     "status": "success",
     "country": "South Korea",
@@ -590,5 +606,21 @@
     "org": "Xpeed",
     "as": "AS17858 LG POWERCOMM",
     "query": "122.42.193.245"
+  },
+  "58.236.216.134": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "28",
+    "regionName": "Incheon",
+    "city": "Incheon",
+    "zip": "220",
+    "lat": 37.4585,
+    "lon": 126.7015,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "58.236.216.134"
   }
 }
