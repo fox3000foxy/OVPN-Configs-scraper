@@ -431,6 +431,22 @@
     "as": "AS45758 Triple T Broadband Public Company Limited",
     "query": "223.204.251.197"
   },
+  "118.104.168.55": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "24",
+    "regionName": "Mie",
+    "city": "Tsu",
+    "zip": "514-0011",
+    "lat": 34.7361,
+    "lon": 136.522,
+    "timezone": "Asia/Tokyo",
+    "isp": "Chubu Telecommunications Company, Inc.",
+    "org": "Chubu Telecommunications Co., Inc.",
+    "as": "AS18126 Chubu Telecommunications Company, Inc.",
+    "query": "118.104.168.55"
+  },
   "61.254.116.94": {
     "status": "success",
     "country": "South Korea",
@@ -478,22 +494,6 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "118.222.200.243"
-  },
-  "60.113.30.143": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan Nation-wide Network of Softbank Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "60.113.30.143"
   },
   "121.176.222.166": {
     "status": "success",
@@ -543,6 +543,22 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "37.21.241.126"
   },
+  "94.190.39.192": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "SVE",
+    "regionName": "Sverdlovsk Oblast",
+    "city": "Novoural'sk",
+    "zip": "624170",
+    "lat": 57.2511,
+    "lon": 60.0886,
+    "timezone": "Asia/Yekaterinburg",
+    "isp": "Interra TG, Ltd.",
+    "org": "\"Interra\" Ltd",
+    "as": "AS48524 INTERRA telecommunications group, Ltd.",
+    "query": "94.190.39.192"
+  },
   "14.37.15.88": {
     "status": "success",
     "country": "South Korea",
@@ -590,22 +606,6 @@
     "org": "Dlive",
     "as": "AS10036 DLIVE",
     "query": "210.106.204.25"
-  },
-  "94.190.39.192": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "SVE",
-    "regionName": "Sverdlovsk Oblast",
-    "city": "Novoural'sk",
-    "zip": "624170",
-    "lat": 57.2511,
-    "lon": 60.0886,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "Interra TG, Ltd.",
-    "org": "\"Interra\" Ltd",
-    "as": "AS48524 INTERRA telecommunications group, Ltd.",
-    "query": "94.190.39.192"
   },
   "77.34.54.211": {
     "status": "success",
