@@ -15,6 +15,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.101"
   },
+  "219.100.37.128": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftEther",
+    "org": "SoftEther Corporation",
+    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
+    "query": "219.100.37.128"
+  },
   "219.100.37.82": {
     "status": "success",
     "country": "Japan",
@@ -95,22 +111,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.16"
   },
-  "219.100.37.208": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftEther",
-    "org": "SoftEther Corporation",
-    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.208"
-  },
   "219.100.37.109": {
     "status": "success",
     "country": "Japan",
@@ -126,6 +126,22 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.109"
+  },
+  "219.100.37.208": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftEther",
+    "org": "SoftEther Corporation",
+    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
+    "query": "219.100.37.208"
   },
   "60.95.76.42": {
     "status": "success",
@@ -159,37 +175,53 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "92.202.199.250"
   },
-  "133.238.167.250": {
+  "220.150.148.16": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "11",
-    "regionName": "Saitama",
-    "city": "Kawaguchi",
-    "zip": "332-0031",
-    "lat": 35.8147,
-    "lon": 139.7289,
+    "region": "08",
+    "regionName": "Ibaraki",
+    "city": "Tsukuba",
+    "zip": "305-0021",
+    "lat": 36.096,
+    "lon": 140.1503,
     "timezone": "Asia/Tokyo",
-    "isp": "Internet Initiative Japan",
-    "org": "Internet Initiative Japan Inc.",
-    "as": "AS2497 Internet Initiative Japan Inc.",
-    "query": "133.238.167.250"
+    "isp": "ASAHI Net, Inc.",
+    "org": "ASAHI",
+    "as": "AS4685 Asahi Net",
+    "query": "220.150.148.16"
   },
-  "27.85.1.30": {
+  "118.157.139.36": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Miharadai",
-    "zip": "590-0111",
-    "lat": 34.4996,
-    "lon": 135.5485,
+    "region": "01",
+    "regionName": "Hokkaido",
+    "city": "Sapporo",
+    "zip": "065-0011",
+    "lat": 43.0763,
+    "lon": 141.3654,
     "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
+    "isp": "DION (KDDI CORPORATION)",
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
-    "query": "27.85.1.30"
+    "query": "118.157.139.36"
+  },
+  "222.109.124.1": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Dongdaemun",
+    "zip": "026",
+    "lat": 37.5655,
+    "lon": 127.0753,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Korea Telecom",
+    "as": "AS4766 Korea Telecom",
+    "query": "222.109.124.1"
   },
   "160.86.46.9": {
     "status": "success",
@@ -367,6 +399,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.145.243.191"
   },
+  "117.245.9.140": {
+    "status": "success",
+    "country": "India",
+    "countryCode": "IN",
+    "region": "PB",
+    "regionName": "Punjab",
+    "city": "Ahmedgarh",
+    "zip": "148021",
+    "lat": 30.6773,
+    "lon": 75.8263,
+    "timezone": "Asia/Kolkata",
+    "isp": "BSNL Internet",
+    "org": "Wimax Project",
+    "as": "AS9829 National Internet Backbone",
+    "query": "117.245.9.140"
+  },
   "223.204.251.197": {
     "status": "success",
     "country": "Thailand",
@@ -398,22 +446,6 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "61.254.116.94"
-  },
-  "171.4.226.236": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "50",
-    "regionName": "Chiang Mai",
-    "city": "Chiang Mai",
-    "zip": "50210",
-    "lat": 18.8514,
-    "lon": 99.0412,
-    "timezone": "Asia/Bangkok",
-    "isp": "Triple T Broadband Public Company Limited",
-    "org": "Triple T Broadband Public Company Limited",
-    "as": "AS45758 Triple T Broadband Public Company Limited",
-    "query": "171.4.226.236"
   },
   "2.61.131.86": {
     "status": "success",
@@ -462,38 +494,6 @@
     "org": "Japan Nation-wide Network of Softbank Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "60.113.30.143"
-  },
-  "123.48.136.169": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "22",
-    "regionName": "Shizuoka",
-    "city": "Hamamatsu",
-    "zip": "430-0921",
-    "lat": 34.699,
-    "lon": 137.7337,
-    "timezone": "Asia/Tokyo",
-    "isp": "Chubu Telecommunications Company, Inc.",
-    "org": "Chubu Telecommunications Co., Inc.",
-    "as": "AS18126 Chubu Telecommunications Company, Inc.",
-    "query": "123.48.136.169"
-  },
-  "121.177.115.150": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "48",
-    "regionName": "Gyeongsangnam-do",
-    "city": "Gyeongsangnam-do",
-    "zip": "51308",
-    "lat": 35.2539,
-    "lon": 128.2496,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "121.177.115.150"
   },
   "121.176.222.166": {
     "status": "success",
