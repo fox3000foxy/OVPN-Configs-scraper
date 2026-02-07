@@ -111,22 +111,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "59.23.123.76"
   },
-  "39.119.183.162": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "30",
-    "regionName": "Daejeon",
-    "city": "Yuseong-gu",
-    "zip": "340",
-    "lat": 36.3924,
-    "lon": 127.4106,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "39.119.183.162"
-  },
   "211.192.121.212": {
     "status": "success",
     "country": "South Korea",
@@ -142,6 +126,22 @@
     "org": "KORNET",
     "as": "AS4766 Korea Telecom",
     "query": "211.192.121.212"
+  },
+  "39.119.183.162": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "30",
+    "regionName": "Daejeon",
+    "city": "Yuseong-gu",
+    "zip": "340",
+    "lat": 36.3924,
+    "lon": 127.4106,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "39.119.183.162"
   },
   "211.205.56.227": {
     "status": "success",
@@ -206,6 +206,22 @@
     "org": "SDCC-East01",
     "as": "AS38074 SDCC Japan-West Area",
     "query": "103.152.178.62"
+  },
+  "27.83.68.134": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Nihonbashi-Kayabachō",
+    "zip": "103-0025",
+    "lat": 35.6792,
+    "lon": 139.779,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "27.83.68.134"
   },
   "95.84.132.179": {
     "status": "success",
@@ -303,6 +319,22 @@
     "as": "AS7679 QTnet,Inc.",
     "query": "218.219.131.2"
   },
+  "124.18.97.154": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "23",
+    "regionName": "Aichi",
+    "city": "Kiyosu",
+    "zip": "452-0941",
+    "lat": 35.2172,
+    "lon": 136.8325,
+    "timezone": "Asia/Tokyo",
+    "isp": "Chubu Telecommunications Company, Inc.",
+    "org": "Chubu Telecommunications Co., Inc.",
+    "as": "AS18126 Chubu Telecommunications Company, Inc.",
+    "query": "124.18.97.154"
+  },
   "133.207.161.129": {
     "status": "success",
     "country": "Japan",
@@ -399,22 +431,6 @@
     "as": "AS45758 Triple T Broadband Public Company Limited",
     "query": "171.4.226.236"
   },
-  "115.163.40.198": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "22",
-    "regionName": "Shizuoka",
-    "city": "Fuji",
-    "zip": "417-0071",
-    "lat": 35.1673,
-    "lon": 138.686,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "115.163.40.198"
-  },
   "59.168.25.10": {
     "status": "success",
     "country": "Japan",
@@ -495,22 +511,6 @@
     "as": "AS4685 Asahi Net",
     "query": "220.146.77.205"
   },
-  "118.86.137.129": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "12",
-    "regionName": "Chiba",
-    "city": "Matsudo",
-    "zip": "271-0061",
-    "lat": 35.7924,
-    "lon": 139.9039,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM",
-    "org": "Jupiter Telecommunications Co., Ltd.",
-    "as": "AS4721 JCOM Co., Ltd.",
-    "query": "118.86.137.129"
-  },
   "220.76.101.240": {
     "status": "success",
     "country": "South Korea",
@@ -574,6 +574,22 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "211.205.202.101"
+  },
+  "85.91.103.2": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "MOW",
+    "regionName": "Moscow",
+    "city": "Moscow",
+    "zip": "",
+    "lat": 55.8024,
+    "lon": 37.5637,
+    "timezone": "Europe/Moscow",
+    "isp": "LLC \"Nauka-Svyaz\"",
+    "org": "Nauka-Svyaz",
+    "as": "AS8641 BACKBONE AS of Nauka-Svyaz",
+    "query": "85.91.103.2"
   },
   "125.173.170.135": {
     "status": "success",
