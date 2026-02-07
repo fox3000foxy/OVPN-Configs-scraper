@@ -47,22 +47,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "59.7.207.18"
   },
-  "218.145.107.33": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Ansan-si",
-    "zip": "154",
-    "lat": 37.3031,
-    "lon": 126.8214,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "218.145.107.33"
-  },
   "211.184.24.38": {
     "status": "success",
     "country": "South Korea",
@@ -110,22 +94,6 @@
     "org": "",
     "as": "AS12737 KrasPromStroy, LLC",
     "query": "185.124.155.182"
-  },
-  "27.83.68.134": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Nihonbashi-Kayabachō",
-    "zip": "103-0025",
-    "lat": 35.6792,
-    "lon": 139.779,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "27.83.68.134"
   },
   "103.152.178.62": {
     "status": "success",
@@ -191,21 +159,21 @@
     "as": "AS2519 ARTERIA Networks Corporation",
     "query": "122.103.113.207"
   },
-  "111.107.47.57": {
+  "27.83.68.134": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "47",
-    "regionName": "Okinawa",
-    "city": "Uruma",
-    "zip": "904-2211",
-    "lat": 26.377,
-    "lon": 127.8562,
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Nihonbashi-Kayabachō",
+    "zip": "103-0025",
+    "lat": 35.6792,
+    "lon": 139.779,
     "timezone": "Asia/Tokyo",
     "isp": "Kddi Corporation",
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
-    "query": "111.107.47.57"
+    "query": "27.83.68.134"
   },
   "49.167.12.160": {
     "status": "success",
@@ -575,6 +543,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.170.248.105"
   },
+  "121.139.252.138": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Anyang-si",
+    "zip": "140",
+    "lat": 37.3907,
+    "lon": 126.9167,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "121.139.252.138"
+  },
   "218.150.195.12": {
     "status": "success",
     "country": "South Korea",
@@ -591,22 +575,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "218.150.195.12"
   },
-  "119.173.41.197": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Komone",
-    "zip": "173-0031",
-    "lat": 35.7458,
-    "lon": 139.6911,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM Co., Ltd.",
-    "org": "JCOM Co., Ltd",
-    "as": "AS9824 JCOM Co., Ltd.",
-    "query": "119.173.41.197"
-  },
   "211.193.176.53": {
     "status": "success",
     "country": "South Korea",
@@ -622,6 +590,22 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "211.193.176.53"
+  },
+  "119.173.41.197": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Komone",
+    "zip": "173-0031",
+    "lat": 35.7458,
+    "lon": 139.6911,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM Co., Ltd.",
+    "org": "JCOM Co., Ltd",
+    "as": "AS9824 JCOM Co., Ltd.",
+    "query": "119.173.41.197"
   },
   "5.143.2.138": {
     "status": "success",
