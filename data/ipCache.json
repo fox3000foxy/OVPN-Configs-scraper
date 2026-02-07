@@ -159,22 +159,6 @@
     "as": "AS17858 LG POWERCOMM",
     "query": "180.230.179.174"
   },
-  "103.152.178.62": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-0001",
-    "lat": 35.694,
-    "lon": 139.754,
-    "timezone": "Asia/Tokyo",
-    "isp": "Ayao Takata",
-    "org": "SDCC-East01",
-    "as": "AS38074 SDCC Japan-West Area",
-    "query": "103.152.178.62"
-  },
   "58.183.127.232": {
     "status": "success",
     "country": "Japan",
@@ -190,6 +174,22 @@
     "org": "Energia Communications, Inc.",
     "as": "AS18144 Enecom,Inc.",
     "query": "58.183.127.232"
+  },
+  "106.156.91.45": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "34",
+    "regionName": "Hiroshima",
+    "city": "Fukuyama",
+    "zip": "720-0811",
+    "lat": 34.4835,
+    "lon": 133.3661,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "106.156.91.45"
   },
   "27.83.68.134": {
     "status": "success",
@@ -222,6 +222,22 @@
     "org": "",
     "as": "AS42610 PJSC Rostelecom",
     "query": "95.84.132.179"
+  },
+  "103.152.178.62": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-0001",
+    "lat": 35.694,
+    "lon": 139.754,
+    "timezone": "Asia/Tokyo",
+    "isp": "Ayao Takata",
+    "org": "SDCC-East01",
+    "as": "AS38074 SDCC Japan-West Area",
+    "query": "103.152.178.62"
   },
   "182.237.221.37": {
     "status": "success",
@@ -270,6 +286,22 @@
     "org": "STNet, Incorporated",
     "as": "AS7522 STNet, Incorporated",
     "query": "183.176.178.218"
+  },
+  "42.116.114.23": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "SG",
+    "regionName": "Ho Chi Minh",
+    "city": "Ho Chi Minh City",
+    "zip": "700000",
+    "lat": 10.822,
+    "lon": 106.6257,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "isp": "FPT Telecom Company",
+    "org": "FPT-STATICIP",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "42.116.114.23"
   },
   "222.97.142.229": {
     "status": "success",
@@ -495,22 +527,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "220.76.101.240"
   },
-  "133.207.161.129": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "22",
-    "regionName": "Shizuoka",
-    "city": "Jike",
-    "zip": "410-2121",
-    "lat": 35.0439,
-    "lon": 138.9459,
-    "timezone": "Asia/Tokyo",
-    "isp": "BIGLOBE Inc.",
-    "org": "NEC BIGLOBE Ltd.",
-    "as": "AS2518 BIGLOBE Inc.",
-    "query": "133.207.161.129"
-  },
   "89.189.103.44": {
     "status": "success",
     "country": "Russia",
@@ -670,21 +686,5 @@
     "org": "Comcast Cable Communications, LLC",
     "as": "AS7922 Comcast Cable Communications, LLC",
     "query": "76.148.153.54"
-  },
-  "195.122.224.248": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "NIZ",
-    "regionName": "Nizhny Novgorod Oblast",
-    "city": "Nizhniy Novgorod",
-    "zip": "",
-    "lat": 56.2602,
-    "lon": 43.9717,
-    "timezone": "Europe/Moscow",
-    "isp": "Closed Join Stock Company KOMSTAR-Regiony",
-    "org": "Sandy Info Ltd",
-    "as": "AS8359 MTS PJSC",
-    "query": "195.122.224.248"
   }
 }
