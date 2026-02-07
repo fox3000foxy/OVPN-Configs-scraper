@@ -543,22 +543,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "210.223.226.234"
   },
-  "61.255.26.99": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "28",
-    "regionName": "Incheon",
-    "city": "Incheon",
-    "zip": "222",
-    "lat": 37.4503,
-    "lon": 126.6701,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "61.255.26.99"
-  },
   "222.96.64.242": {
     "status": "success",
     "country": "South Korea",
@@ -574,6 +558,22 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "222.96.64.242"
+  },
+  "61.255.26.99": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "28",
+    "regionName": "Incheon",
+    "city": "Incheon",
+    "zip": "222",
+    "lat": 37.4503,
+    "lon": 126.6701,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "61.255.26.99"
   },
   "221.153.109.66": {
     "status": "success",
