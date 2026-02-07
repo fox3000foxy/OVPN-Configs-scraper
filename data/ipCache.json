@@ -271,6 +271,22 @@
     "as": "AS18403 FPT Telecom Company",
     "query": "42.116.114.23"
   },
+  "121.167.189.126": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Gangdong-gu",
+    "zip": "053",
+    "lat": 37.536,
+    "lon": 127.1426,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "121.167.189.126"
+  },
   "1.66.33.240": {
     "status": "success",
     "country": "Japan",
@@ -319,22 +335,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.136.219.191"
   },
-  "121.145.243.191": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "48",
-    "regionName": "Gyeongsangnam-do",
-    "city": "Gimhae",
-    "zip": "509",
-    "lat": 35.2342,
-    "lon": 128.8777,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "121.145.243.191"
-  },
   "223.204.251.197": {
     "status": "success",
     "country": "Thailand",
@@ -366,22 +366,6 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "61.254.116.94"
-  },
-  "185.190.42.79": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "CHE",
-    "regionName": "Chelyabinsk Oblast",
-    "city": "Ozersk",
-    "zip": "456784",
-    "lat": 55.7585,
-    "lon": 60.7079,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "UKS",
-    "org": "",
-    "as": "AS48043 Ozyorsk Telecom CJSC.",
-    "query": "185.190.42.79"
   },
   "2.61.131.86": {
     "status": "success",
