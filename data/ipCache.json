@@ -95,22 +95,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.16"
   },
-  "50.53.78.95": {
-    "status": "success",
-    "country": "United States",
-    "countryCode": "US",
-    "region": "OR",
-    "regionName": "Oregon",
-    "city": "Hillsboro",
-    "zip": "97123",
-    "lat": 45.4998,
-    "lon": -122.9586,
-    "timezone": "America/Los_Angeles",
-    "isp": "Wholesail networks LLC",
-    "org": "Ziply Fiber",
-    "as": "AS20055 Wholesail networks LLC",
-    "query": "50.53.78.95"
-  },
   "219.100.37.208": {
     "status": "success",
     "country": "Japan",
@@ -175,6 +159,22 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "92.202.199.250"
   },
+  "160.13.84.224": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tokyo",
+    "zip": "151-0071",
+    "lat": 35.6837,
+    "lon": 139.6805,
+    "timezone": "Asia/Tokyo",
+    "isp": "Internet Initiative Japan Inc.",
+    "org": "Internet Initiative Japan Inc.",
+    "as": "AS2497 Internet Initiative Japan Inc.",
+    "query": "160.13.84.224"
+  },
   "133.238.167.250": {
     "status": "success",
     "country": "Japan",
@@ -206,22 +206,6 @@
     "org": "Infoline Ltd.",
     "as": "AS8416 InfoLada Ltd",
     "query": "178.163.69.1"
-  },
-  "126.224.111.147": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.224.111.147"
   },
   "182.237.221.37": {
     "status": "success",
@@ -270,22 +254,6 @@
     "org": "Japan Nation-wide Network of Softbank Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "60.149.114.11"
-  },
-  "103.152.178.62": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-0001",
-    "lat": 35.694,
-    "lon": 139.754,
-    "timezone": "Asia/Tokyo",
-    "isp": "Ayao Takata",
-    "org": "SDCC-East01",
-    "as": "AS38074 SDCC Japan-West Area",
-    "query": "103.152.178.62"
   },
   "219.100.37.50": {
     "status": "success",
@@ -383,6 +351,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.167.189.126"
   },
+  "106.168.67.207": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Yokohama",
+    "zip": "231-0841",
+    "lat": 35.4337,
+    "lon": 139.6499,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "106.168.67.207"
+  },
   "183.104.75.19": {
     "status": "success",
     "country": "South Korea",
@@ -446,22 +430,6 @@
     "org": "OJSC Sibirtelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "2.61.131.86"
-  },
-  "150.9.154.11": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "23",
-    "regionName": "Aichi",
-    "city": "Nagoya",
-    "zip": "461-0001",
-    "lat": 35.1796,
-    "lon": 136.9166,
-    "timezone": "Asia/Tokyo",
-    "isp": "Internet Numbers Authority",
-    "org": "Internet Numbers Authority",
-    "as": "AS4685 Asahi Net",
-    "query": "150.9.154.11"
   },
   "59.20.42.192": {
     "status": "success",
@@ -638,6 +606,22 @@
     "org": "",
     "as": "AS29190 MTS PJSC",
     "query": "95.104.174.25"
+  },
+  "89.107.39.114": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "STA",
+    "regionName": "Stavropol Kray",
+    "city": "Pyatigorsk",
+    "zip": "357500",
+    "lat": 44.0562,
+    "lon": 43.0707,
+    "timezone": "Europe/Moscow",
+    "isp": "JSC Post Ltd Network",
+    "org": "LTD Pptp NET",
+    "as": "AS12494 OOO \"Post ltd\"",
+    "query": "89.107.39.114"
   },
   "98.197.114.233": {
     "status": "success",
