@@ -63,22 +63,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "211.184.24.38"
   },
-  "183.99.115.65": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Seongnam-si",
-    "zip": "134",
-    "lat": 37.4062,
-    "lon": 127.1077,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "183.99.115.65"
-  },
   "185.124.155.182": {
     "status": "success",
     "country": "Russia",
@@ -95,6 +79,22 @@
     "as": "AS12737 KrasPromStroy, LLC",
     "query": "185.124.155.182"
   },
+  "183.99.115.65": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Seongnam-si",
+    "zip": "134",
+    "lat": 37.4062,
+    "lon": 127.1077,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "183.99.115.65"
+  },
   "103.152.178.62": {
     "status": "success",
     "country": "Japan",
@@ -110,22 +110,6 @@
     "org": "SDCC-East01",
     "as": "AS38074 SDCC Japan-West Area",
     "query": "103.152.178.62"
-  },
-  "182.172.122.57": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Guro-gu",
-    "zip": "08367",
-    "lat": 37.4975,
-    "lon": 126.8501,
-    "timezone": "Asia/Seoul",
-    "isp": "DLIVE",
-    "org": "Dlive",
-    "as": "AS10036 DLIVE",
-    "query": "182.172.122.57"
   },
   "101.128.133.100": {
     "status": "success",
@@ -351,22 +335,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.217.172.16"
   },
-  "60.119.224.202": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan Nation-wide Network of Softbank Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "60.119.224.202"
-  },
   "221.164.117.21": {
     "status": "success",
     "country": "South Korea",
@@ -382,6 +350,22 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "221.164.117.21"
+  },
+  "60.119.224.202": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.119.224.202"
   },
   "59.146.181.103": {
     "status": "success",
@@ -703,6 +687,22 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "58.226.80.192"
   },
+  "37.23.161.117": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "ALT",
+    "regionName": "Altai Krai",
+    "city": "Barnaul",
+    "zip": "656002",
+    "lat": 53.362,
+    "lon": 83.7279,
+    "timezone": "Asia/Barnaul",
+    "isp": "JSC Rostelecom regional branch \"Siberia\"",
+    "org": "JSC Rostelecom regional branch Siberia",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "37.23.161.117"
+  },
   "178.64.115.194": {
     "status": "success",
     "country": "Russia",
@@ -735,37 +735,21 @@
     "as": "AS50477 Svyaz-Energo Ltd.",
     "query": "5.149.207.164"
   },
-  "31.192.134.95": {
+  "106.179.41.181": {
     "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KGD",
-    "regionName": "Kaliningrad Oblast",
-    "city": "Kaliningrad",
-    "zip": "236890",
-    "lat": 54.7065,
-    "lon": 20.511,
-    "timezone": "Europe/Kaliningrad",
-    "isp": "TIS-DIALOG",
-    "org": "",
-    "as": "AS31214 TIS Dialog LLC",
-    "query": "31.192.134.95"
-  },
-  "92.40.81.15": {
-    "status": "success",
-    "country": "United Kingdom",
-    "countryCode": "GB",
-    "region": "ENG",
-    "regionName": "England",
-    "city": "Acton",
-    "zip": "W3",
-    "lat": 51.5113,
-    "lon": -0.2714,
-    "timezone": "Europe/London",
-    "isp": "Hutchison 3G UK Ltd",
-    "org": "Mobile Broadband Service",
-    "as": "AS206067 Hutchison 3G UK Limited",
-    "query": "92.40.81.15"
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Shimizu",
+    "zip": "167-0031",
+    "lat": 35.7177,
+    "lon": 139.6265,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "106.179.41.181"
   },
   "125.130.78.170": {
     "status": "success",
