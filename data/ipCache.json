@@ -95,22 +95,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.126"
   },
-  "34.142.207.18": {
-    "status": "success",
-    "country": "Singapore",
-    "countryCode": "SG",
-    "region": "01",
-    "regionName": "Central Singapore",
-    "city": "Singapore",
-    "zip": "190464",
-    "lat": 1.3048,
-    "lon": 103.8622,
-    "timezone": "Asia/Singapore",
-    "isp": "Google LLC",
-    "org": "Google Cloud (asia-southeast1)",
-    "as": "AS396982 Google LLC",
-    "query": "34.142.207.18"
-  },
   "219.100.37.109": {
     "status": "success",
     "country": "Japan",
@@ -175,22 +159,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.113.239.82"
   },
-  "60.153.147.72": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan Nation-wide Network of Softbank Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "60.153.147.72"
-  },
   "27.83.68.134": {
     "status": "success",
     "country": "Japan",
@@ -238,6 +206,22 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "39.125.14.120"
+  },
+  "171.4.241.118": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "50",
+    "regionName": "Chiang Mai",
+    "city": "Chiang Mai",
+    "zip": "50000",
+    "lat": 18.7857,
+    "lon": 98.9736,
+    "timezone": "Asia/Bangkok",
+    "isp": "Triple T Broadband Public Company Limited",
+    "org": "Triple T Broadband Public Company Limited",
+    "as": "AS45758 Triple T Broadband Public Company Limited",
+    "query": "171.4.241.118"
   },
   "219.100.37.102": {
     "status": "success",
@@ -543,22 +527,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "211.107.198.109"
   },
-  "86.102.254.44": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PRI",
-    "regionName": "Primorye",
-    "city": "Vladivostok",
-    "zip": "690001",
-    "lat": 43.1068,
-    "lon": 131.8692,
-    "timezone": "Asia/Vladivostok",
-    "isp": "PRIMORYE",
-    "org": "",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "86.102.254.44"
-  },
   "178.208.255.11": {
     "status": "success",
     "country": "Russia",
@@ -574,6 +542,38 @@
     "org": "Metroset Ltd.",
     "as": "AS50923 Metroset Ltd.",
     "query": "178.208.255.11"
+  },
+  "39.111.215.189": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "10",
+    "regionName": "Gunma",
+    "city": "Takasaki",
+    "zip": "370-0061",
+    "lat": 36.3369,
+    "lon": 139.0189,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "39.111.215.189"
+  },
+  "86.102.254.44": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Vladivostok",
+    "zip": "690001",
+    "lat": 43.1068,
+    "lon": 131.8692,
+    "timezone": "Asia/Vladivostok",
+    "isp": "PRIMORYE",
+    "org": "",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "86.102.254.44"
   },
   "221.154.140.176": {
     "status": "success",
@@ -734,5 +734,21 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "58.123.159.246"
+  },
+  "109.126.225.28": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "VLA",
+    "regionName": "Vladimir Oblast",
+    "city": "Vladimir",
+    "zip": "600017",
+    "lat": 56.1342,
+    "lon": 40.3888,
+    "timezone": "Europe/Moscow",
+    "isp": "Elcom ISP",
+    "org": "OJSC Rostelecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "109.126.225.28"
   }
 }
