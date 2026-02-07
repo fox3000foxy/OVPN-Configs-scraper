@@ -111,6 +111,22 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "223.132.208.135"
   },
+  "27.83.68.134": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Nihonbashi-Kayabachō",
+    "zip": "103-0025",
+    "lat": 35.6792,
+    "lon": 139.779,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "27.83.68.134"
+  },
   "183.99.115.65": {
     "status": "success",
     "country": "South Korea",
@@ -206,22 +222,6 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.102"
-  },
-  "122.103.113.207": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0071",
-    "lat": 35.6837,
-    "lon": 139.6805,
-    "timezone": "Asia/Tokyo",
-    "isp": "ARTERIA Networks Corporation",
-    "org": "ARTERIA Networks Corporation",
-    "as": "AS2519 ARTERIA Networks Corporation",
-    "query": "122.103.113.207"
   },
   "119.196.49.82": {
     "status": "success",
@@ -319,22 +319,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "113.147.188.196"
   },
-  "125.204.108.29": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "24",
-    "regionName": "Mie",
-    "city": "Ise",
-    "zip": "516-0021",
-    "lat": 34.4929,
-    "lon": 136.7059,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "NTT Communications Corporation",
-    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
-    "query": "125.204.108.29"
-  },
   "77.35.150.75": {
     "status": "success",
     "country": "Russia",
@@ -415,22 +399,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "222.14.193.1"
   },
-  "126.36.231.211": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.36.231.211"
-  },
   "106.165.34.211": {
     "status": "success",
     "country": "Japan",
@@ -446,6 +414,22 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "106.165.34.211"
+  },
+  "126.36.231.211": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.36.231.211"
   },
   "121.162.135.220": {
     "status": "success",
@@ -638,6 +622,22 @@
     "org": "CJSC \"ER-Telecom Holding\" Omsk Branch",
     "as": "AS41843 JSC ER-Telecom Holding",
     "query": "188.232.151.68"
+  },
+  "112.138.149.6": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "22",
+    "regionName": "Shizuoka",
+    "city": "Kamiide",
+    "zip": "418-0101",
+    "lat": 35.4072,
+    "lon": 138.5862,
+    "timezone": "Asia/Tokyo",
+    "isp": "TOKAI Communications Corporation",
+    "org": "TOKAI",
+    "as": "AS10010 TOKAI Communications Corporation",
+    "query": "112.138.149.6"
   },
   "106.250.249.67": {
     "status": "success",
