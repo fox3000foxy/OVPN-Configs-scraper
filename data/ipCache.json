@@ -335,22 +335,6 @@
     "as": "AS18403 FPT Telecom Company",
     "query": "42.116.114.23"
   },
-  "222.227.165.89": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minamimagome",
-    "zip": "143-0021",
-    "lat": 35.5993,
-    "lon": 139.7075,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "Kddi Corporation",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "222.227.165.89"
-  },
   "58.235.20.124": {
     "status": "success",
     "country": "South Korea",
@@ -575,6 +559,22 @@
     "as": "AS12768 JSC ER-Telecom Holding",
     "query": "46.146.108.204"
   },
+  "185.138.90.8": {
+    "status": "success",
+    "country": "Poland",
+    "countryCode": "PL",
+    "region": "14",
+    "regionName": "Mazovia",
+    "city": "Warsaw",
+    "zip": "00-510",
+    "lat": 52.2299,
+    "lon": 21.0093,
+    "timezone": "Europe/Warsaw",
+    "isp": "Global Connectivity Solutions LLP",
+    "org": "Global Connectivity Solutions LLP",
+    "as": "AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP",
+    "query": "185.138.90.8"
+  },
   "91.132.22.148": {
     "status": "success",
     "country": "Russia",
@@ -623,6 +623,22 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.226.8.88"
   },
+  "161.0.156.107": {
+    "status": "success",
+    "country": "Trinidad and Tobago",
+    "countryCode": "TT",
+    "region": "CHA",
+    "regionName": "Chaguanas",
+    "city": "Chaguanas",
+    "zip": "",
+    "lat": 10.5167,
+    "lon": -61.4167,
+    "timezone": "America/Port_of_Spain",
+    "isp": "Digicel Trinidad and Tobago Ltd.",
+    "org": "Digicel Trinidad and Tobago Ltd",
+    "as": "AS27800 Digicel Trinidad and Tobago Ltd.",
+    "query": "161.0.156.107"
+  },
   "95.104.174.25": {
     "status": "success",
     "country": "Russia",
@@ -638,21 +654,5 @@
     "org": "",
     "as": "AS29190 MTS PJSC",
     "query": "95.104.174.25"
-  },
-  "89.107.39.114": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "STA",
-    "regionName": "Stavropol Kray",
-    "city": "Pyatigorsk",
-    "zip": "357500",
-    "lat": 44.0562,
-    "lon": 43.0707,
-    "timezone": "Europe/Moscow",
-    "isp": "JSC Post Ltd Network",
-    "org": "LTD Pptp NET",
-    "as": "AS12494 OOO \"Post ltd\"",
-    "query": "89.107.39.114"
   }
 }
