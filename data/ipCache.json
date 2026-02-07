@@ -31,22 +31,6 @@
     "as": "AS3462 Data Communication Business Group",
     "query": "114.35.64.20"
   },
-  "221.144.146.230": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Seoul",
-    "zip": "045",
-    "lat": 37.5656,
-    "lon": 126.978,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "221.144.146.230"
-  },
   "118.41.236.148": {
     "status": "success",
     "country": "South Korea",
@@ -175,22 +159,6 @@
     "as": "AS17858 LG POWERCOMM",
     "query": "180.230.179.174"
   },
-  "58.183.127.232": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "35",
-    "regionName": "Yamaguchi",
-    "city": "Yamaguchi",
-    "zip": "753-0041",
-    "lat": 34.1766,
-    "lon": 131.483,
-    "timezone": "Asia/Tokyo",
-    "isp": "Enecom, Inc.",
-    "org": "Energia Communications, Inc.",
-    "as": "AS18144 Enecom,Inc.",
-    "query": "58.183.127.232"
-  },
   "103.152.178.62": {
     "status": "success",
     "country": "Japan",
@@ -206,6 +174,22 @@
     "org": "SDCC-East01",
     "as": "AS38074 SDCC Japan-West Area",
     "query": "103.152.178.62"
+  },
+  "58.183.127.232": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "35",
+    "regionName": "Yamaguchi",
+    "city": "Yamaguchi",
+    "zip": "753-0041",
+    "lat": 34.1766,
+    "lon": 131.483,
+    "timezone": "Asia/Tokyo",
+    "isp": "Enecom, Inc.",
+    "org": "Energia Communications, Inc.",
+    "as": "AS18144 Enecom,Inc.",
+    "query": "58.183.127.232"
   },
   "27.83.68.134": {
     "status": "success",
@@ -319,38 +303,6 @@
     "as": "AS7679 QTnet,Inc.",
     "query": "218.219.131.2"
   },
-  "124.18.97.154": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "23",
-    "regionName": "Aichi",
-    "city": "Kiyosu",
-    "zip": "452-0941",
-    "lat": 35.2172,
-    "lon": 136.8325,
-    "timezone": "Asia/Tokyo",
-    "isp": "Chubu Telecommunications Company, Inc.",
-    "org": "Chubu Telecommunications Co., Inc.",
-    "as": "AS18126 Chubu Telecommunications Company, Inc.",
-    "query": "124.18.97.154"
-  },
-  "133.207.161.129": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "22",
-    "regionName": "Shizuoka",
-    "city": "Jike",
-    "zip": "410-2121",
-    "lat": 35.0439,
-    "lon": 138.9459,
-    "timezone": "Asia/Tokyo",
-    "isp": "BIGLOBE Inc.",
-    "org": "NEC BIGLOBE Ltd.",
-    "as": "AS2518 BIGLOBE Inc.",
-    "query": "133.207.161.129"
-  },
   "79.105.223.157": {
     "status": "success",
     "country": "Russia",
@@ -415,21 +367,21 @@
     "as": "AS48043 Ozyorsk Telecom CJSC.",
     "query": "185.190.42.79"
   },
-  "171.4.226.236": {
+  "115.163.40.198": {
     "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "50",
-    "regionName": "Chiang Mai",
-    "city": "Chiang Mai",
-    "zip": "50210",
-    "lat": 18.8514,
-    "lon": 99.0412,
-    "timezone": "Asia/Bangkok",
-    "isp": "Triple T Broadband Public Company Limited",
-    "org": "Triple T Broadband Public Company Limited",
-    "as": "AS45758 Triple T Broadband Public Company Limited",
-    "query": "171.4.226.236"
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "22",
+    "regionName": "Shizuoka",
+    "city": "Fuji",
+    "zip": "417-0071",
+    "lat": 35.1673,
+    "lon": 138.686,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "115.163.40.198"
   },
   "59.168.25.10": {
     "status": "success",
@@ -479,6 +431,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "211.193.219.92"
   },
+  "123.48.101.88": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "22",
+    "regionName": "Shizuoka",
+    "city": "Yukawa",
+    "zip": "411-0911",
+    "lat": 35.0997,
+    "lon": 138.9137,
+    "timezone": "Asia/Tokyo",
+    "isp": "Chubu Telecommunications Company, Inc.",
+    "org": "Chubu Telecommunications Co., Inc.",
+    "as": "AS18126 Chubu Telecommunications Company, Inc.",
+    "query": "123.48.101.88"
+  },
   "126.234.234.114": {
     "status": "success",
     "country": "Japan",
@@ -527,6 +495,38 @@
     "as": "AS4766 Korea Telecom",
     "query": "220.76.101.240"
   },
+  "133.207.161.129": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "22",
+    "regionName": "Shizuoka",
+    "city": "Jike",
+    "zip": "410-2121",
+    "lat": 35.0439,
+    "lon": 138.9459,
+    "timezone": "Asia/Tokyo",
+    "isp": "BIGLOBE Inc.",
+    "org": "NEC BIGLOBE Ltd.",
+    "as": "AS2518 BIGLOBE Inc.",
+    "query": "133.207.161.129"
+  },
+  "89.189.103.44": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "MOW",
+    "regionName": "Moscow",
+    "city": "Moscow",
+    "zip": "143441",
+    "lat": 55.8474,
+    "lon": 37.4503,
+    "timezone": "Europe/Moscow",
+    "isp": "Limited Liability Company",
+    "org": "LLC MVM Technology 3",
+    "as": "AS41349 Limited Liability Company MVM Technology",
+    "query": "89.189.103.44"
+  },
   "121.183.242.194": {
     "status": "success",
     "country": "South Korea",
@@ -559,6 +559,22 @@
     "as": "AS133481 AIS Fibre",
     "query": "184.22.8.4"
   },
+  "85.91.103.2": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "MOW",
+    "regionName": "Moscow",
+    "city": "Moscow",
+    "zip": "",
+    "lat": 55.8024,
+    "lon": 37.5637,
+    "timezone": "Europe/Moscow",
+    "isp": "LLC \"Nauka-Svyaz\"",
+    "org": "Nauka-Svyaz",
+    "as": "AS8641 BACKBONE AS of Nauka-Svyaz",
+    "query": "85.91.103.2"
+  },
   "211.205.202.101": {
     "status": "success",
     "country": "South Korea",
@@ -575,21 +591,21 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "211.205.202.101"
   },
-  "85.91.103.2": {
+  "211.184.24.132": {
     "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "MOW",
-    "regionName": "Moscow",
-    "city": "Moscow",
-    "zip": "",
-    "lat": 55.8024,
-    "lon": 37.5637,
-    "timezone": "Europe/Moscow",
-    "isp": "LLC \"Nauka-Svyaz\"",
-    "org": "Nauka-Svyaz",
-    "as": "AS8641 BACKBONE AS of Nauka-Svyaz",
-    "query": "85.91.103.2"
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Suwon",
+    "zip": "164",
+    "lat": 37.2872,
+    "lon": 127.0116,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "211.184.24.132"
   },
   "125.173.170.135": {
     "status": "success",
@@ -655,20 +671,20 @@
     "as": "AS7922 Comcast Cable Communications, LLC",
     "query": "76.148.153.54"
   },
-  "89.115.0.129": {
+  "195.122.224.248": {
     "status": "success",
-    "country": "Portugal",
-    "countryCode": "PT",
-    "region": "11",
-    "regionName": "Lisbon",
-    "city": "Lisbon",
-    "zip": "1100-001",
-    "lat": 38.7219,
-    "lon": -9.1398,
-    "timezone": "Europe/Lisbon",
-    "isp": "Vodafone Portugal",
-    "org": "",
-    "as": "AS12353 Vodafone Portugal",
-    "query": "89.115.0.129"
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "NIZ",
+    "regionName": "Nizhny Novgorod Oblast",
+    "city": "Nizhniy Novgorod",
+    "zip": "",
+    "lat": 56.2602,
+    "lon": 43.9717,
+    "timezone": "Europe/Moscow",
+    "isp": "Closed Join Stock Company KOMSTAR-Regiony",
+    "org": "Sandy Info Ltd",
+    "as": "AS8359 MTS PJSC",
+    "query": "195.122.224.248"
   }
 }
