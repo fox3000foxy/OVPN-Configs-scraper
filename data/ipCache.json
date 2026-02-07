@@ -303,22 +303,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "14.52.253.14"
   },
-  "124.47.218.84": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Azamino",
-    "zip": "225-0011",
-    "lat": 35.5613,
-    "lon": 139.5495,
-    "timezone": "Asia/Tokyo",
-    "isp": "TOKAI Communications Corporation",
-    "org": "TOKAI",
-    "as": "AS10010 TOKAI Communications Corporation",
-    "query": "124.47.218.84"
-  },
   "126.221.40.75": {
     "status": "success",
     "country": "Japan",
@@ -415,6 +399,22 @@
     "as": "AS4685 Asahi Net",
     "query": "138.64.250.196"
   },
+  "126.51.144.162": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.51.144.162"
+  },
   "175.28.146.212": {
     "status": "success",
     "country": "Japan",
@@ -430,22 +430,6 @@
     "org": "QTnet, Inc.",
     "as": "AS7679 QTnet,Inc.",
     "query": "175.28.146.212"
-  },
-  "184.22.10.215": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "10",
-    "regionName": "Bangkok",
-    "city": "Bangkok",
-    "zip": "10400",
-    "lat": 13.7618,
-    "lon": 100.5324,
-    "timezone": "Asia/Bangkok",
-    "isp": "AIS-Fibre",
-    "org": "",
-    "as": "AS133481 AIS Fibre",
-    "query": "184.22.10.215"
   },
   "1.255.215.116": {
     "status": "success",
@@ -511,6 +495,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "175.194.115.126"
   },
+  "222.236.200.106": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "43",
+    "regionName": "North Chungcheong",
+    "city": "Danyang-gun",
+    "zip": "270",
+    "lat": 36.9848,
+    "lon": 128.3735,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "222.236.200.106"
+  },
   "211.204.251.153": {
     "status": "success",
     "country": "South Korea",
@@ -542,22 +542,6 @@
     "org": "LG POWERCOMM",
     "as": "AS17858 LG POWERCOMM",
     "query": "125.177.138.153"
-  },
-  "171.241.40.37": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "HN",
-    "regionName": "Hanoi",
-    "city": "Hanoi",
-    "zip": "100000",
-    "lat": 21.0184,
-    "lon": 105.8461,
-    "timezone": "Asia/Bangkok",
-    "isp": "Viettel Corporation",
-    "org": "VIETEL",
-    "as": "AS7552 Viettel Group",
-    "query": "171.241.40.37"
   },
   "122.42.193.245": {
     "status": "success",
