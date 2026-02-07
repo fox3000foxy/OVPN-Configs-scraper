@@ -63,22 +63,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "211.184.24.38"
   },
-  "185.124.155.182": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "NVS",
-    "regionName": "Novosibirsk Oblast",
-    "city": "Novosibirsk",
-    "zip": "",
-    "lat": 54.9833,
-    "lon": 82.8964,
-    "timezone": "Asia/Novosibirsk",
-    "isp": "KrasPromStroy, LLC",
-    "org": "",
-    "as": "AS12737 KrasPromStroy, LLC",
-    "query": "185.124.155.182"
-  },
   "183.99.115.65": {
     "status": "success",
     "country": "South Korea",
@@ -94,6 +78,22 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "183.99.115.65"
+  },
+  "185.124.155.182": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "NVS",
+    "regionName": "Novosibirsk Oblast",
+    "city": "Novosibirsk",
+    "zip": "",
+    "lat": 54.9833,
+    "lon": 82.8964,
+    "timezone": "Asia/Novosibirsk",
+    "isp": "KrasPromStroy, LLC",
+    "org": "",
+    "as": "AS12737 KrasPromStroy, LLC",
+    "query": "185.124.155.182"
   },
   "101.128.133.100": {
     "status": "success",
@@ -158,22 +158,6 @@
     "org": "ARTERIA Networks Corporation",
     "as": "AS2519 ARTERIA Networks Corporation",
     "query": "122.103.113.207"
-  },
-  "27.83.68.134": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Nihonbashi-Kayabachō",
-    "zip": "103-0025",
-    "lat": 35.6792,
-    "lon": 139.779,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "27.83.68.134"
   },
   "49.167.12.160": {
     "status": "success",
@@ -350,6 +334,22 @@
     "org": "Japan Nation-wide Network of Softbank Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "60.149.126.189"
+  },
+  "116.222.29.22": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Yao",
+    "zip": "581-0041",
+    "lat": 34.6221,
+    "lon": 135.5952,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM Co., Ltd.",
+    "org": "Jupiter Telecommunication Co. Ltd",
+    "as": "AS9824 JCOM Co., Ltd.",
+    "query": "116.222.29.22"
   },
   "60.119.224.202": {
     "status": "success",
@@ -735,21 +735,21 @@
     "as": "AS50477 Svyaz-Energo Ltd.",
     "query": "5.149.207.164"
   },
-  "222.236.114.192": {
+  "60.148.113.252": {
     "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "28",
-    "regionName": "Incheon",
-    "city": "Incheon",
-    "zip": "221",
-    "lat": 37.4723,
-    "lon": 126.6594,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "SK Broadband Co Ltd",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "222.236.114.192"
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.148.113.252"
   },
   "121.83.124.99": {
     "status": "success",
@@ -782,22 +782,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "125.130.78.170"
-  },
-  "133.106.198.1": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Osaka",
-    "zip": "550-0001",
-    "lat": 34.6892,
-    "lon": 135.4899,
-    "timezone": "Asia/Tokyo",
-    "isp": "Rakuten Mobile, Inc.",
-    "org": "RMN",
-    "as": "AS138384 Rakuten Mobile Network, Inc.",
-    "query": "133.106.198.1"
   },
   "110.14.247.155": {
     "status": "success",
