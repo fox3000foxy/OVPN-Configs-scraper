@@ -383,6 +383,22 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "61.254.116.94"
   },
+  "185.190.42.79": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "CHE",
+    "regionName": "Chelyabinsk Oblast",
+    "city": "Ozersk",
+    "zip": "456784",
+    "lat": 55.7585,
+    "lon": 60.7079,
+    "timezone": "Asia/Yekaterinburg",
+    "isp": "UKS",
+    "org": "",
+    "as": "AS48043 Ozyorsk Telecom CJSC.",
+    "query": "185.190.42.79"
+  },
   "2.61.131.86": {
     "status": "success",
     "country": "Russia",
@@ -495,22 +511,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.176.222.166"
   },
-  "61.24.93.129": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0071",
-    "lat": 35.6837,
-    "lon": 139.6805,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM Co., Ltd.",
-    "org": "JCOM Co., Ltd",
-    "as": "AS9824 JCOM Co., Ltd.",
-    "query": "61.24.93.129"
-  },
   "211.195.82.195": {
     "status": "success",
     "country": "South Korea",
@@ -606,5 +606,37 @@
     "org": "",
     "as": "AS12389 PJSC Rostelecom",
     "query": "95.70.39.118"
+  },
+  "92.127.103.123": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KEM",
+    "regionName": "Kemerovo Oblast",
+    "city": "Kiselëvsk",
+    "zip": "652701",
+    "lat": 53.99,
+    "lon": 86.6621,
+    "timezone": "Asia/Novokuznetsk",
+    "isp": "OJSC \"Sibirtelecom\"",
+    "org": "OJSC Sibirtelecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "92.127.103.123"
+  },
+  "211.116.113.124": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "45",
+    "regionName": "Jeollabuk-do",
+    "city": "Jeonju",
+    "zip": "549",
+    "lat": 35.8345,
+    "lon": 127.1057,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "TBROAD Jeonju",
+    "as": "AS17854 SK Broadband Co Ltd",
+    "query": "211.116.113.124"
   }
 }
