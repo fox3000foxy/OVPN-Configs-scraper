@@ -303,6 +303,22 @@
     "as": "AS59533 Lukyanov Evgeniy Vladimirovich PE",
     "query": "91.219.203.117"
   },
+  "49.49.78.23": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "47",
+    "regionName": "Sakon Nakhon",
+    "city": "Sakon Nakhon",
+    "zip": "47250",
+    "lat": 17.1612,
+    "lon": 104.147,
+    "timezone": "Asia/Bangkok",
+    "isp": "Triple T Broadband Public Company Limited",
+    "org": "Triple T Broadband Public Company Limited",
+    "as": "AS45758 Triple T Broadband Public Company Limited",
+    "query": "49.49.78.23"
+  },
   "219.117.198.100": {
     "status": "success",
     "country": "Japan",
@@ -383,22 +399,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.117.63.212"
   },
-  "116.123.228.25": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "28",
-    "regionName": "Incheon",
-    "city": "Incheon",
-    "zip": "222",
-    "lat": 37.4503,
-    "lon": 126.6701,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "116.123.228.25"
-  },
   "121.83.51.37": {
     "status": "success",
     "country": "Japan",
@@ -446,6 +446,22 @@
     "org": "OJSC Sibirtelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "92.125.12.76"
+  },
+  "109.226.248.25": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KYA",
+    "regionName": "Krasnoyarsk Krai",
+    "city": "Krasnoyarsk",
+    "zip": "660017",
+    "lat": 56.0374,
+    "lon": 92.9314,
+    "timezone": "Asia/Krasnoyarsk",
+    "isp": "Orion Telecom LLC",
+    "org": "Orion Telecom LLC",
+    "as": "AS50427 Orion Telecom LLC",
+    "query": "109.226.248.25"
   },
   "211.248.84.100": {
     "status": "success",
@@ -511,22 +527,6 @@
     "as": "AS6327 Shaw Communications",
     "query": "96.48.237.225"
   },
-  "210.223.226.234": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "26",
-    "regionName": "Busan",
-    "city": "Saha-gu",
-    "zip": "493",
-    "lat": 35.1187,
-    "lon": 128.957,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "KORNET",
-    "as": "AS4766 Korea Telecom",
-    "query": "210.223.226.234"
-  },
   "118.37.233.14": {
     "status": "success",
     "country": "South Korea",
@@ -542,6 +542,22 @@
     "org": "Sudogwonseobubonbu",
     "as": "AS4766 Korea Telecom",
     "query": "118.37.233.14"
+  },
+  "210.223.226.234": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Saha-gu",
+    "zip": "493",
+    "lat": 35.1187,
+    "lon": 128.957,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "KORNET",
+    "as": "AS4766 Korea Telecom",
+    "query": "210.223.226.234"
   },
   "61.255.26.99": {
     "status": "success",
