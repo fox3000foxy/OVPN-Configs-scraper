@@ -47,6 +47,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "211.198.67.197"
   },
+  "218.145.107.33": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Ansan-si",
+    "zip": "154",
+    "lat": 37.3031,
+    "lon": 126.8214,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "218.145.107.33"
+  },
   "211.184.24.38": {
     "status": "success",
     "country": "South Korea",
@@ -191,38 +207,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "111.107.47.57"
   },
-  "126.79.67.234": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.79.67.234"
-  },
-  "222.114.174.215": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "30",
-    "regionName": "Daejeon",
-    "city": "Dong-gu",
-    "zip": "345",
-    "lat": 36.3454,
-    "lon": 127.4458,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "222.114.174.215"
-  },
   "210.136.243.168": {
     "status": "success",
     "country": "Japan",
@@ -270,22 +254,6 @@
     "org": "New Media Co., Ltd",
     "as": "AS59127 Newmedia Corporation",
     "query": "61.44.175.142"
-  },
-  "219.115.62.131": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "28",
-    "regionName": "Hyōgo",
-    "city": "Fukaeminamimachi",
-    "zip": "658-0021",
-    "lat": 34.7238,
-    "lon": 135.2959,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM",
-    "org": "J:COM WEST Co., Ltd.",
-    "as": "AS9617 JCOM Co., Ltd.",
-    "query": "219.115.62.131"
   },
   "125.215.72.137": {
     "status": "success",
@@ -351,6 +319,22 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.94.230.86"
   },
+  "126.217.172.16": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.217.172.16"
+  },
   "14.14.148.93": {
     "status": "success",
     "country": "Japan",
@@ -366,22 +350,6 @@
     "org": "Kddi Corporation",
     "as": "AS131933 TAMA Television Co., Ltd",
     "query": "14.14.148.93"
-  },
-  "119.171.136.236": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Yokohama",
-    "zip": "231-0841",
-    "lat": 35.4337,
-    "lon": 139.6499,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM Co., Ltd.",
-    "org": "JCOM Co., Ltd",
-    "as": "AS9824 JCOM Co., Ltd.",
-    "query": "119.171.136.236"
   },
   "221.164.117.21": {
     "status": "success",
@@ -430,6 +398,22 @@
     "org": "LG Uplus",
     "as": "AS3786 LG DACOM Corporation",
     "query": "112.218.21.132"
+  },
+  "61.211.140.202": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "23",
+    "regionName": "Aichi",
+    "city": "Nagoya",
+    "zip": "461-0001",
+    "lat": 35.1796,
+    "lon": 136.9166,
+    "timezone": "Asia/Tokyo",
+    "isp": "STARCAT Co ., LTD.",
+    "org": "STARCAT CABLE NETWORK Co ., LTD.",
+    "as": "AS17529 STARCAT Co .,LTD.",
+    "query": "61.211.140.202"
   },
   "114.201.3.61": {
     "status": "success",
@@ -655,22 +639,6 @@
     "as": "AS8369 Intersvyaz-2 JSC",
     "query": "37.140.24.30"
   },
-  "188.18.16.62": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "CHE",
-    "regionName": "Chelyabinsk Oblast",
-    "city": "Chelyabinsk",
-    "zip": "454000",
-    "lat": 55.1586,
-    "lon": 61.4296,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "OJSC uralsvyazinform",
-    "org": "Dynamic distribution IPs for broadband services",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "188.18.16.62"
-  },
   "104.28.214.148": {
     "status": "success",
     "country": "Thailand",
@@ -734,5 +702,21 @@
     "org": "",
     "as": "AS31214 TIS Dialog LLC",
     "query": "31.192.134.95"
+  },
+  "220.149.84.10": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Sangdo-dong",
+    "zip": "156743",
+    "lat": 37.499,
+    "lon": 126.938,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "Kren",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "220.149.84.10"
   }
 }
