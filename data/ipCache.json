@@ -399,21 +399,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "220.86.64.116"
   },
-  "223.204.251.197": {
+  "106.168.22.54": {
     "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "20",
-    "regionName": "Chon Buri",
-    "city": "Bang Lamung",
-    "zip": "20150",
-    "lat": 13.0508,
-    "lon": 100.9367,
-    "timezone": "Asia/Bangkok",
-    "isp": "Triple T Broadband Public Company Limited",
-    "org": "Triple T Broadband Public Company Limited",
-    "as": "AS45758 Triple T Broadband Public Company Limited",
-    "query": "223.204.251.197"
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Sachigaoka",
+    "zip": "241-0822",
+    "lat": 35.4602,
+    "lon": 139.5252,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "106.168.22.54"
   },
   "61.47.212.110": {
     "status": "success",
