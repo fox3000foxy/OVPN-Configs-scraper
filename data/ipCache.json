@@ -479,22 +479,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "211.248.84.100"
   },
-  "178.34.136.197": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KYA",
-    "regionName": "Krasnoyarsk Krai",
-    "city": "Krasnoyarsk",
-    "zip": "660049",
-    "lat": 56.0374,
-    "lon": 92.9314,
-    "timezone": "Asia/Krasnoyarsk",
-    "isp": "Rostelecom Nets",
-    "org": "JSC Rostelecom",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "178.34.136.197"
-  },
   "86.102.254.44": {
     "status": "success",
     "country": "Russia",
