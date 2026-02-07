@@ -367,6 +367,22 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.217.172.16"
   },
+  "60.119.224.202": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.119.224.202"
+  },
   "221.164.117.21": {
     "status": "success",
     "country": "South Korea",
@@ -495,21 +511,21 @@
     "as": "AS18403 FPT Telecom Company",
     "query": "42.119.191.246"
   },
-  "61.74.209.219": {
+  "121.170.248.105": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Songpa-gu",
-    "zip": "056",
-    "lat": 37.5108,
-    "lon": 127.1048,
+    "region": "28",
+    "regionName": "Incheon",
+    "city": "Seo-gu",
+    "zip": "228",
+    "lat": 37.5488,
+    "lon": 126.6578,
     "timezone": "Asia/Seoul",
     "isp": "Korea Telecom",
-    "org": "KORNET",
+    "org": "Sudogwonseobubonbu",
     "as": "AS4766 Korea Telecom",
-    "query": "61.74.209.219"
+    "query": "121.170.248.105"
   },
   "184.22.113.214": {
     "status": "success",
@@ -526,6 +542,22 @@
     "org": "",
     "as": "AS133481 AIS Fibre",
     "query": "184.22.113.214"
+  },
+  "218.150.195.12": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "44",
+    "regionName": "Chungcheongnam-do",
+    "city": "Seosan City",
+    "zip": "319",
+    "lat": 36.7758,
+    "lon": 126.4499,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "218.150.195.12"
   },
   "112.171.81.250": {
     "status": "success",
@@ -607,22 +639,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "5.143.2.138"
   },
-  "125.243.142.156": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Seoul",
-    "zip": "04524",
-    "lat": 37.5658,
-    "lon": 126.978,
-    "timezone": "Asia/Seoul",
-    "isp": "DACOM-PUBNETPLUS",
-    "org": "Pubnetplus",
-    "as": "AS9316 DACOM-PUBNETPLUS",
-    "query": "125.243.142.156"
-  },
   "211.213.28.116": {
     "status": "success",
     "country": "South Korea",
@@ -655,6 +671,22 @@
     "as": "AS17858 LG POWERCOMM",
     "query": "182.221.142.49"
   },
+  "5.180.138.59": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "MOW",
+    "regionName": "Moscow",
+    "city": "Moscow",
+    "zip": "144700",
+    "lat": 55.7558,
+    "lon": 37.6173,
+    "timezone": "Europe/Moscow",
+    "isp": "M247 Europe SRL",
+    "org": "Anchorfree GMBH",
+    "as": "AS9009 M247 Europe SRL",
+    "query": "5.180.138.59"
+  },
   "37.140.24.30": {
     "status": "success",
     "country": "Russia",
@@ -670,6 +702,22 @@
     "org": "",
     "as": "AS8369 Intersvyaz-2 JSC",
     "query": "37.140.24.30"
+  },
+  "58.226.80.192": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Geumcheon-gu",
+    "zip": "085",
+    "lat": 37.4784,
+    "lon": 126.8982,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "58.226.80.192"
   },
   "104.28.214.148": {
     "status": "success",
@@ -718,37 +766,5 @@
     "org": "",
     "as": "AS50477 Svyaz-Energo Ltd.",
     "query": "5.149.207.164"
-  },
-  "31.192.134.95": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KGD",
-    "regionName": "Kaliningrad Oblast",
-    "city": "Kaliningrad",
-    "zip": "236890",
-    "lat": 54.7065,
-    "lon": 20.511,
-    "timezone": "Europe/Kaliningrad",
-    "isp": "TIS-DIALOG",
-    "org": "",
-    "as": "AS31214 TIS Dialog LLC",
-    "query": "31.192.134.95"
-  },
-  "220.149.84.10": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Sangdo-dong",
-    "zip": "156743",
-    "lat": 37.499,
-    "lon": 126.938,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "Kren",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "220.149.84.10"
   }
 }
