@@ -223,6 +223,22 @@
     "as": "AS396982 Google LLC",
     "query": "34.142.207.18"
   },
+  "218.154.111.211": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "31",
+    "regionName": "Ulsan",
+    "city": "Nam-gu",
+    "zip": "446",
+    "lat": 35.5335,
+    "lon": 129.3173,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "218.154.111.211"
+  },
   "219.100.37.50": {
     "status": "success",
     "country": "Japan",
@@ -238,22 +254,6 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.50"
-  },
-  "113.144.29.135": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Nakano City",
-    "zip": "164-0011",
-    "lat": 35.7027,
-    "lon": 139.6749,
-    "timezone": "Asia/Tokyo",
-    "isp": "DION (KDDI CORPORATION)",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "113.144.29.135"
   },
   "117.55.150.209": {
     "status": "success",
@@ -463,21 +463,21 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "92.125.12.76"
   },
-  "86.102.254.44": {
+  "14.132.22.67": {
     "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PRI",
-    "regionName": "Primorye",
-    "city": "Vladivostok",
-    "zip": "690001",
-    "lat": 43.1068,
-    "lon": 131.8692,
-    "timezone": "Asia/Vladivostok",
-    "isp": "PRIMORYE",
-    "org": "",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "86.102.254.44"
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "23",
+    "regionName": "Aichi",
+    "city": "Komaki",
+    "zip": "485-0041",
+    "lat": 35.2853,
+    "lon": 136.9125,
+    "timezone": "Asia/Tokyo",
+    "isp": "Chubu Telecommunications Company, Inc.",
+    "org": "Chubu Telecommunications Co., Inc.",
+    "as": "AS18126 Chubu Telecommunications Company, Inc.",
+    "query": "14.132.22.67"
   },
   "211.248.84.100": {
     "status": "success",
@@ -494,6 +494,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "211.248.84.100"
+  },
+  "86.102.254.44": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Vladivostok",
+    "zip": "690001",
+    "lat": 43.1068,
+    "lon": 131.8692,
+    "timezone": "Asia/Vladivostok",
+    "isp": "PRIMORYE",
+    "org": "",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "86.102.254.44"
   },
   "178.34.136.197": {
     "status": "success",
