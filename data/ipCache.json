@@ -319,6 +319,22 @@
     "as": "AS45758 Triple T Broadband Public Company Limited",
     "query": "49.49.78.23"
   },
+  "220.72.39.177": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Dobong-gu",
+    "zip": "013",
+    "lat": 37.675,
+    "lon": 127.0496,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Korea Telecom",
+    "as": "AS4766 Korea Telecom",
+    "query": "220.72.39.177"
+  },
   "219.117.198.100": {
     "status": "success",
     "country": "Japan",
@@ -447,21 +463,21 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "92.125.12.76"
   },
-  "109.226.248.25": {
+  "86.102.254.44": {
     "status": "success",
     "country": "Russia",
     "countryCode": "RU",
-    "region": "KYA",
-    "regionName": "Krasnoyarsk Krai",
-    "city": "Krasnoyarsk",
-    "zip": "660017",
-    "lat": 56.0374,
-    "lon": 92.9314,
-    "timezone": "Asia/Krasnoyarsk",
-    "isp": "Orion Telecom LLC",
-    "org": "Orion Telecom LLC",
-    "as": "AS50427 Orion Telecom LLC",
-    "query": "109.226.248.25"
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Vladivostok",
+    "zip": "690001",
+    "lat": 43.1068,
+    "lon": 131.8692,
+    "timezone": "Asia/Vladivostok",
+    "isp": "PRIMORYE",
+    "org": "",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "86.102.254.44"
   },
   "211.248.84.100": {
     "status": "success",
@@ -479,22 +495,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "211.248.84.100"
   },
-  "86.102.254.44": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PRI",
-    "regionName": "Primorye",
-    "city": "Vladivostok",
-    "zip": "690001",
-    "lat": 43.1068,
-    "lon": 131.8692,
-    "timezone": "Asia/Vladivostok",
-    "isp": "PRIMORYE",
-    "org": "",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "86.102.254.44"
-  },
   "178.208.255.11": {
     "status": "success",
     "country": "Russia",
@@ -510,22 +510,6 @@
     "org": "Metroset Ltd.",
     "as": "AS50923 Metroset Ltd.",
     "query": "178.208.255.11"
-  },
-  "96.48.237.225": {
-    "status": "success",
-    "country": "Canada",
-    "countryCode": "CA",
-    "region": "BC",
-    "regionName": "British Columbia",
-    "city": "Coquitlam",
-    "zip": "V3B",
-    "lat": 49.2838,
-    "lon": -122.7762,
-    "timezone": "America/Vancouver",
-    "isp": "Shaw Communications",
-    "org": "Shaw Communications Inc.",
-    "as": "AS6327 Shaw Communications",
-    "query": "96.48.237.225"
   },
   "118.37.233.14": {
     "status": "success",
@@ -591,6 +575,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "222.96.64.242"
   },
+  "221.153.109.66": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Gwangju",
+    "zip": "127",
+    "lat": 37.3661,
+    "lon": 127.2255,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "221.153.109.66"
+  },
   "39.126.152.48": {
     "status": "success",
     "country": "South Korea",
@@ -606,22 +606,6 @@
     "org": "",
     "as": "AS23584 PUSAN CABLE TV SYSTEM CO., LTD.",
     "query": "39.126.152.48"
-  },
-  "58.123.159.246": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Guro-gu",
-    "zip": "083",
-    "lat": 37.4784,
-    "lon": 126.8982,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "58.123.159.246"
   },
   "178.187.92.101": {
     "status": "success",
