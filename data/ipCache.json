@@ -127,22 +127,6 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "153.160.148.90"
   },
-  "103.152.178.62": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-0001",
-    "lat": 35.694,
-    "lon": 139.754,
-    "timezone": "Asia/Tokyo",
-    "isp": "Ayao Takata",
-    "org": "SDCC-East01",
-    "as": "AS38074 SDCC Japan-West Area",
-    "query": "103.152.178.62"
-  },
   "27.83.68.134": {
     "status": "success",
     "country": "Japan",
@@ -158,6 +142,38 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "27.83.68.134"
+  },
+  "60.120.20.164": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.120.20.164"
+  },
+  "103.152.178.62": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-0001",
+    "lat": 35.694,
+    "lon": 139.754,
+    "timezone": "Asia/Tokyo",
+    "isp": "Ayao Takata",
+    "org": "SDCC-East01",
+    "as": "AS38074 SDCC Japan-West Area",
+    "query": "103.152.178.62"
   },
   "118.158.46.247": {
     "status": "success",
@@ -559,6 +575,22 @@
     "as": "AS9845 LG HelloVision Corp.",
     "query": "115.40.206.229"
   },
+  "217.175.14.88": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KDA",
+    "regionName": "Krasnodar Krai",
+    "city": "Taman'",
+    "zip": "353555",
+    "lat": 45.212,
+    "lon": 36.7103,
+    "timezone": "Europe/Moscow",
+    "isp": "CrystalNET Plus",
+    "org": "",
+    "as": "AS25591 BCLan LLC",
+    "query": "217.175.14.88"
+  },
   "218.49.3.43": {
     "status": "success",
     "country": "South Korea",
@@ -606,22 +638,6 @@
     "org": "OJSC Sibirtelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "90.189.50.91"
-  },
-  "188.187.16.11": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "SPE",
-    "regionName": "St.-Petersburg",
-    "city": "St Petersburg",
-    "zip": "190990",
-    "lat": 59.8983,
-    "lon": 30.2618,
-    "timezone": "Europe/Moscow",
-    "isp": "CJSC \"ER-Telecom Holding\" Saint-Petersburg branch",
-    "org": "JSC \"ER-Telecom Holding\" Saint-Petersburg Branch",
-    "as": "AS51570 JSC ER-Telecom Holding",
-    "query": "188.187.16.11"
   },
   "1.240.128.118": {
     "status": "success",
