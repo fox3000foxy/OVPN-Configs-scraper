@@ -63,22 +63,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.4"
   },
-  "219.100.37.15": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftEther",
-    "org": "SoftEther Corporation",
-    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.15"
-  },
   "219.100.37.126": {
     "status": "success",
     "country": "Japan",
@@ -238,6 +222,22 @@
     "org": "Sony Network Communications Inc.",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "160.86.46.9"
+  },
+  "27.85.1.30": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Miharadai",
+    "zip": "590-0111",
+    "lat": 34.4996,
+    "lon": 135.5485,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "27.85.1.30"
   },
   "178.163.69.1": {
     "status": "success",
@@ -527,6 +527,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.176.222.166"
   },
+  "121.177.115.150": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "48",
+    "regionName": "Gyeongsangnam-do",
+    "city": "Gyeongsangnam-do",
+    "zip": "51308",
+    "lat": 35.2539,
+    "lon": 128.2496,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "121.177.115.150"
+  },
   "211.195.82.195": {
     "status": "success",
     "country": "South Korea",
@@ -558,22 +574,6 @@
     "org": "JSC Rostelecom regional branch Siberia",
     "as": "AS12389 PJSC Rostelecom",
     "query": "37.21.241.126"
-  },
-  "94.190.39.192": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "SVE",
-    "regionName": "Sverdlovsk Oblast",
-    "city": "Novoural'sk",
-    "zip": "624170",
-    "lat": 57.2511,
-    "lon": 60.0886,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "Interra TG, Ltd.",
-    "org": "\"Interra\" Ltd",
-    "as": "AS48524 INTERRA telecommunications group, Ltd.",
-    "query": "94.190.39.192"
   },
   "14.37.15.88": {
     "status": "success",
@@ -639,22 +639,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "77.34.54.211"
   },
-  "95.70.39.118": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KHA",
-    "regionName": "Khabarovsk",
-    "city": "Khabarovsk",
-    "zip": "680000",
-    "lat": 48.4817,
-    "lon": 135.083,
-    "timezone": "Asia/Vladivostok",
-    "isp": "KHT RU",
-    "org": "",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "95.70.39.118"
-  },
   "92.127.103.123": {
     "status": "success",
     "country": "Russia",
@@ -702,5 +686,37 @@
     "org": "",
     "as": "AS16345 PJSC \"Vimpelcom\"",
     "query": "46.42.144.223"
+  },
+  "2.61.160.16": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KK",
+    "regionName": "Khakasiya Republic",
+    "city": "Sayanogorsk",
+    "zip": "655619",
+    "lat": 53.0998,
+    "lon": 91.4074,
+    "timezone": "Asia/Krasnoyarsk",
+    "isp": "Rostelecom networks",
+    "org": "OJSC Sibirtelecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "2.61.160.16"
+  },
+  "185.3.183.222": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KHA",
+    "regionName": "Khabarovsk",
+    "city": "Khabarovsk",
+    "zip": "680000",
+    "lat": 48.4817,
+    "lon": 135.083,
+    "timezone": "Asia/Vladivostok",
+    "isp": "JSC \"Redcom-lnternet\"",
+    "org": "Redcom BB KHV Flat",
+    "as": "AS8749 JSC Redcom-lnternet",
+    "query": "185.3.183.222"
   }
 }
