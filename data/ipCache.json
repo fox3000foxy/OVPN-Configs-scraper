@@ -47,6 +47,22 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.73.214.202"
   },
+  "36.13.6.150": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "11",
+    "regionName": "Saitama",
+    "city": "Honchō",
+    "zip": "335-0021",
+    "lat": 35.8103,
+    "lon": 139.6696,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "36.13.6.150"
+  },
   "221.144.197.228": {
     "status": "success",
     "country": "South Korea",
@@ -62,22 +78,6 @@
     "org": "Korea Telecom",
     "as": "AS4766 Korea Telecom",
     "query": "221.144.197.228"
-  },
-  "118.237.134.168": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Osaka",
-    "zip": "530-0041",
-    "lat": 34.6967,
-    "lon": 135.5154,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc.",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "118.237.134.168"
   },
   "118.33.153.180": {
     "status": "success",
@@ -206,6 +206,22 @@
     "org": "",
     "as": "AS133481 AIS Fibre",
     "query": "184.22.10.215"
+  },
+  "90.189.224.94": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "NVS",
+    "regionName": "Novosibirsk Oblast",
+    "city": "Novosibirsk",
+    "zip": "630000",
+    "lat": 55.0226,
+    "lon": 82.9317,
+    "timezone": "Asia/Novosibirsk",
+    "isp": "Rostelecom networks",
+    "org": "OJSC Sibirtelecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "90.189.224.94"
   },
   "218.144.18.105": {
     "status": "success",
@@ -415,22 +431,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.174.247.158"
   },
-  "92.202.59.17": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Hirakata",
-    "zip": "573-0031",
-    "lat": 34.7998,
-    "lon": 135.6367,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "92.202.59.17"
-  },
   "119.175.44.34": {
     "status": "success",
     "country": "Japan",
@@ -510,6 +510,22 @@
     "org": "FPTDYNAMICIP",
     "as": "AS18403 FPT Telecom Company",
     "query": "42.118.128.136"
+  },
+  "61.255.86.164": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "28",
+    "regionName": "Incheon",
+    "city": "Incheon",
+    "zip": "221",
+    "lat": 37.4723,
+    "lon": 126.6594,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "SK Broadband Co Ltd",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "61.255.86.164"
   },
   "61.27.117.83": {
     "status": "success",
@@ -702,21 +718,5 @@
     "org": "K-Opticom Corporation",
     "as": "AS17511 OPTAGE Inc.",
     "query": "121.83.124.99"
-  },
-  "95.54.231.108": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "ARK",
-    "regionName": "Arkhangelskaya",
-    "city": "Arkhangelsk",
-    "zip": "163000",
-    "lat": 64.543,
-    "lon": 40.5371,
-    "timezone": "Europe/Moscow",
-    "isp": "PJSC \"Rostelecom\" North-West region",
-    "org": "OJSC North-West Telecom",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "95.54.231.108"
   }
 }
