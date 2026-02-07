@@ -271,6 +271,22 @@
     "as": "AS17583 Keumgang Cable Network",
     "query": "182.237.221.37"
   },
+  "133.175.174.202": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chuo",
+    "zip": "103-0000",
+    "lat": 35.6812,
+    "lon": 139.774,
+    "timezone": "Asia/Tokyo",
+    "isp": "ARTERIA Networks Corporation",
+    "org": "Toray Industries, Inc.",
+    "as": "AS2519 ARTERIA Networks Corporation",
+    "query": "133.175.174.202"
+  },
   "219.100.37.50": {
     "status": "success",
     "country": "Japan",
@@ -303,21 +319,21 @@
     "as": "AS7522 STNet, Incorporated",
     "query": "183.176.178.218"
   },
-  "42.116.114.23": {
+  "121.167.189.126": {
     "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "SG",
-    "regionName": "Ho Chi Minh",
-    "city": "Ho Chi Minh City",
-    "zip": "700000",
-    "lat": 10.822,
-    "lon": 106.6257,
-    "timezone": "Asia/Ho_Chi_Minh",
-    "isp": "FPT Telecom Company",
-    "org": "FPT-STATICIP",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "42.116.114.23"
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Gangdong-gu",
+    "zip": "053",
+    "lat": 37.536,
+    "lon": 127.1426,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "121.167.189.126"
   },
   "1.66.33.240": {
     "status": "success",
@@ -383,21 +399,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.136.219.191"
   },
-  "121.145.243.191": {
+  "223.204.251.197": {
     "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "48",
-    "regionName": "Gyeongsangnam-do",
-    "city": "Gimhae",
-    "zip": "509",
-    "lat": 35.2342,
-    "lon": 128.8777,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "121.145.243.191"
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "20",
+    "regionName": "Chon Buri",
+    "city": "Bang Lamung",
+    "zip": "20150",
+    "lat": 13.0508,
+    "lon": 100.9367,
+    "timezone": "Asia/Bangkok",
+    "isp": "Triple T Broadband Public Company Limited",
+    "org": "Triple T Broadband Public Company Limited",
+    "as": "AS45758 Triple T Broadband Public Company Limited",
+    "query": "223.204.251.197"
   },
   "117.245.9.140": {
     "status": "success",
@@ -414,22 +430,6 @@
     "org": "Wimax Project",
     "as": "AS9829 National Internet Backbone",
     "query": "117.245.9.140"
-  },
-  "223.204.251.197": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "20",
-    "regionName": "Chon Buri",
-    "city": "Bang Lamung",
-    "zip": "20150",
-    "lat": 13.0508,
-    "lon": 100.9367,
-    "timezone": "Asia/Bangkok",
-    "isp": "Triple T Broadband Public Company Limited",
-    "org": "Triple T Broadband Public Company Limited",
-    "as": "AS45758 Triple T Broadband Public Company Limited",
-    "query": "223.204.251.197"
   },
   "118.104.168.55": {
     "status": "success",
@@ -494,6 +494,22 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "118.222.200.243"
+  },
+  "115.22.37.109": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Gijang-gun",
+    "zip": "460",
+    "lat": 35.2751,
+    "lon": 129.2158,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "115.22.37.109"
   },
   "121.176.222.166": {
     "status": "success",
