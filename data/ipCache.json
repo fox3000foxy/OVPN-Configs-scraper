@@ -79,22 +79,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.15"
   },
-  "104.28.200.201": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "SAM",
-    "regionName": "Samara Oblast",
-    "city": "Samara",
-    "zip": "404146",
-    "lat": 53.2061,
-    "lon": 50.1509,
-    "timezone": "Europe/Samara",
-    "isp": "Cloudflare, Inc.",
-    "org": "Cloudflare WARP",
-    "as": "AS13335 Cloudflare, Inc.",
-    "query": "104.28.200.201"
-  },
   "111.97.191.114": {
     "status": "success",
     "country": "Japan",
@@ -158,6 +142,22 @@
     "org": "SDCC-East01",
     "as": "AS38074 SDCC Japan-West Area",
     "query": "103.152.178.62"
+  },
+  "211.184.24.38": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Suwon",
+    "zip": "164",
+    "lat": 37.2872,
+    "lon": 127.0116,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "211.184.24.38"
   },
   "185.124.155.182": {
     "status": "success",
@@ -463,21 +463,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.162.135.220"
   },
-  "126.110.43.151": {
+  "60.80.243.29": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
+    "region": "08",
+    "regionName": "Ibaraki",
+    "city": "Koga",
+    "zip": "306-0016",
+    "lat": 36.1833,
+    "lon": 139.717,
     "timezone": "Asia/Tokyo",
     "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
     "as": "AS17676 SoftBank Corp.",
-    "query": "126.110.43.151"
+    "query": "60.80.243.29"
   },
   "112.185.246.157": {
     "status": "success",
@@ -559,21 +559,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.162.174.151"
   },
-  "123.109.218.207": {
+  "175.177.49.46": {
     "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Seoul",
-    "zip": "04524",
-    "lat": 37.5658,
-    "lon": 126.978,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "TBROAD JongnoJungguSeodaemunGangseo",
-    "as": "AS38095 SK Broadband Co Ltd",
-    "query": "123.109.218.207"
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Utsukushigaoka",
+    "zip": "225-0001",
+    "lat": 35.5803,
+    "lon": 139.5517,
+    "timezone": "Asia/Tokyo",
+    "isp": "its communications Inc.",
+    "org": "its communications Inc.",
+    "as": "AS9365 its communications Inc.",
+    "query": "175.177.49.46"
   },
   "123.213.125.37": {
     "status": "success",
@@ -686,6 +686,22 @@
     "org": "",
     "as": "AS44724 Octopusnet LTD",
     "query": "95.154.65.250"
+  },
+  "49.172.229.35": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Seocho-gu",
+    "zip": "066",
+    "lat": 37.4906,
+    "lon": 127.0168,
+    "timezone": "Asia/Seoul",
+    "isp": "LG POWERCOMM",
+    "org": "LG POWERCOMM",
+    "as": "AS17858 LG POWERCOMM",
+    "query": "49.172.229.35"
   },
   "94.245.151.54": {
     "status": "success",
