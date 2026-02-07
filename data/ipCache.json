@@ -335,6 +335,22 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.36.231.211"
   },
+  "60.80.243.29": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "08",
+    "regionName": "Ibaraki",
+    "city": "Koga",
+    "zip": "306-0016",
+    "lat": 36.1833,
+    "lon": 139.717,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.80.243.29"
+  },
   "125.138.217.33": {
     "status": "success",
     "country": "South Korea",
@@ -367,21 +383,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.162.135.220"
   },
-  "60.80.243.29": {
+  "222.4.112.69": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "08",
-    "regionName": "Ibaraki",
-    "city": "Koga",
-    "zip": "306-0016",
-    "lat": 36.1833,
-    "lon": 139.717,
+    "region": "34",
+    "regionName": "Hiroshima",
+    "city": "Fukuyama",
+    "zip": "720-0841",
+    "lat": 34.4804,
+    "lon": 133.3716,
     "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan Nation-wide Network of Softbank Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "60.80.243.29"
+    "isp": "DION (KDDI CORPORATION)",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "222.4.112.69"
   },
   "112.185.246.157": {
     "status": "success",
@@ -750,22 +766,6 @@
     "org": "CMB Kwangju Broadcasting",
     "as": "AS10054 CMB Kwangju Broadcasting",
     "query": "112.133.179.228"
-  },
-  "60.120.64.36": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan Nation-wide Network of Softbank Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "60.120.64.36"
   },
   "119.83.188.157": {
     "status": "success",
