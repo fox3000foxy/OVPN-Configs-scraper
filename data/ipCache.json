@@ -591,6 +591,22 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "116.124.32.221"
   },
+  "95.170.177.6": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KYA",
+    "regionName": "Krasnoyarsk Krai",
+    "city": "Krasnoyarsk",
+    "zip": "660049",
+    "lat": 56.0374,
+    "lon": 92.9314,
+    "timezone": "Asia/Krasnoyarsk",
+    "isp": "Axioma, LLC",
+    "org": "Axioma, LLC",
+    "as": "AS39785 Axioma, LLC",
+    "query": "95.170.177.6"
+  },
   "153.136.78.191": {
     "status": "success",
     "country": "Japan",
