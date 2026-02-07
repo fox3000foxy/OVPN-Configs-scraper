@@ -79,6 +79,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "221.144.197.228"
   },
+  "124.47.218.84": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Azamino",
+    "zip": "225-0011",
+    "lat": 35.5613,
+    "lon": 139.5495,
+    "timezone": "Asia/Tokyo",
+    "isp": "TOKAI Communications Corporation",
+    "org": "TOKAI",
+    "as": "AS10010 TOKAI Communications Corporation",
+    "query": "124.47.218.84"
+  },
   "118.33.153.180": {
     "status": "success",
     "country": "South Korea",
@@ -287,22 +303,6 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "153.211.40.154"
   },
-  "58.136.165.59": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "10",
-    "regionName": "Bangkok",
-    "city": "Bangkok",
-    "zip": "10240",
-    "lat": 13.7663,
-    "lon": 100.6503,
-    "timezone": "Asia/Bangkok",
-    "isp": "AIS-Fibre",
-    "org": "",
-    "as": "AS133481 AIS Fibre",
-    "query": "58.136.165.59"
-  },
   "125.138.217.33": {
     "status": "success",
     "country": "South Korea",
@@ -447,22 +447,6 @@
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "119.175.44.34"
   },
-  "175.198.57.28": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Gangseo-gu",
-    "zip": "076",
-    "lat": 37.5438,
-    "lon": 126.8538,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "175.198.57.28"
-  },
   "125.132.236.134": {
     "status": "success",
     "country": "South Korea",
@@ -526,6 +510,22 @@
     "org": "SK Broadband Co Ltd",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "61.255.86.164"
+  },
+  "59.16.219.106": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "28",
+    "regionName": "Incheon",
+    "city": "Bupyeong-gu",
+    "zip": "214",
+    "lat": 37.4902,
+    "lon": 126.7151,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "59.16.219.106"
   },
   "61.27.117.83": {
     "status": "success",
@@ -718,21 +718,5 @@
     "org": "TOKAI",
     "as": "AS10010 TOKAI Communications Corporation",
     "query": "218.219.41.6"
-  },
-  "121.83.124.99": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Sakai",
-    "zip": "599-8101",
-    "lat": 34.5262,
-    "lon": 135.539,
-    "timezone": "Asia/Tokyo",
-    "isp": "OPTAGE Inc.",
-    "org": "K-Opticom Corporation",
-    "as": "AS17511 OPTAGE Inc.",
-    "query": "121.83.124.99"
   }
 }
