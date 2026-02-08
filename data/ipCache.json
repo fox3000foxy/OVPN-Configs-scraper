@@ -127,22 +127,6 @@
     "as": "AS2497 Internet Initiative Japan Inc.",
     "query": "101.128.133.100"
   },
-  "175.198.229.66": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "28",
-    "regionName": "Incheon",
-    "city": "Incheon",
-    "zip": "21554",
-    "lat": 37.4585,
-    "lon": 126.7015,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "175.198.229.66"
-  },
   "110.15.2.128": {
     "status": "success",
     "country": "South Korea",
@@ -158,6 +142,22 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "110.15.2.128"
+  },
+  "175.198.229.66": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "28",
+    "regionName": "Incheon",
+    "city": "Incheon",
+    "zip": "21554",
+    "lat": 37.4585,
+    "lon": 126.7015,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "175.198.229.66"
   },
   "175.199.159.249": {
     "status": "success",
@@ -431,21 +431,21 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.86.71.132"
   },
-  "27.98.9.157": {
+  "210.157.192.106": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "22",
-    "regionName": "Shizuoka",
-    "city": "Mishima",
-    "zip": "411-0811",
-    "lat": 35.1078,
-    "lon": 138.9172,
+    "region": "12",
+    "regionName": "Chiba",
+    "city": "Narashino",
+    "zip": "275-0013",
+    "lat": 35.6818,
+    "lon": 140.042,
     "timezone": "Asia/Tokyo",
-    "isp": "TOKAI Communications Corporation",
-    "org": "TOKAI",
-    "as": "AS10010 TOKAI Communications Corporation",
-    "query": "27.98.9.157"
+    "isp": "Rakuten Mobile, Inc.",
+    "org": "RMN",
+    "as": "AS138384 Rakuten Mobile Network, Inc.",
+    "query": "210.157.192.106"
   },
   "121.190.121.225": {
     "status": "success",
@@ -462,54 +462,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "121.190.121.225"
-  },
-  "211.226.54.53": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Hwaseong-si",
-    "zip": "185",
-    "lat": 37.1609,
-    "lon": 127.1094,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Korea Telecom",
-    "as": "AS4766 Korea Telecom",
-    "query": "211.226.54.53"
-  },
-  "61.211.140.202": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "23",
-    "regionName": "Aichi",
-    "city": "Nagoya",
-    "zip": "461-0001",
-    "lat": 35.1796,
-    "lon": 136.9166,
-    "timezone": "Asia/Tokyo",
-    "isp": "STARCAT Co ., LTD.",
-    "org": "STARCAT CABLE NETWORK Co ., LTD.",
-    "as": "AS17529 STARCAT Co .,LTD.",
-    "query": "61.211.140.202"
-  },
-  "211.213.28.116": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Seongnam-si",
-    "zip": "133",
-    "lat": 37.4331,
-    "lon": 127.1375,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "211.213.28.116"
   },
   "39.121.154.44": {
     "status": "success",
@@ -655,20 +607,20 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "2.60.211.9"
   },
-  "81.177.214.108": {
+  "116.34.55.195": {
     "status": "success",
-    "country": "Finland",
-    "countryCode": "FI",
-    "region": "18",
-    "regionName": "Uusimaa",
-    "city": "Helsinki",
-    "zip": "00201",
-    "lat": 60.1719,
-    "lon": 24.9347,
-    "timezone": "Europe/Helsinki",
-    "isp": "Global Connectivity Solutions LLP",
-    "org": "OY Creanova Hosting Solutions LTD",
-    "as": "AS215540 GLOBAL CONNECTIVITY SOLUTIONS LLP",
-    "query": "81.177.214.108"
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Gangseo-gu",
+    "zip": "078",
+    "lat": 37.5633,
+    "lon": 126.8233,
+    "timezone": "Asia/Seoul",
+    "isp": "LG POWERCOMM",
+    "org": "Xpeed",
+    "as": "AS17858 LG POWERCOMM",
+    "query": "116.34.55.195"
   }
 }
