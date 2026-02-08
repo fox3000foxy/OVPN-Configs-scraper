@@ -591,6 +591,22 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "211.205.202.101"
   },
+  "211.184.24.132": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Suwon",
+    "zip": "164",
+    "lat": 37.2872,
+    "lon": 127.0116,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "211.184.24.132"
+  },
   "125.173.170.135": {
     "status": "success",
     "country": "Japan",
@@ -623,22 +639,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "14.48.19.185"
   },
-  "1.241.203.45": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Gunpo",
-    "zip": "158",
-    "lat": 37.3466,
-    "lon": 126.9332,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "1.241.203.45"
-  },
   "91.239.42.137": {
     "status": "success",
     "country": "Russia",
@@ -654,21 +654,5 @@
     "org": "Zummer LLC",
     "as": "AS51028 Zummer LLC",
     "query": "91.239.42.137"
-  },
-  "76.148.153.54": {
-    "status": "success",
-    "country": "United States",
-    "countryCode": "US",
-    "region": "FL",
-    "regionName": "Florida",
-    "city": "Cape Coral",
-    "zip": "33993",
-    "lat": 26.6787,
-    "lon": -82.0251,
-    "timezone": "America/New_York",
-    "isp": "Comcast Cable Communications, LLC",
-    "org": "Comcast Cable Communications, LLC",
-    "as": "AS7922 Comcast Cable Communications, LLC",
-    "query": "76.148.153.54"
   }
 }
