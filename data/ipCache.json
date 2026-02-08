@@ -367,22 +367,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "106.155.97.11"
   },
-  "217.178.138.7": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Setagaya City",
-    "zip": "154-0011",
-    "lat": 35.6413,
-    "lon": 139.6662,
-    "timezone": "Asia/Tokyo",
-    "isp": "Internet Multifeed CO.",
-    "org": "Internet Multifeed CO.",
-    "as": "AS55391 INTERNET MULTIFEED CO.",
-    "query": "217.178.138.7"
-  },
   "126.28.170.123": {
     "status": "success",
     "country": "Japan",
@@ -398,6 +382,22 @@
     "org": "SOFTBANK Corp",
     "as": "AS17676 SoftBank Corp.",
     "query": "126.28.170.123"
+  },
+  "126.74.193.170": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.74.193.170"
   },
   "126.86.71.132": {
     "status": "success",
@@ -526,6 +526,22 @@
     "org": "Jupiter Telecommunication Co. Ltd",
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "59.166.113.55"
+  },
+  "5.142.49.42": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KO",
+    "regionName": "Komi",
+    "city": "Syktyvkar",
+    "zip": "167000",
+    "lat": 61.6641,
+    "lon": 50.8169,
+    "timezone": "Europe/Moscow",
+    "isp": "PJSC Rostelecom",
+    "org": "PJSC Rostelecom North-West Region",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "5.142.49.42"
   },
   "112.153.175.22": {
     "status": "success",
