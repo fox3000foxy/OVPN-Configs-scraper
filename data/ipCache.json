@@ -143,6 +143,22 @@
     "as": "AS38074 SDCC Japan-West Area",
     "query": "103.152.178.62"
   },
+  "27.83.68.134": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Nihonbashi-Kayabachō",
+    "zip": "103-0025",
+    "lat": 35.6792,
+    "lon": 139.779,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "27.83.68.134"
+  },
   "49.167.12.160": {
     "status": "success",
     "country": "South Korea",
@@ -206,6 +222,22 @@
     "org": "Japan Nation-wide Network of Softbank Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "60.119.224.202"
+  },
+  "222.14.193.1": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "47",
+    "regionName": "Okinawa",
+    "city": "Kochinda",
+    "zip": "901-0401",
+    "lat": 26.1556,
+    "lon": 127.6668,
+    "timezone": "Asia/Tokyo",
+    "isp": "DION (KDDI CORPORATION)",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "222.14.193.1"
   },
   "126.36.231.211": {
     "status": "success",
@@ -318,22 +350,6 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "118.156.120.153"
-  },
-  "222.14.54.111": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "47",
-    "regionName": "Okinawa",
-    "city": "Naha",
-    "zip": "900-0021",
-    "lat": 26.2124,
-    "lon": 127.6757,
-    "timezone": "Asia/Tokyo",
-    "isp": "DION (KDDI CORPORATION)",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "222.14.54.111"
   },
   "112.185.246.157": {
     "status": "success",
@@ -495,21 +511,21 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "211.244.251.223"
   },
-  "222.118.132.123": {
+  "150.91.221.239": {
     "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "44",
-    "regionName": "Chungcheongnam-do",
-    "city": "Cheonan",
-    "zip": "311",
-    "lat": 36.8151,
-    "lon": 127.0944,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "222.118.132.123"
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "45",
+    "regionName": "Miyazaki",
+    "city": "Miyazaki",
+    "zip": "880-0211",
+    "lat": 31.914,
+    "lon": 131.4253,
+    "timezone": "Asia/Tokyo",
+    "isp": "miyazaki cabletelevision network Co., LTD",
+    "org": "MCN",
+    "as": "AS17939 miyazaki cabletelevision network Co.,LTD",
+    "query": "150.91.221.239"
   },
   "114.201.3.61": {
     "status": "success",
@@ -526,22 +542,6 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "114.201.3.61"
-  },
-  "150.91.221.239": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "45",
-    "regionName": "Miyazaki",
-    "city": "Miyazaki",
-    "zip": "880-0211",
-    "lat": 31.914,
-    "lon": 131.4253,
-    "timezone": "Asia/Tokyo",
-    "isp": "miyazaki cabletelevision network Co., LTD",
-    "org": "MCN",
-    "as": "AS17939 miyazaki cabletelevision network Co.,LTD",
-    "query": "150.91.221.239"
   },
   "211.216.6.41": {
     "status": "success",
@@ -574,22 +574,6 @@
     "org": "Sibirtelecom Co.",
     "as": "AS12389 PJSC Rostelecom",
     "query": "178.187.41.196"
-  },
-  "39.125.225.66": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "46",
-    "regionName": "Jeollanam-do",
-    "city": "Yeosu",
-    "zip": "596",
-    "lat": 34.7566,
-    "lon": 127.6626,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "39.125.225.66"
   },
   "82.162.122.63": {
     "status": "success",
@@ -686,21 +670,5 @@
     "org": "Mobile Broadband Service",
     "as": "AS206067 Hutchison 3G UK Limited",
     "query": "92.40.81.15"
-  },
-  "134.17.155.33": {
-    "status": "success",
-    "country": "Belarus",
-    "countryCode": "BY",
-    "region": "HM",
-    "regionName": "Minsk City",
-    "city": "Minsk",
-    "zip": "220004",
-    "lat": 53.901,
-    "lon": 27.5707,
-    "timezone": "Europe/Minsk",
-    "isp": "Mobile TeleSystems JLLC",
-    "org": "Mtsby",
-    "as": "AS25106 Mobile TeleSystems JLLC",
-    "query": "134.17.155.33"
   }
 }
