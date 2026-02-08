@@ -143,22 +143,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "150.147.126.178"
   },
-  "113.145.237.167": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "47",
-    "regionName": "Okinawa",
-    "city": "Sobe",
-    "zip": "904-0304",
-    "lat": 26.3839,
-    "lon": 127.7262,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "113.145.237.167"
-  },
   "36.14.133.245": {
     "status": "success",
     "country": "Japan",
@@ -174,6 +158,22 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "36.14.133.245"
+  },
+  "113.145.237.167": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "47",
+    "regionName": "Okinawa",
+    "city": "Sobe",
+    "zip": "904-0304",
+    "lat": 26.3839,
+    "lon": 127.7262,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "113.145.237.167"
   },
   "60.144.85.226": {
     "status": "success",
@@ -239,6 +239,38 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.119.199.206"
   },
+  "38.9.240.230": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "AZ",
+    "regionName": "Arizona",
+    "city": "Glendale",
+    "zip": "85303",
+    "lat": 33.525,
+    "lon": -112.2193,
+    "timezone": "America/Phoenix",
+    "isp": "Wyyerd Group",
+    "org": "Zona Communications",
+    "as": "AS54936 Wyyerd Group",
+    "query": "38.9.240.230"
+  },
+  "1.55.123.78": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "HN",
+    "regionName": "Hanoi",
+    "city": "Hanoi",
+    "zip": "100000",
+    "lat": 21.0184,
+    "lon": 105.8461,
+    "timezone": "Asia/Bangkok",
+    "isp": "FPT Telecom Company",
+    "org": "Vietnam Internet Network Information Center",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "1.55.123.78"
+  },
   "175.193.142.119": {
     "status": "success",
     "country": "South Korea",
@@ -271,22 +303,6 @@
     "as": "AS17506 ARTERIA Networks Corporation",
     "query": "122.210.185.27"
   },
-  "38.9.240.230": {
-    "status": "success",
-    "country": "United States",
-    "countryCode": "US",
-    "region": "AZ",
-    "regionName": "Arizona",
-    "city": "Glendale",
-    "zip": "85303",
-    "lat": 33.525,
-    "lon": -112.2193,
-    "timezone": "America/Phoenix",
-    "isp": "Wyyerd Group",
-    "org": "Zona Communications",
-    "as": "AS54936 Wyyerd Group",
-    "query": "38.9.240.230"
-  },
   "220.74.79.4": {
     "status": "success",
     "country": "South Korea",
@@ -318,22 +334,6 @@
     "org": "BIGLOBE",
     "as": "AS2518 BIGLOBE Inc.",
     "query": "125.199.40.49"
-  },
-  "1.55.123.78": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "HN",
-    "regionName": "Hanoi",
-    "city": "Hanoi",
-    "zip": "100000",
-    "lat": 21.0184,
-    "lon": 105.8461,
-    "timezone": "Asia/Bangkok",
-    "isp": "FPT Telecom Company",
-    "org": "Vietnam Internet Network Information Center",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "1.55.123.78"
   },
   "211.194.236.133": {
     "status": "success",
@@ -415,22 +415,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "222.6.40.202"
   },
-  "121.152.86.122": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "44",
-    "regionName": "Chungcheongnam-do",
-    "city": "Cheonan",
-    "zip": "311",
-    "lat": 36.8151,
-    "lon": 127.0944,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Korea Telecom",
-    "as": "AS4766 Korea Telecom",
-    "query": "121.152.86.122"
-  },
   "14.47.216.87": {
     "status": "success",
     "country": "South Korea",
@@ -462,6 +446,22 @@
     "org": "Sony Network Communications Inc.",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "164.70.156.68"
+  },
+  "121.152.86.122": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "44",
+    "regionName": "Chungcheongnam-do",
+    "city": "Cheonan",
+    "zip": "311",
+    "lat": 36.8151,
+    "lon": 127.0944,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Korea Telecom",
+    "as": "AS4766 Korea Telecom",
+    "query": "121.152.86.122"
   },
   "180.68.118.32": {
     "status": "success",
@@ -687,21 +687,21 @@
     "as": "AS10620 Telmex Colombia S.A.",
     "query": "186.81.100.17"
   },
-  "80.115.95.115": {
+  "211.248.46.56": {
     "status": "success",
-    "country": "The Netherlands",
-    "countryCode": "NL",
-    "region": "ZH",
-    "regionName": "South Holland",
-    "city": "Oegstgeest",
-    "zip": "2341",
-    "lat": 52.1839,
-    "lon": 4.4784,
-    "timezone": "Europe/Amsterdam",
-    "isp": "ZIGGO",
-    "org": "",
-    "as": "AS33915 Vodafone Libertel B.V.",
-    "query": "80.115.95.115"
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "45",
+    "regionName": "Jeollabuk-do",
+    "city": "Jeonju",
+    "zip": "55000",
+    "lat": 35.8237,
+    "lon": 127.1476,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "211.248.46.56"
   },
   "121.83.124.99": {
     "status": "success",
