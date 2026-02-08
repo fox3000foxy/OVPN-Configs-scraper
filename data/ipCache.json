@@ -79,6 +79,22 @@
     "as": "AS7552 Viettel Group",
     "query": "115.78.10.208"
   },
+  "124.47.218.84": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Azamino",
+    "zip": "225-0011",
+    "lat": 35.5613,
+    "lon": 139.5495,
+    "timezone": "Asia/Tokyo",
+    "isp": "TOKAI Communications Corporation",
+    "org": "TOKAI",
+    "as": "AS10010 TOKAI Communications Corporation",
+    "query": "124.47.218.84"
+  },
   "118.240.68.160": {
     "status": "success",
     "country": "Japan",
@@ -143,22 +159,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "175.122.73.80"
   },
-  "124.255.80.220": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "23",
-    "regionName": "Aichi",
-    "city": "Nagoya",
-    "zip": "461-0001",
-    "lat": 35.1796,
-    "lon": 136.9166,
-    "timezone": "Asia/Tokyo",
-    "isp": "FreeBit Co., Ltd.",
-    "org": "FreeBit Co., Ltd.",
-    "as": "AS10013 FreeBit Co.,Ltd.",
-    "query": "124.255.80.220"
-  },
   "60.120.20.164": {
     "status": "success",
     "country": "Japan",
@@ -174,6 +174,22 @@
     "org": "Japan Nation-wide Network of Softbank Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "60.120.20.164"
+  },
+  "124.255.80.220": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "23",
+    "regionName": "Aichi",
+    "city": "Nagoya",
+    "zip": "461-0001",
+    "lat": 35.1796,
+    "lon": 136.9166,
+    "timezone": "Asia/Tokyo",
+    "isp": "FreeBit Co., Ltd.",
+    "org": "FreeBit Co., Ltd.",
+    "as": "AS10013 FreeBit Co.,Ltd.",
+    "query": "124.255.80.220"
   },
   "216.8.232.130": {
     "status": "success",
@@ -207,22 +223,6 @@
     "as": "AS9697 LG HelloVision Corp.",
     "query": "110.46.158.118"
   },
-  "103.152.178.62": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-0001",
-    "lat": 35.694,
-    "lon": 139.754,
-    "timezone": "Asia/Tokyo",
-    "isp": "Ayao Takata",
-    "org": "SDCC-East01",
-    "as": "AS38074 SDCC Japan-West Area",
-    "query": "103.152.178.62"
-  },
   "27.139.122.85": {
     "status": "success",
     "country": "Japan",
@@ -254,6 +254,22 @@
     "org": "Open Computer Network",
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "114.161.4.252"
+  },
+  "115.22.254.150": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "48",
+    "regionName": "Gyeongsangnam-do",
+    "city": "Hamyang-gun",
+    "zip": "500",
+    "lat": 35.7182,
+    "lon": 127.6803,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "115.22.254.150"
   },
   "222.109.72.106": {
     "status": "success",
@@ -431,22 +447,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "221.143.113.9"
   },
-  "222.97.15.166": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "48",
-    "regionName": "Gyeongsangnam-do",
-    "city": "Changwon",
-    "zip": "513",
-    "lat": 35.2364,
-    "lon": 128.6419,
-    "timezone": "Asia/Seoul",
-    "isp": "KORNET",
-    "org": "busanbonbu(deiteosaeobyong)",
-    "as": "AS4766 Korea Telecom",
-    "query": "222.97.15.166"
-  },
   "175.28.146.212": {
     "status": "success",
     "country": "Japan",
@@ -478,22 +478,6 @@
     "org": "ARTERIA Networks Corporation",
     "as": "AS2519 ARTERIA Networks Corporation",
     "query": "133.32.180.103"
-  },
-  "14.13.236.128": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "18",
-    "regionName": "Fukui",
-    "city": "Fukui-shi",
-    "zip": "915-0851",
-    "lat": 35.8859,
-    "lon": 136.1694,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "14.13.236.128"
   },
   "1.251.45.198": {
     "status": "success",
