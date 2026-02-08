@@ -143,22 +143,6 @@
     "as": "AS17858 LG POWERCOMM",
     "query": "49.167.12.160"
   },
-  "1.66.33.240": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Osaka",
-    "zip": "530-0041",
-    "lat": 34.6967,
-    "lon": 135.5154,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Docomo, inc.",
-    "org": "NTTDoCoMo",
-    "as": "AS9605 NTT DOCOMO, INC.",
-    "query": "1.66.33.240"
-  },
   "119.173.41.197": {
     "status": "success",
     "country": "Japan",
@@ -174,6 +158,22 @@
     "org": "JCOM Co., Ltd",
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "119.173.41.197"
+  },
+  "1.66.33.240": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Osaka",
+    "zip": "530-0041",
+    "lat": 34.6967,
+    "lon": 135.5154,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Docomo, inc.",
+    "org": "NTTDoCoMo",
+    "as": "AS9605 NTT DOCOMO, INC.",
+    "query": "1.66.33.240"
   },
   "61.44.175.142": {
     "status": "success",
@@ -270,22 +270,6 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "106.179.41.181"
-  },
-  "60.122.90.45": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan Nation-wide Network of Softbank Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "60.122.90.45"
   },
   "90.149.251.147": {
     "status": "success",
@@ -415,6 +399,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.160.25.238"
   },
+  "119.196.49.82": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Gwanak-gu",
+    "zip": "087",
+    "lat": 37.4873,
+    "lon": 126.9227,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Sudogwonseobubonbu",
+    "as": "AS4766 Korea Telecom",
+    "query": "119.196.49.82"
+  },
   "176.118.154.61": {
     "status": "success",
     "country": "Belarus",
@@ -527,6 +527,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "222.118.132.123"
   },
+  "150.91.221.239": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "45",
+    "regionName": "Miyazaki",
+    "city": "Miyazaki",
+    "zip": "880-0211",
+    "lat": 31.914,
+    "lon": 131.4253,
+    "timezone": "Asia/Tokyo",
+    "isp": "miyazaki cabletelevision network Co., LTD",
+    "org": "MCN",
+    "as": "AS17939 miyazaki cabletelevision network Co.,LTD",
+    "query": "150.91.221.239"
+  },
   "114.201.3.61": {
     "status": "success",
     "country": "South Korea",
@@ -638,22 +654,6 @@
     "org": "Jupiter Telecommunications Co., Ltd.",
     "as": "AS23788 JCOM Co., Ltd.",
     "query": "202.148.240.143"
-  },
-  "31.192.134.95": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KGD",
-    "regionName": "Kaliningrad Oblast",
-    "city": "Kaliningrad",
-    "zip": "236890",
-    "lat": 54.7065,
-    "lon": 20.511,
-    "timezone": "Europe/Kaliningrad",
-    "isp": "TIS-DIALOG",
-    "org": "",
-    "as": "AS31214 TIS Dialog LLC",
-    "query": "31.192.134.95"
   },
   "121.83.124.99": {
     "status": "success",
