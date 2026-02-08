@@ -111,22 +111,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "27.83.68.134"
   },
-  "91.219.203.117": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PER",
-    "regionName": "Perm Krai",
-    "city": "Lys'va",
-    "zip": "618900",
-    "lat": 58.1004,
-    "lon": 57.8043,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "KVARTAL",
-    "org": "Lukjanova Lydia Andreevna PE",
-    "as": "AS59533 Lukyanov Evgeniy Vladimirovich PE",
-    "query": "91.219.203.117"
-  },
   "221.49.114.110": {
     "status": "success",
     "country": "Japan",
@@ -271,22 +255,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.228.169.53"
   },
-  "58.95.83.60": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "40",
-    "regionName": "Fukuoka",
-    "city": "Meinohama",
-    "zip": "819-0001",
-    "lat": 33.5895,
-    "lon": 130.3197,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "NTT Communications Corporation",
-    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
-    "query": "58.95.83.60"
-  },
   "14.34.214.254": {
     "status": "success",
     "country": "South Korea",
@@ -351,21 +319,21 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "153.195.76.55"
   },
-  "175.193.142.119": {
+  "1.55.123.78": {
     "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Seodaemun-gu",
-    "zip": "036",
-    "lat": 37.573,
-    "lon": 126.926,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "175.193.142.119"
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "HN",
+    "regionName": "Hanoi",
+    "city": "Hanoi",
+    "zip": "100000",
+    "lat": 21.0184,
+    "lon": 105.8461,
+    "timezone": "Asia/Bangkok",
+    "isp": "FPT Telecom Company",
+    "org": "Vietnam Internet Network Information Center",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "1.55.123.78"
   },
   "121.141.32.45": {
     "status": "success",
@@ -383,22 +351,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.141.32.45"
   },
-  "211.114.63.243": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "26",
-    "regionName": "Busan",
-    "city": "Geumjeong-gu",
-    "zip": "463",
-    "lat": 35.2582,
-    "lon": 129.0948,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Korea Telecom",
-    "as": "AS4766 Korea Telecom",
-    "query": "211.114.63.243"
-  },
   "68.149.154.94": {
     "status": "success",
     "country": "Canada",
@@ -415,6 +367,22 @@
     "as": "AS6327 Shaw Communications",
     "query": "68.149.154.94"
   },
+  "175.212.128.6": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Ansan-si",
+    "zip": "15345",
+    "lat": 37.3253,
+    "lon": 126.8178,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "175.212.128.6"
+  },
   "126.125.49.30": {
     "status": "success",
     "country": "Japan",
@@ -430,6 +398,22 @@
     "org": "SOFTBANK Corp",
     "as": "AS17676 SoftBank Corp.",
     "query": "126.125.49.30"
+  },
+  "121.86.220.128": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Higashiosaka",
+    "zip": "577-0801",
+    "lat": 34.6657,
+    "lon": 135.5849,
+    "timezone": "Asia/Tokyo",
+    "isp": "OPTAGE Inc.",
+    "org": "OPTAGE Inc.",
+    "as": "AS17511 OPTAGE Inc.",
+    "query": "121.86.220.128"
   },
   "27.137.81.100": {
     "status": "success",
@@ -463,22 +447,6 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "114.180.59.217"
   },
-  "59.138.72.73": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "11",
-    "regionName": "Saitama",
-    "city": "Kawaguchi",
-    "zip": "332-0031",
-    "lat": 35.8147,
-    "lon": 139.7289,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "59.138.72.73"
-  },
   "126.40.8.130": {
     "status": "success",
     "country": "Japan",
@@ -511,6 +479,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "211.228.134.146"
   },
+  "94.253.101.177": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "MOS",
+    "regionName": "Moscow Oblast",
+    "city": "Elektrostal",
+    "zip": "144009",
+    "lat": 55.7835,
+    "lon": 38.45,
+    "timezone": "Europe/Moscow",
+    "isp": "Flex ISP",
+    "org": "",
+    "as": "AS21453 Flex Ltd.",
+    "query": "94.253.101.177"
+  },
   "113.144.26.49": {
     "status": "success",
     "country": "Japan",
@@ -526,6 +510,22 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "113.144.26.49"
+  },
+  "125.136.43.108": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "29",
+    "regionName": "Gwangju",
+    "city": "Nam-gu",
+    "zip": "616",
+    "lat": 35.1354,
+    "lon": 126.9222,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "125.136.43.108"
   },
   "58.228.35.23": {
     "status": "success",
@@ -606,21 +606,5 @@
     "org": "",
     "as": "AS196949 Natalia Sergeevna Filicheva",
     "query": "109.110.46.232"
-  },
-  "5.143.36.225": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PRI",
-    "regionName": "Primorye",
-    "city": "Vladivostok",
-    "zip": "690001",
-    "lat": 43.1068,
-    "lon": 131.8692,
-    "timezone": "Asia/Vladivostok",
-    "isp": "Rostelecom networks",
-    "org": "OJSC Rostelecom Far-East Region",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "5.143.36.225"
   }
 }
