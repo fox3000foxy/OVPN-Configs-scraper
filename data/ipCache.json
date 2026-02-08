@@ -47,22 +47,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "36.13.6.150"
   },
-  "220.212.128.195": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "ULTINA",
-    "as": "AS4725 SoftBank Corp.",
-    "query": "220.212.128.195"
-  },
   "115.78.10.208": {
     "status": "success",
     "country": "Vietnam",
@@ -430,6 +414,22 @@
     "org": "UCOM Corporation",
     "as": "AS17506 ARTERIA Networks Corporation",
     "query": "221.247.250.32"
+  },
+  "126.89.255.73": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.89.255.73"
   },
   "221.143.113.9": {
     "status": "success",
