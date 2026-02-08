@@ -175,22 +175,6 @@
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "119.173.41.197"
   },
-  "1.66.33.240": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Osaka",
-    "zip": "530-0041",
-    "lat": 34.6967,
-    "lon": 135.5154,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Docomo, inc.",
-    "org": "NTTDoCoMo",
-    "as": "AS9605 NTT DOCOMO, INC.",
-    "query": "1.66.33.240"
-  },
   "61.44.175.142": {
     "status": "success",
     "country": "Japan",
@@ -527,22 +511,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "222.118.132.123"
   },
-  "150.91.221.239": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "45",
-    "regionName": "Miyazaki",
-    "city": "Miyazaki",
-    "zip": "880-0211",
-    "lat": 31.914,
-    "lon": 131.4253,
-    "timezone": "Asia/Tokyo",
-    "isp": "miyazaki cabletelevision network Co., LTD",
-    "org": "MCN",
-    "as": "AS17939 miyazaki cabletelevision network Co.,LTD",
-    "query": "150.91.221.239"
-  },
   "114.201.3.61": {
     "status": "success",
     "country": "South Korea",
@@ -558,6 +526,22 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "114.201.3.61"
+  },
+  "150.91.221.239": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "45",
+    "regionName": "Miyazaki",
+    "city": "Miyazaki",
+    "zip": "880-0211",
+    "lat": 31.914,
+    "lon": 131.4253,
+    "timezone": "Asia/Tokyo",
+    "isp": "miyazaki cabletelevision network Co., LTD",
+    "org": "MCN",
+    "as": "AS17939 miyazaki cabletelevision network Co.,LTD",
+    "query": "150.91.221.239"
   },
   "211.216.6.41": {
     "status": "success",
@@ -654,6 +638,22 @@
     "org": "Jupiter Telecommunications Co., Ltd.",
     "as": "AS23788 JCOM Co., Ltd.",
     "query": "202.148.240.143"
+  },
+  "31.192.134.95": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KGD",
+    "regionName": "Kaliningrad Oblast",
+    "city": "Kaliningrad",
+    "zip": "236890",
+    "lat": 54.7065,
+    "lon": 20.511,
+    "timezone": "Europe/Kaliningrad",
+    "isp": "TIS-DIALOG",
+    "org": "",
+    "as": "AS31214 TIS Dialog LLC",
+    "query": "31.192.134.95"
   },
   "121.83.124.99": {
     "status": "success",
