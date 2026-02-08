@@ -47,22 +47,6 @@
     "as": "AS2519 ARTERIA Networks Corporation",
     "query": "122.103.113.207"
   },
-  "103.152.178.62": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-0001",
-    "lat": 35.694,
-    "lon": 139.754,
-    "timezone": "Asia/Tokyo",
-    "isp": "Ayao Takata",
-    "org": "SDCC-East01",
-    "as": "AS38074 SDCC Japan-West Area",
-    "query": "103.152.178.62"
-  },
   "211.198.67.197": {
     "status": "success",
     "country": "South Korea",
@@ -111,6 +95,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "59.7.207.18"
   },
+  "14.47.68.28": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Yongin-si",
+    "zip": "16940",
+    "lat": 37.298,
+    "lon": 127.0777,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "14.47.68.28"
+  },
   "185.124.155.182": {
     "status": "success",
     "country": "Russia",
@@ -126,6 +126,22 @@
     "org": "",
     "as": "AS12737 KrasPromStroy, LLC",
     "query": "185.124.155.182"
+  },
+  "103.152.178.62": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-0001",
+    "lat": 35.694,
+    "lon": 139.754,
+    "timezone": "Asia/Tokyo",
+    "isp": "Ayao Takata",
+    "org": "SDCC-East01",
+    "as": "AS38074 SDCC Japan-West Area",
+    "query": "103.152.178.62"
   },
   "49.167.12.160": {
     "status": "success",
@@ -463,22 +479,6 @@
     "as": "AS18403 FPT Telecom Company",
     "query": "42.118.159.75"
   },
-  "221.147.181.5": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Anseong",
-    "zip": "175",
-    "lat": 37.0138,
-    "lon": 127.2698,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Sudogwongangnambonbu",
-    "as": "AS4766 Korea Telecom",
-    "query": "221.147.181.5"
-  },
   "133.32.132.108": {
     "status": "success",
     "country": "Japan",
@@ -702,21 +702,5 @@
     "org": "Mtsby",
     "as": "AS25106 Mobile TeleSystems JLLC",
     "query": "134.17.155.33"
-  },
-  "59.168.6.127": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Azusawa",
-    "zip": "174-0051",
-    "lat": 35.7821,
-    "lon": 139.6984,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM Co., Ltd.",
-    "org": "JCOM Co., Ltd",
-    "as": "AS9824 JCOM Co., Ltd.",
-    "query": "59.168.6.127"
   }
 }
