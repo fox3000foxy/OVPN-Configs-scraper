@@ -47,22 +47,6 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "153.218.43.203"
   },
-  "182.172.122.57": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Guro-gu",
-    "zip": "08367",
-    "lat": 37.4975,
-    "lon": 126.8501,
-    "timezone": "Asia/Seoul",
-    "isp": "DLIVE",
-    "org": "Dlive",
-    "as": "AS10036 DLIVE",
-    "query": "182.172.122.57"
-  },
   "27.83.68.134": {
     "status": "success",
     "country": "Japan",
@@ -78,6 +62,22 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "27.83.68.134"
+  },
+  "182.172.122.57": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Guro-gu",
+    "zip": "08367",
+    "lat": 37.4975,
+    "lon": 126.8501,
+    "timezone": "Asia/Seoul",
+    "isp": "DLIVE",
+    "org": "Dlive",
+    "as": "AS10036 DLIVE",
+    "query": "182.172.122.57"
   },
   "103.152.178.62": {
     "status": "success",
@@ -207,6 +207,22 @@
     "as": "AS131933 TAMA Television Co., Ltd",
     "query": "14.14.148.93"
   },
+  "119.173.41.197": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Komone",
+    "zip": "173-0031",
+    "lat": 35.7458,
+    "lon": 139.6911,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM Co., Ltd.",
+    "org": "JCOM Co., Ltd",
+    "as": "AS9824 JCOM Co., Ltd.",
+    "query": "119.173.41.197"
+  },
   "60.119.224.202": {
     "status": "success",
     "country": "Japan",
@@ -335,22 +351,6 @@
     "as": "AS4721 JCOM Co., Ltd.",
     "query": "110.232.8.204"
   },
-  "221.159.197.158": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "42",
-    "regionName": "Gangwon-do",
-    "city": "Yangyang-gun",
-    "zip": "250",
-    "lat": 38.1383,
-    "lon": 128.6104,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "221.159.197.158"
-  },
   "106.155.97.11": {
     "status": "success",
     "country": "Japan",
@@ -366,6 +366,22 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "106.155.97.11"
+  },
+  "221.159.197.158": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "42",
+    "regionName": "Gangwon-do",
+    "city": "Yangyang-gun",
+    "zip": "250",
+    "lat": 38.1383,
+    "lon": 128.6104,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "221.159.197.158"
   },
   "126.28.170.123": {
     "status": "success",
@@ -398,6 +414,22 @@
     "org": "SOFTBANK Corp",
     "as": "AS17676 SoftBank Corp.",
     "query": "126.74.193.170"
+  },
+  "114.185.25.139": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "08",
+    "regionName": "Ibaraki",
+    "city": "Kidamarihigashidai",
+    "zip": "300-0021",
+    "lat": 36.1038,
+    "lon": 140.278,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "NTT Communications Corporation",
+    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
+    "query": "114.185.25.139"
   },
   "126.86.71.132": {
     "status": "success",
@@ -527,22 +559,6 @@
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "59.166.113.55"
   },
-  "5.142.49.42": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KO",
-    "regionName": "Komi",
-    "city": "Syktyvkar",
-    "zip": "167000",
-    "lat": 61.6641,
-    "lon": 50.8169,
-    "timezone": "Europe/Moscow",
-    "isp": "PJSC Rostelecom",
-    "org": "PJSC Rostelecom North-West Region",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "5.142.49.42"
-  },
   "112.153.175.22": {
     "status": "success",
     "country": "South Korea",
@@ -607,21 +623,21 @@
     "as": "AS9316 DACOM-PUBNETPLUS",
     "query": "125.243.142.156"
   },
-  "37.140.24.30": {
+  "211.205.218.20": {
     "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "CHE",
-    "regionName": "Chelyabinsk Oblast",
-    "city": "Magnitogorsk",
-    "zip": "455000",
-    "lat": 53.3981,
-    "lon": 59.0066,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "Intersvyaz-2 JSC",
-    "org": "",
-    "as": "AS8369 Intersvyaz-2 JSC",
-    "query": "37.140.24.30"
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "48",
+    "regionName": "Gyeongsangnam-do",
+    "city": "Changwon",
+    "zip": "513",
+    "lat": 35.2364,
+    "lon": 128.6419,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "211.205.218.20"
   },
   "2.60.211.9": {
     "status": "success",
