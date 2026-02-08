@@ -111,6 +111,22 @@
     "as": "AS38074 SDCC Japan-West Area",
     "query": "103.152.178.62"
   },
+  "91.219.203.117": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PER",
+    "regionName": "Perm Krai",
+    "city": "Lys'va",
+    "zip": "618900",
+    "lat": 58.1004,
+    "lon": 57.8043,
+    "timezone": "Asia/Yekaterinburg",
+    "isp": "KVARTAL",
+    "org": "Lukjanova Lydia Andreevna PE",
+    "as": "AS59533 Lukyanov Evgeniy Vladimirovich PE",
+    "query": "91.219.203.117"
+  },
   "221.49.114.110": {
     "status": "success",
     "country": "Japan",
@@ -271,22 +287,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "14.34.214.254"
   },
-  "178.187.92.101": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "ALT",
-    "regionName": "Altai Krai",
-    "city": "Biysk",
-    "zip": "659300",
-    "lat": 52.5388,
-    "lon": 85.2125,
-    "timezone": "Asia/Barnaul",
-    "isp": "OJSC \"Sibirtelecom\"",
-    "org": "Sibirtelecom Co.",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "178.187.92.101"
-  },
   "122.210.185.27": {
     "status": "success",
     "country": "Japan",
@@ -302,6 +302,22 @@
     "org": "UCOM Corporation",
     "as": "AS17506 ARTERIA Networks Corporation",
     "query": "122.210.185.27"
+  },
+  "178.187.92.101": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "ALT",
+    "regionName": "Altai Krai",
+    "city": "Biysk",
+    "zip": "659300",
+    "lat": 52.5388,
+    "lon": 85.2125,
+    "timezone": "Asia/Barnaul",
+    "isp": "OJSC \"Sibirtelecom\"",
+    "org": "Sibirtelecom Co.",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "178.187.92.101"
   },
   "153.195.76.55": {
     "status": "success",
@@ -335,6 +351,22 @@
     "as": "AS18403 FPT Telecom Company",
     "query": "1.55.123.78"
   },
+  "175.193.142.119": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Seodaemun-gu",
+    "zip": "036",
+    "lat": 37.573,
+    "lon": 126.926,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "175.193.142.119"
+  },
   "121.141.32.45": {
     "status": "success",
     "country": "South Korea",
@@ -367,6 +399,22 @@
     "as": "AS6327 Shaw Communications",
     "query": "68.149.154.94"
   },
+  "175.212.128.6": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Ansan-si",
+    "zip": "15345",
+    "lat": 37.3253,
+    "lon": 126.8178,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "175.212.128.6"
+  },
   "126.125.49.30": {
     "status": "success",
     "country": "Japan",
@@ -382,22 +430,6 @@
     "org": "SOFTBANK Corp",
     "as": "AS17676 SoftBank Corp.",
     "query": "126.125.49.30"
-  },
-  "121.86.220.128": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Higashiosaka",
-    "zip": "577-0801",
-    "lat": 34.6657,
-    "lon": 135.5849,
-    "timezone": "Asia/Tokyo",
-    "isp": "OPTAGE Inc.",
-    "org": "OPTAGE Inc.",
-    "as": "AS17511 OPTAGE Inc.",
-    "query": "121.86.220.128"
   },
   "27.137.81.100": {
     "status": "success",
@@ -430,6 +462,22 @@
     "org": "NTT Communications Corporation",
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "114.180.59.217"
+  },
+  "119.229.224.5": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Sakai",
+    "zip": "590-0971",
+    "lat": 34.5963,
+    "lon": 135.4868,
+    "timezone": "Asia/Tokyo",
+    "isp": "OPTAGE Inc.",
+    "org": "K-Opticom Corporation",
+    "as": "AS17511 OPTAGE Inc.",
+    "query": "119.229.224.5"
   },
   "126.40.8.130": {
     "status": "success",
@@ -495,22 +543,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "113.144.26.49"
   },
-  "125.136.43.108": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "29",
-    "regionName": "Gwangju",
-    "city": "Nam-gu",
-    "zip": "616",
-    "lat": 35.1354,
-    "lon": 126.9222,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "125.136.43.108"
-  },
   "58.228.35.23": {
     "status": "success",
     "country": "South Korea",
@@ -559,22 +591,6 @@
     "as": "AS6079 RCN",
     "query": "207.181.217.120"
   },
-  "1.66.33.240": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Osaka",
-    "zip": "530-0041",
-    "lat": 34.6967,
-    "lon": 135.5154,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Docomo, inc.",
-    "org": "NTTDoCoMo",
-    "as": "AS9605 NTT DOCOMO, INC.",
-    "query": "1.66.33.240"
-  },
   "188.233.49.163": {
     "status": "success",
     "country": "Russia",
@@ -606,21 +622,5 @@
     "org": "",
     "as": "AS196949 Natalia Sergeevna Filicheva",
     "query": "109.110.46.232"
-  },
-  "5.143.36.225": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PRI",
-    "regionName": "Primorye",
-    "city": "Vladivostok",
-    "zip": "690001",
-    "lat": 43.1068,
-    "lon": 131.8692,
-    "timezone": "Asia/Vladivostok",
-    "isp": "Rostelecom networks",
-    "org": "OJSC Rostelecom Far-East Region",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "5.143.36.225"
   }
 }
