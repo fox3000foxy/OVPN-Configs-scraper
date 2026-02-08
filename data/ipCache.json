@@ -719,6 +719,22 @@
     "as": "AS47759 POIG Ltd.",
     "query": "178.173.99.148"
   },
+  "121.83.124.99": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Sakai",
+    "zip": "599-8101",
+    "lat": 34.5262,
+    "lon": 135.539,
+    "timezone": "Asia/Tokyo",
+    "isp": "OPTAGE Inc.",
+    "org": "K-Opticom Corporation",
+    "as": "AS17511 OPTAGE Inc.",
+    "query": "121.83.124.99"
+  },
   "109.124.209.118": {
     "status": "success",
     "country": "Russia",
