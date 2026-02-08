@@ -143,22 +143,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "118.240.68.160"
   },
-  "118.33.153.180": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Guri-si",
-    "zip": "11927",
-    "lat": 37.5945,
-    "lon": 127.1321,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "118.33.153.180"
-  },
   "175.122.73.80": {
     "status": "success",
     "country": "South Korea",
@@ -431,6 +415,22 @@
     "as": "AS17858 LG POWERCOMM",
     "query": "125.177.138.153"
   },
+  "1.241.129.177": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Anyang-si",
+    "zip": "140",
+    "lat": 37.3907,
+    "lon": 126.9167,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "SK Broadband Co Ltd",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "1.241.129.177"
+  },
   "125.52.118.171": {
     "status": "success",
     "country": "Japan",
@@ -606,6 +606,22 @@
     "org": "",
     "as": "AS12389 PJSC Rostelecom",
     "query": "94.245.130.180"
+  },
+  "1.66.33.240": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Osaka",
+    "zip": "530-0041",
+    "lat": 34.6967,
+    "lon": 135.5154,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Docomo, inc.",
+    "org": "NTTDoCoMo",
+    "as": "AS9605 NTT DOCOMO, INC.",
+    "query": "1.66.33.240"
   },
   "95.170.177.6": {
     "status": "success",
