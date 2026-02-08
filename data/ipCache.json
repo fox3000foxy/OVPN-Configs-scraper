@@ -191,22 +191,6 @@
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "210.194.10.105"
   },
-  "14.133.228.200": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "23",
-    "regionName": "Aichi",
-    "city": "Nagoya",
-    "zip": "462-0841",
-    "lat": 35.1926,
-    "lon": 136.906,
-    "timezone": "Asia/Tokyo",
-    "isp": "Chubu Telecommunications Company, Inc.",
-    "org": "Chubu Telecommunications Co., Inc.",
-    "as": "AS18126 Chubu Telecommunications Company, Inc.",
-    "query": "14.133.228.200"
-  },
   "61.44.175.142": {
     "status": "success",
     "country": "Japan",
@@ -318,6 +302,22 @@
     "org": "Sony Network Communications Inc.",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "121.103.206.236"
+  },
+  "116.222.29.22": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Yao",
+    "zip": "581-0041",
+    "lat": 34.6221,
+    "lon": 135.5952,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM Co., Ltd.",
+    "org": "Jupiter Telecommunication Co. Ltd",
+    "as": "AS9824 JCOM Co., Ltd.",
+    "query": "116.222.29.22"
   },
   "184.22.16.77": {
     "status": "success",
@@ -559,6 +559,22 @@
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "59.166.113.55"
   },
+  "42.114.192.218": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "SG",
+    "regionName": "Ho Chi Minh",
+    "city": "Ho Chi Minh City",
+    "zip": "700000",
+    "lat": 10.822,
+    "lon": 106.6257,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "isp": "FPT Telecom Company",
+    "org": "Vietnam Internet Network Information Center",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "42.114.192.218"
+  },
   "112.153.175.22": {
     "status": "success",
     "country": "South Korea",
@@ -574,22 +590,6 @@
     "org": "LG POWERCOMM",
     "as": "AS17858 LG POWERCOMM",
     "query": "112.153.175.22"
-  },
-  "114.201.3.61": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Dongjak-gu",
-    "zip": "069",
-    "lat": 37.5003,
-    "lon": 126.9565,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "114.201.3.61"
   },
   "1.66.33.240": {
     "status": "success",
@@ -623,6 +623,22 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "211.205.218.20"
   },
+  "178.187.41.196": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "ALT",
+    "regionName": "Altai Krai",
+    "city": "Barnaul",
+    "zip": "656002",
+    "lat": 53.362,
+    "lon": 83.7279,
+    "timezone": "Asia/Barnaul",
+    "isp": "OJSC \"Sibirtelecom\"",
+    "org": "Sibirtelecom Co.",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "178.187.41.196"
+  },
   "2.60.211.9": {
     "status": "success",
     "country": "Russia",
@@ -655,22 +671,6 @@
     "as": "AS6128 Cablevision Systems Corp.",
     "query": "24.47.212.56"
   },
-  "116.34.55.195": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Gangseo-gu",
-    "zip": "078",
-    "lat": 37.5633,
-    "lon": 126.8233,
-    "timezone": "Asia/Seoul",
-    "isp": "LG POWERCOMM",
-    "org": "Xpeed",
-    "as": "AS17858 LG POWERCOMM",
-    "query": "116.34.55.195"
-  },
   "81.2.58.239": {
     "status": "success",
     "country": "Russia",
@@ -687,21 +687,21 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "81.2.58.239"
   },
-  "211.219.71.79": {
+  "89.237.0.138": {
     "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Seocho-gu",
-    "zip": "067",
-    "lat": 37.4802,
-    "lon": 127.0444,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "ORE",
+    "regionName": "Orenburg Oblast",
+    "city": "Orenburg",
+    "zip": "460000",
+    "lat": 51.7682,
+    "lon": 55.097,
+    "timezone": "Asia/Yekaterinburg",
+    "isp": "SUTTK-DHCP",
     "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "211.219.71.79"
+    "as": "AS28745 Joint Stock Company TransTeleCom",
+    "query": "89.237.0.138"
   },
   "121.83.124.99": {
     "status": "success",
