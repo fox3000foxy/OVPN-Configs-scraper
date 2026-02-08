@@ -63,22 +63,6 @@
     "as": "AS4685 Asahi Net",
     "query": "220.150.148.16"
   },
-  "92.202.199.250": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0071",
-    "lat": 35.6837,
-    "lon": 139.6805,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "92.202.199.250"
-  },
   "160.86.46.9": {
     "status": "success",
     "country": "Japan",
@@ -94,6 +78,22 @@
     "org": "Sony Network Communications Inc.",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "160.86.46.9"
+  },
+  "92.202.199.250": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tokyo",
+    "zip": "151-0071",
+    "lat": 35.6837,
+    "lon": 139.6805,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "92.202.199.250"
   },
   "182.171.116.240": {
     "status": "success",
@@ -191,22 +191,6 @@
     "as": "AS38074 SDCC Japan-West Area",
     "query": "103.152.178.62"
   },
-  "119.235.113.226": {
-    "status": "success",
-    "country": "Turkmenistan",
-    "countryCode": "TM",
-    "region": "S",
-    "regionName": "Ashgabat",
-    "city": "Ashgabat",
-    "zip": "",
-    "lat": 37.9601,
-    "lon": 58.3261,
-    "timezone": "Asia/Ashgabat",
-    "isp": "State Company of Electro Communications Turkmentelecom",
-    "org": "State Company of Electro Communications Turkmentelecom",
-    "as": "AS20661 State Company of Electro Communications Turkmentelecom",
-    "query": "119.235.113.226"
-  },
   "133.238.167.250": {
     "status": "success",
     "country": "Japan",
@@ -222,6 +206,22 @@
     "org": "Internet Initiative Japan Inc.",
     "as": "AS2497 Internet Initiative Japan Inc.",
     "query": "133.238.167.250"
+  },
+  "119.235.113.226": {
+    "status": "success",
+    "country": "Turkmenistan",
+    "countryCode": "TM",
+    "region": "S",
+    "regionName": "Ashgabat",
+    "city": "Ashgabat",
+    "zip": "",
+    "lat": 37.9601,
+    "lon": 58.3261,
+    "timezone": "Asia/Ashgabat",
+    "isp": "State Company of Electro Communications Turkmentelecom",
+    "org": "State Company of Electro Communications Turkmentelecom",
+    "as": "AS20661 State Company of Electro Communications Turkmentelecom",
+    "query": "119.235.113.226"
   },
   "60.95.76.42": {
     "status": "success",
@@ -351,6 +351,22 @@
     "as": "AS18126 Chubu Telecommunications Company, Inc.",
     "query": "118.104.168.55"
   },
+  "2.61.131.86": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KK",
+    "regionName": "Khakasiya Republic",
+    "city": "Chernogorsk",
+    "zip": "655138",
+    "lat": 53.8288,
+    "lon": 91.3095,
+    "timezone": "Asia/Krasnoyarsk",
+    "isp": "Rostelecom networks",
+    "org": "OJSC Sibirtelecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "2.61.131.86"
+  },
   "37.110.83.193": {
     "status": "success",
     "country": "Russia",
@@ -382,6 +398,22 @@
     "org": "Chubu Telecommunications Co., Inc.",
     "as": "AS18126 Chubu Telecommunications Company, Inc.",
     "query": "123.48.136.169"
+  },
+  "211.193.219.92": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Seongnam-si",
+    "zip": "13606",
+    "lat": 37.3668,
+    "lon": 127.108,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "KORNET",
+    "as": "AS4766 Korea Telecom",
+    "query": "211.193.219.92"
   },
   "121.80.207.145": {
     "status": "success",
@@ -543,22 +575,6 @@
     "as": "AS12494 OOO \"Post ltd\"",
     "query": "91.188.199.34"
   },
-  "1.66.33.240": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Osaka",
-    "zip": "530-0041",
-    "lat": 34.6967,
-    "lon": 135.5154,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Docomo, inc.",
-    "org": "NTTDoCoMo",
-    "as": "AS9605 NTT DOCOMO, INC.",
-    "query": "1.66.33.240"
-  },
   "77.82.181.118": {
     "status": "success",
     "country": "Russia",
@@ -590,6 +606,38 @@
     "org": "",
     "as": "AS29190 MTS PJSC",
     "query": "95.104.174.25"
+  },
+  "175.177.44.75": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tokyo",
+    "zip": "151-0071",
+    "lat": 35.6837,
+    "lon": 139.6805,
+    "timezone": "Asia/Tokyo",
+    "isp": "its communications Inc.",
+    "org": "its communications Inc.",
+    "as": "AS9365 its communications Inc.",
+    "query": "175.177.44.75"
+  },
+  "102.42.69.4": {
+    "status": "success",
+    "country": "Egypt",
+    "countryCode": "EG",
+    "region": "C",
+    "regionName": "Cairo Governorate",
+    "city": "Cairo",
+    "zip": "",
+    "lat": 30.0507,
+    "lon": 31.2489,
+    "timezone": "Africa/Cairo",
+    "isp": "TE Data",
+    "org": "",
+    "as": "AS8452 TE-AS",
+    "query": "102.42.69.4"
   },
   "191.80.172.40": {
     "status": "success",
