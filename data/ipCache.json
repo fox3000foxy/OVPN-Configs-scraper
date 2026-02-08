@@ -431,22 +431,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.160.25.238"
   },
-  "119.171.136.236": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Yokohama",
-    "zip": "231-0841",
-    "lat": 35.4337,
-    "lon": 139.6499,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM Co., Ltd.",
-    "org": "JCOM Co., Ltd",
-    "as": "AS9824 JCOM Co., Ltd.",
-    "query": "119.171.136.236"
-  },
   "202.148.240.143": {
     "status": "success",
     "country": "Japan",
