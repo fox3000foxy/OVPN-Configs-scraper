@@ -639,22 +639,6 @@
     "as": "AS8452 TE-AS",
     "query": "102.42.69.4"
   },
-  "191.80.172.40": {
-    "status": "success",
-    "country": "Argentina",
-    "countryCode": "AR",
-    "region": "R",
-    "regionName": "Rio Negro",
-    "city": "Bariloche",
-    "zip": "8400",
-    "lat": -41.1443,
-    "lon": -71.3007,
-    "timezone": "America/Argentina/Salta",
-    "isp": "Telefonica de Argentina",
-    "org": "Telefonica de Argentina",
-    "as": "AS22927 Telefonica de Argentina",
-    "query": "191.80.172.40"
-  },
   "124.98.236.195": {
     "status": "success",
     "country": "Japan",
