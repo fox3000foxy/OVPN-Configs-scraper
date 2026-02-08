@@ -111,22 +111,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.141.151.166"
   },
-  "143.189.43.87": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "08",
-    "regionName": "Ibaraki",
-    "city": "Mito",
-    "zip": "310-0911",
-    "lat": 36.3502,
-    "lon": 140.4258,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc.",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "143.189.43.87"
-  },
   "113.147.188.196": {
     "status": "success",
     "country": "Japan",
@@ -142,6 +126,22 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "113.147.188.196"
+  },
+  "143.189.43.87": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "08",
+    "regionName": "Ibaraki",
+    "city": "Mito",
+    "zip": "310-0911",
+    "lat": 36.3502,
+    "lon": 140.4258,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc.",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "143.189.43.87"
   },
   "180.197.203.57": {
     "status": "success",
@@ -174,22 +174,6 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "222.2.34.200"
-  },
-  "106.165.34.211": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "08",
-    "regionName": "Ibaraki",
-    "city": "Koga",
-    "zip": "306-0021",
-    "lat": 36.2024,
-    "lon": 139.7085,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "106.165.34.211"
   },
   "77.35.150.75": {
     "status": "success",
@@ -383,21 +367,21 @@
     "as": "AS23969 TOT Public Company Limited",
     "query": "125.24.100.29"
   },
-  "133.32.181.186": {
+  "106.163.122.110": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "34",
-    "regionName": "Hiroshima",
-    "city": "Higashihiroshima",
-    "zip": "739-0046",
-    "lat": 34.4086,
-    "lon": 132.737,
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Adachi",
+    "zip": "120-0000",
+    "lat": 35.7747,
+    "lon": 139.7989,
     "timezone": "Asia/Tokyo",
-    "isp": "ARTERIA Networks Corporation",
-    "org": "ARTERIA Networks Corporation",
-    "as": "AS2519 ARTERIA Networks Corporation",
-    "query": "133.32.181.186"
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "106.163.122.110"
   },
   "121.175.33.51": {
     "status": "success",
@@ -718,22 +702,6 @@
     "org": "",
     "as": "AS35032 LLC SIP NIS",
     "query": "109.124.209.118"
-  },
-  "134.180.165.217": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "ARTERIA Networks Corporation",
-    "org": "Rakuten Mobile, Inc.",
-    "as": "AS2519 ARTERIA Networks Corporation",
-    "query": "134.180.165.217"
   },
   "123.248.182.124": {
     "status": "success",
