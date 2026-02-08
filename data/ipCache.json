@@ -271,6 +271,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "115.22.254.150"
   },
+  "131.147.158.37": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Kitamachi",
+    "zip": "179-0081",
+    "lat": 35.7631,
+    "lon": 139.6554,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "131.147.158.37"
+  },
   "222.109.72.106": {
     "status": "success",
     "country": "South Korea",
