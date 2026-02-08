@@ -143,22 +143,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "150.147.126.178"
   },
-  "36.14.133.245": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "20",
-    "regionName": "Nagano",
-    "city": "Okaya Shi",
-    "zip": "394-0021",
-    "lat": 36.071,
-    "lon": 138.0434,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "36.14.133.245"
-  },
   "113.145.237.167": {
     "status": "success",
     "country": "Japan",
@@ -174,6 +158,22 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "113.145.237.167"
+  },
+  "36.14.133.245": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "20",
+    "regionName": "Nagano",
+    "city": "Okaya Shi",
+    "zip": "394-0021",
+    "lat": 36.071,
+    "lon": 138.0434,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "36.14.133.245"
   },
   "60.144.85.226": {
     "status": "success",
@@ -575,22 +575,6 @@
     "as": "AS265691 WI-NET TELECOM S.A.C.",
     "query": "38.25.53.62"
   },
-  "86.102.254.44": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PRI",
-    "regionName": "Primorye",
-    "city": "Vladivostok",
-    "zip": "690001",
-    "lat": 43.1068,
-    "lon": 131.8692,
-    "timezone": "Asia/Vladivostok",
-    "isp": "PRIMORYE",
-    "org": "",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "86.102.254.44"
-  },
   "175.112.186.157": {
     "status": "success",
     "country": "South Korea",
@@ -606,6 +590,22 @@
     "org": "SK Broadband Co Ltd",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "175.112.186.157"
+  },
+  "86.102.254.44": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Vladivostok",
+    "zip": "690001",
+    "lat": 43.1068,
+    "lon": 131.8692,
+    "timezone": "Asia/Vladivostok",
+    "isp": "PRIMORYE",
+    "org": "",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "86.102.254.44"
   },
   "31.200.228.210": {
     "status": "success",
@@ -687,21 +687,21 @@
     "as": "AS10620 Telmex Colombia S.A.",
     "query": "186.81.100.17"
   },
-  "126.6.46.58": {
+  "80.115.95.115": {
     "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.6.46.58"
+    "country": "The Netherlands",
+    "countryCode": "NL",
+    "region": "ZH",
+    "regionName": "South Holland",
+    "city": "Oegstgeest",
+    "zip": "2341",
+    "lat": 52.1839,
+    "lon": 4.4784,
+    "timezone": "Europe/Amsterdam",
+    "isp": "ZIGGO",
+    "org": "",
+    "as": "AS33915 Vodafone Libertel B.V.",
+    "query": "80.115.95.115"
   },
   "121.83.124.99": {
     "status": "success",
