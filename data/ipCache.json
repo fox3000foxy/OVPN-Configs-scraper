@@ -15,22 +15,6 @@
     "as": "AS22773 Cox Communications Inc.",
     "query": "68.8.191.131"
   },
-  "126.224.111.147": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.224.111.147"
-  },
   "220.150.148.16": {
     "status": "success",
     "country": "Japan",
@@ -46,6 +30,22 @@
     "org": "ASAHI",
     "as": "AS4685 Asahi Net",
     "query": "220.150.148.16"
+  },
+  "126.224.111.147": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.224.111.147"
   },
   "160.86.46.9": {
     "status": "success",
@@ -143,6 +143,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "112.170.21.41"
   },
+  "103.152.178.62": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-0001",
+    "lat": 35.694,
+    "lon": 139.754,
+    "timezone": "Asia/Tokyo",
+    "isp": "Ayao Takata",
+    "org": "SDCC-East01",
+    "as": "AS38074 SDCC Japan-West Area",
+    "query": "103.152.178.62"
+  },
   "178.163.69.1": {
     "status": "success",
     "country": "Russia",
@@ -190,22 +206,6 @@
     "org": "State Company of Electro Communications Turkmentelecom",
     "as": "AS20661 State Company of Electro Communications Turkmentelecom",
     "query": "119.235.113.226"
-  },
-  "103.152.178.62": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-0001",
-    "lat": 35.694,
-    "lon": 139.754,
-    "timezone": "Asia/Tokyo",
-    "isp": "Ayao Takata",
-    "org": "SDCC-East01",
-    "as": "AS38074 SDCC Japan-West Area",
-    "query": "103.152.178.62"
   },
   "60.95.76.42": {
     "status": "success",
@@ -431,22 +431,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.145.145.27"
   },
-  "138.64.235.144": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Osaka",
-    "zip": "530-0041",
-    "lat": 34.6967,
-    "lon": 135.5154,
-    "timezone": "Asia/Tokyo",
-    "isp": "ASAHI Net, Inc.",
-    "org": "ASAHI",
-    "as": "AS4685 Asahi Net",
-    "query": "138.64.235.144"
-  },
   "182.224.198.133": {
     "status": "success",
     "country": "South Korea",
@@ -575,21 +559,21 @@
     "as": "AS29190 MTS PJSC",
     "query": "95.104.174.25"
   },
-  "85.15.125.103": {
+  "175.177.44.75": {
     "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KHA",
-    "regionName": "Khabarovsk",
-    "city": "Khabarovsk",
-    "zip": "680000",
-    "lat": 48.4817,
-    "lon": 135.083,
-    "timezone": "Asia/Vladivostok",
-    "isp": "Vostoktelecom Telephone Company Limited Liability Company",
-    "org": "Vostoktelecom Telephone Company Limited Liability Company",
-    "as": "AS34896 Vostoktelecom Telephone Company Limited Liability Company",
-    "query": "85.15.125.103"
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tokyo",
+    "zip": "151-0071",
+    "lat": 35.6837,
+    "lon": 139.6805,
+    "timezone": "Asia/Tokyo",
+    "isp": "its communications Inc.",
+    "org": "its communications Inc.",
+    "as": "AS9365 its communications Inc.",
+    "query": "175.177.44.75"
   },
   "46.147.56.102": {
     "status": "success",
@@ -606,6 +590,22 @@
     "org": "CJSC \"ER-Telecom Holding\"",
     "as": "AS12768 JSC ER-Telecom Holding",
     "query": "46.147.56.102"
+  },
+  "102.42.69.4": {
+    "status": "success",
+    "country": "Egypt",
+    "countryCode": "EG",
+    "region": "C",
+    "regionName": "Cairo Governorate",
+    "city": "Cairo",
+    "zip": "",
+    "lat": 30.0507,
+    "lon": 31.2489,
+    "timezone": "Africa/Cairo",
+    "isp": "TE Data",
+    "org": "",
+    "as": "AS8452 TE-AS",
+    "query": "102.42.69.4"
   },
   "191.80.172.40": {
     "status": "success",
