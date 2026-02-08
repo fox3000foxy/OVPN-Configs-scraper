@@ -111,22 +111,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.141.151.166"
   },
-  "113.147.188.196": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Yokohama",
-    "zip": "231-0841",
-    "lat": 35.4337,
-    "lon": 139.6499,
-    "timezone": "Asia/Tokyo",
-    "isp": "DION (KDDI CORPORATION)",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "113.147.188.196"
-  },
   "143.189.43.87": {
     "status": "success",
     "country": "Japan",
@@ -143,6 +127,22 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "143.189.43.87"
   },
+  "113.147.188.196": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Yokohama",
+    "zip": "231-0841",
+    "lat": 35.4337,
+    "lon": 139.6499,
+    "timezone": "Asia/Tokyo",
+    "isp": "DION (KDDI CORPORATION)",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "113.147.188.196"
+  },
   "180.197.203.57": {
     "status": "success",
     "country": "Japan",
@@ -158,6 +158,22 @@
     "org": "Chubu Telecommunications Co., Inc.",
     "as": "AS18126 Chubu Telecommunications Company, Inc.",
     "query": "180.197.203.57"
+  },
+  "222.2.34.200": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "18",
+    "regionName": "Fukui",
+    "city": "Nittazuka",
+    "zip": "910-0067",
+    "lat": 36.0956,
+    "lon": 136.204,
+    "timezone": "Asia/Tokyo",
+    "isp": "DION (KDDI CORPORATION)",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "222.2.34.200"
   },
   "106.165.34.211": {
     "status": "success",
@@ -238,6 +254,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "118.32.90.115"
+  },
+  "171.6.203.17": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "10",
+    "regionName": "Bangkok",
+    "city": "Bangkok",
+    "zip": "10120",
+    "lat": 13.7101,
+    "lon": 100.4543,
+    "timezone": "Asia/Bangkok",
+    "isp": "Triple T Broadband Public Company Limited",
+    "org": "Triple T Broadband Public Company Limited",
+    "as": "AS45758 Triple T Broadband Public Company Limited",
+    "query": "171.6.203.17"
   },
   "222.14.193.1": {
     "status": "success",
@@ -527,21 +559,21 @@
     "as": "AS43148 MTS PJSC",
     "query": "185.25.18.17"
   },
-  "58.230.49.105": {
+  "116.127.199.153": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Seongbuk-gu",
-    "zip": "028",
-    "lat": 37.5961,
-    "lon": 127.0292,
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Hwaseong-si",
+    "zip": "184",
+    "lat": 37.2072,
+    "lon": 126.8168,
     "timezone": "Asia/Seoul",
     "isp": "SK Broadband Co Ltd",
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
-    "query": "58.230.49.105"
+    "query": "116.127.199.153"
   },
   "106.250.249.67": {
     "status": "success",
@@ -607,6 +639,22 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "178.186.221.126"
   },
+  "24.4.74.187": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA",
+    "regionName": "California",
+    "city": "San Mateo",
+    "zip": "94403",
+    "lat": 37.5428,
+    "lon": -122.2971,
+    "timezone": "America/Los_Angeles",
+    "isp": "Comcast Cable Communications, LLC",
+    "org": "Comcast Cable Communications",
+    "as": "AS7922 Comcast Cable Communications, LLC",
+    "query": "24.4.74.187"
+  },
   "82.162.122.63": {
     "status": "success",
     "country": "Russia",
@@ -638,38 +686,6 @@
     "org": "Cox Communications",
     "as": "AS22773 Cox Communications Inc.",
     "query": "72.220.175.71"
-  },
-  "1.55.69.211": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "SG",
-    "regionName": "Ho Chi Minh",
-    "city": "Ho Chi Minh City",
-    "zip": "700000",
-    "lat": 10.822,
-    "lon": 106.6257,
-    "timezone": "Asia/Ho_Chi_Minh",
-    "isp": "FPT Telecom Company",
-    "org": "Vietnam Internet Network Information Center",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "1.55.69.211"
-  },
-  "24.4.74.187": {
-    "status": "success",
-    "country": "United States",
-    "countryCode": "US",
-    "region": "CA",
-    "regionName": "California",
-    "city": "San Mateo",
-    "zip": "94403",
-    "lat": 37.5428,
-    "lon": -122.2971,
-    "timezone": "America/Los_Angeles",
-    "isp": "Comcast Cable Communications, LLC",
-    "org": "Comcast Cable Communications",
-    "as": "AS7922 Comcast Cable Communications, LLC",
-    "query": "24.4.74.187"
   },
   "72.219.126.16": {
     "status": "success",
@@ -750,21 +766,5 @@
     "org": "CMB Kwangju Broadcasting",
     "as": "AS10054 CMB Kwangju Broadcasting",
     "query": "112.133.179.228"
-  },
-  "165.246.99.217": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "28",
-    "regionName": "Incheon",
-    "city": "Incheon",
-    "zip": "222",
-    "lat": 37.4503,
-    "lon": 126.6701,
-    "timezone": "Asia/Seoul",
-    "isp": "ITIS",
-    "org": "",
-    "as": "AS9317 INHA UNIVERSITY",
-    "query": "165.246.99.217"
   }
 }
