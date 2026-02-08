@@ -239,6 +239,22 @@
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "119.173.41.197"
   },
+  "219.115.166.66": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Sakai",
+    "zip": "590-0071",
+    "lat": 34.5742,
+    "lon": 135.4777,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM",
+    "org": "J:COM WEST Co., Ltd.",
+    "as": "AS9617 JCOM Co., Ltd.",
+    "query": "219.115.166.66"
+  },
   "60.119.224.202": {
     "status": "success",
     "country": "Japan",
@@ -399,22 +415,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "106.155.97.11"
   },
-  "126.74.193.170": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.74.193.170"
-  },
   "114.185.25.139": {
     "status": "success",
     "country": "Japan",
@@ -431,21 +431,21 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "114.185.25.139"
   },
-  "49.228.121.149": {
+  "126.74.193.170": {
     "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "10",
-    "regionName": "Bangkok",
-    "city": "Bangkok",
-    "zip": "10700",
-    "lat": 13.751,
-    "lon": 100.4873,
-    "timezone": "Asia/Bangkok",
-    "isp": "Advanced Wireless Network Company Limited",
-    "org": "",
-    "as": "AS133481 AIS Fibre",
-    "query": "49.228.121.149"
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.74.193.170"
   },
   "126.86.71.132": {
     "status": "success",
@@ -463,21 +463,21 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.86.71.132"
   },
-  "119.171.136.236": {
+  "184.22.32.37": {
     "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Yokohama",
-    "zip": "231-0841",
-    "lat": 35.4337,
-    "lon": 139.6499,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM Co., Ltd.",
-    "org": "JCOM Co., Ltd",
-    "as": "AS9824 JCOM Co., Ltd.",
-    "query": "119.171.136.236"
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "10",
+    "regionName": "Bangkok",
+    "city": "Bangkok",
+    "zip": "10400",
+    "lat": 13.7618,
+    "lon": 100.5324,
+    "timezone": "Asia/Bangkok",
+    "isp": "AIS-Fibre",
+    "org": "",
+    "as": "AS133481 AIS Fibre",
+    "query": "184.22.32.37"
   },
   "210.157.192.106": {
     "status": "success",
@@ -526,22 +526,6 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "39.121.154.44"
-  },
-  "1.66.33.240": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Osaka",
-    "zip": "530-0041",
-    "lat": 34.6967,
-    "lon": 135.5154,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Docomo, inc.",
-    "org": "NTTDoCoMo",
-    "as": "AS9605 NTT DOCOMO, INC.",
-    "query": "1.66.33.240"
   },
   "59.166.113.55": {
     "status": "success",
@@ -607,6 +591,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "211.216.6.41"
   },
+  "1.66.33.240": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Osaka",
+    "zip": "530-0041",
+    "lat": 34.6967,
+    "lon": 135.5154,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Docomo, inc.",
+    "org": "NTTDoCoMo",
+    "as": "AS9605 NTT DOCOMO, INC.",
+    "query": "1.66.33.240"
+  },
   "125.243.142.156": {
     "status": "success",
     "country": "South Korea",
@@ -671,6 +671,22 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "2.60.211.9"
   },
+  "24.47.212.56": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "NJ",
+    "regionName": "New Jersey",
+    "city": "Old Bridge",
+    "zip": "08857",
+    "lat": 40.4148,
+    "lon": -74.3654,
+    "timezone": "America/New_York",
+    "isp": "Cablevision Systems Corp.",
+    "org": "Optimum Online (Cablevision Systems)",
+    "as": "AS6128 Cablevision Systems Corp.",
+    "query": "24.47.212.56"
+  },
   "116.34.55.195": {
     "status": "success",
     "country": "South Korea",
@@ -702,21 +718,5 @@
     "org": "POL Pppoe Spsk Unlim",
     "as": "AS12389 PJSC Rostelecom",
     "query": "81.2.58.239"
-  },
-  "89.237.0.138": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "ORE",
-    "regionName": "Orenburg Oblast",
-    "city": "Orenburg",
-    "zip": "460000",
-    "lat": 51.7682,
-    "lon": 55.097,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "SUTTK-DHCP",
-    "org": "",
-    "as": "AS28745 Joint Stock Company TransTeleCom",
-    "query": "89.237.0.138"
   }
 }
