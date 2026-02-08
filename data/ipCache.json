@@ -383,21 +383,21 @@
     "as": "AS812 Rogers Communications Canada Inc.",
     "query": "99.247.99.250"
   },
-  "222.6.40.202": {
+  "60.121.72.50": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
     "region": "13",
     "regionName": "Tokyo",
-    "city": "Machida",
-    "zip": "194-0011",
-    "lat": 35.5381,
-    "lon": 139.4479,
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
     "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "222.6.40.202"
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.121.72.50"
   },
   "14.47.216.87": {
     "status": "success",
@@ -414,22 +414,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "14.47.216.87"
-  },
-  "164.70.156.68": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Kameido",
-    "zip": "136-0071",
-    "lat": 35.703,
-    "lon": 139.8308,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "164.70.156.68"
   },
   "121.152.86.122": {
     "status": "success",
@@ -702,5 +686,21 @@
     "org": "K-Opticom Corporation",
     "as": "AS17511 OPTAGE Inc.",
     "query": "121.83.124.99"
+  },
+  "126.56.249.135": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.56.249.135"
   }
 }
