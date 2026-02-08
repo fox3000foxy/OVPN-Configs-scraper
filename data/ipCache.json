@@ -207,21 +207,21 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.110.43.151"
   },
-  "118.32.90.115": {
+  "121.174.247.158": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Dobong-gu",
-    "zip": "014",
-    "lat": 37.639,
-    "lon": 127.034,
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Yeongdo-gu",
+    "zip": "491",
+    "lat": 35.0763,
+    "lon": 129.0608,
     "timezone": "Asia/Seoul",
     "isp": "Korea Telecom",
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
-    "query": "118.32.90.115"
+    "query": "121.174.247.158"
   },
   "171.6.203.17": {
     "status": "success",
@@ -238,6 +238,22 @@
     "org": "Triple T Broadband Public Company Limited",
     "as": "AS45758 Triple T Broadband Public Company Limited",
     "query": "171.6.203.17"
+  },
+  "118.32.90.115": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Dobong-gu",
+    "zip": "014",
+    "lat": 37.639,
+    "lon": 127.034,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "118.32.90.115"
   },
   "222.14.193.1": {
     "status": "success",
@@ -351,22 +367,6 @@
     "as": "AS23969 TOT Public Company Limited",
     "query": "125.24.100.29"
   },
-  "133.32.181.186": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "34",
-    "regionName": "Hiroshima",
-    "city": "Higashihiroshima",
-    "zip": "739-0046",
-    "lat": 34.4086,
-    "lon": 132.737,
-    "timezone": "Asia/Tokyo",
-    "isp": "ARTERIA Networks Corporation",
-    "org": "ARTERIA Networks Corporation",
-    "as": "AS2519 ARTERIA Networks Corporation",
-    "query": "133.32.181.186"
-  },
   "180.197.203.57": {
     "status": "success",
     "country": "Japan",
@@ -414,22 +414,6 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "121.160.25.238"
-  },
-  "121.175.33.51": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "26",
-    "regionName": "Busan",
-    "city": "Busan",
-    "zip": "472",
-    "lat": 35.1659,
-    "lon": 129.0542,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Korea Telecom",
-    "as": "AS4766 Korea Telecom",
-    "query": "121.175.33.51"
   },
   "169.212.0.150": {
     "status": "success",
