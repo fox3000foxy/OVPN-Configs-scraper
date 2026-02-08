@@ -175,22 +175,6 @@
     "as": "AS18144 Enecom,Inc.",
     "query": "58.183.127.232"
   },
-  "103.152.178.62": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-0001",
-    "lat": 35.694,
-    "lon": 139.754,
-    "timezone": "Asia/Tokyo",
-    "isp": "Ayao Takata",
-    "org": "SDCC-East01",
-    "as": "AS38074 SDCC Japan-West Area",
-    "query": "103.152.178.62"
-  },
   "106.156.91.45": {
     "status": "success",
     "country": "Japan",
@@ -206,6 +190,22 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "106.156.91.45"
+  },
+  "103.152.178.62": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-0001",
+    "lat": 35.694,
+    "lon": 139.754,
+    "timezone": "Asia/Tokyo",
+    "isp": "Ayao Takata",
+    "org": "SDCC-East01",
+    "as": "AS38074 SDCC Japan-West Area",
+    "query": "103.152.178.62"
   },
   "95.84.132.179": {
     "status": "success",
@@ -463,22 +463,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.234.234.114"
   },
-  "120.147.128.201": {
-    "status": "success",
-    "country": "Australia",
-    "countryCode": "AU",
-    "region": "VIC",
-    "regionName": "Victoria",
-    "city": "Melbourne",
-    "zip": "3032",
-    "lat": -37.7764,
-    "lon": 144.8881,
-    "timezone": "Australia/Melbourne",
-    "isp": "Telstra Internet",
-    "org": "",
-    "as": "AS1221 Telstra Limited",
-    "query": "120.147.128.201"
-  },
   "220.146.77.205": {
     "status": "success",
     "country": "Japan",
@@ -542,6 +526,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "121.183.242.194"
+  },
+  "184.22.8.4": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "10",
+    "regionName": "Bangkok",
+    "city": "Bangkok",
+    "zip": "10400",
+    "lat": 13.7618,
+    "lon": 100.5324,
+    "timezone": "Asia/Bangkok",
+    "isp": "AIS-Fibre",
+    "org": "",
+    "as": "AS133481 AIS Fibre",
+    "query": "184.22.8.4"
   },
   "85.91.103.2": {
     "status": "success",
@@ -639,6 +639,22 @@
     "as": "AS51028 Zummer LLC",
     "query": "91.239.42.137"
   },
+  "133.175.174.202": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chuo",
+    "zip": "103-0000",
+    "lat": 35.6812,
+    "lon": 139.774,
+    "timezone": "Asia/Tokyo",
+    "isp": "ARTERIA Networks Corporation",
+    "org": "Toray Industries, Inc.",
+    "as": "AS2519 ARTERIA Networks Corporation",
+    "query": "133.175.174.202"
+  },
   "81.2.10.164": {
     "status": "success",
     "country": "Russia",
@@ -654,5 +670,21 @@
     "org": "Vlad-Express, LTD",
     "as": "AS12389 PJSC Rostelecom",
     "query": "81.2.10.164"
+  },
+  "118.241.135.64": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Setagaya City",
+    "zip": "154-0017",
+    "lat": 35.6392,
+    "lon": 139.6509,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc.",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "118.241.135.64"
   }
 }
