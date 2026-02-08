@@ -159,22 +159,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "106.165.34.211"
   },
-  "77.35.150.75": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PRI",
-    "regionName": "Primorye",
-    "city": "Ussuriysk",
-    "zip": "692500",
-    "lat": 43.8008,
-    "lon": 131.9459,
-    "timezone": "Asia/Vladivostok",
-    "isp": "Rostelecom networks",
-    "org": "",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "77.35.150.75"
-  },
   "184.82.122.171": {
     "status": "success",
     "country": "Thailand",
@@ -191,6 +175,22 @@
     "as": "AS133481 AIS Fibre",
     "query": "184.82.122.171"
   },
+  "77.35.150.75": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Ussuriysk",
+    "zip": "692500",
+    "lat": 43.8008,
+    "lon": 131.9459,
+    "timezone": "Asia/Vladivostok",
+    "isp": "Rostelecom networks",
+    "org": "",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "77.35.150.75"
+  },
   "126.110.43.151": {
     "status": "success",
     "country": "Japan",
@@ -206,6 +206,22 @@
     "org": "SOFTBANK Corp",
     "as": "AS17676 SoftBank Corp.",
     "query": "126.110.43.151"
+  },
+  "122.47.245.200": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Dongdaemun",
+    "zip": "026",
+    "lat": 37.5655,
+    "lon": 127.0753,
+    "timezone": "Asia/Seoul",
+    "isp": "LG POWERCOMM",
+    "org": "Xpeed",
+    "as": "AS17858 LG POWERCOMM",
+    "query": "122.47.245.200"
   },
   "121.174.247.158": {
     "status": "success",
@@ -255,22 +271,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "221.145.15.42"
   },
-  "222.14.193.1": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "47",
-    "regionName": "Okinawa",
-    "city": "Kochinda",
-    "zip": "901-0401",
-    "lat": 26.1556,
-    "lon": 127.6668,
-    "timezone": "Asia/Tokyo",
-    "isp": "DION (KDDI CORPORATION)",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "222.14.193.1"
-  },
   "59.130.127.186": {
     "status": "success",
     "country": "Japan",
@@ -286,6 +286,22 @@
     "org": "DION (KDDI CORPORATION)",
     "as": "AS18126 Chubu Telecommunications Company, Inc.",
     "query": "59.130.127.186"
+  },
+  "222.14.193.1": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "47",
+    "regionName": "Okinawa",
+    "city": "Kochinda",
+    "zip": "901-0401",
+    "lat": 26.1556,
+    "lon": 127.6668,
+    "timezone": "Asia/Tokyo",
+    "isp": "DION (KDDI CORPORATION)",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "222.14.193.1"
   },
   "222.4.112.69": {
     "status": "success",
@@ -526,22 +542,6 @@
     "org": "Xpeed",
     "as": "AS17858 LG POWERCOMM",
     "query": "122.32.78.34"
-  },
-  "1.66.33.240": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Osaka",
-    "zip": "530-0041",
-    "lat": 34.6967,
-    "lon": 135.5154,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Docomo, inc.",
-    "org": "NTTDoCoMo",
-    "as": "AS9605 NTT DOCOMO, INC.",
-    "query": "1.66.33.240"
   },
   "185.25.18.17": {
     "status": "success",
