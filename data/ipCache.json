@@ -1,20 +1,4 @@
 {
-  "132.145.80.117": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Seoul",
-    "zip": "02878",
-    "lat": 37.5985,
-    "lon": 126.9783,
-    "timezone": "Asia/Seoul",
-    "isp": "Oracle Corporation",
-    "org": "Oracle Cloud Infrastructure (ap-seoul-1)",
-    "as": "AS31898 Oracle Corporation",
-    "query": "132.145.80.117"
-  },
   "211.198.67.197": {
     "status": "success",
     "country": "South Korea",
@@ -62,6 +46,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "211.184.24.38"
+  },
+  "61.45.108.61": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tokyo",
+    "zip": "151-0071",
+    "lat": 35.6837,
+    "lon": 139.6805,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT-ME Corporation",
+    "org": "XePhion",
+    "as": "AS9595 NTT-ME Corporation",
+    "query": "61.45.108.61"
   },
   "27.83.68.134": {
     "status": "success",
