@@ -255,21 +255,21 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "124.214.92.234"
   },
-  "126.110.43.151": {
+  "222.14.193.1": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
+    "region": "47",
+    "regionName": "Okinawa",
+    "city": "Kochinda",
+    "zip": "901-0401",
+    "lat": 26.1556,
+    "lon": 127.6668,
     "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.110.43.151"
+    "isp": "DION (KDDI CORPORATION)",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "222.14.193.1"
   },
   "126.36.231.211": {
     "status": "success",
@@ -687,21 +687,21 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "82.162.122.63"
   },
-  "211.222.254.104": {
+  "1.55.69.211": {
     "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Bucheon-si",
-    "zip": "14554",
-    "lat": 37.4987,
-    "lon": 126.7828,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "KTijeongbujisa",
-    "as": "AS4766 Korea Telecom",
-    "query": "211.222.254.104"
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "SG",
+    "regionName": "Ho Chi Minh",
+    "city": "Ho Chi Minh City",
+    "zip": "700000",
+    "lat": 10.822,
+    "lon": 106.6257,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "isp": "FPT Telecom Company",
+    "org": "Vietnam Internet Network Information Center",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "1.55.69.211"
   },
   "178.173.99.148": {
     "status": "success",
