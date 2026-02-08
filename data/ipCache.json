@@ -143,22 +143,6 @@
     "as": "AS59533 Lukyanov Evgeniy Vladimirovich PE",
     "query": "91.219.203.117"
   },
-  "150.147.126.178": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "34",
-    "regionName": "Hiroshima",
-    "city": "Hiroshima",
-    "zip": "730-0841",
-    "lat": 34.3895,
-    "lon": 132.4527,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "150.147.126.178"
-  },
   "36.14.133.245": {
     "status": "success",
     "country": "Japan",
@@ -350,6 +334,22 @@
     "org": "Korea Telecom",
     "as": "AS4766 Korea Telecom",
     "query": "211.194.236.133"
+  },
+  "99.247.99.250": {
+    "status": "success",
+    "country": "Canada",
+    "countryCode": "CA",
+    "region": "ON",
+    "regionName": "Ontario",
+    "city": "Woodbridge",
+    "zip": "L4H",
+    "lat": 43.8419,
+    "lon": -79.5565,
+    "timezone": "America/Toronto",
+    "isp": "Rogers Communications Canada Inc.",
+    "org": "Rogers Cable Inc. MTMK",
+    "as": "AS812 Rogers Communications Canada Inc.",
+    "query": "99.247.99.250"
   },
   "222.6.40.202": {
     "status": "success",
