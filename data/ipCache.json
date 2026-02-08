@@ -15,22 +15,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "59.139.128.191"
   },
-  "180.68.118.32": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "26",
-    "regionName": "Busan",
-    "city": "Busan",
-    "zip": "462",
-    "lat": 35.2582,
-    "lon": 129.0948,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "180.68.118.32"
-  },
   "126.1.42.49": {
     "status": "success",
     "country": "Japan",
@@ -46,6 +30,22 @@
     "org": "SOFTBANK Corp",
     "as": "AS17676 SoftBank Corp.",
     "query": "126.1.42.49"
+  },
+  "180.68.118.32": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Busan",
+    "zip": "462",
+    "lat": 35.2582,
+    "lon": 129.0948,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "180.68.118.32"
   },
   "114.206.223.158": {
     "status": "success",
@@ -319,22 +319,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "178.187.92.101"
   },
-  "1.55.123.78": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "HN",
-    "regionName": "Hanoi",
-    "city": "Hanoi",
-    "zip": "100000",
-    "lat": 21.0184,
-    "lon": 105.8461,
-    "timezone": "Asia/Bangkok",
-    "isp": "FPT Telecom Company",
-    "org": "Vietnam Internet Network Information Center",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "1.55.123.78"
-  },
   "153.195.76.55": {
     "status": "success",
     "country": "Japan",
@@ -350,6 +334,22 @@
     "org": "Open Computer Network",
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "153.195.76.55"
+  },
+  "121.141.32.45": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Yeongdeungpo-gu",
+    "zip": "072",
+    "lat": 37.5247,
+    "lon": 126.9133,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Korea Telecom",
+    "as": "AS4766 Korea Telecom",
+    "query": "121.141.32.45"
   },
   "175.193.142.119": {
     "status": "success",
@@ -367,21 +367,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "175.193.142.119"
   },
-  "121.141.32.45": {
+  "211.114.63.243": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Yeongdeungpo-gu",
-    "zip": "072",
-    "lat": 37.5247,
-    "lon": 126.9133,
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Geumjeong-gu",
+    "zip": "463",
+    "lat": 35.2582,
+    "lon": 129.0948,
     "timezone": "Asia/Seoul",
     "isp": "Korea Telecom",
     "org": "Korea Telecom",
     "as": "AS4766 Korea Telecom",
-    "query": "121.141.32.45"
+    "query": "211.114.63.243"
   },
   "59.4.2.249": {
     "status": "success",
@@ -543,6 +543,22 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "113.144.26.49"
   },
+  "223.216.247.199": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "37",
+    "regionName": "Kagawa",
+    "city": "Takamatsu",
+    "zip": "760-0071",
+    "lat": 34.3316,
+    "lon": 134.0455,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "NTT Communications Corporation",
+    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
+    "query": "223.216.247.199"
+  },
   "58.228.35.23": {
     "status": "success",
     "country": "South Korea",
@@ -622,5 +638,21 @@
     "org": "",
     "as": "AS196949 Natalia Sergeevna Filicheva",
     "query": "109.110.46.232"
+  },
+  "213.129.44.161": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "SA",
+    "regionName": "Sakha",
+    "city": "Yakutsk",
+    "zip": "677000",
+    "lat": 62.0313,
+    "lon": 129.7325,
+    "timezone": "Asia/Yakutsk",
+    "isp": "Sakhatelecom",
+    "org": "",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "213.129.44.161"
   }
 }
