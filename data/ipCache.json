@@ -15,22 +15,6 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "60.36.150.117"
   },
-  "39.125.14.120": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Yangju",
-    "zip": "114",
-    "lat": 37.8119,
-    "lon": 127.08,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "39.125.14.120"
-  },
   "126.1.42.49": {
     "status": "success",
     "country": "Japan",
@@ -46,6 +30,22 @@
     "org": "SOFTBANK Corp",
     "as": "AS17676 SoftBank Corp.",
     "query": "126.1.42.49"
+  },
+  "39.125.14.120": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Yangju",
+    "zip": "114",
+    "lat": 37.8119,
+    "lon": 127.08,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "39.125.14.120"
   },
   "59.139.128.191": {
     "status": "success",
@@ -206,6 +206,38 @@
     "org": "INTERLINK Co., LTD.",
     "as": "AS2514 NTT PC Communications, Inc.",
     "query": "219.117.198.100"
+  },
+  "91.219.203.117": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PER",
+    "regionName": "Perm Krai",
+    "city": "Lys'va",
+    "zip": "618900",
+    "lat": 58.1004,
+    "lon": 57.8043,
+    "timezone": "Asia/Yekaterinburg",
+    "isp": "KVARTAL",
+    "org": "Lukjanova Lydia Andreevna PE",
+    "as": "AS59533 Lukyanov Evgeniy Vladimirovich PE",
+    "query": "91.219.203.117"
+  },
+  "124.18.97.154": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "23",
+    "regionName": "Aichi",
+    "city": "Kiyosu",
+    "zip": "452-0941",
+    "lat": 35.2172,
+    "lon": 136.8325,
+    "timezone": "Asia/Tokyo",
+    "isp": "Chubu Telecommunications Company, Inc.",
+    "org": "Chubu Telecommunications Co., Inc.",
+    "as": "AS18126 Chubu Telecommunications Company, Inc.",
+    "query": "124.18.97.154"
   },
   "112.161.61.242": {
     "status": "success",
@@ -383,37 +415,21 @@
     "as": "AS812 Rogers Communications Canada Inc.",
     "query": "99.247.99.250"
   },
-  "60.121.72.50": {
+  "124.44.10.44": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
     "region": "13",
     "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
+    "city": "Tokyo",
+    "zip": "151-0071",
+    "lat": 35.6837,
+    "lon": 139.6805,
     "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan Nation-wide Network of Softbank Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "60.121.72.50"
-  },
-  "164.70.156.68": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Kameido",
-    "zip": "136-0071",
-    "lat": 35.703,
-    "lon": 139.8308,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "164.70.156.68"
+    "isp": "NTT-ME Corporation",
+    "org": "NTT-ME Corporation",
+    "as": "AS9595 NTT-ME Corporation",
+    "query": "124.44.10.44"
   },
   "14.47.216.87": {
     "status": "success",
@@ -430,6 +446,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "14.47.216.87"
+  },
+  "164.70.156.68": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Kameido",
+    "zip": "136-0071",
+    "lat": 35.703,
+    "lon": 139.8308,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "164.70.156.68"
   },
   "121.152.86.122": {
     "status": "success",
@@ -542,22 +574,6 @@
     "org": "NTTDoCoMo",
     "as": "AS9605 NTT DOCOMO, INC.",
     "query": "49.109.123.147"
-  },
-  "38.25.53.62": {
-    "status": "success",
-    "country": "Peru",
-    "countryCode": "PE",
-    "region": "LMA",
-    "regionName": "Lima Province",
-    "city": "Lima",
-    "zip": "",
-    "lat": -12.046,
-    "lon": -77.0305,
-    "timezone": "America/Lima",
-    "isp": "WI-NET Telecom SAC",
-    "org": "WI-NET Telecom SAC",
-    "as": "AS265691 WI-NET TELECOM S.A.C.",
-    "query": "38.25.53.62"
   },
   "175.112.186.157": {
     "status": "success",
