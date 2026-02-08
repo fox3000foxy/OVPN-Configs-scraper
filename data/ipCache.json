@@ -479,6 +479,22 @@
     "as": "AS2519 ARTERIA Networks Corporation",
     "query": "133.32.180.103"
   },
+  "14.13.236.128": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "18",
+    "regionName": "Fukui",
+    "city": "Fukui-shi",
+    "zip": "915-0851",
+    "lat": 35.8859,
+    "lon": 136.1694,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "14.13.236.128"
+  },
   "1.251.45.198": {
     "status": "success",
     "country": "South Korea",
