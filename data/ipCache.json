@@ -431,22 +431,6 @@
     "as": "AS17858 LG POWERCOMM",
     "query": "182.224.198.133"
   },
-  "113.10.62.80": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Gangnam-gu",
-    "zip": "061",
-    "lat": 37.5093,
-    "lon": 127.0465,
-    "timezone": "Asia/Seoul",
-    "isp": "KangNam CableTV",
-    "org": "DLIVE Gangnam Cable TV",
-    "as": "AS9943 KangNam CableTV",
-    "query": "113.10.62.80"
-  },
   "58.123.224.213": {
     "status": "success",
     "country": "South Korea",
@@ -495,6 +479,22 @@
     "as": "AS138384 Rakuten Mobile Network, Inc.",
     "query": "133.106.162.14"
   },
+  "183.109.88.108": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Yeongdeungpo-gu",
+    "zip": "074",
+    "lat": 37.4926,
+    "lon": 126.92,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "183.109.88.108"
+  },
   "176.49.124.32": {
     "status": "success",
     "country": "Russia",
@@ -526,22 +526,6 @@
     "org": "Igra-Service LLC",
     "as": "AS12494 OOO \"Post ltd\"",
     "query": "91.188.199.34"
-  },
-  "210.106.204.25": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Goyang-si",
-    "zip": "105",
-    "lat": 37.6468,
-    "lon": 126.8843,
-    "timezone": "Asia/Seoul",
-    "isp": "DLIVE",
-    "org": "Dlive",
-    "as": "AS10036 DLIVE",
-    "query": "210.106.204.25"
   },
   "77.82.181.118": {
     "status": "success",
@@ -607,20 +591,20 @@
     "as": "AS12768 JSC ER-Telecom Holding",
     "query": "46.147.56.102"
   },
-  "102.42.69.4": {
+  "191.80.172.40": {
     "status": "success",
-    "country": "Egypt",
-    "countryCode": "EG",
-    "region": "C",
-    "regionName": "Cairo Governorate",
-    "city": "Cairo",
-    "zip": "",
-    "lat": 30.0507,
-    "lon": 31.2489,
-    "timezone": "Africa/Cairo",
-    "isp": "TE Data",
-    "org": "",
-    "as": "AS8452 TE-AS",
-    "query": "102.42.69.4"
+    "country": "Argentina",
+    "countryCode": "AR",
+    "region": "R",
+    "regionName": "Rio Negro",
+    "city": "Bariloche",
+    "zip": "8400",
+    "lat": -41.1443,
+    "lon": -71.3007,
+    "timezone": "America/Argentina/Salta",
+    "isp": "Telefonica de Argentina",
+    "org": "Telefonica de Argentina",
+    "as": "AS22927 Telefonica de Argentina",
+    "query": "191.80.172.40"
   }
 }
