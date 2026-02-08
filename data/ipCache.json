@@ -79,6 +79,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "211.185.142.92"
   },
+  "182.237.221.37": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "45",
+    "regionName": "Jeollabuk-do",
+    "city": "Iksan",
+    "zip": "546",
+    "lat": 35.9579,
+    "lon": 126.9382,
+    "timezone": "Asia/Seoul",
+    "isp": "Keumgang Cable Network",
+    "org": "Kumgang Jungbotongsin(Gunsan)",
+    "as": "AS17583 Keumgang Cable Network",
+    "query": "182.237.221.37"
+  },
   "211.192.121.212": {
     "status": "success",
     "country": "South Korea",
@@ -206,22 +222,6 @@
     "org": "",
     "as": "AS42610 PJSC Rostelecom",
     "query": "95.84.132.179"
-  },
-  "182.237.221.37": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "45",
-    "regionName": "Jeollabuk-do",
-    "city": "Iksan",
-    "zip": "546",
-    "lat": 35.9579,
-    "lon": 126.9382,
-    "timezone": "Asia/Seoul",
-    "isp": "Keumgang Cable Network",
-    "org": "Kumgang Jungbotongsin(Gunsan)",
-    "as": "AS17583 Keumgang Cable Network",
-    "query": "182.237.221.37"
   },
   "126.55.239.154": {
     "status": "success",
