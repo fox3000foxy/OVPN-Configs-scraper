@@ -143,6 +143,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.82"
   },
+  "219.100.37.128": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftEther",
+    "org": "SoftEther Corporation",
+    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
+    "query": "219.100.37.128"
+  },
   "219.100.37.4": {
     "status": "success",
     "country": "Japan",
@@ -159,21 +175,21 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.4"
   },
-  "219.100.37.128": {
+  "122.103.113.207": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
     "region": "13",
     "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
+    "city": "Tokyo",
+    "zip": "151-0071",
+    "lat": 35.6837,
+    "lon": 139.6805,
     "timezone": "Asia/Tokyo",
-    "isp": "SoftEther",
-    "org": "SoftEther Corporation",
-    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.128"
+    "isp": "ARTERIA Networks Corporation",
+    "org": "ARTERIA Networks Corporation",
+    "as": "AS2519 ARTERIA Networks Corporation",
+    "query": "122.103.113.207"
   },
   "219.100.37.126": {
     "status": "success",
@@ -511,21 +527,21 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "77.35.150.75"
   },
-  "106.161.60.241": {
+  "126.48.55.224": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Kamariyanishi",
-    "zip": "236-0041",
-    "lat": 35.3472,
-    "lon": 139.591,
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
     "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "106.161.60.241"
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.48.55.224"
   },
   "49.205.100.122": {
     "status": "success",
@@ -750,22 +766,6 @@
     "org": "OJSC Sibirtelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "2.61.25.203"
-  },
-  "5.149.207.164": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "SA",
-    "regionName": "Sakha",
-    "city": "Lensk",
-    "zip": "678140",
-    "lat": 60.7314,
-    "lon": 114.923,
-    "timezone": "Asia/Yakutsk",
-    "isp": "Kostroma-SVEN Networks",
-    "org": "",
-    "as": "AS50477 Svyaz-Energo Ltd.",
-    "query": "5.149.207.164"
   },
   "45.43.78.59": {
     "status": "success",
