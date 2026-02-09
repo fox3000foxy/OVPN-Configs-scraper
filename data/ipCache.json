@@ -255,22 +255,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.167.189.126"
   },
-  "95.154.89.139": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PRI",
-    "regionName": "Primorye",
-    "city": "Vladivostok",
-    "zip": "690001",
-    "lat": 43.1068,
-    "lon": 131.8692,
-    "timezone": "Asia/Vladivostok",
-    "isp": "OCTOPUSNET-SUBSCRIBERS",
-    "org": "",
-    "as": "AS44724 Octopusnet LTD",
-    "query": "95.154.89.139"
-  },
   "219.100.37.4": {
     "status": "success",
     "country": "Japan",
@@ -286,6 +270,22 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.4"
+  },
+  "95.154.89.139": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Vladivostok",
+    "zip": "690001",
+    "lat": 43.1068,
+    "lon": 131.8692,
+    "timezone": "Asia/Vladivostok",
+    "isp": "OCTOPUSNET-SUBSCRIBERS",
+    "org": "",
+    "as": "AS44724 Octopusnet LTD",
+    "query": "95.154.89.139"
   },
   "60.155.235.197": {
     "status": "success",
@@ -318,6 +318,22 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.16"
+  },
+  "81.201.19.107": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "SPE",
+    "regionName": "St.-Petersburg",
+    "city": "St Petersburg",
+    "zip": "190990",
+    "lat": 59.8983,
+    "lon": 30.2618,
+    "timezone": "Europe/Moscow",
+    "isp": "OJSC \"Mobile TeleSystems\"",
+    "org": "PJSC \"Mobile TeleSystems\"",
+    "as": "AS8359 MTS PJSC",
+    "query": "81.201.19.107"
   },
   "219.100.37.109": {
     "status": "success",
@@ -383,21 +399,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "125.139.49.108"
   },
-  "211.193.219.92": {
+  "14.32.161.234": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Seongnam-si",
-    "zip": "13606",
-    "lat": 37.3668,
-    "lon": 127.108,
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Songpa-gu",
+    "zip": "058",
+    "lat": 37.4818,
+    "lon": 127.1392,
     "timezone": "Asia/Seoul",
     "isp": "Korea Telecom",
-    "org": "KORNET",
+    "org": "Kornet",
     "as": "AS4766 Korea Telecom",
-    "query": "211.193.219.92"
+    "query": "14.32.161.234"
   },
   "138.64.235.144": {
     "status": "success",
@@ -414,38 +430,6 @@
     "org": "ASAHI",
     "as": "AS4685 Asahi Net",
     "query": "138.64.235.144"
-  },
-  "114.175.159.86": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "01",
-    "regionName": "Hokkaido",
-    "city": "Sapporo",
-    "zip": "064-0801",
-    "lat": 43.0456,
-    "lon": 141.3522,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "Open Computer Network",
-    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
-    "query": "114.175.159.86"
-  },
-  "81.201.19.107": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "SPE",
-    "regionName": "St.-Petersburg",
-    "city": "St Petersburg",
-    "zip": "190990",
-    "lat": 59.8983,
-    "lon": 30.2618,
-    "timezone": "Europe/Moscow",
-    "isp": "OJSC \"Mobile TeleSystems\"",
-    "org": "PJSC \"Mobile TeleSystems\"",
-    "as": "AS8359 MTS PJSC",
-    "query": "81.201.19.107"
   },
   "178.163.69.1": {
     "status": "success",
@@ -495,6 +479,22 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "222.227.165.89"
   },
+  "210.238.52.186": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "44",
+    "regionName": "Oita",
+    "city": "Ōita",
+    "zip": "870-0811",
+    "lat": 33.2337,
+    "lon": 131.5928,
+    "timezone": "Asia/Tokyo",
+    "isp": "QTnet, Inc.",
+    "org": "Kyushu Telecommunication Network Co., Inc.",
+    "as": "AS7679 QTnet,Inc.",
+    "query": "210.238.52.186"
+  },
   "61.47.212.110": {
     "status": "success",
     "country": "South Korea",
@@ -527,22 +527,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "152.117.237.139"
   },
-  "128.90.168.134": {
-    "status": "success",
-    "country": "Portugal",
-    "countryCode": "PT",
-    "region": "11",
-    "regionName": "Lisbon",
-    "city": "Lisbon",
-    "zip": "1100-001",
-    "lat": 38.7219,
-    "lon": -9.1398,
-    "timezone": "Europe/Lisbon",
-    "isp": "Powerhouse Management, Inc.",
-    "org": "Unus, Inc.",
-    "as": "AS22363 Powerhouse Management, Inc.",
-    "query": "128.90.168.134"
-  },
   "91.132.22.148": {
     "status": "success",
     "country": "Russia",
@@ -559,22 +543,6 @@
     "as": "AS33991 Igra-Service LLC",
     "query": "91.132.22.148"
   },
-  "59.15.159.29": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Guro-gu",
-    "zip": "082",
-    "lat": 37.504,
-    "lon": 126.8717,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Korea Telecom",
-    "as": "AS4766 Korea Telecom",
-    "query": "59.15.159.29"
-  },
   "39.117.182.139": {
     "status": "success",
     "country": "South Korea",
@@ -590,6 +558,22 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "39.117.182.139"
+  },
+  "59.15.159.29": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Guro-gu",
+    "zip": "082",
+    "lat": 37.504,
+    "lon": 126.8717,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Korea Telecom",
+    "as": "AS4766 Korea Telecom",
+    "query": "59.15.159.29"
   },
   "5.139.185.122": {
     "status": "success",
@@ -654,6 +638,22 @@
     "org": "",
     "as": "AS29190 MTS PJSC",
     "query": "95.104.174.25"
+  },
+  "95.189.226.140": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "OMS",
+    "regionName": "Omsk Oblast",
+    "city": "Omsk",
+    "zip": "644000",
+    "lat": 54.9896,
+    "lon": 73.3729,
+    "timezone": "Asia/Omsk",
+    "isp": "OJSC \"Sibirtelecom\"",
+    "org": "OJSC Sibirtelecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "95.189.226.140"
   },
   "78.109.130.29": {
     "status": "success",
