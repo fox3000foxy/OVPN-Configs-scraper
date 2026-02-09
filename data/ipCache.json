@@ -319,22 +319,6 @@
     "as": "AS20661 State Company of Electro Communications Turkmentelecom",
     "query": "119.235.113.226"
   },
-  "58.85.10.249": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "28",
-    "regionName": "Hyōgo",
-    "city": "Hontamon",
-    "zip": "655-0001",
-    "lat": 34.6668,
-    "lon": 135.0521,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM Co., Ltd.",
-    "org": "JCOM",
-    "as": "AS9617 JCOM Co., Ltd.",
-    "query": "58.85.10.249"
-  },
   "60.71.229.57": {
     "status": "success",
     "country": "Japan",
@@ -415,6 +399,22 @@
     "as": "AS17511 OPTAGE Inc.",
     "query": "59.190.22.9"
   },
+  "180.30.154.157": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "24",
+    "regionName": "Mie",
+    "city": "Tsu",
+    "zip": "514-0011",
+    "lat": 34.7361,
+    "lon": 136.522,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "NTT Communications Corporation",
+    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
+    "query": "180.30.154.157"
+  },
   "92.127.103.123": {
     "status": "success",
     "country": "Russia",
@@ -447,22 +447,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "58.123.224.213"
   },
-  "218.159.33.90": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "43",
-    "regionName": "North Chungcheong",
-    "city": "Cheongju-si",
-    "zip": "287",
-    "lat": 36.6228,
-    "lon": 127.4931,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Korea Telecom",
-    "as": "AS4766 Korea Telecom",
-    "query": "218.159.33.90"
-  },
   "178.163.69.1": {
     "status": "success",
     "country": "Russia",
@@ -494,6 +478,22 @@
     "org": "Rostelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "77.82.181.118"
+  },
+  "175.201.83.120": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "46",
+    "regionName": "Jeollanam-do",
+    "city": "Gwangyang",
+    "zip": "577",
+    "lat": 34.949,
+    "lon": 127.6994,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "175.201.83.120"
   },
   "175.198.160.146": {
     "status": "success",
