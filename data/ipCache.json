@@ -591,6 +591,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "211.224.168.76"
   },
+  "95.27.68.246": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "SAM",
+    "regionName": "Samara Oblast",
+    "city": "Samara",
+    "zip": "404146",
+    "lat": 53.2061,
+    "lon": 50.1509,
+    "timezone": "Europe/Samara",
+    "isp": "CORBINA-BROADBAND",
+    "org": "",
+    "as": "AS3216 PJSC \"Vimpelcom\"",
+    "query": "95.27.68.246"
+  },
   "185.12.253.48": {
     "status": "success",
     "country": "Russia",
