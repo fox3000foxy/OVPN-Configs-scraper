@@ -207,22 +207,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.128"
   },
-  "27.83.68.134": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Nihonbashi-Kayabachō",
-    "zip": "103-0025",
-    "lat": 35.6792,
-    "lon": 139.779,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "27.83.68.134"
-  },
   "219.100.37.15": {
     "status": "success",
     "country": "Japan",
@@ -238,6 +222,22 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.15"
+  },
+  "27.83.68.134": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Nihonbashi-Kayabachō",
+    "zip": "103-0025",
+    "lat": 35.6792,
+    "lon": 139.779,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "27.83.68.134"
   },
   "103.152.178.62": {
     "status": "success",
@@ -335,22 +335,6 @@
     "as": "AS17858 LG POWERCOMM",
     "query": "125.177.138.153"
   },
-  "92.203.159.128": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "12",
-    "regionName": "Chiba",
-    "city": "Ichikawa",
-    "zip": "272-0031",
-    "lat": 35.7233,
-    "lon": 139.9132,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "92.203.159.128"
-  },
   "126.51.144.162": {
     "status": "success",
     "country": "Japan",
@@ -366,6 +350,22 @@
     "org": "SOFTBANK Corp",
     "as": "AS17676 SoftBank Corp.",
     "query": "126.51.144.162"
+  },
+  "92.203.159.128": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "12",
+    "regionName": "Chiba",
+    "city": "Ichikawa",
+    "zip": "272-0031",
+    "lat": 35.7233,
+    "lon": 139.9132,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "92.203.159.128"
   },
   "175.28.146.212": {
     "status": "success",
@@ -591,21 +591,21 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "114.201.13.246"
   },
-  "126.221.40.75": {
+  "58.150.189.252": {
     "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.221.40.75"
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Jongno-gu",
+    "zip": "031",
+    "lat": 37.5692,
+    "lon": 126.9775,
+    "timezone": "Asia/Seoul",
+    "isp": "LG DACOM Corporation",
+    "org": "Boranet",
+    "as": "AS3786 LG DACOM Corporation",
+    "query": "58.150.189.252"
   },
   "106.242.179.250": {
     "status": "success",
