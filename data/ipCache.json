@@ -63,22 +63,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "36.8.154.208"
   },
-  "103.152.178.62": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-0001",
-    "lat": 35.694,
-    "lon": 139.754,
-    "timezone": "Asia/Tokyo",
-    "isp": "Ayao Takata",
-    "org": "SDCC-East01",
-    "as": "AS38074 SDCC Japan-West Area",
-    "query": "103.152.178.62"
-  },
   "124.144.23.224": {
     "status": "success",
     "country": "Japan",
@@ -111,6 +95,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "220.71.51.172"
   },
+  "103.152.178.62": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-0001",
+    "lat": 35.694,
+    "lon": 139.754,
+    "timezone": "Asia/Tokyo",
+    "isp": "Ayao Takata",
+    "org": "SDCC-East01",
+    "as": "AS38074 SDCC Japan-West Area",
+    "query": "103.152.178.62"
+  },
   "80.44.212.7": {
     "status": "success",
     "country": "United Kingdom",
@@ -126,6 +126,22 @@
     "org": "TalkTalk Communications Limited",
     "as": "AS13285 TalkTalk Communications Limited",
     "query": "80.44.212.7"
+  },
+  "220.70.34.176": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Dongjak-gu",
+    "zip": "069",
+    "lat": 37.5003,
+    "lon": 126.9565,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Sudogwonseobubonbu",
+    "as": "AS4766 Korea Telecom",
+    "query": "220.70.34.176"
   },
   "106.243.71.229": {
     "status": "success",
@@ -206,22 +222,6 @@
     "org": "Chubu Telecommunications Co., Inc.",
     "as": "AS18126 Chubu Telecommunications Company, Inc.",
     "query": "115.39.123.59"
-  },
-  "119.235.113.226": {
-    "status": "success",
-    "country": "Turkmenistan",
-    "countryCode": "TM",
-    "region": "S",
-    "regionName": "Ashgabat",
-    "city": "Ashgabat",
-    "zip": "",
-    "lat": 37.9601,
-    "lon": 58.3261,
-    "timezone": "Asia/Ashgabat",
-    "isp": "State Company of Electro Communications Turkmentelecom",
-    "org": "State Company of Electro Communications Turkmentelecom",
-    "as": "AS20661 State Company of Electro Communications Turkmentelecom",
-    "query": "119.235.113.226"
   },
   "223.205.66.19": {
     "status": "success",
@@ -399,22 +399,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.165.121.91"
   },
-  "220.102.233.254": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "12",
-    "regionName": "Chiba",
-    "city": "Nagareyama",
-    "zip": "270-0151",
-    "lat": 35.8566,
-    "lon": 139.9185,
-    "timezone": "Asia/Tokyo",
-    "isp": "NEC BIGLOBE Ltd.",
-    "org": "BIGLOBE",
-    "as": "AS2518 BIGLOBE Inc.",
-    "query": "220.102.233.254"
-  },
   "219.50.202.147": {
     "status": "success",
     "country": "Japan",
@@ -479,22 +463,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "131.213.224.43"
   },
-  "175.194.212.166": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Yangju",
-    "zip": "114",
-    "lat": 37.8119,
-    "lon": 127.08,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "175.194.212.166"
-  },
   "183.80.100.203": {
     "status": "success",
     "country": "Vietnam",
@@ -527,6 +495,22 @@
     "as": "AS4685 Asahi Net",
     "query": "138.64.64.161"
   },
+  "1.53.132.146": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "SG",
+    "regionName": "Ho Chi Minh",
+    "city": "Ho Chi Minh City",
+    "zip": "700000",
+    "lat": 10.822,
+    "lon": 106.6257,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "isp": "FPT Telecom Company",
+    "org": "Vietnam Internet Network Information Center",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "1.53.132.146"
+  },
   "95.27.68.246": {
     "status": "success",
     "country": "Russia",
@@ -542,22 +526,6 @@
     "org": "",
     "as": "AS3216 PJSC \"Vimpelcom\"",
     "query": "95.27.68.246"
-  },
-  "185.12.253.48": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "SVE",
-    "regionName": "Sverdlovsk Oblast",
-    "city": "Kamensk-Uralsky",
-    "zip": "623408",
-    "lat": 56.3848,
-    "lon": 61.9803,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "Closed Joint Stock Company Radiotelephone",
-    "org": "CJSC Radiotelephone",
-    "as": "AS39812 Closed Joint Stock Company Radiotelephone",
-    "query": "185.12.253.48"
   },
   "175.201.171.135": {
     "status": "success",
