@@ -447,22 +447,6 @@
     "as": "AS17939 miyazaki cabletelevision network Co.,LTD",
     "query": "218.216.32.95"
   },
-  "120.51.50.19": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "01",
-    "regionName": "Hokkaido",
-    "city": "Sapporo",
-    "zip": "065-0011",
-    "lat": 43.0763,
-    "lon": 141.3654,
-    "timezone": "Asia/Tokyo",
-    "isp": "ARTERIA Networks Corporation",
-    "org": "ARTERIA Networks Corporation",
-    "as": "AS2519 ARTERIA Networks Corporation",
-    "query": "120.51.50.19"
-  },
   "61.75.53.221": {
     "status": "success",
     "country": "South Korea",
@@ -495,6 +479,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "59.30.229.54"
   },
+  "58.85.120.229": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Minoh",
+    "zip": "562-0011",
+    "lat": 34.845,
+    "lon": 135.4855,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM Co., Ltd.",
+    "org": "JCOM",
+    "as": "AS9617 JCOM Co., Ltd.",
+    "query": "58.85.120.229"
+  },
   "175.194.212.166": {
     "status": "success",
     "country": "South Korea",
@@ -511,22 +511,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "175.194.212.166"
   },
-  "138.64.64.161": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Gohongi",
-    "zip": "153-0051",
-    "lat": 35.6383,
-    "lon": 139.6937,
-    "timezone": "Asia/Tokyo",
-    "isp": "ASAHI Net, Inc.",
-    "org": "ASAHI",
-    "as": "AS4685 Asahi Net",
-    "query": "138.64.64.161"
-  },
   "219.100.37.102": {
     "status": "success",
     "country": "Japan",
@@ -542,6 +526,22 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.102"
+  },
+  "219.100.37.50": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftEther",
+    "org": "SoftEther Corporation",
+    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
+    "query": "219.100.37.50"
   },
   "211.224.168.76": {
     "status": "success",
