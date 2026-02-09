@@ -47,22 +47,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "92.202.199.250"
   },
-  "160.86.46.9": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "24",
-    "regionName": "Mie",
-    "city": "Matsusaka",
-    "zip": "515-0001",
-    "lat": 34.6003,
-    "lon": 136.5592,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "160.86.46.9"
-  },
   "182.171.116.240": {
     "status": "success",
     "country": "Japan",
@@ -78,6 +62,22 @@
     "org": "Sony Network Communications Inc.",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "182.171.116.240"
+  },
+  "160.86.46.9": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "24",
+    "regionName": "Mie",
+    "city": "Matsusaka",
+    "zip": "515-0001",
+    "lat": 34.6003,
+    "lon": 136.5592,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "160.86.46.9"
   },
   "27.85.1.30": {
     "status": "success",
@@ -367,21 +367,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "125.139.49.108"
   },
-  "121.188.176.14": {
+  "14.32.161.234": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
-    "region": "43",
-    "regionName": "North Chungcheong",
-    "city": "Jecheon",
-    "zip": "271",
-    "lat": 37.14,
-    "lon": 128.2106,
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Songpa-gu",
+    "zip": "058",
+    "lat": 37.4818,
+    "lon": 127.1392,
     "timezone": "Asia/Seoul",
     "isp": "Korea Telecom",
-    "org": "Korea Telecom",
+    "org": "Kornet",
     "as": "AS4766 Korea Telecom",
-    "query": "121.188.176.14"
+    "query": "14.32.161.234"
   },
   "59.190.22.9": {
     "status": "success",
@@ -511,21 +511,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "175.198.160.146"
   },
-  "93.152.212.42": {
+  "180.94.254.30": {
     "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Seoul",
-    "zip": "",
-    "lat": 37.5665,
-    "lon": 126.9779,
-    "timezone": "Asia/Seoul",
-    "isp": "Cyberzone S.A.",
-    "org": "",
-    "as": "AS209854 Cyberzone S.A.",
-    "query": "93.152.212.42"
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "16",
+    "regionName": "Toyama",
+    "city": "Takaoka",
+    "zip": "933-0031",
+    "lat": 36.7467,
+    "lon": 137.022,
+    "timezone": "Asia/Tokyo",
+    "isp": "Tonami System Solutions Co., Ltd.",
+    "org": "TONAMI Transportation Co., Ltd.",
+    "as": "AS18282 Tonami System Solutions Co., Ltd.",
+    "query": "180.94.254.30"
   },
   "61.24.93.129": {
     "status": "success",
@@ -542,22 +542,6 @@
     "org": "JCOM Co., Ltd",
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "61.24.93.129"
-  },
-  "180.94.254.30": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "16",
-    "regionName": "Toyama",
-    "city": "Takaoka",
-    "zip": "933-0031",
-    "lat": 36.7467,
-    "lon": 137.022,
-    "timezone": "Asia/Tokyo",
-    "isp": "Tonami System Solutions Co., Ltd.",
-    "org": "TONAMI Transportation Co., Ltd.",
-    "as": "AS18282 Tonami System Solutions Co., Ltd.",
-    "query": "180.94.254.30"
   },
   "220.76.124.142": {
     "status": "success",
@@ -638,6 +622,22 @@
     "org": "TBROAD SaeromNamdongSeohae",
     "as": "AS17597 SK Broadband Co Ltd",
     "query": "61.47.212.110"
+  },
+  "93.152.212.42": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Seoul",
+    "zip": "",
+    "lat": 37.5665,
+    "lon": 126.9779,
+    "timezone": "Asia/Seoul",
+    "isp": "Cyberzone S.A.",
+    "org": "",
+    "as": "AS209854 Cyberzone S.A.",
+    "query": "93.152.212.42"
   },
   "49.164.173.80": {
     "status": "success",
