@@ -319,22 +319,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.208"
   },
-  "219.117.198.100": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0071",
-    "lat": 35.6837,
-    "lon": 139.6805,
-    "timezone": "Asia/Tokyo",
-    "isp": "INTERLINK",
-    "org": "INTERLINK Co., LTD.",
-    "as": "AS2514 NTT PC Communications, Inc.",
-    "query": "219.117.198.100"
-  },
   "220.74.79.4": {
     "status": "success",
     "country": "South Korea",
@@ -382,6 +366,22 @@
     "org": "Sony Network Communications Inc.",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "120.75.146.85"
+  },
+  "211.19.71.88": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Nakano City",
+    "zip": "164-0011",
+    "lat": 35.7027,
+    "lon": 139.6749,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT-ME Corporation",
+    "org": "XePhion(NTT-ME Corporation)",
+    "as": "AS9595 NTT-ME Corporation",
+    "query": "211.19.71.88"
   },
   "115.37.29.195": {
     "status": "success",
@@ -575,21 +575,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "14.47.216.87"
   },
-  "182.213.69.54": {
+  "222.14.30.197": {
     "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Seongdong-gu",
-    "zip": "047",
-    "lat": 37.5511,
-    "lon": 127.0387,
-    "timezone": "Asia/Seoul",
-    "isp": "LG POWERCOMM",
-    "org": "LG POWERCOMM",
-    "as": "AS17858 LG POWERCOMM",
-    "query": "182.213.69.54"
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "47",
+    "regionName": "Okinawa",
+    "city": "Uruma",
+    "zip": "904-2211",
+    "lat": 26.377,
+    "lon": 127.8562,
+    "timezone": "Asia/Tokyo",
+    "isp": "DION (KDDI CORPORATION)",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "222.14.30.197"
   },
   "42.146.135.174": {
     "status": "success",
@@ -607,20 +607,20 @@
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "42.146.135.174"
   },
-  "222.14.30.197": {
+  "182.213.69.54": {
     "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "47",
-    "regionName": "Okinawa",
-    "city": "Uruma",
-    "zip": "904-2211",
-    "lat": 26.377,
-    "lon": 127.8562,
-    "timezone": "Asia/Tokyo",
-    "isp": "DION (KDDI CORPORATION)",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "222.14.30.197"
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Seongdong-gu",
+    "zip": "047",
+    "lat": 37.5511,
+    "lon": 127.0387,
+    "timezone": "Asia/Seoul",
+    "isp": "LG POWERCOMM",
+    "org": "LG POWERCOMM",
+    "as": "AS17858 LG POWERCOMM",
+    "query": "182.213.69.54"
   }
 }
