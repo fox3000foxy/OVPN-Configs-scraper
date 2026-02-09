@@ -63,22 +63,6 @@
     "as": "AS10013 FreeBit Co.,Ltd.",
     "query": "124.255.80.220"
   },
-  "36.13.6.150": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "11",
-    "regionName": "Saitama",
-    "city": "Honchō",
-    "zip": "335-0021",
-    "lat": 35.8103,
-    "lon": 139.6696,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "36.13.6.150"
-  },
   "220.212.128.195": {
     "status": "success",
     "country": "Japan",
@@ -303,6 +287,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "222.109.72.106"
   },
+  "110.46.158.118": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Haeundae-gu",
+    "zip": "480",
+    "lat": 35.1692,
+    "lon": 129.1738,
+    "timezone": "Asia/Seoul",
+    "isp": "CJ Hello Co",
+    "org": "HVHaeundae",
+    "as": "AS9697 LG HelloVision Corp.",
+    "query": "110.46.158.118"
+  },
   "219.100.37.208": {
     "status": "success",
     "country": "Japan",
@@ -367,6 +367,22 @@
     "as": "AS3786 LG DACOM Corporation",
     "query": "112.220.30.58"
   },
+  "114.19.146.163": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "12",
+    "regionName": "Chiba",
+    "city": "Ichikawa",
+    "zip": "272-0031",
+    "lat": 35.7233,
+    "lon": 139.9132,
+    "timezone": "Asia/Tokyo",
+    "isp": "DION (KDDI CORPORATION)",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "114.19.146.163"
+  },
   "112.171.1.240": {
     "status": "success",
     "country": "South Korea",
@@ -383,22 +399,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "112.171.1.240"
   },
-  "210.100.238.121": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Suwon",
-    "zip": "163",
-    "lat": 37.2905,
-    "lon": 126.9877,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "210.100.238.121"
-  },
   "49.228.165.157": {
     "status": "success",
     "country": "Thailand",
@@ -414,6 +414,22 @@
     "org": "",
     "as": "AS133481 AIS Fibre",
     "query": "49.228.165.157"
+  },
+  "210.100.238.121": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Suwon",
+    "zip": "163",
+    "lat": 37.2905,
+    "lon": 126.9877,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "210.100.238.121"
   },
   "218.148.38.123": {
     "status": "success",
@@ -558,22 +574,6 @@
     "org": "OJSC Sibirtelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "176.49.251.231"
-  },
-  "221.158.69.133": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "30",
-    "regionName": "Daejeon",
-    "city": "Yuseong-gu",
-    "zip": "340",
-    "lat": 36.3924,
-    "lon": 127.4106,
-    "timezone": "Asia/Seoul",
-    "isp": "KORNET",
-    "org": "KT",
-    "as": "AS4766 Korea Telecom",
-    "query": "221.158.69.133"
   },
   "222.98.176.199": {
     "status": "success",
