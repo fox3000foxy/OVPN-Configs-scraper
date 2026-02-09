@@ -463,6 +463,22 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.66.65.104"
   },
+  "77.35.150.75": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Ussuriysk",
+    "zip": "692500",
+    "lat": 43.8008,
+    "lon": 131.9459,
+    "timezone": "Asia/Vladivostok",
+    "isp": "Rostelecom networks",
+    "org": "",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "77.35.150.75"
+  },
   "112.70.217.5": {
     "status": "success",
     "country": "Japan",
@@ -591,22 +607,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "112.185.246.157"
   },
-  "211.193.65.111": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "31",
-    "regionName": "Ulsan",
-    "city": "Ulsan",
-    "zip": "445",
-    "lat": 35.5502,
-    "lon": 129.3285,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "211.193.65.111"
-  },
   "45.43.78.59": {
     "status": "success",
     "country": "Latvia",
@@ -622,6 +622,22 @@
     "org": "SIA VEESP",
     "as": "AS42532 SIA VEESP",
     "query": "45.43.78.59"
+  },
+  "211.193.65.111": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "31",
+    "regionName": "Ulsan",
+    "city": "Ulsan",
+    "zip": "445",
+    "lat": 35.5502,
+    "lon": 129.3285,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "211.193.65.111"
   },
   "220.72.95.248": {
     "status": "success",
@@ -766,5 +782,21 @@
     "org": "Vietnam Internet Network Information Center",
     "as": "AS18403 FPT Telecom Company",
     "query": "58.186.220.206"
+  },
+  "5.149.207.164": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "SA",
+    "regionName": "Sakha",
+    "city": "Lensk",
+    "zip": "678140",
+    "lat": 60.7314,
+    "lon": 114.923,
+    "timezone": "Asia/Yakutsk",
+    "isp": "Kostroma-SVEN Networks",
+    "org": "",
+    "as": "AS50477 Svyaz-Energo Ltd.",
+    "query": "5.149.207.164"
   }
 }
