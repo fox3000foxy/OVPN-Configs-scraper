@@ -239,22 +239,6 @@
     "as": "AS38074 SDCC Japan-West Area",
     "query": "103.152.178.62"
   },
-  "27.139.122.85": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Shinjuku",
-    "zip": "160-0021",
-    "lat": 35.6918,
-    "lon": 139.7002,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM Co., Ltd.",
-    "org": "Jupiter Telecommunication Co. Ltd",
-    "as": "AS9824 JCOM Co., Ltd.",
-    "query": "27.139.122.85"
-  },
   "219.100.37.16": {
     "status": "success",
     "country": "Japan",
@@ -270,6 +254,22 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.16"
+  },
+  "27.139.122.85": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Shinjuku",
+    "zip": "160-0021",
+    "lat": 35.6918,
+    "lon": 139.7002,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM Co., Ltd.",
+    "org": "Jupiter Telecommunication Co. Ltd",
+    "as": "AS9824 JCOM Co., Ltd.",
+    "query": "27.139.122.85"
   },
   "126.241.23.14": {
     "status": "success",
@@ -287,22 +287,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.241.23.14"
   },
-  "219.100.37.204": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftEther",
-    "org": "SoftEther Corporation",
-    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.204"
-  },
   "61.77.96.102": {
     "status": "success",
     "country": "South Korea",
@@ -318,6 +302,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "61.77.96.102"
+  },
+  "219.100.37.204": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftEther",
+    "org": "SoftEther Corporation",
+    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
+    "query": "219.100.37.204"
   },
   "125.177.138.153": {
     "status": "success",
