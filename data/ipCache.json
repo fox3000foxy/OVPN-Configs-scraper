@@ -719,22 +719,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.160.25.238"
   },
-  "113.22.155.224": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "HN",
-    "regionName": "Hanoi",
-    "city": "Hanoi",
-    "zip": "100000",
-    "lat": 21.0184,
-    "lon": 105.8461,
-    "timezone": "Asia/Bangkok",
-    "isp": "Vietnam Internet Network Information Center",
-    "org": "",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "113.22.155.224"
-  },
   "37.23.161.117": {
     "status": "success",
     "country": "Russia",
