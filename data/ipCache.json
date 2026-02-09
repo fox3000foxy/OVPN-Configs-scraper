@@ -655,21 +655,21 @@
     "as": "AS42682 JSC ER-Telecom Holding",
     "query": "5.166.213.161"
   },
-  "58.125.209.98": {
+  "123.213.125.37": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
-    "region": "49",
-    "regionName": "Jeju-do",
-    "city": "Jeju City",
-    "zip": "631",
-    "lat": 33.5109,
-    "lon": 126.5264,
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Uijeongbu-si",
+    "zip": "118",
+    "lat": 37.7396,
+    "lon": 127.0539,
     "timezone": "Asia/Seoul",
     "isp": "SK Broadband Co Ltd",
     "org": "SK Broadband Co Ltd",
     "as": "AS9318 SK Broadband Co Ltd",
-    "query": "58.125.209.98"
+    "query": "123.213.125.37"
   },
   "95.32.43.0": {
     "status": "success",
