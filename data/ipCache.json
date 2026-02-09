@@ -143,6 +143,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.82"
   },
+  "122.103.113.207": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tokyo",
+    "zip": "151-0071",
+    "lat": 35.6837,
+    "lon": 139.6805,
+    "timezone": "Asia/Tokyo",
+    "isp": "ARTERIA Networks Corporation",
+    "org": "ARTERIA Networks Corporation",
+    "as": "AS2519 ARTERIA Networks Corporation",
+    "query": "122.103.113.207"
+  },
   "219.100.37.128": {
     "status": "success",
     "country": "Japan",
@@ -191,22 +207,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.16"
   },
-  "27.83.68.134": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Nihonbashi-Kayabachō",
-    "zip": "103-0025",
-    "lat": 35.6792,
-    "lon": 139.779,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "27.83.68.134"
-  },
   "103.152.178.62": {
     "status": "success",
     "country": "Japan",
@@ -238,6 +238,22 @@
     "org": "LG POWERCOMM",
     "as": "AS17858 LG POWERCOMM",
     "query": "49.167.12.160"
+  },
+  "119.173.41.197": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Komone",
+    "zip": "173-0031",
+    "lat": 35.7458,
+    "lon": 139.6911,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM Co., Ltd.",
+    "org": "JCOM Co., Ltd",
+    "as": "AS9824 JCOM Co., Ltd.",
+    "query": "119.173.41.197"
   },
   "61.44.175.142": {
     "status": "success",
@@ -399,7 +415,7 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.79.216.134"
   },
-  "219.100.37.50": {
+  "219.100.37.102": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
@@ -413,7 +429,7 @@
     "isp": "SoftEther",
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.50"
+    "query": "219.100.37.102"
   },
   "114.201.3.61": {
     "status": "success",
@@ -543,22 +559,6 @@
     "as": "AS131269 Atria Convergence Technologies Ltd.,",
     "query": "49.205.100.122"
   },
-  "62.192.174.165": {
-    "status": "success",
-    "country": "Latvia",
-    "countryCode": "LV",
-    "region": "RIX",
-    "regionName": "Rīga",
-    "city": "Riga",
-    "zip": "LV-1063",
-    "lat": 56.9473,
-    "lon": 24.0979,
-    "timezone": "Europe/Riga",
-    "isp": "Serva ONE LTD",
-    "org": "Serva ONE LTD",
-    "as": "AS199058 SERVA ONE LTD",
-    "query": "62.192.174.165"
-  },
   "133.32.181.186": {
     "status": "success",
     "country": "Japan",
@@ -639,6 +639,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "211.193.65.111"
   },
+  "45.43.78.59": {
+    "status": "success",
+    "country": "Latvia",
+    "countryCode": "LV",
+    "region": "RIX",
+    "regionName": "Rīga",
+    "city": "Riga",
+    "zip": "LV-1011",
+    "lat": 56.9728,
+    "lon": 24.1657,
+    "timezone": "Europe/Riga",
+    "isp": "SIA VEESP",
+    "org": "SIA VEESP",
+    "as": "AS42532 SIA VEESP",
+    "query": "45.43.78.59"
+  },
   "112.171.81.250": {
     "status": "success",
     "country": "South Korea",
@@ -686,5 +702,53 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "121.160.25.238"
+  },
+  "113.22.155.224": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "HN",
+    "regionName": "Hanoi",
+    "city": "Hanoi",
+    "zip": "100000",
+    "lat": 21.0184,
+    "lon": 105.8461,
+    "timezone": "Asia/Bangkok",
+    "isp": "Vietnam Internet Network Information Center",
+    "org": "",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "113.22.155.224"
+  },
+  "2.61.25.203": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KK",
+    "regionName": "Khakasiya Republic",
+    "city": "Sayanogorsk",
+    "zip": "655619",
+    "lat": 53.0998,
+    "lon": 91.4074,
+    "timezone": "Asia/Krasnoyarsk",
+    "isp": "OJSC \"Sibirtelecom\"",
+    "org": "OJSC Sibirtelecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "2.61.25.203"
+  },
+  "37.23.161.117": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "ALT",
+    "regionName": "Altai Krai",
+    "city": "Barnaul",
+    "zip": "656002",
+    "lat": 53.362,
+    "lon": 83.7279,
+    "timezone": "Asia/Barnaul",
+    "isp": "JSC Rostelecom regional branch \"Siberia\"",
+    "org": "JSC Rostelecom regional branch Siberia",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "37.23.161.117"
   }
 }
