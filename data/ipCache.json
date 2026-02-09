@@ -1,4 +1,20 @@
 {
+  "111.97.191.114": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tokyo",
+    "zip": "151-0071",
+    "lat": 35.6837,
+    "lon": 139.6805,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "111.97.191.114"
+  },
   "218.145.107.33": {
     "status": "success",
     "country": "South Korea",
@@ -223,6 +239,22 @@
     "as": "AS17858 LG POWERCOMM",
     "query": "49.167.12.160"
   },
+  "222.2.34.200": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "18",
+    "regionName": "Fukui",
+    "city": "Nittazuka",
+    "zip": "910-0067",
+    "lat": 36.0956,
+    "lon": 136.204,
+    "timezone": "Asia/Tokyo",
+    "isp": "DION (KDDI CORPORATION)",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "222.2.34.200"
+  },
   "61.44.175.142": {
     "status": "success",
     "country": "Japan",
@@ -254,22 +286,6 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.204"
-  },
-  "223.132.208.135": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "21",
-    "regionName": "Gifu",
-    "city": "Gifu",
-    "zip": "500-8821",
-    "lat": 35.4256,
-    "lon": 136.7614,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "223.132.208.135"
   },
   "118.32.90.115": {
     "status": "success",
@@ -303,37 +319,21 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.36.231.211"
   },
-  "110.232.8.204": {
+  "219.100.26.85": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Kamariyanishi",
-    "zip": "236-0041",
-    "lat": 35.3472,
-    "lon": 139.591,
+    "region": "40",
+    "regionName": "Fukuoka",
+    "city": "Kitaku",
+    "zip": "807-1154",
+    "lat": 33.7937,
+    "lon": 130.687,
     "timezone": "Asia/Tokyo",
-    "isp": "JCOM Co., Ltd.",
-    "org": "JCOM",
-    "as": "AS4721 JCOM Co., Ltd.",
-    "query": "110.232.8.204"
-  },
-  "184.22.165.64": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "10",
-    "regionName": "Bangkok",
-    "city": "Bangkok",
-    "zip": "10250",
-    "lat": 13.8582,
-    "lon": 100.478,
-    "timezone": "Asia/Bangkok",
-    "isp": "AIS-Fibre",
+    "isp": "JPNIC",
     "org": "",
-    "as": "AS133481 AIS Fibre",
-    "query": "184.22.165.64"
+    "as": "AS18134 JCOM Co., Ltd.",
+    "query": "219.100.26.85"
   },
   "211.44.188.45": {
     "status": "success",
@@ -735,22 +735,6 @@
     "as": "AS18403 FPT Telecom Company",
     "query": "113.22.155.224"
   },
-  "2.61.25.203": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KK",
-    "regionName": "Khakasiya Republic",
-    "city": "Sayanogorsk",
-    "zip": "655619",
-    "lat": 53.0998,
-    "lon": 91.4074,
-    "timezone": "Asia/Krasnoyarsk",
-    "isp": "OJSC \"Sibirtelecom\"",
-    "org": "OJSC Sibirtelecom",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "2.61.25.203"
-  },
   "37.23.161.117": {
     "status": "success",
     "country": "Russia",
@@ -766,6 +750,22 @@
     "org": "JSC Rostelecom regional branch Siberia",
     "as": "AS12389 PJSC Rostelecom",
     "query": "37.23.161.117"
+  },
+  "2.61.25.203": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KK",
+    "regionName": "Khakasiya Republic",
+    "city": "Sayanogorsk",
+    "zip": "655619",
+    "lat": 53.0998,
+    "lon": 91.4074,
+    "timezone": "Asia/Krasnoyarsk",
+    "isp": "OJSC \"Sibirtelecom\"",
+    "org": "OJSC Sibirtelecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "2.61.25.203"
   },
   "58.186.220.206": {
     "status": "success",
