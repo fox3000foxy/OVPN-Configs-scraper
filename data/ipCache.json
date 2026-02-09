@@ -95,22 +95,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "27.85.1.30"
   },
-  "106.243.71.229": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "42",
-    "regionName": "Gangwon-do",
-    "city": "Wŏnju",
-    "zip": "263",
-    "lat": 37.384,
-    "lon": 127.8724,
-    "timezone": "Asia/Seoul",
-    "isp": "LG DACOM Corporation",
-    "org": "Boranet",
-    "as": "AS3786 LG DACOM Corporation",
-    "query": "106.243.71.229"
-  },
   "112.170.21.41": {
     "status": "success",
     "country": "South Korea",
@@ -383,21 +367,37 @@
     "as": "AS4766 Korea Telecom",
     "query": "125.139.49.108"
   },
-  "14.32.161.234": {
+  "219.50.202.147": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan nation-wide Network of SOFTBANK Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "219.50.202.147"
+  },
+  "121.188.176.14": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Songpa-gu",
-    "zip": "058",
-    "lat": 37.4818,
-    "lon": 127.1392,
+    "region": "43",
+    "regionName": "North Chungcheong",
+    "city": "Jecheon",
+    "zip": "271",
+    "lat": 37.14,
+    "lon": 128.2106,
     "timezone": "Asia/Seoul",
     "isp": "Korea Telecom",
-    "org": "Kornet",
+    "org": "Korea Telecom",
     "as": "AS4766 Korea Telecom",
-    "query": "14.32.161.234"
+    "query": "121.188.176.14"
   },
   "59.190.22.9": {
     "status": "success",
@@ -559,21 +559,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "220.76.124.142"
   },
-  "221.156.152.66": {
+  "61.83.149.2": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
-    "region": "46",
-    "regionName": "Jeollanam-do",
-    "city": "Mokpo",
-    "zip": "587",
-    "lat": 34.8163,
-    "lon": 126.3895,
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Suwon",
+    "zip": "164",
+    "lat": 37.2872,
+    "lon": 127.0116,
     "timezone": "Asia/Seoul",
     "isp": "Korea Telecom",
-    "org": "Korea Telecom",
+    "org": "Kornet",
     "as": "AS4766 Korea Telecom",
-    "query": "221.156.152.66"
+    "query": "61.83.149.2"
   },
   "24.19.50.63": {
     "status": "success",
