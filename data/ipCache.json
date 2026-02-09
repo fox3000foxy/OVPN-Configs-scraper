@@ -95,6 +95,22 @@
     "as": "AS7552 Viettel Group",
     "query": "115.78.10.208"
   },
+  "175.209.13.17": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Gangdong-gu",
+    "zip": "053",
+    "lat": 37.536,
+    "lon": 127.1426,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "175.209.13.17"
+  },
   "218.158.82.155": {
     "status": "success",
     "country": "South Korea",
@@ -463,22 +479,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.161.205.205"
   },
-  "42.127.224.34": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "11",
-    "regionName": "Saitama",
-    "city": "Chūō",
-    "zip": "335-0001",
-    "lat": 35.8292,
-    "lon": 139.6789,
-    "timezone": "Asia/Tokyo",
-    "isp": "TOKAI Communications Corporation",
-    "org": "TOKAI Communications Corporation",
-    "as": "AS10010 TOKAI Communications Corporation",
-    "query": "42.127.224.34"
-  },
   "114.161.4.252": {
     "status": "success",
     "country": "Japan",
@@ -575,21 +575,21 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "176.49.251.231"
   },
-  "221.158.69.133": {
+  "113.153.86.227": {
     "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "30",
-    "regionName": "Daejeon",
-    "city": "Yuseong-gu",
-    "zip": "340",
-    "lat": 36.3924,
-    "lon": 127.4106,
-    "timezone": "Asia/Seoul",
-    "isp": "KORNET",
-    "org": "KT",
-    "as": "AS4766 Korea Telecom",
-    "query": "221.158.69.133"
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Suita",
+    "zip": "564-0021",
+    "lat": 34.7595,
+    "lon": 135.5329,
+    "timezone": "Asia/Tokyo",
+    "isp": "DION (KDDI CORPORATION)",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "113.153.86.227"
   },
   "222.98.176.199": {
     "status": "success",
@@ -623,6 +623,22 @@
     "as": "AS9689 SK Broadband Co Ltd",
     "query": "124.254.221.7"
   },
+  "211.204.251.153": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "28",
+    "regionName": "Incheon",
+    "city": "Namdong-gu",
+    "zip": "216",
+    "lat": 37.4135,
+    "lon": 126.7153,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "SK Broadband Co Ltd",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "211.204.251.153"
+  },
   "14.245.202.152": {
     "status": "success",
     "country": "Vietnam",
@@ -654,21 +670,5 @@
     "org": "",
     "as": "AS8369 Intersvyaz-2 JSC",
     "query": "88.206.10.129"
-  },
-  "211.204.251.153": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "28",
-    "regionName": "Incheon",
-    "city": "Namdong-gu",
-    "zip": "216",
-    "lat": 37.4135,
-    "lon": 126.7153,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "SK Broadband Co Ltd",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "211.204.251.153"
   }
 }
