@@ -143,22 +143,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.82"
   },
-  "122.103.113.207": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0071",
-    "lat": 35.6837,
-    "lon": 139.6805,
-    "timezone": "Asia/Tokyo",
-    "isp": "ARTERIA Networks Corporation",
-    "org": "ARTERIA Networks Corporation",
-    "as": "AS2519 ARTERIA Networks Corporation",
-    "query": "122.103.113.207"
-  },
   "219.100.37.128": {
     "status": "success",
     "country": "Japan",
@@ -350,22 +334,6 @@
     "org": "SK Broadband Co Ltd",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "211.44.188.45"
-  },
-  "221.159.120.184": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "45",
-    "regionName": "Jeollabuk-do",
-    "city": "Jeonju",
-    "zip": "549",
-    "lat": 35.8345,
-    "lon": 127.1057,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "221.159.120.184"
   },
   "121.170.248.105": {
     "status": "success",
@@ -639,6 +607,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "211.193.65.111"
   },
+  "220.72.95.248": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Nowon-gu",
+    "zip": "019",
+    "lat": 37.6289,
+    "lon": 127.0648,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "220.72.95.248"
+  },
   "45.43.78.59": {
     "status": "success",
     "country": "Latvia",
@@ -750,5 +734,21 @@
     "org": "JSC Rostelecom regional branch Siberia",
     "as": "AS12389 PJSC Rostelecom",
     "query": "37.23.161.117"
+  },
+  "58.186.220.206": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "HN",
+    "regionName": "Hanoi",
+    "city": "Hanoi",
+    "zip": "",
+    "lat": 21.0278,
+    "lon": 105.834,
+    "timezone": "Asia/Bangkok",
+    "isp": "FPT Telecom Company",
+    "org": "Vietnam Internet Network Information Center",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "58.186.220.206"
   }
 }
