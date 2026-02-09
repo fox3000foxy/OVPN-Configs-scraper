@@ -159,22 +159,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.82"
   },
-  "42.116.114.23": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "SG",
-    "regionName": "Ho Chi Minh",
-    "city": "Ho Chi Minh City",
-    "zip": "700000",
-    "lat": 10.822,
-    "lon": 106.6257,
-    "timezone": "Asia/Ho_Chi_Minh",
-    "isp": "FPT Telecom Company",
-    "org": "FPT-STATICIP",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "42.116.114.23"
-  },
   "27.83.68.134": {
     "status": "success",
     "country": "Japan",
@@ -190,6 +174,22 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "27.83.68.134"
+  },
+  "42.116.114.23": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "SG",
+    "regionName": "Ho Chi Minh",
+    "city": "Ho Chi Minh City",
+    "zip": "700000",
+    "lat": 10.822,
+    "lon": 106.6257,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "isp": "FPT Telecom Company",
+    "org": "FPT-STATICIP",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "42.116.114.23"
   },
   "112.170.21.41": {
     "status": "success",
@@ -223,22 +223,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.15"
   },
-  "121.167.189.126": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Gangdong-gu",
-    "zip": "053",
-    "lat": 37.536,
-    "lon": 127.1426,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "121.167.189.126"
-  },
   "103.152.178.62": {
     "status": "success",
     "country": "Japan",
@@ -255,6 +239,22 @@
     "as": "AS38074 SDCC Japan-West Area",
     "query": "103.152.178.62"
   },
+  "121.167.189.126": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Gangdong-gu",
+    "zip": "053",
+    "lat": 37.536,
+    "lon": 127.1426,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "121.167.189.126"
+  },
   "95.154.89.139": {
     "status": "success",
     "country": "Russia",
@@ -270,6 +270,22 @@
     "org": "",
     "as": "AS44724 Octopusnet LTD",
     "query": "95.154.89.139"
+  },
+  "219.100.37.4": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftEther",
+    "org": "SoftEther Corporation",
+    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
+    "query": "219.100.37.4"
   },
   "60.155.235.197": {
     "status": "success",
@@ -495,6 +511,22 @@
     "as": "AS17597 SK Broadband Co Ltd",
     "query": "61.47.212.110"
   },
+  "152.117.237.139": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "01",
+    "regionName": "Hokkaido",
+    "city": "Sapporo",
+    "zip": "064-0821",
+    "lat": 43.0456,
+    "lon": 141.3522,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "152.117.237.139"
+  },
   "128.90.168.134": {
     "status": "success",
     "country": "Portugal",
@@ -543,21 +575,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "59.15.159.29"
   },
-  "175.215.19.145": {
+  "39.117.182.139": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
-    "region": "48",
-    "regionName": "Gyeongsangnam-do",
-    "city": "Geoje-si",
-    "zip": "53225",
-    "lat": 34.9,
-    "lon": 128.6667,
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Osan",
+    "zip": "181",
+    "lat": 37.1549,
+    "lon": 127.0674,
     "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "175.215.19.145"
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "39.117.182.139"
   },
   "5.139.185.122": {
     "status": "success",
@@ -670,37 +702,5 @@
     "org": "",
     "as": "AS12389 PJSC Rostelecom",
     "query": "94.245.147.84"
-  },
-  "46.53.149.175": {
-    "status": "success",
-    "country": "Belarus",
-    "countryCode": "BY",
-    "region": "HM",
-    "regionName": "Minsk City",
-    "city": "Minsk",
-    "zip": "220040",
-    "lat": 53.901,
-    "lon": 27.5707,
-    "timezone": "Europe/Minsk",
-    "isp": "Unitary enterprise A1",
-    "org": "Unitary enterprise A1",
-    "as": "AS42772 Unitary enterprise A1",
-    "query": "46.53.149.175"
-  },
-  "94.247.57.159": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "MAG",
-    "regionName": "Magadan Oblast",
-    "city": "Magadan",
-    "zip": "685000",
-    "lat": 59.5686,
-    "lon": 150.8133,
-    "timezone": "Asia/Magadan",
-    "isp": "MAGLAN",
-    "org": "",
-    "as": "AS48441 MagLAN LLC",
-    "query": "94.247.57.159"
   }
 }
