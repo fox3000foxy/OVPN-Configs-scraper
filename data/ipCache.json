@@ -543,22 +543,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "121.106.148.235"
   },
-  "27.139.122.85": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Shinjuku",
-    "zip": "160-0021",
-    "lat": 35.6918,
-    "lon": 139.7002,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM Co., Ltd.",
-    "org": "Jupiter Telecommunication Co. Ltd",
-    "as": "AS9824 JCOM Co., Ltd.",
-    "query": "27.139.122.85"
-  },
   "49.228.170.174": {
     "status": "success",
     "country": "Thailand",
@@ -574,6 +558,22 @@
     "org": "AIS Fibre",
     "as": "AS133481 AIS Fibre",
     "query": "49.228.170.174"
+  },
+  "27.139.122.85": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Shinjuku",
+    "zip": "160-0021",
+    "lat": 35.6918,
+    "lon": 139.7002,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM Co., Ltd.",
+    "org": "Jupiter Telecommunication Co. Ltd",
+    "as": "AS9824 JCOM Co., Ltd.",
+    "query": "27.139.122.85"
   },
   "176.49.251.231": {
     "status": "success",
@@ -670,21 +670,5 @@
     "org": "",
     "as": "AS8369 Intersvyaz-2 JSC",
     "query": "88.206.10.129"
-  },
-  "211.204.251.153": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "28",
-    "regionName": "Incheon",
-    "city": "Namdong-gu",
-    "zip": "216",
-    "lat": 37.4135,
-    "lon": 126.7153,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "SK Broadband Co Ltd",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "211.204.251.153"
   }
 }
