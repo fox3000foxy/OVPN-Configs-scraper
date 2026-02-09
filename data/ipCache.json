@@ -223,22 +223,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.126"
   },
-  "111.238.189.171": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tagara",
-    "zip": "179-0071",
-    "lat": 35.7681,
-    "lon": 139.6258,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "111.238.189.171"
-  },
   "219.100.37.16": {
     "status": "success",
     "country": "Japan",
@@ -255,21 +239,21 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.16"
   },
-  "42.112.215.182": {
+  "111.238.189.171": {
     "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "HN",
-    "regionName": "Hanoi",
-    "city": "Hanoi",
-    "zip": "100000",
-    "lat": 21.0184,
-    "lon": 105.8461,
-    "timezone": "Asia/Bangkok",
-    "isp": "FPT Telecom Company",
-    "org": "Vietnam Internet Network Information Center",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "42.112.215.182"
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tagara",
+    "zip": "179-0071",
+    "lat": 35.7681,
+    "lon": 139.6258,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "111.238.189.171"
   },
   "222.109.72.106": {
     "status": "success",
@@ -286,6 +270,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "222.109.72.106"
+  },
+  "42.112.215.182": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "HN",
+    "regionName": "Hanoi",
+    "city": "Hanoi",
+    "zip": "100000",
+    "lat": 21.0184,
+    "lon": 105.8461,
+    "timezone": "Asia/Bangkok",
+    "isp": "FPT Telecom Company",
+    "org": "Vietnam Internet Network Information Center",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "42.112.215.182"
   },
   "110.46.158.118": {
     "status": "success",
@@ -574,6 +574,22 @@
     "org": "OJSC Sibirtelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "176.49.251.231"
+  },
+  "221.158.69.133": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "30",
+    "regionName": "Daejeon",
+    "city": "Yuseong-gu",
+    "zip": "340",
+    "lat": 36.3924,
+    "lon": 127.4106,
+    "timezone": "Asia/Seoul",
+    "isp": "KORNET",
+    "org": "KT",
+    "as": "AS4766 Korea Telecom",
+    "query": "221.158.69.133"
   },
   "222.98.176.199": {
     "status": "success",
