@@ -511,22 +511,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "175.198.160.146"
   },
-  "180.94.254.30": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "16",
-    "regionName": "Toyama",
-    "city": "Takaoka",
-    "zip": "933-0031",
-    "lat": 36.7467,
-    "lon": 137.022,
-    "timezone": "Asia/Tokyo",
-    "isp": "Tonami System Solutions Co., Ltd.",
-    "org": "TONAMI Transportation Co., Ltd.",
-    "as": "AS18282 Tonami System Solutions Co., Ltd.",
-    "query": "180.94.254.30"
-  },
   "61.24.93.129": {
     "status": "success",
     "country": "Japan",
@@ -542,6 +526,22 @@
     "org": "JCOM Co., Ltd",
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "61.24.93.129"
+  },
+  "180.94.254.30": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "16",
+    "regionName": "Toyama",
+    "city": "Takaoka",
+    "zip": "933-0031",
+    "lat": 36.7467,
+    "lon": 137.022,
+    "timezone": "Asia/Tokyo",
+    "isp": "Tonami System Solutions Co., Ltd.",
+    "org": "TONAMI Transportation Co., Ltd.",
+    "as": "AS18282 Tonami System Solutions Co., Ltd.",
+    "query": "180.94.254.30"
   },
   "220.76.124.142": {
     "status": "success",
