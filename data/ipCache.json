@@ -463,22 +463,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "61.75.53.221"
   },
-  "193.114.24.200": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "15",
-    "regionName": "Niigata",
-    "city": "Nagaoka",
-    "zip": "940-0061",
-    "lat": 37.4506,
-    "lon": 138.858,
-    "timezone": "Asia/Tokyo",
-    "isp": "NCT Co., ltd.",
-    "org": "NCT",
-    "as": "AS59126 NCT CO.,LTD.",
-    "query": "193.114.24.200"
-  },
   "59.30.229.54": {
     "status": "success",
     "country": "South Korea",
