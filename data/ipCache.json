@@ -271,22 +271,6 @@
     "as": "AS44724 Octopusnet LTD",
     "query": "95.154.89.139"
   },
-  "219.100.37.4": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftEther",
-    "org": "SoftEther Corporation",
-    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.4"
-  },
   "60.155.235.197": {
     "status": "success",
     "country": "Japan",
@@ -558,6 +542,22 @@
     "org": "Korea Telecom",
     "as": "AS4766 Korea Telecom",
     "query": "59.15.159.29"
+  },
+  "175.215.19.145": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "48",
+    "regionName": "Gyeongsangnam-do",
+    "city": "Geoje-si",
+    "zip": "53225",
+    "lat": 34.9,
+    "lon": 128.6667,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "175.215.19.145"
   },
   "5.139.185.122": {
     "status": "success",
