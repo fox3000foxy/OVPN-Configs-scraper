@@ -63,22 +63,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "113.148.176.216"
   },
-  "160.86.46.9": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "24",
-    "regionName": "Mie",
-    "city": "Matsusaka",
-    "zip": "515-0001",
-    "lat": 34.6003,
-    "lon": 136.5592,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "160.86.46.9"
-  },
   "182.171.116.240": {
     "status": "success",
     "country": "Japan",
@@ -94,6 +78,22 @@
     "org": "Sony Network Communications Inc.",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "182.171.116.240"
+  },
+  "160.86.46.9": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "24",
+    "regionName": "Mie",
+    "city": "Matsusaka",
+    "zip": "515-0001",
+    "lat": 34.6003,
+    "lon": 136.5592,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "160.86.46.9"
   },
   "27.85.1.30": {
     "status": "success",
@@ -383,21 +383,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "125.139.49.108"
   },
-  "14.32.161.234": {
+  "211.193.219.92": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Songpa-gu",
-    "zip": "058",
-    "lat": 37.4818,
-    "lon": 127.1392,
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Seongnam-si",
+    "zip": "13606",
+    "lat": 37.3668,
+    "lon": 127.108,
     "timezone": "Asia/Seoul",
     "isp": "Korea Telecom",
-    "org": "Kornet",
+    "org": "KORNET",
     "as": "AS4766 Korea Telecom",
-    "query": "14.32.161.234"
+    "query": "211.193.219.92"
   },
   "138.64.235.144": {
     "status": "success",
@@ -655,22 +655,6 @@
     "as": "AS29190 MTS PJSC",
     "query": "95.104.174.25"
   },
-  "95.189.226.140": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "OMS",
-    "regionName": "Omsk Oblast",
-    "city": "Omsk",
-    "zip": "644000",
-    "lat": 54.9896,
-    "lon": 73.3729,
-    "timezone": "Asia/Omsk",
-    "isp": "OJSC \"Sibirtelecom\"",
-    "org": "OJSC Sibirtelecom",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "95.189.226.140"
-  },
   "78.109.130.29": {
     "status": "success",
     "country": "Russia",
@@ -702,5 +686,21 @@
     "org": "",
     "as": "AS12389 PJSC Rostelecom",
     "query": "94.245.147.84"
+  },
+  "94.247.57.159": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "MAG",
+    "regionName": "Magadan Oblast",
+    "city": "Magadan",
+    "zip": "685000",
+    "lat": 59.5686,
+    "lon": 150.8133,
+    "timezone": "Asia/Magadan",
+    "isp": "MAGLAN",
+    "org": "",
+    "as": "AS48441 MagLAN LLC",
+    "query": "94.247.57.159"
   }
 }
