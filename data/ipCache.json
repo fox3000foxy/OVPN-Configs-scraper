@@ -654,21 +654,5 @@
     "org": "Vietnam Posts and Telecommunications Group",
     "as": "AS45899 VNPT Corp",
     "query": "14.245.202.152"
-  },
-  "88.206.10.129": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "CHE",
-    "regionName": "Chelyabinsk Oblast",
-    "city": "Chelyabinsk",
-    "zip": "454000",
-    "lat": 55.1586,
-    "lon": 61.4296,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "Intersvyaz-2 JSC",
-    "org": "",
-    "as": "AS8369 Intersvyaz-2 JSC",
-    "query": "88.206.10.129"
   }
 }
