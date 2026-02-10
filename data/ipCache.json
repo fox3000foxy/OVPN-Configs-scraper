@@ -559,21 +559,21 @@
     "as": "AS3786 LG DACOM Corporation",
     "query": "58.150.189.252"
   },
-  "121.153.15.137": {
+  "175.201.243.24": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
-    "region": "44",
-    "regionName": "Chungcheongnam-do",
-    "city": "Asan",
-    "zip": "315",
-    "lat": 36.7836,
-    "lon": 127.0042,
+    "region": "27",
+    "regionName": "Daegu",
+    "city": "Nam-gu",
+    "zip": "424",
+    "lat": 35.8385,
+    "lon": 128.5888,
     "timezone": "Asia/Seoul",
     "isp": "Korea Telecom",
-    "org": "Korea Telecom",
+    "org": "Kornet",
     "as": "AS4766 Korea Telecom",
-    "query": "121.153.15.137"
+    "query": "175.201.243.24"
   },
   "133.149.90.83": {
     "status": "success",
