@@ -47,22 +47,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "182.171.116.240"
   },
-  "113.148.176.216": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "26",
-    "regionName": "Kyoto",
-    "city": "Uji",
-    "zip": "611-0041",
-    "lat": 34.8992,
-    "lon": 135.7859,
-    "timezone": "Asia/Tokyo",
-    "isp": "DION (KDDI CORPORATION)",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "113.148.176.216"
-  },
   "160.86.46.9": {
     "status": "success",
     "country": "Japan",
@@ -94,6 +78,22 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "118.157.139.36"
+  },
+  "113.148.176.216": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "26",
+    "regionName": "Kyoto",
+    "city": "Uji",
+    "zip": "611-0041",
+    "lat": 34.8992,
+    "lon": 135.7859,
+    "timezone": "Asia/Tokyo",
+    "isp": "DION (KDDI CORPORATION)",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "113.148.176.216"
   },
   "27.85.1.30": {
     "status": "success",
@@ -223,22 +223,6 @@
     "as": "AS18403 FPT Telecom Company",
     "query": "42.116.114.23"
   },
-  "27.83.68.134": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Nihonbashi-Kayabachō",
-    "zip": "103-0025",
-    "lat": 35.6792,
-    "lon": 139.779,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "27.83.68.134"
-  },
   "219.100.37.15": {
     "status": "success",
     "country": "Japan",
@@ -270,6 +254,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "121.167.189.126"
+  },
+  "219.100.37.126": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftEther",
+    "org": "SoftEther Corporation",
+    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
+    "query": "219.100.37.126"
   },
   "219.100.37.4": {
     "status": "success",
@@ -606,6 +606,22 @@
     "org": "",
     "as": "AS29190 MTS PJSC",
     "query": "95.104.174.25"
+  },
+  "178.46.107.74": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "SVE",
+    "regionName": "Sverdlovsk Oblast",
+    "city": "Yekaterinburg",
+    "zip": "620028",
+    "lat": 56.8577,
+    "lon": 60.6113,
+    "timezone": "Asia/Yekaterinburg",
+    "isp": "Rostelecom networks",
+    "org": "Dynamic distribution IPs for broadband services",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "178.46.107.74"
   },
   "78.109.130.29": {
     "status": "success",
