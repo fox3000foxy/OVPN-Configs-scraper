@@ -271,22 +271,6 @@
     "as": "AS13285 TalkTalk Communications Limited",
     "query": "80.44.212.7"
   },
-  "219.100.37.4": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftEther",
-    "org": "SoftEther Corporation",
-    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.4"
-  },
   "5.206.58.2": {
     "status": "success",
     "country": "Russia",
@@ -303,6 +287,22 @@
     "as": "AS8369 Intersvyaz-2 JSC",
     "query": "5.206.58.2"
   },
+  "219.100.37.4": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftEther",
+    "org": "SoftEther Corporation",
+    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
+    "query": "219.100.37.4"
+  },
   "125.129.85.155": {
     "status": "success",
     "country": "South Korea",
@@ -318,22 +318,6 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "125.129.85.155"
-  },
-  "182.235.231.66": {
-    "status": "success",
-    "country": "Taiwan",
-    "countryCode": "TW",
-    "region": "KHH",
-    "regionName": "Kaohsiung",
-    "city": "Kaohsiung",
-    "zip": "",
-    "lat": 22.6148,
-    "lon": 120.3139,
-    "timezone": "Asia/Taipei",
-    "isp": "Hoshin Multimedia Center Inc.",
-    "org": "Hoshin Multimedia Center Inc",
-    "as": "AS18042 Koos Broadband Telecom",
-    "query": "182.235.231.66"
   },
   "73.197.44.96": {
     "status": "success",
@@ -654,5 +638,21 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "121.130.225.99"
+  },
+  "212.14.195.153": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "MAG",
+    "regionName": "Magadan Oblast",
+    "city": "Magadan",
+    "zip": "685000",
+    "lat": 59.5686,
+    "lon": 150.8133,
+    "timezone": "Asia/Magadan",
+    "isp": "Telephone&Telegraph Station",
+    "org": "Northern International University",
+    "as": "AS34205 PJSC Rostelecom",
+    "query": "212.14.195.153"
   }
 }
