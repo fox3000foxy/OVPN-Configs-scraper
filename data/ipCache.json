@@ -159,6 +159,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.208"
   },
+  "1.66.33.240": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Osaka",
+    "zip": "530-0041",
+    "lat": 34.6967,
+    "lon": 135.5154,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Docomo, inc.",
+    "org": "NTTDoCoMo",
+    "as": "AS9605 NTT DOCOMO, INC.",
+    "query": "1.66.33.240"
+  },
   "219.100.37.204": {
     "status": "success",
     "country": "Japan",
@@ -511,22 +527,6 @@
     "as": "AS4685 Asahi Net",
     "query": "220.146.147.20"
   },
-  "14.42.68.244": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Goyang-si",
-    "zip": "103",
-    "lat": 37.6792,
-    "lon": 126.8183,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "14.42.68.244"
-  },
   "90.189.217.65": {
     "status": "success",
     "country": "Russia",
@@ -542,6 +542,22 @@
     "org": "OJSC Sibirtelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "90.189.217.65"
+  },
+  "14.42.68.244": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Goyang-si",
+    "zip": "103",
+    "lat": 37.6792,
+    "lon": 126.8183,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "14.42.68.244"
   },
   "175.198.57.28": {
     "status": "success",
@@ -639,22 +655,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "218.49.3.43"
   },
-  "77.79.147.4": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "BA",
-    "regionName": "Bashkortostan Republic",
-    "city": "Ufa",
-    "zip": "450000",
-    "lat": 54.7431,
-    "lon": 55.9678,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "JSC \"Ufanet\"",
-    "org": "JSC Ufanet",
-    "as": "AS24955 JSC Ufanet",
-    "query": "77.79.147.4"
-  },
   "49.238.254.93": {
     "status": "success",
     "country": "South Korea",
@@ -670,22 +670,6 @@
     "org": "LXN",
     "as": "AS17878 DREAMMARK1",
     "query": "49.238.254.93"
-  },
-  "221.118.47.135": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "01",
-    "regionName": "Hokkaido",
-    "city": "Miyoshichō",
-    "zip": "090-0061",
-    "lat": 43.8243,
-    "lon": 143.903,
-    "timezone": "Asia/Tokyo",
-    "isp": "AITAI",
-    "org": "AITAI-NET(Himawari Network Inc.)",
-    "as": "AS9354 Community Network Center Inc.",
-    "query": "221.118.47.135"
   },
   "91.132.20.29": {
     "status": "success",
@@ -703,6 +687,22 @@
     "as": "AS33991 Igra-Service LLC",
     "query": "91.132.20.29"
   },
+  "93.125.107.128": {
+    "status": "success",
+    "country": "Belarus",
+    "countryCode": "BY",
+    "region": "HM",
+    "regionName": "Minsk City",
+    "city": "Minsk",
+    "zip": "220025",
+    "lat": 53.901,
+    "lon": 27.5707,
+    "timezone": "Europe/Minsk",
+    "isp": "Cosmos TV Jllc",
+    "org": "JCLL \"Cosmos TV\"",
+    "as": "AS31143 COSMOS TV JLLC",
+    "query": "93.125.107.128"
+  },
   "178.173.99.148": {
     "status": "success",
     "country": "Russia",
@@ -718,22 +718,6 @@
     "org": "POIG Ltd",
     "as": "AS47759 POIG Ltd.",
     "query": "178.173.99.148"
-  },
-  "49.109.128.242": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "21",
-    "regionName": "Gifu",
-    "city": "Kakamigahara",
-    "zip": "501-3142",
-    "lat": 35.4167,
-    "lon": 136.867,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Docomo, inc.",
-    "org": "NTTDoCoMo",
-    "as": "AS9605 NTT DOCOMO, INC.",
-    "query": "49.109.128.242"
   },
   "123.248.182.124": {
     "status": "success",
