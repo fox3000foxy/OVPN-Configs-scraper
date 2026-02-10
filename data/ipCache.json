@@ -383,22 +383,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "211.193.219.92"
   },
-  "60.122.102.169": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan Nation-wide Network of Softbank Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "60.122.102.169"
-  },
   "119.241.124.219": {
     "status": "success",
     "country": "Japan",
@@ -510,6 +494,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "183.103.128.211"
+  },
+  "122.133.154.34": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tokyo",
+    "zip": "151-0071",
+    "lat": 35.6837,
+    "lon": 139.6805,
+    "timezone": "Asia/Tokyo",
+    "isp": "NEC BIGLOBE Ltd.",
+    "org": "BIGLOBE",
+    "as": "AS2518 BIGLOBE Inc.",
+    "query": "122.133.154.34"
   },
   "126.159.87.12": {
     "status": "success",
