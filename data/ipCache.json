@@ -63,6 +63,22 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "59.139.128.191"
   },
+  "59.17.224.109": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "28",
+    "regionName": "Incheon",
+    "city": "Seo-gu",
+    "zip": "227",
+    "lat": 37.5214,
+    "lon": 126.6251,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "59.17.224.109"
+  },
   "219.100.37.82": {
     "status": "success",
     "country": "Japan",
@@ -175,6 +191,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.16"
   },
+  "60.144.85.226": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.144.85.226"
+  },
   "1.66.33.240": {
     "status": "success",
     "country": "Japan",
@@ -206,22 +238,6 @@
     "org": "Lukjanova Lydia Andreevna PE",
     "as": "AS59533 Lukyanov Evgeniy Vladimirovich PE",
     "query": "91.219.203.117"
-  },
-  "219.117.198.100": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0071",
-    "lat": 35.6837,
-    "lon": 139.6805,
-    "timezone": "Asia/Tokyo",
-    "isp": "INTERLINK",
-    "org": "INTERLINK Co., LTD.",
-    "as": "AS2514 NTT PC Communications, Inc.",
-    "query": "219.117.198.100"
   },
   "112.161.61.242": {
     "status": "success",
@@ -415,6 +431,22 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "86.102.254.44"
   },
+  "49.228.232.13": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "10",
+    "regionName": "Bangkok",
+    "city": "Bangkok",
+    "zip": "10110",
+    "lat": 13.7101,
+    "lon": 100.4543,
+    "timezone": "Asia/Bangkok",
+    "isp": "Advanced Wireless Network Company Limited",
+    "org": "AIS Fibre",
+    "as": "AS133481 AIS Fibre",
+    "query": "49.228.232.13"
+  },
   "111.168.74.48": {
     "status": "success",
     "country": "Japan",
@@ -446,22 +478,6 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "114.204.37.77"
-  },
-  "60.147.198.161": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan Nation-wide Network of Softbank Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "60.147.198.161"
   },
   "99.247.99.250": {
     "status": "success",
@@ -511,21 +527,21 @@
     "as": "AS17511 OPTAGE Inc.",
     "query": "180.146.97.71"
   },
-  "114.180.59.217": {
+  "220.94.241.76": {
     "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Yokohama",
-    "zip": "231-0841",
-    "lat": 35.4337,
-    "lon": 139.6499,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "NTT Communications Corporation",
-    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
-    "query": "114.180.59.217"
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Anyang-si",
+    "zip": "14032",
+    "lat": 37.3907,
+    "lon": 126.9167,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "220.94.241.76"
   },
   "211.228.134.146": {
     "status": "success",
@@ -543,22 +559,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "211.228.134.146"
   },
-  "220.94.241.76": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Anyang-si",
-    "zip": "14032",
-    "lat": 37.3907,
-    "lon": 126.9167,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "220.94.241.76"
-  },
   "210.157.193.127": {
     "status": "success",
     "country": "Japan",
@@ -574,22 +574,6 @@
     "org": "RMN",
     "as": "AS138384 Rakuten Mobile Network, Inc.",
     "query": "210.157.193.127"
-  },
-  "42.150.193.188": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "40",
-    "regionName": "Fukuoka",
-    "city": "Minamikatae",
-    "zip": "814-0141",
-    "lat": 33.5431,
-    "lon": 130.3654,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM Co., Ltd.",
-    "org": "Jupiter Telecommunication Co. Ltd",
-    "as": "AS9824 JCOM Co., Ltd.",
-    "query": "42.150.193.188"
   },
   "121.50.255.67": {
     "status": "success",
@@ -639,22 +623,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "5.137.112.4"
   },
-  "1.228.169.53": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "44",
-    "regionName": "Chungcheongnam-do",
-    "city": "Asan",
-    "zip": "315",
-    "lat": 36.7836,
-    "lon": 127.0042,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "1.228.169.53"
-  },
   "112.167.227.153": {
     "status": "success",
     "country": "South Korea",
@@ -670,5 +638,21 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "112.167.227.153"
+  },
+  "1.228.169.53": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "44",
+    "regionName": "Chungcheongnam-do",
+    "city": "Asan",
+    "zip": "315",
+    "lat": 36.7836,
+    "lon": 127.0042,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "1.228.169.53"
   }
 }
