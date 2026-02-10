@@ -463,21 +463,21 @@
     "as": "AS133481 AIS Fibre",
     "query": "49.228.232.13"
   },
-  "114.204.37.77": {
+  "99.247.99.250": {
     "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Siheung-si",
-    "zip": "149",
-    "lat": 37.3648,
-    "lon": 126.8009,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "114.204.37.77"
+    "country": "Canada",
+    "countryCode": "CA",
+    "region": "ON",
+    "regionName": "Ontario",
+    "city": "Woodbridge",
+    "zip": "L4H",
+    "lat": 43.8419,
+    "lon": -79.5565,
+    "timezone": "America/Toronto",
+    "isp": "Rogers Communications Canada Inc.",
+    "org": "Rogers Cable Inc. MTMK",
+    "as": "AS812 Rogers Communications Canada Inc.",
+    "query": "99.247.99.250"
   },
   "1.53.243.255": {
     "status": "success",
@@ -494,22 +494,6 @@
     "org": "Vietnam Internet Network Information Center",
     "as": "AS18403 FPT Telecom Company",
     "query": "1.53.243.255"
-  },
-  "99.247.99.250": {
-    "status": "success",
-    "country": "Canada",
-    "countryCode": "CA",
-    "region": "ON",
-    "regionName": "Ontario",
-    "city": "Woodbridge",
-    "zip": "L4H",
-    "lat": 43.8419,
-    "lon": -79.5565,
-    "timezone": "America/Toronto",
-    "isp": "Rogers Communications Canada Inc.",
-    "org": "Rogers Cable Inc. MTMK",
-    "as": "AS812 Rogers Communications Canada Inc.",
-    "query": "99.247.99.250"
   },
   "220.94.241.76": {
     "status": "success",
@@ -558,6 +542,38 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "211.228.134.146"
+  },
+  "119.175.138.115": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "12",
+    "regionName": "Chiba",
+    "city": "Matsudo",
+    "zip": "271-0091",
+    "lat": 35.7834,
+    "lon": 139.8958,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM Co., Ltd.",
+    "org": "JCOM Co., Ltd",
+    "as": "AS9824 JCOM Co., Ltd.",
+    "query": "119.175.138.115"
+  },
+  "114.204.37.77": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Siheung-si",
+    "zip": "149",
+    "lat": 37.3648,
+    "lon": 126.8009,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "114.204.37.77"
   },
   "210.157.193.127": {
     "status": "success",
