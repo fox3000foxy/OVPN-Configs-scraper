@@ -63,22 +63,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "221.144.146.230"
   },
-  "59.23.123.76": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "27",
-    "regionName": "Daegu",
-    "city": "Dalseo-gu",
-    "zip": "426",
-    "lat": 35.8619,
-    "lon": 128.4811,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "KT Corporation",
-    "as": "AS4766 Korea Telecom",
-    "query": "59.23.123.76"
-  },
   "219.100.37.101": {
     "status": "success",
     "country": "Japan",
@@ -94,6 +78,22 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.101"
+  },
+  "59.23.123.76": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "27",
+    "regionName": "Daegu",
+    "city": "Dalseo-gu",
+    "zip": "426",
+    "lat": 35.8619,
+    "lon": 128.4811,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "KT Corporation",
+    "as": "AS4766 Korea Telecom",
+    "query": "59.23.123.76"
   },
   "222.109.124.1": {
     "status": "success",
@@ -207,22 +207,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "211.192.121.212"
   },
-  "39.119.183.162": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "30",
-    "regionName": "Daejeon",
-    "city": "Yuseong-gu",
-    "zip": "340",
-    "lat": 36.3924,
-    "lon": 127.4106,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "39.119.183.162"
-  },
   "219.100.37.128": {
     "status": "success",
     "country": "Japan",
@@ -238,6 +222,22 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.128"
+  },
+  "39.119.183.162": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "30",
+    "regionName": "Daejeon",
+    "city": "Yuseong-gu",
+    "zip": "340",
+    "lat": 36.3924,
+    "lon": 127.4106,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "39.119.183.162"
   },
   "211.205.56.227": {
     "status": "success",
@@ -623,22 +623,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "175.196.221.41"
   },
-  "114.207.218.87": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Songpa-gu",
-    "zip": "056",
-    "lat": 37.5108,
-    "lon": 127.1048,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "114.207.218.87"
-  },
   "109.110.57.83": {
     "status": "success",
     "country": "Russia",
@@ -654,5 +638,37 @@
     "org": "",
     "as": "AS196949 Natalia Sergeevna Filicheva",
     "query": "109.110.57.83"
+  },
+  "49.175.89.36": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "30",
+    "regionName": "Daejeon",
+    "city": "Jung-gu",
+    "zip": "348",
+    "lat": 36.3366,
+    "lon": 127.4004,
+    "timezone": "Asia/Seoul",
+    "isp": "LG POWERCOMM",
+    "org": "LG POWERCOMM",
+    "as": "AS17858 LG POWERCOMM",
+    "query": "49.175.89.36"
+  },
+  "112.166.146.132": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "44",
+    "regionName": "Chungcheongnam-do",
+    "city": "Gongju",
+    "zip": "325",
+    "lat": 36.4777,
+    "lon": 127.1311,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "112.166.146.132"
   }
 }
