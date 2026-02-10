@@ -670,5 +670,21 @@
     "org": "",
     "as": "AS18403 FPT Telecom Company",
     "query": "118.71.221.179"
+  },
+  "109.126.5.40": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Vladivostok",
+    "zip": "690001",
+    "lat": 43.1068,
+    "lon": 131.8692,
+    "timezone": "Asia/Vladivostok",
+    "isp": "VLADLINK",
+    "org": "Vladivostokskaya Set LTD",
+    "as": "AS42038 Krivets Sergey Sergeevich",
+    "query": "109.126.5.40"
   }
 }
