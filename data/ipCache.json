@@ -1,4 +1,20 @@
 {
+  "60.73.214.202": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.73.214.202"
+  },
   "219.100.37.101": {
     "status": "success",
     "country": "Japan",
@@ -191,6 +207,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.16"
   },
+  "27.83.68.134": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Nihonbashi-Kayabachō",
+    "zip": "103-0025",
+    "lat": 35.6792,
+    "lon": 139.779,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "27.83.68.134"
+  },
   "103.152.178.62": {
     "status": "success",
     "country": "Japan",
@@ -287,22 +319,6 @@
     "as": "AS18126 Chubu Telecommunications Company, Inc.",
     "query": "180.197.203.57"
   },
-  "121.162.174.151": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Uijeongbu-si",
-    "zip": "117",
-    "lat": 37.7303,
-    "lon": 127.0672,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "121.162.174.151"
-  },
   "222.114.218.186": {
     "status": "success",
     "country": "South Korea",
@@ -350,22 +366,6 @@
     "org": "Japan Nation-wide Network of Softbank Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "60.141.171.131"
-  },
-  "152.165.208.68": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "22",
-    "regionName": "Shizuoka",
-    "city": "Iwata",
-    "zip": "438-0061",
-    "lat": 34.7022,
-    "lon": 137.8269,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "152.165.208.68"
   },
   "126.221.40.75": {
     "status": "success",
@@ -511,6 +511,22 @@
     "as": "AS133481 AIS Fibre",
     "query": "49.228.234.50"
   },
+  "112.185.17.25": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "48",
+    "regionName": "Gyeongsangnam-do",
+    "city": "Changwon",
+    "zip": "516",
+    "lat": 35.138,
+    "lon": 128.7034,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Korea Telecom",
+    "as": "AS4766 Korea Telecom",
+    "query": "112.185.17.25"
+  },
   "14.42.68.244": {
     "status": "success",
     "country": "South Korea",
@@ -639,22 +655,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "212.164.64.180"
   },
-  "31.148.112.45": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "AD",
-    "regionName": "Adygeya Republic",
-    "city": "Maykop",
-    "zip": "385020",
-    "lat": 44.8768,
-    "lon": 40.2182,
-    "timezone": "Europe/Moscow",
-    "isp": "Orgtechservice Ltd",
-    "org": "Orgtechservice Ltd",
-    "as": "AS56361 Orgtechservice Ltd",
-    "query": "31.148.112.45"
-  },
   "77.35.162.201": {
     "status": "success",
     "country": "Russia",
@@ -686,5 +686,21 @@
     "org": "",
     "as": "AS18403 FPT Telecom Company",
     "query": "118.71.221.179"
+  },
+  "109.126.5.40": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Vladivostok",
+    "zip": "690001",
+    "lat": 43.1068,
+    "lon": 131.8692,
+    "timezone": "Asia/Vladivostok",
+    "isp": "VLADLINK",
+    "org": "Vladivostokskaya Set LTD",
+    "as": "AS42038 Krivets Sergey Sergeevich",
+    "query": "109.126.5.40"
   }
 }
