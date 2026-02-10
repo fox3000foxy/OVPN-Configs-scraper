@@ -159,22 +159,6 @@
     "as": "AS38074 SDCC Japan-West Area",
     "query": "103.152.178.62"
   },
-  "113.145.237.167": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "47",
-    "regionName": "Okinawa",
-    "city": "Sobe",
-    "zip": "904-0304",
-    "lat": 26.3839,
-    "lon": 127.7262,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "113.145.237.167"
-  },
   "219.100.37.16": {
     "status": "success",
     "country": "Japan",
@@ -190,6 +174,22 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.16"
+  },
+  "113.145.237.167": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "47",
+    "regionName": "Okinawa",
+    "city": "Sobe",
+    "zip": "904-0304",
+    "lat": 26.3839,
+    "lon": 127.7262,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "113.145.237.167"
   },
   "60.144.85.226": {
     "status": "success",
@@ -222,22 +222,6 @@
     "org": "Lukjanova Lydia Andreevna PE",
     "as": "AS59533 Lukyanov Evgeniy Vladimirovich PE",
     "query": "91.219.203.117"
-  },
-  "1.66.33.240": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Osaka",
-    "zip": "530-0041",
-    "lat": 34.6967,
-    "lon": 135.5154,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Docomo, inc.",
-    "org": "NTTDoCoMo",
-    "as": "AS9605 NTT DOCOMO, INC.",
-    "query": "1.66.33.240"
   },
   "112.161.61.242": {
     "status": "success",
@@ -303,21 +287,21 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.246.154.63"
   },
-  "126.75.237.118": {
+  "218.155.19.68": {
     "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.75.237.118"
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Seongnam-si",
+    "zip": "133",
+    "lat": 37.4331,
+    "lon": 127.1375,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "218.155.19.68"
   },
   "92.37.134.122": {
     "status": "success",
@@ -463,21 +447,21 @@
     "as": "AS133481 AIS Fibre",
     "query": "49.228.232.13"
   },
-  "99.247.99.250": {
+  "60.117.63.212": {
     "status": "success",
-    "country": "Canada",
-    "countryCode": "CA",
-    "region": "ON",
-    "regionName": "Ontario",
-    "city": "Woodbridge",
-    "zip": "L4H",
-    "lat": 43.8419,
-    "lon": -79.5565,
-    "timezone": "America/Toronto",
-    "isp": "Rogers Communications Canada Inc.",
-    "org": "Rogers Cable Inc. MTMK",
-    "as": "AS812 Rogers Communications Canada Inc.",
-    "query": "99.247.99.250"
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.117.63.212"
   },
   "1.53.243.255": {
     "status": "success",
@@ -494,6 +478,22 @@
     "org": "Vietnam Internet Network Information Center",
     "as": "AS18403 FPT Telecom Company",
     "query": "1.53.243.255"
+  },
+  "99.247.99.250": {
+    "status": "success",
+    "country": "Canada",
+    "countryCode": "CA",
+    "region": "ON",
+    "regionName": "Ontario",
+    "city": "Woodbridge",
+    "zip": "L4H",
+    "lat": 43.8419,
+    "lon": -79.5565,
+    "timezone": "America/Toronto",
+    "isp": "Rogers Communications Canada Inc.",
+    "org": "Rogers Cable Inc. MTMK",
+    "as": "AS812 Rogers Communications Canada Inc.",
+    "query": "99.247.99.250"
   },
   "220.94.241.76": {
     "status": "success",
