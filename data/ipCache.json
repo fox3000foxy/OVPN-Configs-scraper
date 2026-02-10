@@ -239,6 +239,22 @@
     "as": "AS2514 NTT PC Communications, Inc.",
     "query": "61.197.104.210"
   },
+  "121.162.174.151": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Uijeongbu-si",
+    "zip": "117",
+    "lat": 37.7303,
+    "lon": 127.0672,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "121.162.174.151"
+  },
   "222.8.139.88": {
     "status": "success",
     "country": "Japan",
@@ -334,6 +350,22 @@
     "org": "SK Broadband Co Ltd",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "211.44.188.45"
+  },
+  "221.144.197.228": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "42",
+    "regionName": "Gangwon-do",
+    "city": "Wŏnju",
+    "zip": "263",
+    "lat": 37.384,
+    "lon": 127.8724,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Korea Telecom",
+    "as": "AS4766 Korea Telecom",
+    "query": "221.144.197.228"
   },
   "126.235.215.236": {
     "status": "success",
@@ -431,6 +463,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "112.185.246.157"
   },
+  "27.139.106.9": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Shinjuku",
+    "zip": "160-0021",
+    "lat": 35.6918,
+    "lon": 139.7002,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM Co., Ltd.",
+    "org": "Jupiter Telecommunication Co. Ltd",
+    "as": "AS9824 JCOM Co., Ltd.",
+    "query": "27.139.106.9"
+  },
   "60.105.147.180": {
     "status": "success",
     "country": "Japan",
@@ -478,38 +526,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "14.42.68.244"
-  },
-  "59.27.157.137": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "44",
-    "regionName": "Chungcheongnam-do",
-    "city": "Asan",
-    "zip": "314",
-    "lat": 36.7893,
-    "lon": 127.0855,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "59.27.157.137"
-  },
-  "59.23.0.74": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "47",
-    "regionName": "Gyeongsangbuk-do",
-    "city": "Gimcheon",
-    "zip": "396",
-    "lat": 36.1278,
-    "lon": 128.1762,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "59.23.0.74"
   },
   "175.198.57.28": {
     "status": "success",
@@ -622,22 +638,6 @@
     "org": "",
     "as": "AS33991 Igra-Service LLC",
     "query": "91.132.20.29"
-  },
-  "80.3.208.251": {
-    "status": "success",
-    "country": "United Kingdom",
-    "countryCode": "GB",
-    "region": "ENG",
-    "regionName": "England",
-    "city": "Gateshead",
-    "zip": "NE9",
-    "lat": 54.9313,
-    "lon": -1.5855,
-    "timezone": "Europe/London",
-    "isp": "Virgin Media",
-    "org": "",
-    "as": "AS5089 Virgin Media Limited",
-    "query": "80.3.208.251"
   },
   "157.5.14.19": {
     "status": "success",
