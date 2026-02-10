@@ -319,6 +319,22 @@
     "as": "AS133481 AIS Fibre",
     "query": "58.136.88.65"
   },
+  "221.144.197.228": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "42",
+    "regionName": "Gangwon-do",
+    "city": "Wŏnju",
+    "zip": "263",
+    "lat": 37.384,
+    "lon": 127.8724,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Korea Telecom",
+    "as": "AS4766 Korea Telecom",
+    "query": "221.144.197.228"
+  },
   "111.97.191.114": {
     "status": "success",
     "country": "Japan",
@@ -351,22 +367,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "211.44.188.45"
   },
-  "221.144.197.228": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "42",
-    "regionName": "Gangwon-do",
-    "city": "Wŏnju",
-    "zip": "263",
-    "lat": 37.384,
-    "lon": 127.8724,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Korea Telecom",
-    "as": "AS4766 Korea Telecom",
-    "query": "221.144.197.228"
-  },
   "126.235.215.236": {
     "status": "success",
     "country": "Japan",
@@ -383,21 +383,21 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.235.215.236"
   },
-  "106.165.34.211": {
+  "124.47.125.245": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "08",
-    "regionName": "Ibaraki",
-    "city": "Koga",
-    "zip": "306-0021",
-    "lat": 36.2024,
-    "lon": 139.7085,
+    "region": "33",
+    "regionName": "Okayama",
+    "city": "Kurashiki",
+    "zip": "710-0841",
+    "lat": 34.5772,
+    "lon": 133.7607,
     "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "106.165.34.211"
+    "isp": "Kurashiki Cable TV",
+    "org": "Kurashiki Cable TV Corporation",
+    "as": "AS9622 Kurashiki Cable TV",
+    "query": "124.47.125.245"
   },
   "163.58.201.94": {
     "status": "success",
@@ -462,22 +462,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "112.185.246.157"
-  },
-  "27.139.106.9": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Shinjuku",
-    "zip": "160-0021",
-    "lat": 35.6918,
-    "lon": 139.7002,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM Co., Ltd.",
-    "org": "Jupiter Telecommunication Co. Ltd",
-    "as": "AS9824 JCOM Co., Ltd.",
-    "query": "27.139.106.9"
   },
   "60.105.147.180": {
     "status": "success",
