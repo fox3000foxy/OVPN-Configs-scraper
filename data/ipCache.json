@@ -31,22 +31,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "39.125.14.120"
   },
-  "59.139.128.191": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "02",
-    "regionName": "Aomori",
-    "city": "Kuroishi",
-    "zip": "036-0351",
-    "lat": 40.6485,
-    "lon": 140.5872,
-    "timezone": "Asia/Tokyo",
-    "isp": "DION (KDDI CORPORATION)",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "59.139.128.191"
-  },
   "219.100.37.101": {
     "status": "success",
     "country": "Japan",
@@ -62,6 +46,22 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.101"
+  },
+  "59.139.128.191": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "02",
+    "regionName": "Aomori",
+    "city": "Kuroishi",
+    "zip": "036-0351",
+    "lat": 40.6485,
+    "lon": 140.5872,
+    "timezone": "Asia/Tokyo",
+    "isp": "DION (KDDI CORPORATION)",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "59.139.128.191"
   },
   "219.100.37.82": {
     "status": "success",
@@ -175,22 +175,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.16"
   },
-  "91.219.203.117": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PER",
-    "regionName": "Perm Krai",
-    "city": "Lys'va",
-    "zip": "618900",
-    "lat": 58.1004,
-    "lon": 57.8043,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "KVARTAL",
-    "org": "Lukjanova Lydia Andreevna PE",
-    "as": "AS59533 Lukyanov Evgeniy Vladimirovich PE",
-    "query": "91.219.203.117"
-  },
   "1.66.33.240": {
     "status": "success",
     "country": "Japan",
@@ -206,6 +190,22 @@
     "org": "NTTDoCoMo",
     "as": "AS9605 NTT DOCOMO, INC.",
     "query": "1.66.33.240"
+  },
+  "91.219.203.117": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PER",
+    "regionName": "Perm Krai",
+    "city": "Lys'va",
+    "zip": "618900",
+    "lat": 58.1004,
+    "lon": 57.8043,
+    "timezone": "Asia/Yekaterinburg",
+    "isp": "KVARTAL",
+    "org": "Lukjanova Lydia Andreevna PE",
+    "as": "AS59533 Lukyanov Evgeniy Vladimirovich PE",
+    "query": "91.219.203.117"
   },
   "219.117.198.100": {
     "status": "success",
@@ -303,22 +303,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.75.237.118"
   },
-  "1.224.195.110": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Ansan-si",
-    "zip": "152",
-    "lat": 37.3231,
-    "lon": 126.8412,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "1.224.195.110"
-  },
   "92.37.134.122": {
     "status": "success",
     "country": "Russia",
@@ -398,6 +382,22 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.50"
+  },
+  "133.218.202.2": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "23",
+    "regionName": "Aichi",
+    "city": "Nagoya",
+    "zip": "462-0841",
+    "lat": 35.1926,
+    "lon": 136.906,
+    "timezone": "Asia/Tokyo",
+    "isp": "Internet Initiative Japan Inc.",
+    "org": "Rikei Corporation",
+    "as": "AS2497 Internet Initiative Japan Inc.",
+    "query": "133.218.202.2"
   },
   "86.102.254.44": {
     "status": "success",
@@ -542,6 +542,22 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "211.228.134.146"
+  },
+  "220.94.241.76": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Anyang-si",
+    "zip": "14032",
+    "lat": 37.3907,
+    "lon": 126.9167,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "220.94.241.76"
   },
   "210.157.193.127": {
     "status": "success",
