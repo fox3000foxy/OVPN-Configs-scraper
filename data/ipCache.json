@@ -351,22 +351,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "14.47.216.87"
   },
-  "1.53.243.255": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "SG",
-    "regionName": "Ho Chi Minh",
-    "city": "Ho Chi Minh City",
-    "zip": "700000",
-    "lat": 10.822,
-    "lon": 106.6257,
-    "timezone": "Asia/Ho_Chi_Minh",
-    "isp": "FPT Telecom Company",
-    "org": "Vietnam Internet Network Information Center",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "1.53.243.255"
-  },
   "219.113.61.217": {
     "status": "success",
     "country": "Japan",
@@ -446,6 +430,22 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "220.92.38.76"
+  },
+  "1.53.243.255": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "SG",
+    "regionName": "Ho Chi Minh",
+    "city": "Ho Chi Minh City",
+    "zip": "700000",
+    "lat": 10.822,
+    "lon": 106.6257,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "isp": "FPT Telecom Company",
+    "org": "Vietnam Internet Network Information Center",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "1.53.243.255"
   },
   "153.176.50.180": {
     "status": "success",
