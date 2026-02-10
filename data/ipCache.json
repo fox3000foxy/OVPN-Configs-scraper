@@ -15,6 +15,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.101"
   },
+  "14.52.253.14": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Songpa-gu",
+    "zip": "055",
+    "lat": 37.5108,
+    "lon": 127.1048,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "14.52.253.14"
+  },
   "219.100.37.82": {
     "status": "success",
     "country": "Japan",
@@ -319,22 +335,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.141.171.131"
   },
-  "27.83.27.9": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Meguro City",
-    "zip": "153-0063",
-    "lat": 35.6331,
-    "lon": 139.702,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "27.83.27.9"
-  },
   "126.221.40.75": {
     "status": "success",
     "country": "Japan",
@@ -350,6 +350,22 @@
     "org": "SOFTBANK Corp",
     "as": "AS17676 SoftBank Corp.",
     "query": "126.221.40.75"
+  },
+  "59.138.182.93": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "11",
+    "regionName": "Saitama",
+    "city": "Tokorozawa",
+    "zip": "359-1161",
+    "lat": 35.7904,
+    "lon": 139.4636,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "59.138.182.93"
   },
   "125.24.4.143": {
     "status": "success",
@@ -463,22 +479,6 @@
     "as": "AS133481 AIS Fibre",
     "query": "49.228.234.50"
   },
-  "221.144.53.202": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "45",
-    "regionName": "Jeollabuk-do",
-    "city": "Jeonju",
-    "zip": "550",
-    "lat": 35.8014,
-    "lon": 127.1076,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "221.144.53.202"
-  },
   "121.144.100.82": {
     "status": "success",
     "country": "South Korea",
@@ -542,6 +542,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "14.42.68.244"
+  },
+  "220.89.6.221": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "27",
+    "regionName": "Daegu",
+    "city": "Daegu",
+    "zip": "41934",
+    "lat": 35.8723,
+    "lon": 128.5924,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Korea Telecom",
+    "as": "AS4766 Korea Telecom",
+    "query": "220.89.6.221"
   },
   "175.198.57.28": {
     "status": "success",
@@ -670,5 +686,21 @@
     "org": "Vladivostokskaya Set LTD",
     "as": "AS42038 Krivets Sergey Sergeevich",
     "query": "109.126.5.40"
+  },
+  "5.137.188.220": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "NVS",
+    "regionName": "Novosibirsk Oblast",
+    "city": "Novosibirsk",
+    "zip": "630000",
+    "lat": 55.0226,
+    "lon": 82.9317,
+    "timezone": "Asia/Novosibirsk",
+    "isp": "Rostelecom networks",
+    "org": "JSC Rostelecom regional branch Siberia",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "5.137.188.220"
   }
 }
