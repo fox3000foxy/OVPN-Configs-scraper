@@ -159,6 +159,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "112.170.21.41"
   },
+  "182.237.221.37": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "45",
+    "regionName": "Jeollabuk-do",
+    "city": "Iksan",
+    "zip": "546",
+    "lat": 35.9579,
+    "lon": 126.9382,
+    "timezone": "Asia/Seoul",
+    "isp": "Keumgang Cable Network",
+    "org": "Kumgang Jungbotongsin(Gunsan)",
+    "as": "AS17583 Keumgang Cable Network",
+    "query": "182.237.221.37"
+  },
   "219.100.37.128": {
     "status": "success",
     "country": "Japan",
@@ -623,20 +639,20 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "94.245.147.84"
   },
-  "183.109.88.108": {
+  "46.53.149.175": {
     "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Yeongdeungpo-gu",
-    "zip": "074",
-    "lat": 37.4926,
-    "lon": 126.92,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "183.109.88.108"
+    "country": "Belarus",
+    "countryCode": "BY",
+    "region": "HM",
+    "regionName": "Minsk City",
+    "city": "Minsk",
+    "zip": "220040",
+    "lat": 53.901,
+    "lon": 27.5707,
+    "timezone": "Europe/Minsk",
+    "isp": "Unitary enterprise A1",
+    "org": "Unitary enterprise A1",
+    "as": "AS42772 Unitary enterprise A1",
+    "query": "46.53.149.175"
   }
 }
