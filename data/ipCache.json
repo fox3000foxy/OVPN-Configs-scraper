@@ -239,22 +239,6 @@
     "as": "AS45758 Triple T Broadband Public Company Limited",
     "query": "223.205.66.19"
   },
-  "80.44.212.7": {
-    "status": "success",
-    "country": "United Kingdom",
-    "countryCode": "GB",
-    "region": "ENG",
-    "regionName": "England",
-    "city": "Newcastle upon Tyne",
-    "zip": "NE1",
-    "lat": 54.9742,
-    "lon": -1.615,
-    "timezone": "Europe/London",
-    "isp": "TalkTalk",
-    "org": "TalkTalk Communications Limited",
-    "as": "AS13285 TalkTalk Communications Limited",
-    "query": "80.44.212.7"
-  },
   "219.100.37.4": {
     "status": "success",
     "country": "Japan",
@@ -270,6 +254,22 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.4"
+  },
+  "80.44.212.7": {
+    "status": "success",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "region": "ENG",
+    "regionName": "England",
+    "city": "Newcastle upon Tyne",
+    "zip": "NE1",
+    "lat": 54.9742,
+    "lon": -1.615,
+    "timezone": "Europe/London",
+    "isp": "TalkTalk",
+    "org": "TalkTalk Communications Limited",
+    "as": "AS13285 TalkTalk Communications Limited",
+    "query": "80.44.212.7"
   },
   "5.206.58.2": {
     "status": "success",
@@ -527,22 +527,6 @@
     "as": "AS2518 BIGLOBE Inc.",
     "query": "119.239.186.70"
   },
-  "1.238.83.71": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Suwon",
-    "zip": "165",
-    "lat": 37.2677,
-    "lon": 127.0457,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "1.238.83.71"
-  },
   "121.85.131.250": {
     "status": "success",
     "country": "Japan",
@@ -638,5 +622,21 @@
     "org": "Northern International University",
     "as": "AS34205 PJSC Rostelecom",
     "query": "212.14.195.153"
+  },
+  "121.66.55.168": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Busan",
+    "zip": "489",
+    "lat": 35.1025,
+    "lon": 129.0394,
+    "timezone": "Asia/Seoul",
+    "isp": "LG DACOM Corporation",
+    "org": "Boranet",
+    "as": "AS3786 LG DACOM Corporation",
+    "query": "121.66.55.168"
   }
 }
