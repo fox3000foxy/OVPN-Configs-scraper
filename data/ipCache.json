@@ -463,22 +463,6 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "153.176.50.180"
   },
-  "211.200.243.53": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "27",
-    "regionName": "Daegu",
-    "city": "Daegu",
-    "zip": "410",
-    "lat": 35.8908,
-    "lon": 128.6377,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "211.200.243.53"
-  },
   "119.175.224.182": {
     "status": "success",
     "country": "Japan",
