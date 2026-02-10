@@ -622,5 +622,21 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "121.130.225.99"
+  },
+  "212.14.195.153": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "MAG",
+    "regionName": "Magadan Oblast",
+    "city": "Magadan",
+    "zip": "685000",
+    "lat": 59.5686,
+    "lon": 150.8133,
+    "timezone": "Asia/Magadan",
+    "isp": "Telephone&Telegraph Station",
+    "org": "Northern International University",
+    "as": "AS34205 PJSC Rostelecom",
+    "query": "212.14.195.153"
   }
 }
