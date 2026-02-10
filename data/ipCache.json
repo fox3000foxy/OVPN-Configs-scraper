@@ -15,6 +15,22 @@
     "as": "AS20055 Wholesail networks LLC",
     "query": "50.47.103.146"
   },
+  "104.28.243.28": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Seoul",
+    "zip": "04524",
+    "lat": 37.5658,
+    "lon": 126.978,
+    "timezone": "Asia/Seoul",
+    "isp": "Cloudflare, Inc.",
+    "org": "Cloudflare WARP",
+    "as": "AS13335 Cloudflare, Inc.",
+    "query": "104.28.243.28"
+  },
   "60.73.214.202": {
     "status": "success",
     "country": "Japan",
@@ -254,22 +270,6 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.16"
-  },
-  "219.100.37.128": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftEther",
-    "org": "SoftEther Corporation",
-    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.128"
   },
   "103.152.178.62": {
     "status": "success",
@@ -527,37 +527,21 @@
     "as": "AS3786 LG DACOM Corporation",
     "query": "58.150.189.252"
   },
-  "121.153.15.137": {
+  "175.201.243.24": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
-    "region": "44",
-    "regionName": "Chungcheongnam-do",
-    "city": "Asan",
-    "zip": "315",
-    "lat": 36.7836,
-    "lon": 127.0042,
+    "region": "27",
+    "regionName": "Daegu",
+    "city": "Nam-gu",
+    "zip": "424",
+    "lat": 35.8385,
+    "lon": 128.5888,
     "timezone": "Asia/Seoul",
     "isp": "Korea Telecom",
-    "org": "Korea Telecom",
+    "org": "Kornet",
     "as": "AS4766 Korea Telecom",
-    "query": "121.153.15.137"
-  },
-  "175.122.73.80": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "31",
-    "regionName": "Ulsan",
-    "city": "Ulju-gun",
-    "zip": "449",
-    "lat": 35.4142,
-    "lon": 129.284,
-    "timezone": "Asia/Seoul",
-    "isp": "broadNnet",
-    "org": "",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "175.122.73.80"
+    "query": "175.201.243.24"
   },
   "95.170.177.6": {
     "status": "success",
