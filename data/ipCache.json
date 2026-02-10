@@ -543,22 +543,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "211.228.134.146"
   },
-  "119.175.138.115": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "12",
-    "regionName": "Chiba",
-    "city": "Matsudo",
-    "zip": "271-0091",
-    "lat": 35.7834,
-    "lon": 139.8958,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM Co., Ltd.",
-    "org": "JCOM Co., Ltd",
-    "as": "AS9824 JCOM Co., Ltd.",
-    "query": "119.175.138.115"
-  },
   "114.204.37.77": {
     "status": "success",
     "country": "South Korea",
