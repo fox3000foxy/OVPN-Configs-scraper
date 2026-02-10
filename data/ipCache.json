@@ -479,22 +479,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "14.42.68.244"
   },
-  "14.132.35.36": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "23",
-    "regionName": "Aichi",
-    "city": "Ichinomiya",
-    "zip": "491-0851",
-    "lat": 35.3082,
-    "lon": 136.8024,
-    "timezone": "Asia/Tokyo",
-    "isp": "Chubu Telecommunications Company, Inc.",
-    "org": "Chubu Telecommunications Co., Inc.",
-    "as": "AS18126 Chubu Telecommunications Company, Inc.",
-    "query": "14.132.35.36"
-  },
   "90.189.217.65": {
     "status": "success",
     "country": "Russia",
@@ -527,22 +511,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "59.27.157.137"
   },
-  "175.198.57.28": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Gangseo-gu",
-    "zip": "076",
-    "lat": 37.5438,
-    "lon": 126.8538,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "175.198.57.28"
-  },
   "59.23.0.74": {
     "status": "success",
     "country": "South Korea",
@@ -558,6 +526,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "59.23.0.74"
+  },
+  "175.198.57.28": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Gangseo-gu",
+    "zip": "076",
+    "lat": 37.5438,
+    "lon": 126.8538,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "175.198.57.28"
   },
   "112.167.13.148": {
     "status": "success",
@@ -655,6 +639,22 @@
     "as": "AS5089 Virgin Media Limited",
     "query": "80.3.208.251"
   },
+  "157.5.14.19": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "23",
+    "regionName": "Aichi",
+    "city": "Tōkai",
+    "zip": "477-0031",
+    "lat": 35.0206,
+    "lon": 136.9003,
+    "timezone": "Asia/Tokyo",
+    "isp": "Community Network Center Inc.",
+    "org": "Chita Medias Network INC.",
+    "as": "AS9354 Community Network Center Inc.",
+    "query": "157.5.14.19"
+  },
   "178.173.99.148": {
     "status": "success",
     "country": "Russia",
@@ -670,6 +670,22 @@
     "org": "POIG Ltd",
     "as": "AS47759 POIG Ltd.",
     "query": "178.173.99.148"
+  },
+  "49.109.128.242": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "21",
+    "regionName": "Gifu",
+    "city": "Kakamigahara",
+    "zip": "501-3142",
+    "lat": 35.4167,
+    "lon": 136.867,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Docomo, inc.",
+    "org": "NTTDoCoMo",
+    "as": "AS9605 NTT DOCOMO, INC.",
+    "query": "49.109.128.242"
   },
   "123.248.182.124": {
     "status": "success",
