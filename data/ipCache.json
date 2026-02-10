@@ -495,22 +495,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "121.106.148.235"
   },
-  "42.127.224.34": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "11",
-    "regionName": "Saitama",
-    "city": "Chūō",
-    "zip": "335-0001",
-    "lat": 35.8292,
-    "lon": 139.6789,
-    "timezone": "Asia/Tokyo",
-    "isp": "TOKAI Communications Corporation",
-    "org": "TOKAI Communications Corporation",
-    "as": "AS10010 TOKAI Communications Corporation",
-    "query": "42.127.224.34"
-  },
   "222.98.176.199": {
     "status": "success",
     "country": "South Korea",
@@ -543,21 +527,37 @@
     "as": "AS3786 LG DACOM Corporation",
     "query": "58.150.189.252"
   },
-  "175.201.243.24": {
+  "121.153.15.137": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
-    "region": "27",
-    "regionName": "Daegu",
-    "city": "Nam-gu",
-    "zip": "424",
-    "lat": 35.8385,
-    "lon": 128.5888,
+    "region": "44",
+    "regionName": "Chungcheongnam-do",
+    "city": "Asan",
+    "zip": "315",
+    "lat": 36.7836,
+    "lon": 127.0042,
     "timezone": "Asia/Seoul",
     "isp": "Korea Telecom",
-    "org": "Kornet",
+    "org": "Korea Telecom",
     "as": "AS4766 Korea Telecom",
-    "query": "175.201.243.24"
+    "query": "121.153.15.137"
+  },
+  "175.122.73.80": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "31",
+    "regionName": "Ulsan",
+    "city": "Ulju-gun",
+    "zip": "449",
+    "lat": 35.4142,
+    "lon": 129.284,
+    "timezone": "Asia/Seoul",
+    "isp": "broadNnet",
+    "org": "",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "175.122.73.80"
   },
   "95.170.177.6": {
     "status": "success",
@@ -574,21 +574,5 @@
     "org": "Axioma, LLC",
     "as": "AS39785 Axioma, LLC",
     "query": "95.170.177.6"
-  },
-  "222.236.200.106": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "43",
-    "regionName": "North Chungcheong",
-    "city": "Danyang-gun",
-    "zip": "270",
-    "lat": 36.9848,
-    "lon": 128.3735,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "222.236.200.106"
   }
 }
