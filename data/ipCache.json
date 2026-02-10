@@ -351,22 +351,6 @@
     "as": "AS25591 BCLan LLC",
     "query": "217.175.14.88"
   },
-  "60.141.171.131": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan Nation-wide Network of Softbank Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "60.141.171.131"
-  },
   "126.221.40.75": {
     "status": "success",
     "country": "Japan",
@@ -543,22 +527,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "59.16.219.106"
   },
-  "152.165.208.68": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "22",
-    "regionName": "Shizuoka",
-    "city": "Iwata",
-    "zip": "438-0061",
-    "lat": 34.7022,
-    "lon": 137.8269,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "152.165.208.68"
-  },
   "116.124.32.221": {
     "status": "success",
     "country": "South Korea",
@@ -671,21 +639,21 @@
     "as": "AS42038 Krivets Sergey Sergeevich",
     "query": "109.126.5.40"
   },
-  "49.238.254.93": {
+  "222.252.24.137": {
     "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Gwangmyeong",
-    "zip": "08390",
-    "lat": 37.4839,
-    "lon": 126.894,
-    "timezone": "Asia/Seoul",
-    "isp": "DREAMMARK1",
-    "org": "LXN",
-    "as": "AS17878 DREAMMARK1",
-    "query": "49.238.254.93"
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "HN",
+    "regionName": "Hanoi",
+    "city": "Hanoi",
+    "zip": "100000",
+    "lat": 21.0184,
+    "lon": 105.8461,
+    "timezone": "Asia/Bangkok",
+    "isp": "VietNam Post and Telecom Corporation",
+    "org": "Hanoi Post and Telecom Company",
+    "as": "AS45899 VNPT Corp",
+    "query": "222.252.24.137"
   },
   "92.49.178.91": {
     "status": "success",
@@ -702,5 +670,21 @@
     "org": "OJSC \"VolgaTelecom\"",
     "as": "AS12389 PJSC Rostelecom",
     "query": "92.49.178.91"
+  },
+  "79.105.222.224": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "AMU",
+    "regionName": "Amur Oblast",
+    "city": "Blagoveshchensk",
+    "zip": "675000",
+    "lat": 50.2828,
+    "lon": 127.5299,
+    "timezone": "Asia/Yakutsk",
+    "isp": "Rostelecom networks",
+    "org": "OJSC Far Eastern Telecommunications Company Amursky st.",
+    "as": "AS34137 PJSC Rostelecom",
+    "query": "79.105.222.224"
   }
 }
