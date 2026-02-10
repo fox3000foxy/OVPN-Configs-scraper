@@ -127,22 +127,6 @@
     "as": "AS17583 Keumgang Cable Network",
     "query": "182.237.221.37"
   },
-  "185.190.42.79": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "CHE",
-    "regionName": "Chelyabinsk Oblast",
-    "city": "Ozersk",
-    "zip": "456784",
-    "lat": 55.7585,
-    "lon": 60.7079,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "UKS",
-    "org": "",
-    "as": "AS48043 Ozyorsk Telecom CJSC.",
-    "query": "185.190.42.79"
-  },
   "42.116.114.23": {
     "status": "success",
     "country": "Vietnam",
@@ -158,6 +142,22 @@
     "org": "FPT-STATICIP",
     "as": "AS18403 FPT Telecom Company",
     "query": "42.116.114.23"
+  },
+  "185.190.42.79": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "CHE",
+    "regionName": "Chelyabinsk Oblast",
+    "city": "Ozersk",
+    "zip": "456784",
+    "lat": 55.7585,
+    "lon": 60.7079,
+    "timezone": "Asia/Yekaterinburg",
+    "isp": "UKS",
+    "org": "",
+    "as": "AS48043 Ozyorsk Telecom CJSC.",
+    "query": "185.190.42.79"
   },
   "211.192.121.212": {
     "status": "success",
@@ -415,22 +415,6 @@
     "as": "AS2518 BIGLOBE Inc.",
     "query": "119.241.124.219"
   },
-  "118.222.200.243": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "26",
-    "regionName": "Busan",
-    "city": "Gijang-gun",
-    "zip": "460",
-    "lat": 35.2751,
-    "lon": 129.2158,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "118.222.200.243"
-  },
   "219.100.37.50": {
     "status": "success",
     "country": "Japan",
@@ -686,21 +670,5 @@
     "org": "Comcast IP Services, L.L.C.",
     "as": "AS7922 Comcast Cable Communications, LLC",
     "query": "73.144.156.51"
-  },
-  "178.47.113.185": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KHM",
-    "regionName": "Khanty-Mansia",
-    "city": "Surgut",
-    "zip": "628400",
-    "lat": 61.2576,
-    "lon": 73.4177,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "OJSC uralsvyazinform",
-    "org": "Dynamic distribution IPs for broadband services",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "178.47.113.185"
   }
 }
