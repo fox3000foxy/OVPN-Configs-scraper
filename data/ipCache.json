@@ -159,22 +159,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "220.70.34.176"
   },
-  "80.44.212.7": {
-    "status": "success",
-    "country": "United Kingdom",
-    "countryCode": "GB",
-    "region": "ENG",
-    "regionName": "England",
-    "city": "Newcastle upon Tyne",
-    "zip": "NE1",
-    "lat": 54.9742,
-    "lon": -1.615,
-    "timezone": "Europe/London",
-    "isp": "TalkTalk",
-    "org": "TalkTalk Communications Limited",
-    "as": "AS13285 TalkTalk Communications Limited",
-    "query": "80.44.212.7"
-  },
   "219.147.27.214": {
     "status": "success",
     "country": "China",
@@ -270,6 +254,22 @@
     "org": "Triple T Broadband Public Company Limited",
     "as": "AS45758 Triple T Broadband Public Company Limited",
     "query": "223.205.66.19"
+  },
+  "80.44.212.7": {
+    "status": "success",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "region": "ENG",
+    "regionName": "England",
+    "city": "Newcastle upon Tyne",
+    "zip": "NE1",
+    "lat": 54.9742,
+    "lon": -1.615,
+    "timezone": "Europe/London",
+    "isp": "TalkTalk",
+    "org": "TalkTalk Communications Limited",
+    "as": "AS13285 TalkTalk Communications Limited",
+    "query": "80.44.212.7"
   },
   "219.100.37.4": {
     "status": "success",
@@ -431,22 +431,6 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "27.114.126.71"
   },
-  "61.26.8.101": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Higashimukōjima",
-    "zip": "131-0031",
-    "lat": 35.7357,
-    "lon": 139.8253,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM Co., Ltd.",
-    "org": "JCOM Co., Ltd",
-    "as": "AS9824 JCOM Co., Ltd.",
-    "query": "61.26.8.101"
-  },
   "219.100.37.109": {
     "status": "success",
     "country": "Japan",
@@ -462,6 +446,22 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.109"
+  },
+  "61.26.8.101": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Higashimukōjima",
+    "zip": "131-0031",
+    "lat": 35.7357,
+    "lon": 139.8253,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM Co., Ltd.",
+    "org": "JCOM Co., Ltd",
+    "as": "AS9824 JCOM Co., Ltd.",
+    "query": "61.26.8.101"
   },
   "114.30.200.147": {
     "status": "success",
@@ -575,6 +575,22 @@
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "59.170.49.124"
   },
+  "119.239.186.70": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "40",
+    "regionName": "Fukuoka",
+    "city": "Tsuchiana",
+    "zip": "811-4181",
+    "lat": 33.8156,
+    "lon": 130.5679,
+    "timezone": "Asia/Tokyo",
+    "isp": "NEC BIGLOBE Ltd.",
+    "org": "BIGLOBE",
+    "as": "AS2518 BIGLOBE Inc.",
+    "query": "119.239.186.70"
+  },
   "121.85.131.250": {
     "status": "success",
     "country": "Japan",
@@ -606,22 +622,6 @@
     "org": "Sony Network Communications Inc.",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "39.110.165.237"
-  },
-  "60.95.200.135": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan Nation-wide Network of Softbank Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "60.95.200.135"
   },
   "180.71.63.127": {
     "status": "success",
