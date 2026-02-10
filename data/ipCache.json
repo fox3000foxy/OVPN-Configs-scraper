@@ -271,6 +271,22 @@
     "as": "AS18126 Chubu Telecommunications Company, Inc.",
     "query": "180.197.203.57"
   },
+  "121.162.174.151": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Uijeongbu-si",
+    "zip": "117",
+    "lat": 37.7303,
+    "lon": 127.0672,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "121.162.174.151"
+  },
   "222.114.218.186": {
     "status": "success",
     "country": "South Korea",
@@ -447,22 +463,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "123.213.125.37"
   },
-  "58.125.209.98": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "49",
-    "regionName": "Jeju-do",
-    "city": "Jeju City",
-    "zip": "631",
-    "lat": 33.5109,
-    "lon": 126.5264,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "SK Broadband Co Ltd",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "58.125.209.98"
-  },
   "49.228.234.50": {
     "status": "success",
     "country": "Thailand",
@@ -478,22 +478,6 @@
     "org": "AIS Fibre",
     "as": "AS133481 AIS Fibre",
     "query": "49.228.234.50"
-  },
-  "121.144.100.82": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "26",
-    "regionName": "Busan",
-    "city": "Suyeong-gu",
-    "zip": "482",
-    "lat": 35.1513,
-    "lon": 129.1203,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "121.144.100.82"
   },
   "112.168.207.62": {
     "status": "success",
@@ -511,22 +495,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "112.168.207.62"
   },
-  "90.189.217.65": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "NVS",
-    "regionName": "Novosibirsk Oblast",
-    "city": "Novosibirsk",
-    "zip": "630000",
-    "lat": 55.0226,
-    "lon": 82.9317,
-    "timezone": "Asia/Novosibirsk",
-    "isp": "Rostelecom networks",
-    "org": "OJSC Sibirtelecom",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "90.189.217.65"
-  },
   "14.42.68.244": {
     "status": "success",
     "country": "South Korea",
@@ -542,6 +510,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "14.42.68.244"
+  },
+  "90.189.217.65": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "NVS",
+    "regionName": "Novosibirsk Oblast",
+    "city": "Novosibirsk",
+    "zip": "630000",
+    "lat": 55.0226,
+    "lon": 82.9317,
+    "timezone": "Asia/Novosibirsk",
+    "isp": "Rostelecom networks",
+    "org": "OJSC Sibirtelecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "90.189.217.65"
   },
   "220.89.6.221": {
     "status": "success",
@@ -591,22 +575,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "14.34.241.134"
   },
-  "218.38.253.108": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Yongin-si",
-    "zip": "169",
-    "lat": 37.298,
-    "lon": 127.0777,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "218.38.253.108"
-  },
   "116.124.32.221": {
     "status": "success",
     "country": "South Korea",
@@ -623,6 +591,22 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "116.124.32.221"
   },
+  "218.38.253.108": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Yongin-si",
+    "zip": "169",
+    "lat": 37.298,
+    "lon": 127.0777,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "218.38.253.108"
+  },
   "188.232.151.68": {
     "status": "success",
     "country": "Russia",
@@ -638,6 +622,22 @@
     "org": "CJSC \"ER-Telecom Holding\" Omsk Branch",
     "as": "AS41843 JSC ER-Telecom Holding",
     "query": "188.232.151.68"
+  },
+  "212.164.64.180": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "NVS",
+    "regionName": "Novosibirsk Oblast",
+    "city": "Novosibirsk",
+    "zip": "630000",
+    "lat": 55.0226,
+    "lon": 82.9317,
+    "timezone": "Asia/Novosibirsk",
+    "isp": "Rostelecom networks",
+    "org": "OJSC Sibirtelecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "212.164.64.180"
   },
   "31.148.112.45": {
     "status": "success",
@@ -671,6 +671,22 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "77.35.162.201"
   },
+  "118.71.221.179": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "",
+    "regionName": "Ho Chi Minh City (HCMC)",
+    "city": "Thủ Đức",
+    "zip": "",
+    "lat": 10.8486,
+    "lon": 106.772,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "isp": "fpt",
+    "org": "",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "118.71.221.179"
+  },
   "109.126.5.40": {
     "status": "success",
     "country": "Russia",
@@ -687,20 +703,20 @@
     "as": "AS42038 Krivets Sergey Sergeevich",
     "query": "109.126.5.40"
   },
-  "5.137.188.220": {
+  "49.238.254.93": {
     "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "NVS",
-    "regionName": "Novosibirsk Oblast",
-    "city": "Novosibirsk",
-    "zip": "630000",
-    "lat": 55.0226,
-    "lon": 82.9317,
-    "timezone": "Asia/Novosibirsk",
-    "isp": "Rostelecom networks",
-    "org": "JSC Rostelecom regional branch Siberia",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "5.137.188.220"
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Gwangmyeong",
+    "zip": "08390",
+    "lat": 37.4839,
+    "lon": 126.894,
+    "timezone": "Asia/Seoul",
+    "isp": "DREAMMARK1",
+    "org": "LXN",
+    "as": "AS17878 DREAMMARK1",
+    "query": "49.238.254.93"
   }
 }
