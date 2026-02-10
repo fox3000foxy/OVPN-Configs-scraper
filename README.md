@@ -115,7 +115,6 @@ Or download individually:
 ### Vietnam
 | IP | Country | ISP | Provider | Config |
 |---|---|---|---|---|
-| 1.53.243.255 | Vietnam | FPT Telecom Company | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/1.53.243.255.ovpn) |
 | 1.52.244.74 | Vietnam | FPT Telecom Company | VPNGate | [Download](https://raw.githubusercontent.com/fox3000foxy/OVPN-Configs-scraper/refs/heads/main/data/configs/1.52.244.74.ovpn) |
 
 > **Tip**: For the full list, check the `data/configs/` folder after running the scraper.

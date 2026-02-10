@@ -159,22 +159,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.126"
   },
-  "103.152.178.62": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-0001",
-    "lat": 35.694,
-    "lon": 139.754,
-    "timezone": "Asia/Tokyo",
-    "isp": "Ayao Takata",
-    "org": "SDCC-East01",
-    "as": "AS38074 SDCC Japan-West Area",
-    "query": "103.152.178.62"
-  },
   "219.100.37.16": {
     "status": "success",
     "country": "Japan",
@@ -222,6 +206,22 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.128"
+  },
+  "103.152.178.62": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-0001",
+    "lat": 35.694,
+    "lon": 139.754,
+    "timezone": "Asia/Tokyo",
+    "isp": "Ayao Takata",
+    "org": "SDCC-East01",
+    "as": "AS38074 SDCC Japan-West Area",
+    "query": "103.152.178.62"
   },
   "27.83.68.134": {
     "status": "success",
@@ -558,22 +558,6 @@
     "org": "Rogers Cable Inc. MTMK",
     "as": "AS812 Rogers Communications Canada Inc.",
     "query": "99.247.99.250"
-  },
-  "1.53.243.255": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "SG",
-    "regionName": "Ho Chi Minh",
-    "city": "Ho Chi Minh City",
-    "zip": "700000",
-    "lat": 10.822,
-    "lon": 106.6257,
-    "timezone": "Asia/Ho_Chi_Minh",
-    "isp": "FPT Telecom Company",
-    "org": "Vietnam Internet Network Information Center",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "1.53.243.255"
   },
   "211.228.134.146": {
     "status": "success",
