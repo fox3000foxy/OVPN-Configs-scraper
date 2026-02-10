@@ -15,22 +15,6 @@
     "as": "AS7922 Comcast Cable Communications, LLC",
     "query": "76.148.153.54"
   },
-  "114.35.64.20": {
-    "status": "success",
-    "country": "Taiwan",
-    "countryCode": "TW",
-    "region": "NWT",
-    "regionName": "New Taipei City",
-    "city": "New Taipei City",
-    "zip": "",
-    "lat": 25.0693,
-    "lon": 121.4626,
-    "timezone": "Asia/Taipei",
-    "isp": "Chunghwa Telecom Co., Ltd.",
-    "org": "Chunghwa Telecom Co. Ltd.",
-    "as": "AS3462 Data Communication Business Group",
-    "query": "114.35.64.20"
-  },
   "106.156.91.45": {
     "status": "success",
     "country": "Japan",
@@ -335,22 +319,6 @@
     "as": "AS42610 PJSC Rostelecom",
     "query": "95.84.132.179"
   },
-  "219.100.37.109": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftEther",
-    "org": "SoftEther Corporation",
-    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.109"
-  },
   "175.177.49.114": {
     "status": "success",
     "country": "Japan",
@@ -366,6 +334,22 @@
     "org": "its communications Inc.",
     "as": "AS9365 its communications Inc.",
     "query": "175.177.49.114"
+  },
+  "219.100.37.109": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftEther",
+    "org": "SoftEther Corporation",
+    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
+    "query": "219.100.37.109"
   },
   "79.105.223.157": {
     "status": "success",
@@ -542,6 +526,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "183.103.128.211"
+  },
+  "210.170.11.50": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "10",
+    "regionName": "Gunma",
+    "city": "Maebashi",
+    "zip": "371-0031",
+    "lat": 36.404,
+    "lon": 139.0591,
+    "timezone": "Asia/Tokyo",
+    "isp": "ARTERIA Networks Corporation",
+    "org": "ARTERIA Networks Corporation",
+    "as": "AS2519 ARTERIA Networks Corporation",
+    "query": "210.170.11.50"
   },
   "115.22.37.109": {
     "status": "success",
