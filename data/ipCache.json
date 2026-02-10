@@ -463,22 +463,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "123.213.125.37"
   },
-  "119.175.44.34": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "40",
-    "regionName": "Fukuoka",
-    "city": "Daimyō",
-    "zip": "810-0041",
-    "lat": 33.5883,
-    "lon": 130.3889,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM Co., Ltd.",
-    "org": "JCOM Co., Ltd",
-    "as": "AS9824 JCOM Co., Ltd.",
-    "query": "119.175.44.34"
-  },
   "221.144.53.202": {
     "status": "success",
     "country": "South Korea",
