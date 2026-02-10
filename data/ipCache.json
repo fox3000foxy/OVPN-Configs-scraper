@@ -143,22 +143,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.208"
   },
-  "1.66.33.240": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Osaka",
-    "zip": "530-0041",
-    "lat": 34.6967,
-    "lon": 135.5154,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Docomo, inc.",
-    "org": "NTTDoCoMo",
-    "as": "AS9605 NTT DOCOMO, INC.",
-    "query": "1.66.33.240"
-  },
   "219.100.37.204": {
     "status": "success",
     "country": "Japan",
@@ -303,6 +287,38 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.50"
   },
+  "152.165.208.68": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "22",
+    "regionName": "Shizuoka",
+    "city": "Iwata",
+    "zip": "438-0061",
+    "lat": 34.7022,
+    "lon": 137.8269,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "152.165.208.68"
+  },
+  "119.173.41.25": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Komone",
+    "zip": "173-0031",
+    "lat": 35.7458,
+    "lon": 139.6911,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM Co., Ltd.",
+    "org": "JCOM Co., Ltd",
+    "as": "AS9824 JCOM Co., Ltd.",
+    "query": "119.173.41.25"
+  },
   "58.136.88.65": {
     "status": "success",
     "country": "Thailand",
@@ -335,22 +351,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "221.144.197.228"
   },
-  "111.97.191.114": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0071",
-    "lat": 35.6837,
-    "lon": 139.6805,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "111.97.191.114"
-  },
   "211.44.188.45": {
     "status": "success",
     "country": "South Korea",
@@ -367,6 +367,22 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "211.44.188.45"
   },
+  "111.97.191.114": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tokyo",
+    "zip": "151-0071",
+    "lat": 35.6837,
+    "lon": 139.6805,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "111.97.191.114"
+  },
   "126.235.215.236": {
     "status": "success",
     "country": "Japan",
@@ -382,22 +398,6 @@
     "org": "SOFTBANK Corp",
     "as": "AS17676 SoftBank Corp.",
     "query": "126.235.215.236"
-  },
-  "124.47.125.245": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "33",
-    "regionName": "Okayama",
-    "city": "Kurashiki",
-    "zip": "710-0841",
-    "lat": 34.5772,
-    "lon": 133.7607,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kurashiki Cable TV",
-    "org": "Kurashiki Cable TV Corporation",
-    "as": "AS9622 Kurashiki Cable TV",
-    "query": "124.47.125.245"
   },
   "163.58.201.94": {
     "status": "success",
@@ -431,22 +431,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "58.125.209.98"
   },
-  "220.100.45.229": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Yokohama",
-    "zip": "231-0841",
-    "lat": 35.4337,
-    "lon": 139.6499,
-    "timezone": "Asia/Tokyo",
-    "isp": "Internet Initiative Japan",
-    "org": "Internet Initiative Japan Inc.",
-    "as": "AS2497 Internet Initiative Japan Inc.",
-    "query": "220.100.45.229"
-  },
   "112.185.246.157": {
     "status": "success",
     "country": "South Korea",
@@ -463,6 +447,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "112.185.246.157"
   },
+  "27.139.106.9": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Shinjuku",
+    "zip": "160-0021",
+    "lat": 35.6918,
+    "lon": 139.7002,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM Co., Ltd.",
+    "org": "Jupiter Telecommunication Co. Ltd",
+    "as": "AS9824 JCOM Co., Ltd.",
+    "query": "27.139.106.9"
+  },
   "60.105.147.180": {
     "status": "success",
     "country": "Japan",
@@ -478,6 +478,22 @@
     "org": "Japan Nation-wide Network of Softbank Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "60.105.147.180"
+  },
+  "220.146.147.20": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tokyo",
+    "zip": "151-0071",
+    "lat": 35.6837,
+    "lon": 139.6805,
+    "timezone": "Asia/Tokyo",
+    "isp": "ASAHI Net, Inc.",
+    "org": "ASAHI",
+    "as": "AS4685 Asahi Net",
+    "query": "220.146.147.20"
   },
   "90.189.217.65": {
     "status": "success",
@@ -638,6 +654,22 @@
     "org": "",
     "as": "AS33991 Igra-Service LLC",
     "query": "91.132.20.29"
+  },
+  "80.3.208.251": {
+    "status": "success",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "region": "ENG",
+    "regionName": "England",
+    "city": "Gateshead",
+    "zip": "NE9",
+    "lat": 54.9313,
+    "lon": -1.5855,
+    "timezone": "Europe/London",
+    "isp": "Virgin Media",
+    "org": "",
+    "as": "AS5089 Virgin Media Limited",
+    "query": "80.3.208.251"
   },
   "157.5.14.19": {
     "status": "success",
