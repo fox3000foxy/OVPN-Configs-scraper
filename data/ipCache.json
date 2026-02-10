@@ -303,22 +303,6 @@
     "as": "AS25591 BCLan LLC",
     "query": "217.175.14.88"
   },
-  "152.165.208.68": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "22",
-    "regionName": "Shizuoka",
-    "city": "Iwata",
-    "zip": "438-0061",
-    "lat": 34.7022,
-    "lon": 137.8269,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "152.165.208.68"
-  },
   "60.141.171.131": {
     "status": "success",
     "country": "Japan",
@@ -334,6 +318,22 @@
     "org": "Japan Nation-wide Network of Softbank Corp.",
     "as": "AS17676 SoftBank Corp.",
     "query": "60.141.171.131"
+  },
+  "152.165.208.68": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "22",
+    "regionName": "Shizuoka",
+    "city": "Iwata",
+    "zip": "438-0061",
+    "lat": 34.7022,
+    "lon": 137.8269,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "152.165.208.68"
   },
   "126.221.40.75": {
     "status": "success",
@@ -591,22 +591,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "14.34.241.134"
   },
-  "116.41.82.188": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Seocho-gu",
-    "zip": "065",
-    "lat": 37.5015,
-    "lon": 127.0013,
-    "timezone": "Asia/Seoul",
-    "isp": "LG POWERCOMM",
-    "org": "Xpeed",
-    "as": "AS17858 LG POWERCOMM",
-    "query": "116.41.82.188"
-  },
   "218.38.253.108": {
     "status": "success",
     "country": "South Korea",
@@ -622,6 +606,22 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "218.38.253.108"
+  },
+  "116.124.32.221": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "45",
+    "regionName": "Jeollabuk-do",
+    "city": "Wanju",
+    "zip": "553",
+    "lat": 35.8343,
+    "lon": 127.0419,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "116.124.32.221"
   },
   "188.232.151.68": {
     "status": "success",
