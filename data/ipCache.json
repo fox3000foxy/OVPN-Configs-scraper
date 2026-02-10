@@ -255,22 +255,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "119.196.49.82"
   },
-  "61.197.104.210": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT PC Communications, Inc.",
-    "org": "InfoSphere",
-    "as": "AS2514 NTT PC Communications, Inc.",
-    "query": "61.197.104.210"
-  },
   "1.240.128.118": {
     "status": "success",
     "country": "South Korea",
@@ -430,6 +414,22 @@
     "org": "SK Broadband Co Ltd",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "211.44.188.45"
+  },
+  "58.136.151.13": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "10",
+    "regionName": "Bangkok",
+    "city": "Bangkok",
+    "zip": "10310",
+    "lat": 13.7749,
+    "lon": 100.5197,
+    "timezone": "Asia/Bangkok",
+    "isp": "AIS-Fibre",
+    "org": "",
+    "as": "AS133481 AIS Fibre",
+    "query": "58.136.151.13"
   },
   "124.47.125.245": {
     "status": "success",
@@ -766,5 +766,21 @@
     "org": "Jupiter Telecommunications Co., Ltd.",
     "as": "AS9617 JCOM Co., Ltd.",
     "query": "61.46.241.156"
+  },
+  "24.130.208.249": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA",
+    "regionName": "California",
+    "city": "Sunnyvale",
+    "zip": "94085",
+    "lat": 37.386,
+    "lon": -122.0144,
+    "timezone": "America/Los_Angeles",
+    "isp": "Comcast Cable Communications",
+    "org": "Comcast Cable Communications Holdings, Inc",
+    "as": "AS7922 Comcast Cable Communications, LLC",
+    "query": "24.130.208.249"
   }
 }
