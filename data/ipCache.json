@@ -47,6 +47,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.15"
   },
+  "211.193.209.77": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Jwacheon-dong",
+    "zip": "601-826",
+    "lat": 35.1344,
+    "lon": 129.054,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "211.193.209.77"
+  },
   "219.100.37.126": {
     "status": "success",
     "country": "Japan",
@@ -222,6 +238,22 @@
     "org": "Chubu Telecommunications Co., Inc.",
     "as": "AS18126 Chubu Telecommunications Company, Inc.",
     "query": "180.197.203.57"
+  },
+  "1.240.128.118": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Dobong-gu",
+    "zip": "014",
+    "lat": 37.639,
+    "lon": 127.034,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "1.240.128.118"
   },
   "121.162.174.151": {
     "status": "success",
@@ -495,22 +527,6 @@
     "as": "AS4685 Asahi Net",
     "query": "220.146.147.20"
   },
-  "90.189.217.65": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "NVS",
-    "regionName": "Novosibirsk Oblast",
-    "city": "Novosibirsk",
-    "zip": "630000",
-    "lat": 55.0226,
-    "lon": 82.9317,
-    "timezone": "Asia/Novosibirsk",
-    "isp": "Rostelecom networks",
-    "org": "OJSC Sibirtelecom",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "90.189.217.65"
-  },
   "14.42.68.244": {
     "status": "success",
     "country": "South Korea",
@@ -526,6 +542,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "14.42.68.244"
+  },
+  "90.189.217.65": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "NVS",
+    "regionName": "Novosibirsk Oblast",
+    "city": "Novosibirsk",
+    "zip": "630000",
+    "lat": 55.0226,
+    "lon": 82.9317,
+    "timezone": "Asia/Novosibirsk",
+    "isp": "Rostelecom networks",
+    "org": "OJSC Sibirtelecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "90.189.217.65"
   },
   "175.198.57.28": {
     "status": "success",
@@ -734,5 +766,21 @@
     "org": "HVGyeongnam",
     "as": "AS9845 LG HelloVision Corp.",
     "query": "123.248.182.124"
+  },
+  "171.246.86.141": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "CT",
+    "regionName": "Can Tho",
+    "city": "Quận Ninh Kiều",
+    "zip": "090249",
+    "lat": 10.0323,
+    "lon": 105.7639,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "isp": "Viettel Corporation",
+    "org": "VIETEL",
+    "as": "AS7552 Viettel Group",
+    "query": "171.246.86.141"
   }
 }
