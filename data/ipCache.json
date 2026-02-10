@@ -191,22 +191,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "175.209.13.17"
   },
-  "219.100.37.4": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftEther",
-    "org": "SoftEther Corporation",
-    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.4"
-  },
   "219.100.37.15": {
     "status": "success",
     "country": "Japan",
@@ -222,6 +206,22 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.15"
+  },
+  "219.100.37.4": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftEther",
+    "org": "SoftEther Corporation",
+    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
+    "query": "219.100.37.4"
   },
   "118.33.153.180": {
     "status": "success",
@@ -574,22 +574,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "175.201.243.24"
-  },
-  "133.149.90.83": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "21",
-    "regionName": "Gifu",
-    "city": "Gifu",
-    "zip": "500-8821",
-    "lat": 35.4256,
-    "lon": 136.7614,
-    "timezone": "Asia/Tokyo",
-    "isp": "om-nix",
-    "org": "Marubeni OKI Network Solutions Inc.",
-    "as": "AS9354 Community Network Center Inc.",
-    "query": "133.149.90.83"
   },
   "95.170.177.6": {
     "status": "success",
