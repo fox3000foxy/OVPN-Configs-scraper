@@ -159,6 +159,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.82"
   },
+  "1.229.239.249": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Nowon-gu",
+    "zip": "017",
+    "lat": 37.6537,
+    "lon": 127.0717,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "1.229.239.249"
+  },
   "219.147.27.214": {
     "status": "success",
     "country": "China",
@@ -302,22 +318,6 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.16"
-  },
-  "133.209.158.229": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0071",
-    "lat": 35.6837,
-    "lon": 139.6805,
-    "timezone": "Asia/Tokyo",
-    "isp": "BIGLOBE Inc.",
-    "org": "NEC BIGLOBE Ltd.",
-    "as": "AS2518 BIGLOBE Inc.",
-    "query": "133.209.158.229"
   },
   "1.66.33.240": {
     "status": "success",
@@ -606,6 +606,22 @@
     "org": "Northern International University",
     "as": "AS34205 PJSC Rostelecom",
     "query": "212.14.195.153"
+  },
+  "69.173.185.121": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA",
+    "regionName": "California",
+    "city": "Phelan",
+    "zip": "92371",
+    "lat": 34.4449,
+    "lon": -117.5196,
+    "timezone": "America/Los_Angeles",
+    "isp": "Race Tech, LLC",
+    "org": "Race Technologies, Inc",
+    "as": "AS30041 Race Tech, LLC",
+    "query": "69.173.185.121"
   },
   "121.66.55.168": {
     "status": "success",
