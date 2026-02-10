@@ -207,22 +207,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "119.196.49.82"
   },
-  "180.197.203.57": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "20",
-    "regionName": "Nagano",
-    "city": "Matsumoto",
-    "zip": "390-0811",
-    "lat": 36.2345,
-    "lon": 137.9746,
-    "timezone": "Asia/Tokyo",
-    "isp": "Chubu Telecommunications Company, Inc.",
-    "org": "Chubu Telecommunications Co., Inc.",
-    "as": "AS18126 Chubu Telecommunications Company, Inc.",
-    "query": "180.197.203.57"
-  },
   "61.197.104.210": {
     "status": "success",
     "country": "Japan",
@@ -238,6 +222,22 @@
     "org": "InfoSphere",
     "as": "AS2514 NTT PC Communications, Inc.",
     "query": "61.197.104.210"
+  },
+  "180.197.203.57": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "20",
+    "regionName": "Nagano",
+    "city": "Matsumoto",
+    "zip": "390-0811",
+    "lat": 36.2345,
+    "lon": 137.9746,
+    "timezone": "Asia/Tokyo",
+    "isp": "Chubu Telecommunications Company, Inc.",
+    "org": "Chubu Telecommunications Co., Inc.",
+    "as": "AS18126 Chubu Telecommunications Company, Inc.",
+    "query": "180.197.203.57"
   },
   "121.162.174.151": {
     "status": "success",
@@ -622,6 +622,22 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "218.49.3.43"
+  },
+  "49.238.254.93": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Gwangmyeong",
+    "zip": "08390",
+    "lat": 37.4839,
+    "lon": 126.894,
+    "timezone": "Asia/Seoul",
+    "isp": "DREAMMARK1",
+    "org": "LXN",
+    "as": "AS17878 DREAMMARK1",
+    "query": "49.238.254.93"
   },
   "91.132.20.29": {
     "status": "success",
