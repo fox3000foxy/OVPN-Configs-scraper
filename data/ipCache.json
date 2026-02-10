@@ -223,21 +223,21 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.208"
   },
-  "91.219.203.117": {
+  "79.105.223.157": {
     "status": "success",
     "country": "Russia",
     "countryCode": "RU",
-    "region": "PER",
-    "regionName": "Perm Krai",
-    "city": "Lys'va",
-    "zip": "618900",
-    "lat": 58.1004,
-    "lon": 57.8043,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "KVARTAL",
-    "org": "Lukjanova Lydia Andreevna PE",
-    "as": "AS59533 Lukyanov Evgeniy Vladimirovich PE",
-    "query": "91.219.203.117"
+    "region": "AMU",
+    "regionName": "Amur Oblast",
+    "city": "Blagoveshchensk",
+    "zip": "675000",
+    "lat": 50.2828,
+    "lon": 127.5299,
+    "timezone": "Asia/Yakutsk",
+    "isp": "Rostelecom networks",
+    "org": "OJSC Far Eastern Telecommunications Company Amursky st.",
+    "as": "AS34137 PJSC Rostelecom",
+    "query": "79.105.223.157"
   },
   "115.37.29.195": {
     "status": "success",
@@ -511,22 +511,6 @@
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "119.175.224.182"
   },
-  "58.186.63.78": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "HN",
-    "regionName": "Hanoi",
-    "city": "Hanoi",
-    "zip": "",
-    "lat": 21.0278,
-    "lon": 105.834,
-    "timezone": "Asia/Bangkok",
-    "isp": "FPT Telecom Company",
-    "org": "Vietnam Internet Network Information Center",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "58.186.63.78"
-  },
   "192.145.96.207": {
     "status": "success",
     "country": "Russia",
@@ -542,22 +526,6 @@
     "org": "Telezon",
     "as": "AS34858 Telezon-Seti LLC",
     "query": "192.145.96.207"
-  },
-  "190.120.228.141": {
-    "status": "success",
-    "country": "Argentina",
-    "countryCode": "AR",
-    "region": "C",
-    "regionName": "Buenos Aires F.D.",
-    "city": "Buenos Aires",
-    "zip": "1871",
-    "lat": -34.6037,
-    "lon": -58.3821,
-    "timezone": "America/Argentina/Buenos_Aires",
-    "isp": "Prilz Colombia",
-    "org": "IPXON Networks Argentina - Buenos Aires [AR-EZE]",
-    "as": "AS263812 SONDATECH S.A.S.",
-    "query": "190.120.228.141"
   },
   "210.99.65.21": {
     "status": "success",
@@ -590,6 +558,22 @@
     "org": "Korea Telecom",
     "as": "AS4766 Korea Telecom",
     "query": "121.152.86.122"
+  },
+  "146.103.100.180": {
+    "status": "success",
+    "country": "The Netherlands",
+    "countryCode": "NL",
+    "region": "NH",
+    "regionName": "North Holland",
+    "city": "Amsterdam",
+    "zip": "1012",
+    "lat": 52.3759,
+    "lon": 4.8975,
+    "timezone": "Europe/Amsterdam",
+    "isp": "Servers Tech Fzco",
+    "org": "Servers Tech Fzco",
+    "as": "AS216071 SERVERS TECH FZCO",
+    "query": "146.103.100.180"
   },
   "58.228.35.23": {
     "status": "success",
