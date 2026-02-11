@@ -447,22 +447,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "131.213.224.43"
   },
-  "60.71.229.57": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan Nation-wide Network of Softbank Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "60.71.229.57"
-  },
   "212.14.195.153": {
     "status": "success",
     "country": "Russia",
@@ -478,6 +462,22 @@
     "org": "Northern International University",
     "as": "AS34205 PJSC Rostelecom",
     "query": "212.14.195.153"
+  },
+  "60.71.229.57": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.71.229.57"
   },
   "125.11.100.23": {
     "status": "success",
@@ -558,6 +558,22 @@
     "org": "",
     "as": "AS42610 PJSC Rostelecom",
     "query": "37.110.83.193"
+  },
+  "157.15.116.179": {
+    "status": "success",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "region": "SU",
+    "regionName": "North Sumatra",
+    "city": "Medan",
+    "zip": "",
+    "lat": 3.58333,
+    "lon": 98.6667,
+    "timezone": "Asia/Jakarta",
+    "isp": "PT Trias Infra Sarana",
+    "org": "PT Trias Infra Sarana",
+    "as": "AS152372 PT Trias Infra Sarana",
+    "query": "157.15.116.179"
   },
   "1.177.124.54": {
     "status": "success",
@@ -686,21 +702,5 @@
     "org": "",
     "as": "AS8369 Intersvyaz-2 JSC",
     "query": "88.206.39.114"
-  },
-  "119.235.113.226": {
-    "status": "success",
-    "country": "Turkmenistan",
-    "countryCode": "TM",
-    "region": "S",
-    "regionName": "Ashgabat",
-    "city": "Ashgabat",
-    "zip": "",
-    "lat": 37.9601,
-    "lon": 58.3261,
-    "timezone": "Asia/Ashgabat",
-    "isp": "State Company of Electro Communications Turkmentelecom",
-    "org": "State Company of Electro Communications Turkmentelecom",
-    "as": "AS20661 State Company of Electro Communications Turkmentelecom",
-    "query": "119.235.113.226"
   }
 }
