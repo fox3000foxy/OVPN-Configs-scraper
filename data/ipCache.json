@@ -111,22 +111,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "112.170.21.41"
   },
-  "223.205.66.19": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "20",
-    "regionName": "Chon Buri",
-    "city": "Bang Lamung",
-    "zip": "20150",
-    "lat": 13.0508,
-    "lon": 100.9367,
-    "timezone": "Asia/Bangkok",
-    "isp": "Triple T Broadband Public Company Limited",
-    "org": "Triple T Broadband Public Company Limited",
-    "as": "AS45758 Triple T Broadband Public Company Limited",
-    "query": "223.205.66.19"
-  },
   "219.100.37.126": {
     "status": "success",
     "country": "Japan",
@@ -142,6 +126,22 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.126"
+  },
+  "223.205.66.19": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "20",
+    "regionName": "Chon Buri",
+    "city": "Bang Lamung",
+    "zip": "20150",
+    "lat": 13.0508,
+    "lon": 100.9367,
+    "timezone": "Asia/Bangkok",
+    "isp": "Triple T Broadband Public Company Limited",
+    "org": "Triple T Broadband Public Company Limited",
+    "as": "AS45758 Triple T Broadband Public Company Limited",
+    "query": "223.205.66.19"
   },
   "125.129.85.155": {
     "status": "success",
@@ -271,6 +271,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.165.121.91"
   },
+  "1.66.33.240": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Osaka",
+    "zip": "530-0041",
+    "lat": 34.6967,
+    "lon": 135.5154,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Docomo, inc.",
+    "org": "NTTDoCoMo",
+    "as": "AS9605 NTT DOCOMO, INC.",
+    "query": "1.66.33.240"
+  },
   "14.11.147.128": {
     "status": "success",
     "country": "Japan",
@@ -383,22 +399,6 @@
     "as": "AS34896 Vostoktelecom Telephone Company Limited Liability Company",
     "query": "85.15.125.103"
   },
-  "131.213.224.43": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "01",
-    "regionName": "Hokkaido",
-    "city": "Sapporo",
-    "zip": "064-0801",
-    "lat": 43.0456,
-    "lon": 141.3522,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc.",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "131.213.224.43"
-  },
   "223.204.248.36": {
     "status": "success",
     "country": "Thailand",
@@ -414,6 +414,22 @@
     "org": "Triple T Broadband Public Company Limited",
     "as": "AS45758 Triple T Broadband Public Company Limited",
     "query": "223.204.248.36"
+  },
+  "131.213.224.43": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "01",
+    "regionName": "Hokkaido",
+    "city": "Sapporo",
+    "zip": "064-0801",
+    "lat": 43.0456,
+    "lon": 141.3522,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc.",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "131.213.224.43"
   },
   "60.71.229.57": {
     "status": "success",
@@ -479,22 +495,6 @@
     "as": "AS34205 PJSC Rostelecom",
     "query": "212.14.195.153"
   },
-  "1.54.24.106": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "69",
-    "regionName": "Thái Nguyên Province",
-    "city": "Thái Nguyên",
-    "zip": "250000",
-    "lat": 21.5941,
-    "lon": 105.8432,
-    "timezone": "Asia/Bangkok",
-    "isp": "FPT Telecom Company",
-    "org": "Vietnam Internet Network Information Center",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "1.54.24.106"
-  },
   "220.74.120.104": {
     "status": "success",
     "country": "South Korea",
@@ -542,6 +542,22 @@
     "org": "",
     "as": "AS42610 PJSC Rostelecom",
     "query": "37.110.83.193"
+  },
+  "36.71.140.96": {
+    "status": "success",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "region": "SU",
+    "regionName": "North Sumatra",
+    "city": "Medan",
+    "zip": "20122",
+    "lat": 3.6178,
+    "lon": 98.6665,
+    "timezone": "Asia/Jakarta",
+    "isp": "PT. TELKOM INDONESIA",
+    "org": "",
+    "as": "AS7713 PT Telekomunikasi Indonesia",
+    "query": "36.71.140.96"
   },
   "1.177.124.54": {
     "status": "success",
@@ -686,21 +702,5 @@
     "org": "State Company of Electro Communications Turkmentelecom",
     "as": "AS20661 State Company of Electro Communications Turkmentelecom",
     "query": "119.235.113.226"
-  },
-  "49.163.26.171": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Pocheon-si",
-    "zip": "11147",
-    "lat": 37.8927,
-    "lon": 127.2009,
-    "timezone": "Asia/Seoul",
-    "isp": "LG POWERCOMM",
-    "org": "LG POWERCOMM",
-    "as": "AS17858 LG POWERCOMM",
-    "query": "49.163.26.171"
   }
 }
