@@ -47,22 +47,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.82"
   },
-  "219.100.37.4": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftEther",
-    "org": "SoftEther Corporation",
-    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.4"
-  },
   "121.142.148.62": {
     "status": "success",
     "country": "South Korea",
@@ -78,6 +62,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "121.142.148.62"
+  },
+  "219.100.37.4": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftEther",
+    "org": "SoftEther Corporation",
+    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
+    "query": "219.100.37.4"
   },
   "106.243.71.229": {
     "status": "success",
@@ -143,21 +143,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "112.170.21.41"
   },
-  "219.100.37.126": {
+  "125.129.85.155": {
     "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftEther",
-    "org": "SoftEther Corporation",
-    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.126"
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Jungnang-gu",
+    "zip": "021",
+    "lat": 37.5859,
+    "lon": 127.1029,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "125.129.85.155"
   },
   "103.152.178.62": {
     "status": "success",
@@ -175,7 +175,7 @@
     "as": "AS38074 SDCC Japan-West Area",
     "query": "103.152.178.62"
   },
-  "219.100.37.16": {
+  "219.100.37.126": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
@@ -189,23 +189,7 @@
     "isp": "SoftEther",
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.16"
-  },
-  "125.129.85.155": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Jungnang-gu",
-    "zip": "021",
-    "lat": 37.5859,
-    "lon": 127.1029,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "125.129.85.155"
+    "query": "219.100.37.126"
   },
   "113.52.211.252": {
     "status": "success",
@@ -222,6 +206,22 @@
     "org": "HVSilla",
     "as": "AS9770 LG HelloVision Corp.",
     "query": "113.52.211.252"
+  },
+  "219.100.37.16": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftEther",
+    "org": "SoftEther Corporation",
+    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
+    "query": "219.100.37.16"
   },
   "27.83.68.134": {
     "status": "success",
@@ -383,22 +383,6 @@
     "as": "AS9365 its communications Inc.",
     "query": "115.165.26.77"
   },
-  "219.100.37.50": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftEther",
-    "org": "SoftEther Corporation",
-    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.50"
-  },
   "126.219.0.177": {
     "status": "success",
     "country": "Japan",
@@ -414,6 +398,22 @@
     "org": "SOFTBANK Corp",
     "as": "AS17676 SoftBank Corp.",
     "query": "126.219.0.177"
+  },
+  "219.100.37.50": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftEther",
+    "org": "SoftEther Corporation",
+    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
+    "query": "219.100.37.50"
   },
   "85.15.125.103": {
     "status": "success",
@@ -702,6 +702,22 @@
     "org": "State Company of Electro Communications Turkmentelecom",
     "as": "AS20661 State Company of Electro Communications Turkmentelecom",
     "query": "119.235.113.226"
+  },
+  "49.163.26.171": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Pocheon-si",
+    "zip": "11147",
+    "lat": 37.8927,
+    "lon": 127.2009,
+    "timezone": "Asia/Seoul",
+    "isp": "LG POWERCOMM",
+    "org": "LG POWERCOMM",
+    "as": "AS17858 LG POWERCOMM",
+    "query": "49.163.26.171"
   },
   "95.104.174.25": {
     "status": "success",
