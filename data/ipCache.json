@@ -15,22 +15,6 @@
     "as": "AS20115 Charter Communications LLC",
     "query": "138.229.146.94"
   },
-  "219.100.37.82": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftEther",
-    "org": "SoftEther Corporation",
-    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.82"
-  },
   "219.100.37.128": {
     "status": "success",
     "country": "Japan",
@@ -46,6 +30,22 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.128"
+  },
+  "219.100.37.82": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftEther",
+    "org": "SoftEther Corporation",
+    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
+    "query": "219.100.37.82"
   },
   "219.100.37.4": {
     "status": "success",
@@ -223,21 +223,21 @@
     "as": "AS18403 FPT Telecom Company",
     "query": "42.112.215.182"
   },
-  "59.29.151.252": {
+  "222.109.72.106": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
-    "region": "42",
-    "regionName": "Gangwon-do",
-    "city": "Chuncheon",
-    "zip": "242",
-    "lat": 37.8897,
-    "lon": 127.736,
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Jungnang-gu",
+    "zip": "021",
+    "lat": 37.5859,
+    "lon": 127.1029,
     "timezone": "Asia/Seoul",
     "isp": "Korea Telecom",
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
-    "query": "59.29.151.252"
+    "query": "222.109.72.106"
   },
   "219.100.37.204": {
     "status": "success",
@@ -270,22 +270,6 @@
     "org": "Open Computer Network",
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "153.165.156.176"
-  },
-  "222.109.72.106": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Jungnang-gu",
-    "zip": "021",
-    "lat": 37.5859,
-    "lon": 127.1029,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "222.109.72.106"
   },
   "125.177.138.153": {
     "status": "success",
@@ -622,21 +606,5 @@
     "org": "SK Broadband Co Ltd",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.241.129.177"
-  },
-  "188.17.254.197": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "CHE",
-    "regionName": "Chelyabinsk Oblast",
-    "city": "Chelyabinsk",
-    "zip": "454000",
-    "lat": 55.1586,
-    "lon": 61.4296,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "Rostelecom networks",
-    "org": "Dynamic distribution IPs for broadband services",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "188.17.254.197"
   }
 }
