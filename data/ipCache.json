@@ -511,22 +511,6 @@
     "as": "AS9617 JCOM Co., Ltd.",
     "query": "219.115.140.82"
   },
-  "219.100.26.85": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "40",
-    "regionName": "Fukuoka",
-    "city": "Kitaku",
-    "zip": "807-1154",
-    "lat": 33.7937,
-    "lon": 130.687,
-    "timezone": "Asia/Tokyo",
-    "isp": "JPNIC",
-    "org": "",
-    "as": "AS18134 JCOM Co., Ltd.",
-    "query": "219.100.26.85"
-  },
   "221.164.117.21": {
     "status": "success",
     "country": "South Korea",
