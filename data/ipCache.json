@@ -31,22 +31,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.101"
   },
-  "219.100.37.82": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftEther",
-    "org": "SoftEther Corporation",
-    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.82"
-  },
   "219.100.37.128": {
     "status": "success",
     "country": "Japan",
@@ -62,6 +46,22 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.128"
+  },
+  "219.100.37.82": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftEther",
+    "org": "SoftEther Corporation",
+    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
+    "query": "219.100.37.82"
   },
   "219.100.37.4": {
     "status": "success",
@@ -95,7 +95,7 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.73.214.202"
   },
-  "219.100.37.15": {
+  "219.100.37.126": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
@@ -109,7 +109,7 @@
     "isp": "SoftEther",
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.15"
+    "query": "219.100.37.126"
   },
   "14.52.253.14": {
     "status": "success",
@@ -127,7 +127,7 @@
     "as": "AS4766 Korea Telecom",
     "query": "14.52.253.14"
   },
-  "219.100.37.126": {
+  "219.100.37.15": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
@@ -141,7 +141,7 @@
     "isp": "SoftEther",
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.126"
+    "query": "219.100.37.15"
   },
   "124.47.218.84": {
     "status": "success",
@@ -159,21 +159,21 @@
     "as": "AS10010 TOKAI Communications Corporation",
     "query": "124.47.218.84"
   },
-  "175.209.13.17": {
+  "115.78.10.208": {
     "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Gangdong-gu",
-    "zip": "053",
-    "lat": 37.536,
-    "lon": 127.1426,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "175.209.13.17"
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "SG",
+    "regionName": "Ho Chi Minh",
+    "city": "Ho Chi Minh City",
+    "zip": "700000",
+    "lat": 10.822,
+    "lon": 106.6257,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "isp": "VIETELftth",
+    "org": "",
+    "as": "AS7552 Viettel Group",
+    "query": "115.78.10.208"
   },
   "118.33.153.180": {
     "status": "success",
@@ -542,6 +542,22 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "59.28.121.13"
+  },
+  "218.156.9.173": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "28",
+    "regionName": "Incheon",
+    "city": "Incheon",
+    "zip": "21554",
+    "lat": 37.4585,
+    "lon": 126.7015,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Korea Telecom",
+    "as": "AS4766 Korea Telecom",
+    "query": "218.156.9.173"
   },
   "112.184.70.55": {
     "status": "success",
