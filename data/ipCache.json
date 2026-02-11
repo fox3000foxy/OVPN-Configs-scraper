@@ -367,22 +367,6 @@
     "as": "AS18403 FPT Telecom Company",
     "query": "42.114.192.218"
   },
-  "112.171.81.250": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Gwanak-gu",
-    "zip": "087",
-    "lat": 37.4873,
-    "lon": 126.9227,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "112.171.81.250"
-  },
   "211.44.188.45": {
     "status": "success",
     "country": "South Korea",
@@ -607,6 +591,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "112.185.246.157"
   },
+  "118.68.255.254": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "HN",
+    "regionName": "Hanoi",
+    "city": "Hanoi",
+    "zip": "100000",
+    "lat": 21.0184,
+    "lon": 105.8461,
+    "timezone": "Asia/Bangkok",
+    "isp": "FPT Telecom Company",
+    "org": "Vietnam Internet Network Information Center",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "118.68.255.254"
+  },
   "211.229.100.154": {
     "status": "success",
     "country": "South Korea",
@@ -750,5 +750,37 @@
     "org": "HVHonam",
     "as": "AS38121 LG HelloVision Corp.",
     "query": "114.30.193.145"
+  },
+  "220.100.45.229": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Yokohama",
+    "zip": "231-0841",
+    "lat": 35.4337,
+    "lon": 139.6499,
+    "timezone": "Asia/Tokyo",
+    "isp": "Internet Initiative Japan",
+    "org": "Internet Initiative Japan Inc.",
+    "as": "AS2497 Internet Initiative Japan Inc.",
+    "query": "220.100.45.229"
+  },
+  "188.113.152.179": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "SAK",
+    "regionName": "Sakhalin Oblast",
+    "city": "Yuzhno-Sakhalinsk",
+    "zip": "693004",
+    "lat": 46.9557,
+    "lon": 142.733,
+    "timezone": "Asia/Sakhalin",
+    "isp": "Sakhalin Cable Telesystems Ltd",
+    "org": "Sakhalin Cable Telesystems Ltd",
+    "as": "AS51004 Sakhalin Cable Telesystems Ltd",
+    "query": "188.113.152.179"
   }
 }
