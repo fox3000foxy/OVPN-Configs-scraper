@@ -431,22 +431,6 @@
     "as": "AS10010 TOKAI Communications Corporation",
     "query": "112.139.160.167"
   },
-  "115.163.40.198": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "22",
-    "regionName": "Shizuoka",
-    "city": "Fuji",
-    "zip": "417-0071",
-    "lat": 35.1673,
-    "lon": 138.686,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "115.163.40.198"
-  },
   "115.22.37.109": {
     "status": "success",
     "country": "South Korea",
@@ -494,6 +478,22 @@
     "org": "SOFTBANK Corp",
     "as": "AS17676 SoftBank Corp.",
     "query": "126.79.197.198"
+  },
+  "60.98.87.167": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.98.87.167"
   },
   "171.4.226.236": {
     "status": "success",
