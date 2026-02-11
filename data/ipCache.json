@@ -95,22 +95,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.4"
   },
-  "219.100.37.126": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftEther",
-    "org": "SoftEther Corporation",
-    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.126"
-  },
   "14.52.253.14": {
     "status": "success",
     "country": "South Korea",
@@ -126,6 +110,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "14.52.253.14"
+  },
+  "219.100.37.126": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftEther",
+    "org": "SoftEther Corporation",
+    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
+    "query": "219.100.37.126"
   },
   "219.100.37.15": {
     "status": "success",
@@ -367,6 +367,22 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "220.26.103.76"
   },
+  "59.19.145.182": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Busan",
+    "zip": "48947",
+    "lat": 35.1025,
+    "lon": 129.0394,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "59.19.145.182"
+  },
   "60.120.20.164": {
     "status": "success",
     "country": "Japan",
@@ -511,6 +527,22 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "211.204.251.153"
   },
+  "59.28.121.13": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Busan",
+    "zip": "477",
+    "lat": 35.1995,
+    "lon": 129.0799,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "59.28.121.13"
+  },
   "115.126.137.48": {
     "status": "success",
     "country": "Japan",
@@ -558,22 +590,6 @@
     "org": "(ju)seobeurain",
     "as": "AS4766 Korea Telecom",
     "query": "220.76.203.77"
-  },
-  "59.1.58.143": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "45",
-    "regionName": "Jeollabuk-do",
-    "city": "Jeonju",
-    "zip": "548",
-    "lat": 35.8396,
-    "lon": 127.0671,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Korea Telecom",
-    "as": "AS4766 Korea Telecom",
-    "query": "59.1.58.143"
   },
   "211.206.8.149": {
     "status": "success",
