@@ -143,22 +143,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "131.147.142.132"
   },
-  "115.78.10.208": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "SG",
-    "regionName": "Ho Chi Minh",
-    "city": "Ho Chi Minh City",
-    "zip": "700000",
-    "lat": 10.822,
-    "lon": 106.6257,
-    "timezone": "Asia/Ho_Chi_Minh",
-    "isp": "VIETELftth",
-    "org": "",
-    "as": "AS7552 Viettel Group",
-    "query": "115.78.10.208"
-  },
   "118.240.68.160": {
     "status": "success",
     "country": "Japan",
@@ -206,6 +190,22 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.109"
+  },
+  "115.22.254.150": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "48",
+    "regionName": "Gyeongsangnam-do",
+    "city": "Hamyang-gun",
+    "zip": "500",
+    "lat": 35.7182,
+    "lon": 127.6803,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "115.22.254.150"
   },
   "42.112.215.182": {
     "status": "success",
@@ -383,6 +383,22 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "121.106.148.235"
   },
+  "221.152.115.166": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Saha-gu",
+    "zip": "494",
+    "lat": 35.1187,
+    "lon": 128.957,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "(ju)hyeonsolru",
+    "as": "AS4766 Korea Telecom",
+    "query": "221.152.115.166"
+  },
   "222.98.176.199": {
     "status": "success",
     "country": "South Korea",
@@ -431,21 +447,21 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "175.122.73.80"
   },
-  "221.152.115.166": {
+  "114.161.4.252": {
     "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "26",
-    "regionName": "Busan",
-    "city": "Saha-gu",
-    "zip": "494",
-    "lat": 35.1187,
-    "lon": 128.957,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "(ju)hyeonsolru",
-    "as": "AS4766 Korea Telecom",
-    "query": "221.152.115.166"
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "31",
+    "regionName": "Tottori",
+    "city": "Tottori",
+    "zip": "682-0811",
+    "lat": 35.4323,
+    "lon": 133.8389,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "Open Computer Network",
+    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
+    "query": "114.161.4.252"
   },
   "122.211.144.103": {
     "status": "success",
@@ -543,22 +559,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.130.138.116"
   },
-  "122.203.244.115": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Seongdong-gu",
-    "zip": "047",
-    "lat": 37.5511,
-    "lon": 127.0387,
-    "timezone": "Asia/Seoul",
-    "isp": "DACOM-PUBNETPLUS",
-    "org": "Pubnetplus",
-    "as": "AS9316 DACOM-PUBNETPLUS",
-    "query": "122.203.244.115"
-  },
   "121.160.10.3": {
     "status": "success",
     "country": "South Korea",
@@ -591,6 +591,22 @@
     "as": "AS8369 Intersvyaz-2 JSC",
     "query": "37.140.6.193"
   },
+  "14.245.202.152": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "DN",
+    "regionName": "Da Nang",
+    "city": "Da Nang",
+    "zip": "550000",
+    "lat": 16.0685,
+    "lon": 108.2215,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "isp": "VNPT",
+    "org": "Vietnam Posts and Telecommunications Group",
+    "as": "AS45899 VNPT Corp",
+    "query": "14.245.202.152"
+  },
   "1.241.129.177": {
     "status": "success",
     "country": "South Korea",
@@ -606,5 +622,37 @@
     "org": "SK Broadband Co Ltd",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.241.129.177"
+  },
+  "188.17.254.197": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "CHE",
+    "regionName": "Chelyabinsk Oblast",
+    "city": "Chelyabinsk",
+    "zip": "454000",
+    "lat": 55.1586,
+    "lon": 61.4296,
+    "timezone": "Asia/Yekaterinburg",
+    "isp": "Rostelecom networks",
+    "org": "Dynamic distribution IPs for broadband services",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "188.17.254.197"
+  },
+  "2.62.251.244": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KEM",
+    "regionName": "Kemerovo Oblast",
+    "city": "Leninsk-Kuznetsky",
+    "zip": "652500",
+    "lat": 54.6567,
+    "lon": 86.1737,
+    "timezone": "Asia/Novokuznetsk",
+    "isp": "JSC Rostelecom regional branch \"Siberia\"",
+    "org": "OJSC Sibirtelecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "2.62.251.244"
   }
 }
