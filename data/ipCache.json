@@ -335,6 +335,22 @@
     "as": "AS9697 LG HelloVision Corp.",
     "query": "110.46.158.118"
   },
+  "122.208.249.174": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tokyo",
+    "zip": "151-0071",
+    "lat": 35.6837,
+    "lon": 139.6805,
+    "timezone": "Asia/Tokyo",
+    "isp": "ARTERIA Networks Corporation",
+    "org": "UCOM Corporation",
+    "as": "AS17506 ARTERIA Networks Corporation",
+    "query": "122.208.249.174"
+  },
   "121.106.148.235": {
     "status": "success",
     "country": "Japan",
@@ -463,22 +479,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "218.158.82.155"
   },
-  "182.253.9.3": {
-    "status": "success",
-    "country": "Indonesia",
-    "countryCode": "ID",
-    "region": "JK",
-    "regionName": "Jakarta",
-    "city": "Jakarta",
-    "zip": "12850",
-    "lat": -6.2114,
-    "lon": 106.8446,
-    "timezone": "Asia/Jakarta",
-    "isp": "BIZNET",
-    "org": "",
-    "as": "AS17451 BIZNET NETWORKS",
-    "query": "182.253.9.3"
-  },
   "126.217.14.66": {
     "status": "success",
     "country": "Japan",
@@ -511,22 +511,6 @@
     "as": "AS17506 ARTERIA Networks Corporation",
     "query": "122.211.144.103"
   },
-  "126.217.1.16": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.217.1.16"
-  },
   "210.100.238.121": {
     "status": "success",
     "country": "South Korea",
@@ -542,6 +526,22 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "210.100.238.121"
+  },
+  "126.217.1.16": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.217.1.16"
   },
   "121.130.138.116": {
     "status": "success",
@@ -606,21 +606,5 @@
     "org": "",
     "as": "AS8369 Intersvyaz-2 JSC",
     "query": "37.140.6.193"
-  },
-  "125.241.250.34": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "49",
-    "regionName": "Jeju-do",
-    "city": "Jeju City",
-    "zip": "632",
-    "lat": 33.4504,
-    "lon": 126.558,
-    "timezone": "Asia/Seoul",
-    "isp": "LG POWERCOMM",
-    "org": "Pubnetplus",
-    "as": "AS17858 LG POWERCOMM",
-    "query": "125.241.250.34"
   }
 }
