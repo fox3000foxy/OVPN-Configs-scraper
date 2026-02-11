@@ -95,22 +95,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.73.214.202"
   },
-  "219.100.37.126": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftEther",
-    "org": "SoftEther Corporation",
-    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.126"
-  },
   "219.100.37.15": {
     "status": "success",
     "country": "Japan",
@@ -126,6 +110,22 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.15"
+  },
+  "219.100.37.126": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftEther",
+    "org": "SoftEther Corporation",
+    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
+    "query": "219.100.37.126"
   },
   "14.52.253.14": {
     "status": "success",
@@ -271,22 +271,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.240.128.118"
   },
-  "14.170.227.235": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "69",
-    "regionName": "Thái Nguyên Province",
-    "city": "Thái Nguyên",
-    "zip": "250000",
-    "lat": 21.5941,
-    "lon": 105.8432,
-    "timezone": "Asia/Bangkok",
-    "isp": "VNPT-VNNIC",
-    "org": "VietNam Post and Telecom Corporation",
-    "as": "AS45899 VNPT Corp",
-    "query": "14.170.227.235"
-  },
   "1.66.33.240": {
     "status": "success",
     "country": "Japan",
@@ -302,6 +286,22 @@
     "org": "NTTDoCoMo",
     "as": "AS9605 NTT DOCOMO, INC.",
     "query": "1.66.33.240"
+  },
+  "14.170.227.235": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "69",
+    "regionName": "Thái Nguyên Province",
+    "city": "Thái Nguyên",
+    "zip": "250000",
+    "lat": 21.5941,
+    "lon": 105.8432,
+    "timezone": "Asia/Bangkok",
+    "isp": "VNPT-VNNIC",
+    "org": "VietNam Post and Telecom Corporation",
+    "as": "AS45899 VNPT Corp",
+    "query": "14.170.227.235"
   },
   "222.8.139.88": {
     "status": "success",
@@ -415,22 +415,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "92.203.159.128"
   },
-  "60.120.20.164": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan Nation-wide Network of Softbank Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "60.120.20.164"
-  },
   "36.52.103.209": {
     "status": "success",
     "country": "Japan",
@@ -446,6 +430,22 @@
     "org": "STNet",
     "as": "AS7522 STNet, Incorporated",
     "query": "36.52.103.209"
+  },
+  "60.120.20.164": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.120.20.164"
   },
   "175.132.127.244": {
     "status": "success",
