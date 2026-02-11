@@ -159,22 +159,6 @@
     "as": "AS18403 FPT Telecom Company",
     "query": "42.116.114.23"
   },
-  "219.100.37.16": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftEther",
-    "org": "SoftEther Corporation",
-    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.16"
-  },
   "113.148.186.91": {
     "status": "success",
     "country": "Japan",
@@ -190,6 +174,22 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "113.148.186.91"
+  },
+  "219.100.37.16": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftEther",
+    "org": "SoftEther Corporation",
+    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
+    "query": "219.100.37.16"
   },
   "219.100.37.4": {
     "status": "success",
@@ -431,22 +431,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "116.82.48.160"
   },
-  "171.4.226.236": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "50",
-    "regionName": "Chiang Mai",
-    "city": "Chiang Mai",
-    "zip": "50210",
-    "lat": 18.8514,
-    "lon": 99.0412,
-    "timezone": "Asia/Bangkok",
-    "isp": "Triple T Broadband Public Company Limited",
-    "org": "Triple T Broadband Public Company Limited",
-    "as": "AS45758 Triple T Broadband Public Company Limited",
-    "query": "171.4.226.236"
-  },
   "223.133.42.111": {
     "status": "success",
     "country": "Japan",
@@ -462,6 +446,22 @@
     "org": "So-net Entertainment Corporation",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "223.133.42.111"
+  },
+  "171.4.226.236": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "50",
+    "regionName": "Chiang Mai",
+    "city": "Chiang Mai",
+    "zip": "50210",
+    "lat": 18.8514,
+    "lon": 99.0412,
+    "timezone": "Asia/Bangkok",
+    "isp": "Triple T Broadband Public Company Limited",
+    "org": "Triple T Broadband Public Company Limited",
+    "as": "AS45758 Triple T Broadband Public Company Limited",
+    "query": "171.4.226.236"
   },
   "180.30.154.157": {
     "status": "success",
@@ -558,6 +558,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "175.196.221.41"
+  },
+  "58.127.200.52": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Gimpo-si",
+    "zip": "101",
+    "lat": 37.6175,
+    "lon": 126.7196,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "58.127.200.52"
   },
   "49.175.89.36": {
     "status": "success",
