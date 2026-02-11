@@ -447,6 +447,22 @@
     "as": "AS5384 Emirates Internet",
     "query": "94.59.127.62"
   },
+  "114.201.3.61": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Dongjak-gu",
+    "zip": "069",
+    "lat": 37.5003,
+    "lon": 126.9565,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "114.201.3.61"
+  },
   "178.187.41.196": {
     "status": "success",
     "country": "Russia",
