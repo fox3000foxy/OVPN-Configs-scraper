@@ -351,6 +351,22 @@
     "as": "AS9697 LG HelloVision Corp.",
     "query": "110.46.158.118"
   },
+  "109.226.248.25": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KYA",
+    "regionName": "Krasnoyarsk Krai",
+    "city": "Krasnoyarsk",
+    "zip": "660017",
+    "lat": 56.0374,
+    "lon": 92.9314,
+    "timezone": "Asia/Krasnoyarsk",
+    "isp": "Orion Telecom LLC",
+    "org": "Orion Telecom LLC",
+    "as": "AS50427 Orion Telecom LLC",
+    "query": "109.226.248.25"
+  },
   "182.8.194.180": {
     "status": "success",
     "country": "Indonesia",
@@ -511,22 +527,6 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "95.55.170.20"
   },
-  "210.100.238.121": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Suwon",
-    "zip": "163",
-    "lat": 37.2905,
-    "lon": 126.9877,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "210.100.238.121"
-  },
   "118.70.201.8": {
     "status": "success",
     "country": "Vietnam",
@@ -575,6 +575,22 @@
     "as": "AS9316 DACOM-PUBNETPLUS",
     "query": "122.203.244.115"
   },
+  "121.160.10.3": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Seoul",
+    "zip": "046",
+    "lat": 37.5576,
+    "lon": 126.9937,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "121.160.10.3"
+  },
   "37.140.6.193": {
     "status": "success",
     "country": "Russia",
@@ -607,20 +623,20 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.241.129.177"
   },
-  "14.7.11.249": {
+  "188.17.254.197": {
     "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "45",
-    "regionName": "Jeollabuk-do",
-    "city": "Gunsan",
-    "zip": "541",
-    "lat": 35.9812,
-    "lon": 126.712,
-    "timezone": "Asia/Seoul",
-    "isp": "LG POWERCOMM",
-    "org": "DACOM-PUBNETPLUS",
-    "as": "AS17858 LG POWERCOMM",
-    "query": "14.7.11.249"
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "CHE",
+    "regionName": "Chelyabinsk Oblast",
+    "city": "Chelyabinsk",
+    "zip": "454000",
+    "lat": 55.1586,
+    "lon": 61.4296,
+    "timezone": "Asia/Yekaterinburg",
+    "isp": "Rostelecom networks",
+    "org": "Dynamic distribution IPs for broadband services",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "188.17.254.197"
   }
 }
