@@ -191,6 +191,22 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "118.240.68.160"
   },
+  "115.22.171.164": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Busan",
+    "zip": "472",
+    "lat": 35.1659,
+    "lon": 129.0542,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "115.22.171.164"
+  },
   "59.11.98.103": {
     "status": "success",
     "country": "South Korea",
@@ -318,22 +334,6 @@
     "org": "HVHaeundae",
     "as": "AS9697 LG HelloVision Corp.",
     "query": "110.46.158.118"
-  },
-  "122.208.249.174": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0071",
-    "lat": 35.6837,
-    "lon": 139.6805,
-    "timezone": "Asia/Tokyo",
-    "isp": "ARTERIA Networks Corporation",
-    "org": "UCOM Corporation",
-    "as": "AS17506 ARTERIA Networks Corporation",
-    "query": "122.208.249.174"
   },
   "182.8.194.180": {
     "status": "success",
@@ -479,6 +479,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "221.152.115.166"
   },
+  "182.253.9.3": {
+    "status": "success",
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "region": "JK",
+    "regionName": "Jakarta",
+    "city": "Jakarta",
+    "zip": "12850",
+    "lat": -6.2114,
+    "lon": 106.8446,
+    "timezone": "Asia/Jakarta",
+    "isp": "BIZNET",
+    "org": "",
+    "as": "AS17451 BIZNET NETWORKS",
+    "query": "182.253.9.3"
+  },
   "126.217.14.66": {
     "status": "success",
     "country": "Japan",
@@ -527,6 +543,22 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "106.166.136.213"
   },
+  "223.207.217.243": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "60",
+    "regionName": "Nakhon Sawan",
+    "city": "Nakhon Sawan",
+    "zip": "60000",
+    "lat": 15.6868,
+    "lon": 100.1151,
+    "timezone": "Asia/Bangkok",
+    "isp": "Triple T Broadband Public Company Limited",
+    "org": "Triple T Broadband Public Company Limited",
+    "as": "AS45758 Triple T Broadband Public Company Limited",
+    "query": "223.207.217.243"
+  },
   "210.100.238.121": {
     "status": "success",
     "country": "South Korea",
@@ -558,22 +590,6 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "121.130.138.116"
-  },
-  "122.203.244.115": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Seongdong-gu",
-    "zip": "047",
-    "lat": 37.5511,
-    "lon": 127.0387,
-    "timezone": "Asia/Seoul",
-    "isp": "DACOM-PUBNETPLUS",
-    "org": "Pubnetplus",
-    "as": "AS9316 DACOM-PUBNETPLUS",
-    "query": "122.203.244.115"
   },
   "1.241.129.177": {
     "status": "success",
