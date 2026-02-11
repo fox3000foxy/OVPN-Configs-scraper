@@ -1,4 +1,20 @@
 {
+  "138.229.146.94": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA",
+    "regionName": "California",
+    "city": "Hesperia",
+    "zip": "92345",
+    "lat": 34.4179,
+    "lon": -117.3064,
+    "timezone": "America/Los_Angeles",
+    "isp": "Charter Communications",
+    "org": "Spectrum",
+    "as": "AS20115 Charter Communications LLC",
+    "query": "138.229.146.94"
+  },
   "219.100.37.101": {
     "status": "success",
     "country": "Japan",
@@ -111,22 +127,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.16"
   },
-  "60.119.129.138": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan Nation-wide Network of Softbank Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "60.119.129.138"
-  },
   "219.100.37.4": {
     "status": "success",
     "country": "Japan",
@@ -142,6 +142,22 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.4"
+  },
+  "60.119.129.138": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.119.129.138"
   },
   "219.100.37.109": {
     "status": "success",
@@ -286,22 +302,6 @@
     "org": "NTTDoCoMo",
     "as": "AS9605 NTT DOCOMO, INC.",
     "query": "1.66.33.240"
-  },
-  "121.181.132.200": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "47",
-    "regionName": "Gyeongsangbuk-do",
-    "city": "Gyeongsan-si",
-    "zip": "386",
-    "lat": 35.824,
-    "lon": 128.7304,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "121.181.132.200"
   },
   "118.68.64.11": {
     "status": "success",
@@ -590,21 +590,5 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.250.179.6"
-  },
-  "5.137.98.79": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "NVS",
-    "regionName": "Novosibirsk Oblast",
-    "city": "Novosibirsk",
-    "zip": "630000",
-    "lat": 55.0226,
-    "lon": 82.9317,
-    "timezone": "Asia/Novosibirsk",
-    "isp": "Rostelecom networks",
-    "org": "JSC Rostelecom regional branch Siberia",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "5.137.98.79"
   }
 }
