@@ -31,6 +31,22 @@
     "as": "AS13335 Cloudflare, Inc.",
     "query": "104.28.232.203"
   },
+  "104.28.206.119": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Osaka",
+    "zip": "543-0062",
+    "lat": 34.693,
+    "lon": 135.5005,
+    "timezone": "Asia/Tokyo",
+    "isp": "Cloudflare, Inc.",
+    "org": "Cloudflare WARP",
+    "as": "AS13335 Cloudflare, Inc.",
+    "query": "104.28.206.119"
+  },
   "219.100.37.82": {
     "status": "success",
     "country": "Japan",
@@ -207,22 +223,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.204"
   },
-  "61.44.175.142": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "01",
-    "regionName": "Hokkaido",
-    "city": "Hakodate",
-    "zip": "040-0071",
-    "lat": 41.7974,
-    "lon": 140.7298,
-    "timezone": "Asia/Tokyo",
-    "isp": "NCV",
-    "org": "New Media Co., Ltd",
-    "as": "AS59127 Newmedia Corporation",
-    "query": "61.44.175.142"
-  },
   "77.35.150.75": {
     "status": "success",
     "country": "Russia",
@@ -254,6 +254,22 @@
     "org": "Sony Network Communications Inc.",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "223.132.208.135"
+  },
+  "114.180.103.113": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "10",
+    "regionName": "Gunma",
+    "city": "Takasaki",
+    "zip": "370-0061",
+    "lat": 36.3369,
+    "lon": 139.0189,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "NTT Communications Corporation",
+    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
+    "query": "114.180.103.113"
   },
   "220.150.153.216": {
     "status": "success",
@@ -447,22 +463,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "222.2.34.200"
   },
-  "60.80.243.29": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "08",
-    "regionName": "Ibaraki",
-    "city": "Koga",
-    "zip": "306-0016",
-    "lat": 36.1833,
-    "lon": 139.717,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan Nation-wide Network of Softbank Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "60.80.243.29"
-  },
   "49.172.229.35": {
     "status": "success",
     "country": "South Korea",
@@ -511,21 +511,21 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "178.187.41.196"
   },
-  "219.115.140.82": {
+  "121.174.43.137": {
     "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "28",
-    "regionName": "Hyōgo",
-    "city": "Kobe",
-    "zip": "650-0011",
-    "lat": 34.6922,
-    "lon": 135.1816,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM",
-    "org": "J:COM WEST Co., Ltd.",
-    "as": "AS9617 JCOM Co., Ltd.",
-    "query": "219.115.140.82"
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "26",
+    "regionName": "Busan",
+    "city": "Busan",
+    "zip": "472",
+    "lat": 35.1659,
+    "lon": 129.0542,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "121.174.43.137"
   },
   "121.171.98.100": {
     "status": "success",
@@ -575,22 +575,6 @@
     "as": "AS18403 FPT Telecom Company",
     "query": "42.118.254.101"
   },
-  "222.103.60.145": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "27",
-    "regionName": "Daegu",
-    "city": "Suseong-gu",
-    "zip": "421",
-    "lat": 35.8388,
-    "lon": 128.6219,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "222.103.60.145"
-  },
   "185.124.155.182": {
     "status": "success",
     "country": "Russia",
@@ -606,6 +590,22 @@
     "org": "",
     "as": "AS12737 KrasPromStroy, LLC",
     "query": "185.124.155.182"
+  },
+  "175.199.129.108": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "48",
+    "regionName": "Gyeongsangnam-do",
+    "city": "Geoje",
+    "zip": "532",
+    "lat": 34.8835,
+    "lon": 128.6182,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "175.199.129.108"
   },
   "175.196.129.126": {
     "status": "success",
@@ -671,21 +671,21 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.237.29.232"
   },
-  "176.97.213.86": {
+  "172.167.211.107": {
     "status": "success",
-    "country": "United States",
-    "countryCode": "US",
-    "region": "FL",
-    "regionName": "Florida",
-    "city": "Miami",
-    "zip": "33197",
-    "lat": 25.7701,
-    "lon": -80.1928,
-    "timezone": "America/New_York",
-    "isp": "GoodLeaf Hosting & Development LLC",
-    "org": "Ghdl",
-    "as": "AS216030 GoodLeaf Hosting & Development LLC",
-    "query": "176.97.213.86"
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "region": "ENG",
+    "regionName": "England",
+    "city": "City of London",
+    "zip": "EC3R 7LP",
+    "lat": 51.5113,
+    "lon": -0.079212,
+    "timezone": "Europe/London",
+    "isp": "Microsoft",
+    "org": "Microsoft Azure Cloud (uksouth)",
+    "as": "AS8075 Microsoft Corporation",
+    "query": "172.167.211.107"
   },
   "58.226.80.192": {
     "status": "success",
@@ -719,22 +719,6 @@
     "as": "AS39812 Closed Joint Stock Company Radiotelephone",
     "query": "130.255.48.81"
   },
-  "5.137.188.220": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "NVS",
-    "regionName": "Novosibirsk Oblast",
-    "city": "Novosibirsk",
-    "zip": "630000",
-    "lat": 55.0226,
-    "lon": 82.9317,
-    "timezone": "Asia/Novosibirsk",
-    "isp": "Rostelecom networks",
-    "org": "JSC Rostelecom regional branch Siberia",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "5.137.188.220"
-  },
   "37.23.161.117": {
     "status": "success",
     "country": "Russia",
@@ -750,6 +734,22 @@
     "org": "JSC Rostelecom regional branch Siberia",
     "as": "AS12389 PJSC Rostelecom",
     "query": "37.23.161.117"
+  },
+  "92.126.118.53": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KYA",
+    "regionName": "Krasnoyarsk Krai",
+    "city": "Krasnoyarsk",
+    "zip": "660049",
+    "lat": 56.0374,
+    "lon": 92.9314,
+    "timezone": "Asia/Krasnoyarsk",
+    "isp": "OJSC \"Sibirtelecom\"",
+    "org": "OJSC Sibirtelecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "92.126.118.53"
   },
   "49.238.254.93": {
     "status": "success",
@@ -767,6 +767,22 @@
     "as": "AS17878 DREAMMARK1",
     "query": "49.238.254.93"
   },
+  "178.46.215.24": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KGN",
+    "regionName": "Kurgan Oblast",
+    "city": "Kurgan",
+    "zip": "640000",
+    "lat": 55.4503,
+    "lon": 65.3288,
+    "timezone": "Asia/Yekaterinburg",
+    "isp": "OJSC uralsvyazinform",
+    "org": "Dynamic distribution IPs for broadband services",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "178.46.215.24"
+  },
   "95.154.65.250": {
     "status": "success",
     "country": "Russia",
@@ -783,20 +799,20 @@
     "as": "AS44724 Octopusnet LTD",
     "query": "95.154.65.250"
   },
-  "220.100.45.229": {
+  "79.105.222.224": {
     "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Yokohama",
-    "zip": "231-0841",
-    "lat": 35.4337,
-    "lon": 139.6499,
-    "timezone": "Asia/Tokyo",
-    "isp": "Internet Initiative Japan",
-    "org": "Internet Initiative Japan Inc.",
-    "as": "AS2497 Internet Initiative Japan Inc.",
-    "query": "220.100.45.229"
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "AMU",
+    "regionName": "Amur Oblast",
+    "city": "Blagoveshchensk",
+    "zip": "675000",
+    "lat": 50.2828,
+    "lon": 127.5299,
+    "timezone": "Asia/Yakutsk",
+    "isp": "Rostelecom networks",
+    "org": "OJSC Far Eastern Telecommunications Company Amursky st.",
+    "as": "AS34137 PJSC Rostelecom",
+    "query": "79.105.222.224"
   }
 }
