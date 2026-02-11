@@ -399,22 +399,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.155.235.197"
   },
-  "112.139.160.167": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "22",
-    "regionName": "Shizuoka",
-    "city": "Fujieda",
-    "zip": "426-0011",
-    "lat": 34.8855,
-    "lon": 138.2793,
-    "timezone": "Asia/Tokyo",
-    "isp": "TOKAI Communications Corporation",
-    "org": "TOKAI",
-    "as": "AS10010 TOKAI Communications Corporation",
-    "query": "112.139.160.167"
-  },
   "115.163.40.198": {
     "status": "success",
     "country": "Japan",
@@ -430,6 +414,22 @@
     "org": "Sony Network Communications Inc.",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "115.163.40.198"
+  },
+  "49.242.142.155": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "23",
+    "regionName": "Aichi",
+    "city": "Seto",
+    "zip": "489-0071",
+    "lat": 35.2329,
+    "lon": 137.0992,
+    "timezone": "Asia/Tokyo",
+    "isp": "Community Network Center Incorporated.",
+    "org": "Community Network Center Inc.",
+    "as": "AS17698 COMMUNITY NETWORK CENTER INCORPORATED.",
+    "query": "49.242.142.155"
   },
   "116.82.48.160": {
     "status": "success",
@@ -511,22 +511,6 @@
     "as": "AS45758 Triple T Broadband Public Company Limited",
     "query": "171.4.226.236"
   },
-  "123.248.53.211": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "48",
-    "regionName": "Gyeongsangnam-do",
-    "city": "Changwon-si",
-    "zip": "",
-    "lat": 35.2259,
-    "lon": 128.682,
-    "timezone": "Asia/Seoul",
-    "isp": "LG HelloVision Corp.",
-    "org": "HVGyeongnam",
-    "as": "AS9845 LG HelloVision Corp.",
-    "query": "123.248.53.211"
-  },
   "180.30.154.157": {
     "status": "success",
     "country": "Japan",
@@ -542,6 +526,22 @@
     "org": "NTT Communications Corporation",
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "180.30.154.157"
+  },
+  "123.248.53.211": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "48",
+    "regionName": "Gyeongsangnam-do",
+    "city": "Changwon-si",
+    "zip": "",
+    "lat": 35.2259,
+    "lon": 128.682,
+    "timezone": "Asia/Seoul",
+    "isp": "LG HelloVision Corp.",
+    "org": "HVGyeongnam",
+    "as": "AS9845 LG HelloVision Corp.",
+    "query": "123.248.53.211"
   },
   "211.195.82.195": {
     "status": "success",
