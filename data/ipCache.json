@@ -255,6 +255,22 @@
     "as": "AS18403 FPT Telecom Company",
     "query": "42.116.114.23"
   },
+  "1.66.33.240": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Osaka",
+    "zip": "530-0041",
+    "lat": 34.6967,
+    "lon": 135.5154,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Docomo, inc.",
+    "org": "NTTDoCoMo",
+    "as": "AS9605 NTT DOCOMO, INC.",
+    "query": "1.66.33.240"
+  },
   "39.119.183.162": {
     "status": "success",
     "country": "South Korea",
@@ -318,22 +334,6 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.204"
-  },
-  "1.66.33.240": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Osaka",
-    "zip": "530-0041",
-    "lat": 34.6967,
-    "lon": 135.5154,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Docomo, inc.",
-    "org": "NTTDoCoMo",
-    "as": "AS9605 NTT DOCOMO, INC.",
-    "query": "1.66.33.240"
   },
   "211.193.219.92": {
     "status": "success",
@@ -607,6 +607,22 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "86.102.15.253"
   },
+  "77.82.213.244": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KAM",
+    "regionName": "Kamchatka",
+    "city": "Petropavlovsk-Kamchatsky",
+    "zip": "683902",
+    "lat": 53.0716,
+    "lon": 158.627,
+    "timezone": "Asia/Kamchatka",
+    "isp": "Rostelecom networks",
+    "org": "Rostelecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "77.82.213.244"
+  },
   "49.109.163.236": {
     "status": "success",
     "country": "Japan",
@@ -638,6 +654,22 @@
     "org": "OJSC Rostelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "109.161.49.118"
+  },
+  "46.0.40.65": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "SAM",
+    "regionName": "Samara Oblast",
+    "city": "Samara",
+    "zip": "404146",
+    "lat": 53.2061,
+    "lon": 50.1509,
+    "timezone": "Europe/Samara",
+    "isp": "CJSC \"ER-Telecom Holding\" Samara branch",
+    "org": "JSC \"ER-Telecom Holding\" Samara Branch",
+    "as": "AS34533 JSC ER-Telecom Holding",
+    "query": "46.0.40.65"
   },
   "69.114.37.204": {
     "status": "success",
