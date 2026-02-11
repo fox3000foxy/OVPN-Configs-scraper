@@ -431,6 +431,22 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "115.163.40.198"
   },
+  "116.82.48.160": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Ōmorikita",
+    "zip": "143-0011",
+    "lat": 35.5845,
+    "lon": 139.7385,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "116.82.48.160"
+  },
   "220.146.78.173": {
     "status": "success",
     "country": "Japan",
@@ -478,22 +494,6 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "112.171.253.186"
-  },
-  "113.22.144.205": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "SG",
-    "regionName": "Ho Chi Minh",
-    "city": "Ho Chi Minh City",
-    "zip": "700000",
-    "lat": 10.822,
-    "lon": 106.6257,
-    "timezone": "Asia/Ho_Chi_Minh",
-    "isp": "FPT Telecom Company",
-    "org": "Vietnam Internet Network Information Center",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "113.22.144.205"
   },
   "171.4.226.236": {
     "status": "success",
@@ -558,6 +558,22 @@
     "org": "Korea Telecom",
     "as": "AS4766 Korea Telecom",
     "query": "211.195.82.195"
+  },
+  "220.76.124.142": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Seoul",
+    "zip": "04524",
+    "lat": 37.5658,
+    "lon": 126.978,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Sudogwonseobubonbu",
+    "as": "AS4766 Korea Telecom",
+    "query": "220.76.124.142"
   },
   "175.196.221.41": {
     "status": "success",
