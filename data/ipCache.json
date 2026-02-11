@@ -111,6 +111,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.126"
   },
+  "104.28.236.97": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "OMS",
+    "regionName": "Omsk Oblast",
+    "city": "Omsk",
+    "zip": "644000",
+    "lat": 54.9896,
+    "lon": 73.3729,
+    "timezone": "Asia/Omsk",
+    "isp": "Cloudflare, Inc.",
+    "org": "Cloudflare WARP",
+    "as": "AS13335 Cloudflare, Inc.",
+    "query": "104.28.236.97"
+  },
   "183.99.115.65": {
     "status": "success",
     "country": "South Korea",
@@ -207,6 +223,22 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.204"
   },
+  "27.83.68.134": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Nihonbashi-Kayabachō",
+    "zip": "103-0025",
+    "lat": 35.6792,
+    "lon": 139.779,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "27.83.68.134"
+  },
   "103.152.178.62": {
     "status": "success",
     "country": "Japan",
@@ -287,22 +319,6 @@
     "as": "AS4685 Asahi Net",
     "query": "220.150.153.216"
   },
-  "143.189.43.87": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "08",
-    "regionName": "Ibaraki",
-    "city": "Mito",
-    "zip": "310-0911",
-    "lat": 36.3502,
-    "lon": 140.4258,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc.",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "143.189.43.87"
-  },
   "1.66.33.240": {
     "status": "success",
     "country": "Japan",
@@ -318,6 +334,22 @@
     "org": "NTTDoCoMo",
     "as": "AS9605 NTT DOCOMO, INC.",
     "query": "1.66.33.240"
+  },
+  "143.189.43.87": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "08",
+    "regionName": "Ibaraki",
+    "city": "Mito",
+    "zip": "310-0911",
+    "lat": 36.3502,
+    "lon": 140.4258,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc.",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "143.189.43.87"
   },
   "42.114.192.218": {
     "status": "success",
@@ -367,38 +399,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "211.44.188.45"
   },
-  "106.179.41.181": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Shimizu",
-    "zip": "167-0031",
-    "lat": 35.7177,
-    "lon": 139.6265,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "106.179.41.181"
-  },
-  "219.115.166.66": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Sakai",
-    "zip": "590-0071",
-    "lat": 34.5742,
-    "lon": 135.4777,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM",
-    "org": "J:COM WEST Co., Ltd.",
-    "as": "AS9617 JCOM Co., Ltd.",
-    "query": "219.115.166.66"
-  },
   "60.95.114.100": {
     "status": "success",
     "country": "Japan",
@@ -446,6 +446,22 @@
     "org": "Sudogwonseobubonbu",
     "as": "AS4766 Korea Telecom",
     "query": "121.170.248.105"
+  },
+  "118.241.184.72": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Nukui",
+    "zip": "176-0021",
+    "lat": 35.7366,
+    "lon": 139.6335,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc.",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "118.241.184.72"
   },
   "60.80.243.29": {
     "status": "success",
