@@ -15,21 +15,21 @@
     "as": "AS20115 Charter Communications LLC",
     "query": "138.229.146.94"
   },
-  "216.8.232.130": {
+  "219.100.37.128": {
     "status": "success",
-    "country": "United States",
-    "countryCode": "US",
-    "region": "IN",
-    "regionName": "Indiana",
-    "city": "Sunman",
-    "zip": "47041",
-    "lat": 39.2411,
-    "lon": -85.1028,
-    "timezone": "America/Indiana/Indianapolis",
-    "isp": "Great Plains Communications LLC",
-    "org": "Great Plains Communications LLC",
-    "as": "AS13807 Great Plains Communications LLC",
-    "query": "216.8.232.130"
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftEther",
+    "org": "SoftEther Corporation",
+    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
+    "query": "219.100.37.128"
   },
   "219.100.37.82": {
     "status": "success",
@@ -191,22 +191,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "118.240.68.160"
   },
-  "42.112.215.182": {
-    "status": "success",
-    "country": "Vietnam",
-    "countryCode": "VN",
-    "region": "HN",
-    "regionName": "Hanoi",
-    "city": "Hanoi",
-    "zip": "100000",
-    "lat": 21.0184,
-    "lon": 105.8461,
-    "timezone": "Asia/Bangkok",
-    "isp": "FPT Telecom Company",
-    "org": "Vietnam Internet Network Information Center",
-    "as": "AS18403 FPT Telecom Company",
-    "query": "42.112.215.182"
-  },
   "59.11.98.103": {
     "status": "success",
     "country": "South Korea",
@@ -222,6 +206,22 @@
     "org": "Sudogwongangnambonbujang",
     "as": "AS4766 Korea Telecom",
     "query": "59.11.98.103"
+  },
+  "42.112.215.182": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "HN",
+    "regionName": "Hanoi",
+    "city": "Hanoi",
+    "zip": "100000",
+    "lat": 21.0184,
+    "lon": 105.8461,
+    "timezone": "Asia/Bangkok",
+    "isp": "FPT Telecom Company",
+    "org": "Vietnam Internet Network Information Center",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "42.112.215.182"
   },
   "219.100.37.208": {
     "status": "success",
@@ -543,6 +543,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "210.100.238.121"
   },
+  "121.130.138.116": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Gwangjin-gu",
+    "zip": "050",
+    "lat": 37.5409,
+    "lon": 127.0762,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "121.130.138.116"
+  },
   "122.203.244.115": {
     "status": "success",
     "country": "South Korea",
@@ -558,22 +574,6 @@
     "org": "Pubnetplus",
     "as": "AS9316 DACOM-PUBNETPLUS",
     "query": "122.203.244.115"
-  },
-  "59.9.44.175": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Suwon",
-    "zip": "162",
-    "lat": 37.2963,
-    "lon": 127.0506,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Sudogwongangbukbonbujang",
-    "as": "AS4766 Korea Telecom",
-    "query": "59.9.44.175"
   },
   "1.241.129.177": {
     "status": "success",
