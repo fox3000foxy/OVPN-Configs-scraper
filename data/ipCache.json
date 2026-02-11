@@ -671,22 +671,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "58.226.80.192"
   },
-  "130.255.48.81": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "SVE",
-    "regionName": "Sverdlovsk Oblast",
-    "city": "Kamensk-Uralsky",
-    "zip": "623405",
-    "lat": 56.4046,
-    "lon": 61.921,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "Closed Joint Stock Company Radiotelephone",
-    "org": "CJSC Radiotelephone",
-    "as": "AS39812 Closed Joint Stock Company Radiotelephone",
-    "query": "130.255.48.81"
-  },
   "5.137.188.220": {
     "status": "success",
     "country": "Russia",
@@ -718,6 +702,22 @@
     "org": "Ultel LLC",
     "as": "AS39232 Uninet LLC",
     "query": "89.219.190.192"
+  },
+  "130.255.48.81": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "SVE",
+    "regionName": "Sverdlovsk Oblast",
+    "city": "Kamensk-Uralsky",
+    "zip": "623405",
+    "lat": 56.4046,
+    "lon": 61.921,
+    "timezone": "Asia/Yekaterinburg",
+    "isp": "Closed Joint Stock Company Radiotelephone",
+    "org": "CJSC Radiotelephone",
+    "as": "AS39812 Closed Joint Stock Company Radiotelephone",
+    "query": "130.255.48.81"
   },
   "37.23.161.117": {
     "status": "success",
@@ -766,21 +766,5 @@
     "org": "CJSC Transtelecom-DV",
     "as": "AS49301 Joint Stock Company TransTeleCom",
     "query": "46.38.28.65"
-  },
-  "95.154.65.250": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PRI",
-    "regionName": "Primorye",
-    "city": "Vladivostok",
-    "zip": "690001",
-    "lat": 43.1068,
-    "lon": 131.8692,
-    "timezone": "Asia/Vladivostok",
-    "isp": "OCTOPUSNET-NAT",
-    "org": "",
-    "as": "AS44724 Octopusnet LTD",
-    "query": "95.154.65.250"
   }
 }
