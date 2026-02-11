@@ -79,22 +79,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "39.125.14.120"
   },
-  "131.147.142.132": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Wada",
-    "zip": "166-0011",
-    "lat": 35.6945,
-    "lon": 139.6524,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "131.147.142.132"
-  },
   "219.100.37.15": {
     "status": "success",
     "country": "Japan",
@@ -110,6 +94,22 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.15"
+  },
+  "131.147.142.132": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Wada",
+    "zip": "166-0011",
+    "lat": 35.6945,
+    "lon": 139.6524,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "131.147.142.132"
   },
   "118.240.68.160": {
     "status": "success",
@@ -127,22 +127,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "118.240.68.160"
   },
-  "219.100.37.4": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftEther",
-    "org": "SoftEther Corporation",
-    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.4"
-  },
   "219.100.37.16": {
     "status": "success",
     "country": "Japan",
@@ -158,6 +142,22 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.16"
+  },
+  "219.100.37.4": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftEther",
+    "org": "SoftEther Corporation",
+    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
+    "query": "219.100.37.4"
   },
   "60.119.129.138": {
     "status": "success",
@@ -175,37 +175,21 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.119.129.138"
   },
-  "103.152.178.62": {
+  "219.100.37.109": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
     "region": "13",
     "regionName": "Tokyo",
     "city": "Chiyoda City",
-    "zip": "100-0001",
-    "lat": 35.694,
-    "lon": 139.754,
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
     "timezone": "Asia/Tokyo",
-    "isp": "Ayao Takata",
-    "org": "SDCC-East01",
-    "as": "AS38074 SDCC Japan-West Area",
-    "query": "103.152.178.62"
-  },
-  "91.219.203.117": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PER",
-    "regionName": "Perm Krai",
-    "city": "Lys'va",
-    "zip": "618900",
-    "lat": 58.1004,
-    "lon": 57.8043,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "KVARTAL",
-    "org": "Lukjanova Lydia Andreevna PE",
-    "as": "AS59533 Lukyanov Evgeniy Vladimirovich PE",
-    "query": "91.219.203.117"
+    "isp": "SoftEther",
+    "org": "SoftEther Corporation",
+    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
+    "query": "219.100.37.109"
   },
   "219.100.37.204": {
     "status": "success",
@@ -239,6 +223,22 @@
     "as": "AS50427 Orion Telecom LLC",
     "query": "109.226.248.25"
   },
+  "91.219.203.117": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PER",
+    "regionName": "Perm Krai",
+    "city": "Lys'va",
+    "zip": "618900",
+    "lat": 58.1004,
+    "lon": 57.8043,
+    "timezone": "Asia/Yekaterinburg",
+    "isp": "KVARTAL",
+    "org": "Lukjanova Lydia Andreevna PE",
+    "as": "AS59533 Lukyanov Evgeniy Vladimirovich PE",
+    "query": "91.219.203.117"
+  },
   "49.228.243.159": {
     "status": "success",
     "country": "Thailand",
@@ -270,22 +270,6 @@
     "org": "SK Broadband Co Ltd",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.246.154.63"
-  },
-  "112.220.30.58": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Nowon-gu",
-    "zip": "017",
-    "lat": 37.6537,
-    "lon": 127.0717,
-    "timezone": "Asia/Seoul",
-    "isp": "LG DACOM Corporation",
-    "org": "Boranet",
-    "as": "AS3786 LG DACOM Corporation",
-    "query": "112.220.30.58"
   },
   "116.34.216.160": {
     "status": "success",
