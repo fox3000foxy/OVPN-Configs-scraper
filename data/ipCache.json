@@ -95,22 +95,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.15"
   },
-  "131.147.142.132": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Wada",
-    "zip": "166-0011",
-    "lat": 35.6945,
-    "lon": 139.6524,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "131.147.142.132"
-  },
   "219.100.37.16": {
     "status": "success",
     "country": "Japan",
@@ -126,6 +110,22 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.16"
+  },
+  "131.147.142.132": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Wada",
+    "zip": "166-0011",
+    "lat": 35.6945,
+    "lon": 139.6524,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "131.147.142.132"
   },
   "219.100.37.4": {
     "status": "success",
@@ -303,6 +303,22 @@
     "as": "AS9605 NTT DOCOMO, INC.",
     "query": "1.66.33.240"
   },
+  "42.113.89.213": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "SG",
+    "regionName": "Ho Chi Minh",
+    "city": "Ho Chi Minh City",
+    "zip": "700000",
+    "lat": 10.822,
+    "lon": 106.6257,
+    "timezone": "Asia/Ho_Chi_Minh",
+    "isp": "FPT Telecom Company",
+    "org": "FPTDYNAMICIP",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "42.113.89.213"
+  },
   "118.68.64.11": {
     "status": "success",
     "country": "Vietnam",
@@ -367,6 +383,22 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.90.30.188"
   },
+  "60.236.236.252": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "11",
+    "regionName": "Saitama",
+    "city": "Kawaguchi",
+    "zip": "332-0031",
+    "lat": 35.8147,
+    "lon": 139.7289,
+    "timezone": "Asia/Tokyo",
+    "isp": "BIGLOBE Inc.",
+    "org": "BIGLOBE",
+    "as": "AS2518 BIGLOBE Inc.",
+    "query": "60.236.236.252"
+  },
   "60.39.59.218": {
     "status": "success",
     "country": "Japan",
@@ -383,37 +415,21 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "60.39.59.218"
   },
-  "219.100.165.93": {
+  "211.237.248.209": {
     "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "09",
-    "regionName": "Tochigi",
-    "city": "Ubagai",
-    "zip": "321-3321",
-    "lat": 36.5648,
-    "lon": 140.0113,
-    "timezone": "Asia/Tokyo",
-    "isp": "Utsunomiya Cable TV Corporation",
-    "org": "",
-    "as": "AS18274 Utsunomiya Cable TV Corporation",
-    "query": "219.100.165.93"
-  },
-  "84.252.101.62": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "MOW",
-    "regionName": "Moscow",
-    "city": "Moscow",
-    "zip": "127474",
-    "lat": 55.7487,
-    "lon": 37.6187,
-    "timezone": "Europe/Moscow",
-    "isp": "Delta Ltd",
-    "org": "bunny communications llc",
-    "as": "AS213220 Delta Ltd",
-    "query": "84.252.101.62"
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Gwanak-gu",
+    "zip": "087",
+    "lat": 37.4873,
+    "lon": 126.9227,
+    "timezone": "Asia/Seoul",
+    "isp": "kt HCN Co., Ltd.",
+    "org": "HCN",
+    "as": "AS9762 kt HCN Co.,Ltd.",
+    "query": "211.237.248.209"
   },
   "210.106.55.92": {
     "status": "success",
@@ -447,6 +463,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "221.154.45.220"
   },
+  "84.252.101.62": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "MOW",
+    "regionName": "Moscow",
+    "city": "Moscow",
+    "zip": "127474",
+    "lat": 55.7487,
+    "lon": 37.6187,
+    "timezone": "Europe/Moscow",
+    "isp": "Delta Ltd",
+    "org": "bunny communications llc",
+    "as": "AS213220 Delta Ltd",
+    "query": "84.252.101.62"
+  },
   "180.229.92.110": {
     "status": "success",
     "country": "South Korea",
@@ -479,21 +511,21 @@
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "110.135.220.7"
   },
-  "61.81.2.197": {
+  "220.72.40.110": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
-    "region": "30",
-    "regionName": "Daejeon",
-    "city": "Jung-gu",
-    "zip": "349",
-    "lat": 36.3107,
-    "lon": 127.4159,
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Dobong-gu",
+    "zip": "013",
+    "lat": 37.675,
+    "lon": 127.0496,
     "timezone": "Asia/Seoul",
     "isp": "Korea Telecom",
-    "org": "Korea Telecom",
+    "org": "",
     "as": "AS4766 Korea Telecom",
-    "query": "61.81.2.197"
+    "query": "220.72.40.110"
   },
   "118.218.227.187": {
     "status": "success",
@@ -510,22 +542,6 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "118.218.227.187"
-  },
-  "220.72.40.110": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Dobong-gu",
-    "zip": "013",
-    "lat": 37.675,
-    "lon": 127.0496,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "220.72.40.110"
   },
   "133.106.50.98": {
     "status": "success",
@@ -574,5 +590,21 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "58.127.200.40"
+  },
+  "5.137.98.79": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "NVS",
+    "regionName": "Novosibirsk Oblast",
+    "city": "Novosibirsk",
+    "zip": "630000",
+    "lat": 55.0226,
+    "lon": 82.9317,
+    "timezone": "Asia/Novosibirsk",
+    "isp": "Rostelecom networks",
+    "org": "JSC Rostelecom regional branch Siberia",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "5.137.98.79"
   }
 }
