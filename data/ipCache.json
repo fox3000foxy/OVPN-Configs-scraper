@@ -574,5 +574,21 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "175.196.221.41"
+  },
+  "49.175.89.36": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "30",
+    "regionName": "Daejeon",
+    "city": "Jung-gu",
+    "zip": "348",
+    "lat": 36.3366,
+    "lon": 127.4004,
+    "timezone": "Asia/Seoul",
+    "isp": "LG POWERCOMM",
+    "org": "LG POWERCOMM",
+    "as": "AS17858 LG POWERCOMM",
+    "query": "49.175.89.36"
   }
 }
