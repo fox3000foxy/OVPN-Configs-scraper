@@ -239,22 +239,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "222.109.72.106"
   },
-  "219.100.37.204": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftEther",
-    "org": "SoftEther Corporation",
-    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.204"
-  },
   "153.165.156.176": {
     "status": "success",
     "country": "Japan",
@@ -447,6 +431,22 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "175.122.73.80"
   },
+  "126.207.197.143": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato",
+    "zip": "105-0012",
+    "lat": 35.6552,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "SOFTBANK Corp",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "126.207.197.143"
+  },
   "114.161.4.252": {
     "status": "success",
     "country": "Japan",
@@ -510,22 +510,6 @@
     "org": "",
     "as": "AS133481 AIS Fibre",
     "query": "184.22.15.224"
-  },
-  "95.55.170.20": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "SPE",
-    "regionName": "St.-Petersburg",
-    "city": "St Petersburg",
-    "zip": "190990",
-    "lat": 59.8983,
-    "lon": 30.2618,
-    "timezone": "Europe/Moscow",
-    "isp": "Rostelecom networks",
-    "org": "OJSC North-West Telecom",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "95.55.170.20"
   },
   "118.70.201.8": {
     "status": "success",
