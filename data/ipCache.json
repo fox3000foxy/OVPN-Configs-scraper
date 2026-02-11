@@ -15,22 +15,6 @@
     "as": "AS20115 Charter Communications LLC",
     "query": "138.229.146.94"
   },
-  "219.100.37.128": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftEther",
-    "org": "SoftEther Corporation",
-    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.128"
-  },
   "219.100.37.82": {
     "status": "success",
     "country": "Japan",
@@ -46,6 +30,22 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.82"
+  },
+  "219.100.37.128": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftEther",
+    "org": "SoftEther Corporation",
+    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
+    "query": "219.100.37.128"
   },
   "219.100.37.4": {
     "status": "success",
@@ -479,22 +479,6 @@
     "as": "AS133481 AIS Fibre",
     "query": "184.22.15.224"
   },
-  "106.166.136.213": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "08",
-    "regionName": "Ibaraki",
-    "city": "Koga",
-    "zip": "306-0001",
-    "lat": 36.2024,
-    "lon": 139.7085,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "106.166.136.213"
-  },
   "218.40.64.155": {
     "status": "success",
     "country": "Japan",
@@ -510,6 +494,22 @@
     "org": "Green City Cable TV Corporation",
     "as": "AS17698 COMMUNITY NETWORK CENTER INCORPORATED.",
     "query": "218.40.64.155"
+  },
+  "95.55.170.20": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "SPE",
+    "regionName": "St.-Petersburg",
+    "city": "St Petersburg",
+    "zip": "190990",
+    "lat": 59.8983,
+    "lon": 30.2618,
+    "timezone": "Europe/Moscow",
+    "isp": "Rostelecom networks",
+    "org": "OJSC North-West Telecom",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "95.55.170.20"
   },
   "210.100.238.121": {
     "status": "success",
@@ -606,5 +606,21 @@
     "org": "SK Broadband Co Ltd",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.241.129.177"
+  },
+  "14.7.11.249": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "45",
+    "regionName": "Jeollabuk-do",
+    "city": "Gunsan",
+    "zip": "541",
+    "lat": 35.9812,
+    "lon": 126.712,
+    "timezone": "Asia/Seoul",
+    "isp": "LG POWERCOMM",
+    "org": "DACOM-PUBNETPLUS",
+    "as": "AS17858 LG POWERCOMM",
+    "query": "14.7.11.249"
   }
 }
