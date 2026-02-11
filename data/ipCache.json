@@ -255,38 +255,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.145.190.37"
   },
-  "1.240.128.118": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Dobong-gu",
-    "zip": "014",
-    "lat": 37.639,
-    "lon": 127.034,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "1.240.128.118"
-  },
-  "1.66.33.240": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Osaka",
-    "zip": "530-0041",
-    "lat": 34.6967,
-    "lon": 135.5154,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Docomo, inc.",
-    "org": "NTTDoCoMo",
-    "as": "AS9605 NTT DOCOMO, INC.",
-    "query": "1.66.33.240"
-  },
   "14.170.227.235": {
     "status": "success",
     "country": "Vietnam",
@@ -303,21 +271,21 @@
     "as": "AS45899 VNPT Corp",
     "query": "14.170.227.235"
   },
-  "222.8.139.88": {
+  "1.240.128.118": {
     "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "02",
-    "regionName": "Aomori",
-    "city": "Towada",
-    "zip": "034-0001",
-    "lat": 40.6265,
-    "lon": 141.223,
-    "timezone": "Asia/Tokyo",
-    "isp": "DION (KDDI CORPORATION)",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "222.8.139.88"
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Dobong-gu",
+    "zip": "014",
+    "lat": 37.639,
+    "lon": 127.034,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "1.240.128.118"
   },
   "219.100.37.50": {
     "status": "success",
@@ -463,6 +431,22 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "175.132.127.244"
   },
+  "121.110.185.12": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Yokohama",
+    "zip": "231-0841",
+    "lat": 35.4337,
+    "lon": 139.6499,
+    "timezone": "Asia/Tokyo",
+    "isp": "DION (KDDI CORPORATION)",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "121.110.185.12"
+  },
   "218.146.133.8": {
     "status": "success",
     "country": "South Korea",
@@ -607,22 +591,6 @@
     "as": "AS2516 KDDI CORPORATION",
     "query": "106.159.95.188"
   },
-  "211.206.8.149": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Jongno-gu",
-    "zip": "031",
-    "lat": 37.5692,
-    "lon": 126.9775,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "211.206.8.149"
-  },
   "78.29.43.182": {
     "status": "success",
     "country": "Russia",
@@ -638,22 +606,6 @@
     "org": "Intersvyaz-2 JSC",
     "as": "AS8369 Intersvyaz-2 JSC",
     "query": "78.29.43.182"
-  },
-  "114.201.13.246": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Dongjak-gu",
-    "zip": "069",
-    "lat": 37.5003,
-    "lon": 126.9565,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "114.201.13.246"
   },
   "103.120.201.220": {
     "status": "success",
