@@ -367,22 +367,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.90.30.188"
   },
-  "60.236.236.252": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "11",
-    "regionName": "Saitama",
-    "city": "Kawaguchi",
-    "zip": "332-0031",
-    "lat": 35.8147,
-    "lon": 139.7289,
-    "timezone": "Asia/Tokyo",
-    "isp": "BIGLOBE Inc.",
-    "org": "BIGLOBE",
-    "as": "AS2518 BIGLOBE Inc.",
-    "query": "60.236.236.252"
-  },
   "60.39.59.218": {
     "status": "success",
     "country": "Japan",
@@ -399,21 +383,21 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "60.39.59.218"
   },
-  "211.237.248.209": {
+  "219.100.165.93": {
     "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Gwanak-gu",
-    "zip": "087",
-    "lat": 37.4873,
-    "lon": 126.9227,
-    "timezone": "Asia/Seoul",
-    "isp": "kt HCN Co., Ltd.",
-    "org": "HCN",
-    "as": "AS9762 kt HCN Co.,Ltd.",
-    "query": "211.237.248.209"
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "09",
+    "regionName": "Tochigi",
+    "city": "Ubagai",
+    "zip": "321-3321",
+    "lat": 36.5648,
+    "lon": 140.0113,
+    "timezone": "Asia/Tokyo",
+    "isp": "Utsunomiya Cable TV Corporation",
+    "org": "",
+    "as": "AS18274 Utsunomiya Cable TV Corporation",
+    "query": "219.100.165.93"
   },
   "84.252.101.62": {
     "status": "success",
@@ -495,6 +479,22 @@
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "110.135.220.7"
   },
+  "61.81.2.197": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "30",
+    "regionName": "Daejeon",
+    "city": "Jung-gu",
+    "zip": "349",
+    "lat": 36.3107,
+    "lon": 127.4159,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Korea Telecom",
+    "as": "AS4766 Korea Telecom",
+    "query": "61.81.2.197"
+  },
   "118.218.227.187": {
     "status": "success",
     "country": "South Korea",
@@ -574,21 +574,5 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "58.127.200.40"
-  },
-  "1.250.179.6": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "45",
-    "regionName": "Jeollabuk-do",
-    "city": "Iksan",
-    "zip": "545",
-    "lat": 35.9606,
-    "lon": 126.983,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "1.250.179.6"
   }
 }
