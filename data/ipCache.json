@@ -463,6 +463,22 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "114.161.4.252"
   },
+  "111.105.129.245": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "28",
+    "regionName": "Hyōgo",
+    "city": "Kobe",
+    "zip": "650-0011",
+    "lat": 34.6922,
+    "lon": 135.1816,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "111.105.129.245"
+  },
   "122.211.144.103": {
     "status": "success",
     "country": "Japan",
@@ -494,22 +510,6 @@
     "org": "",
     "as": "AS133481 AIS Fibre",
     "query": "184.22.15.224"
-  },
-  "218.40.64.155": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "23",
-    "regionName": "Aichi",
-    "city": "Toribami",
-    "zip": "463-0071",
-    "lat": 35.2056,
-    "lon": 136.9561,
-    "timezone": "Asia/Tokyo",
-    "isp": "Community Network Center Incorporated.",
-    "org": "Green City Cable TV Corporation",
-    "as": "AS17698 COMMUNITY NETWORK CENTER INCORPORATED.",
-    "query": "218.40.64.155"
   },
   "95.55.170.20": {
     "status": "success",
