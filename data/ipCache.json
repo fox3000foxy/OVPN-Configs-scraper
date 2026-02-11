@@ -351,22 +351,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "211.193.219.92"
   },
-  "113.148.186.91": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "26",
-    "regionName": "Kyoto",
-    "city": "Uji",
-    "zip": "611-0041",
-    "lat": 34.8992,
-    "lon": 135.7859,
-    "timezone": "Asia/Tokyo",
-    "isp": "DION (KDDI CORPORATION)",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "113.148.186.91"
-  },
   "180.30.154.157": {
     "status": "success",
     "country": "Japan",
@@ -590,22 +574,6 @@
     "org": "TBROAD Jeonju",
     "as": "AS17854 SK Broadband Co Ltd",
     "query": "211.116.113.124"
-  },
-  "59.6.133.219": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Seodaemun-gu",
-    "zip": "036",
-    "lat": 37.573,
-    "lon": 126.926,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "59.6.133.219"
   },
   "86.102.15.253": {
     "status": "success",
