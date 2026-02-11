@@ -399,6 +399,22 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "60.39.59.218"
   },
+  "211.237.248.209": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Gwanak-gu",
+    "zip": "087",
+    "lat": 37.4873,
+    "lon": 126.9227,
+    "timezone": "Asia/Seoul",
+    "isp": "kt HCN Co., Ltd.",
+    "org": "HCN",
+    "as": "AS9762 kt HCN Co.,Ltd.",
+    "query": "211.237.248.209"
+  },
   "219.100.165.93": {
     "status": "success",
     "country": "Japan",
@@ -495,22 +511,6 @@
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "110.135.220.7"
   },
-  "61.81.2.197": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "30",
-    "regionName": "Daejeon",
-    "city": "Jung-gu",
-    "zip": "349",
-    "lat": 36.3107,
-    "lon": 127.4159,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Korea Telecom",
-    "as": "AS4766 Korea Telecom",
-    "query": "61.81.2.197"
-  },
   "220.72.40.110": {
     "status": "success",
     "country": "South Korea",
@@ -606,5 +606,21 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.250.179.6"
+  },
+  "5.137.98.79": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "NVS",
+    "regionName": "Novosibirsk Oblast",
+    "city": "Novosibirsk",
+    "zip": "630000",
+    "lat": 55.0226,
+    "lon": 82.9317,
+    "timezone": "Asia/Novosibirsk",
+    "isp": "Rostelecom networks",
+    "org": "JSC Rostelecom regional branch Siberia",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "5.137.98.79"
   }
 }
