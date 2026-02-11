@@ -239,22 +239,6 @@
     "as": "AS50427 Orion Telecom LLC",
     "query": "109.226.248.25"
   },
-  "1.246.154.63": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "43",
-    "regionName": "North Chungcheong",
-    "city": "Cheongju-si",
-    "zip": "284",
-    "lat": 36.637,
-    "lon": 127.4339,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "SK Broadband Co Ltd",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "1.246.154.63"
-  },
   "49.228.243.159": {
     "status": "success",
     "country": "Thailand",
@@ -270,6 +254,22 @@
     "org": "",
     "as": "AS133481 AIS Fibre",
     "query": "49.228.243.159"
+  },
+  "1.246.154.63": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "43",
+    "regionName": "North Chungcheong",
+    "city": "Cheongju-si",
+    "zip": "284",
+    "lat": 36.637,
+    "lon": 127.4339,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "SK Broadband Co Ltd",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "1.246.154.63"
   },
   "112.220.30.58": {
     "status": "success",
@@ -559,22 +559,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "61.81.2.197"
   },
-  "175.193.142.119": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Seodaemun-gu",
-    "zip": "036",
-    "lat": 37.573,
-    "lon": 126.926,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "175.193.142.119"
-  },
   "220.72.40.110": {
     "status": "success",
     "country": "South Korea",
@@ -606,6 +590,22 @@
     "org": "RMN",
     "as": "AS138384 Rakuten Mobile Network, Inc.",
     "query": "133.106.50.98"
+  },
+  "221.154.42.124": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "28",
+    "regionName": "Incheon",
+    "city": "Bupyeong-gu",
+    "zip": "213",
+    "lat": 37.5087,
+    "lon": 126.7219,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "221.154.42.124"
   },
   "58.127.200.40": {
     "status": "success",
