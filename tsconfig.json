@@ -10,7 +10,7 @@
     "skipLibCheck": true,
     "resolveJsonModule": true,
     "outDir": "dist",
-    "types": []
+    "types": ["node"]
   },
   "include": [
     "src/**/*",

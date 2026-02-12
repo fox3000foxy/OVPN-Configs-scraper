@@ -1,5 +1,3 @@
-import { load } from "cheerio";
-
 interface IPSpeedServer {
     ip: string;
     country: string;
@@ -16,17 +14,22 @@ async function scrapPage(page: string): Promise<string> {
 }
 
 function parsePage(html: string): IPSpeedServer[] {
-    const $ = load(html);
-    const links = $("a[href$='.ovpn']");
-    const ipSpeedServers: IPSpeedServer[] = [];
-    for (const link of links) {
-        const parentRow = $(link).parent().parent();
-        const country = parentRow.find(".list_o1").text().trim().split(" ")[1];
-        const ip = $(link).text().trim().replace(".ovpn", "");
-        const download_url = $(link).attr("href") as string;
-        ipSpeedServers.push({ ip, country, download_url });
+    // Regex pour matcher les lignes du tableau : <td class="list_o1">... Country</td><td><a href="...">IP.ovpn</a></td>
+    try {
+        const regex = /<td class="list_o1"[^>]*>(?:[^<]*\s+)?([^<]+)<\/td>\s*<td[^>]*><a href="([^"]+\.ovpn)"[^>]*>([^<]+)\.ovpn<\/a><\/td>/gi;
+        const ipSpeedServers: IPSpeedServer[] = [];
+        let match;
+        while ((match = regex.exec(html)) !== null) {
+            const country = match[1].trim();
+            const download_url = match[2];
+            const ip = match[3].trim();
+            ipSpeedServers.push({ ip, country, download_url });
+        }
+        return ipSpeedServers;
+    } catch (error) {
+        console.error("Error parsing page:", error);
+        return [];
     }
-    return ipSpeedServers;
 }
 
 const PAGE_NB = 4;
@@ -45,4 +48,4 @@ export async function getVpnList(): Promise<IPSpeedServer[]> {
         }
     }
     return uniqueLinks;
-} 
+}

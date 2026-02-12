@@ -21,7 +21,7 @@ export function getVpnList(): Promise<VpnListResult> {
 
             res.on("end", () => {
                 if (res.statusCode !== 200) {
-                    reject({ servers: [], countries: {} });
+                    reject(new Error(`HTTP error: ${res.statusCode}`));
                 } else {
                     try {
                         const servers: VpnServer[] = [];
@@ -31,7 +31,7 @@ export function getVpnList(): Promise<VpnListResult> {
                         let lines = data.trim().split("\n");
 
                         if (lines.length < 2) {
-                            reject(returnData);
+                            reject(new Error("Invalid data format: not enough lines"));
                             return;
                         }
 
@@ -71,7 +71,7 @@ export function getVpnList(): Promise<VpnListResult> {
 
                         resolve(returnData);
                     } catch (error) {
-                        reject({ servers: [], countries: {} });
+                        reject(new Error(`Parsing error: ${error}`));
                     }
                 }
             });
@@ -79,8 +79,8 @@ export function getVpnList(): Promise<VpnListResult> {
 
         console.log("Fetching VPN list from VPNGate API");
 
-        req.on("error", () => {
-            reject({ servers: [], countries: {} });
+        req.on("error", (err) => {
+            reject(new Error(`Network error: ${err.message}`));
         });
 
         req.end();

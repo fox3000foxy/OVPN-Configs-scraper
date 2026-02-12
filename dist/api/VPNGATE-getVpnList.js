@@ -15,7 +15,7 @@ function getVpnList() {
             });
             res.on("end", () => {
                 if (res.statusCode !== 200) {
-                    reject({ servers: [], countries: {} });
+                    reject(new Error(`HTTP error: ${res.statusCode}`));
                 }
                 else {
                     try {

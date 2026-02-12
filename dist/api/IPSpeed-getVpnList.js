@@ -1,7 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.getVpnList = getVpnList;
-const cheerio_1 = require("cheerio");
 const url = "https://ipspeed.info/freevpn_openvpn.php?language=en&page=";
 async function scrapPage(page) {
     const response = await fetch(url + page);
@@ -10,17 +9,23 @@ async function scrapPage(page) {
     return response.text();
 }
 function parsePage(html) {
-    const $ = (0, cheerio_1.load)(html);
-    const links = $("a[href$='.ovpn']");
-    const ipSpeedServers = [];
-    for (const link of links) {
-        const parentRow = $(link).parent().parent();
-        const country = parentRow.find(".list_o1").text().trim().split(" ")[1];
-        const ip = $(link).text().trim().replace(".ovpn", "");
-        const download_url = $(link).attr("href");
-        ipSpeedServers.push({ ip, country, download_url });
+    // Regex pour matcher les lignes du tableau : <td class="list_o1">... Country</td><td><a href="...">IP.ovpn</a></td>
+    try {
+        const regex = /<td class="list_o1"[^>]*>(?:[^<]*\s+)?([^<]+)<\/td>\s*<td[^>]*><a href="([^"]+\.ovpn)"[^>]*>([^<]+)\.ovpn<\/a><\/td>/gi;
+        const ipSpeedServers = [];
+        let match;
+        while ((match = regex.exec(html)) !== null) {
+            const country = match[1].trim();
+            const download_url = match[2];
+            const ip = match[3].trim();
+            ipSpeedServers.push({ ip, country, download_url });
+        }
+        return ipSpeedServers;
     }
-    return ipSpeedServers;
+    catch (error) {
+        console.error("Error parsing page:", error);
+        return [];
+    }
 }
 const PAGE_NB = 4;
 async function getVpnList() {
