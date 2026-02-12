@@ -95,22 +95,6 @@
     "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
     "query": "60.36.150.117"
   },
-  "221.144.146.230": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Seoul",
-    "zip": "045",
-    "lat": 37.5656,
-    "lon": 126.978,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "221.144.146.230"
-  },
   "219.100.37.126": {
     "status": "success",
     "country": "Japan",
@@ -126,6 +110,22 @@
     "org": "SoftEther Corporation",
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.126"
+  },
+  "221.144.146.230": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Seoul",
+    "zip": "045",
+    "lat": 37.5656,
+    "lon": 126.978,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "221.144.146.230"
   },
   "60.144.85.226": {
     "status": "success",
@@ -207,22 +207,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.204"
   },
-  "220.74.79.4": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Ansan-si",
-    "zip": "15345",
-    "lat": 37.3253,
-    "lon": 126.8178,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "KORNET",
-    "as": "AS4766 Korea Telecom",
-    "query": "220.74.79.4"
-  },
   "115.37.29.195": {
     "status": "success",
     "country": "Japan",
@@ -270,6 +254,22 @@
     "org": "OJSC Far Eastern Telecommunications Company Amursky st.",
     "as": "AS34137 PJSC Rostelecom",
     "query": "79.105.223.157"
+  },
+  "1.232.152.53": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Seoul",
+    "zip": "045",
+    "lat": 37.5656,
+    "lon": 126.978,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "SK Broadband Co Ltd",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "1.232.152.53"
   },
   "150.147.126.178": {
     "status": "success",
@@ -383,38 +383,6 @@
     "as": "AS45758 Triple T Broadband Public Company Limited",
     "query": "183.88.237.254"
   },
-  "59.168.25.10": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Takashimadaira",
-    "zip": "175-0081",
-    "lat": 35.7931,
-    "lon": 139.6606,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM Co., Ltd.",
-    "org": "JCOM Co., Ltd",
-    "as": "AS9824 JCOM Co., Ltd.",
-    "query": "59.168.25.10"
-  },
-  "222.97.142.229": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "26",
-    "regionName": "Busan",
-    "city": "Yeonje-gu",
-    "zip": "475",
-    "lat": 35.1811,
-    "lon": 129.0928,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "KORNET",
-    "as": "AS4766 Korea Telecom",
-    "query": "222.97.142.229"
-  },
   "106.174.107.75": {
     "status": "success",
     "country": "Japan",
@@ -446,6 +414,22 @@
     "org": "JCOM Co., Ltd",
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "119.175.138.115"
+  },
+  "133.218.202.2": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "23",
+    "regionName": "Aichi",
+    "city": "Nagoya",
+    "zip": "462-0841",
+    "lat": 35.1926,
+    "lon": 136.906,
+    "timezone": "Asia/Tokyo",
+    "isp": "Internet Initiative Japan Inc.",
+    "org": "Rikei Corporation",
+    "as": "AS2497 Internet Initiative Japan Inc.",
+    "query": "133.218.202.2"
   },
   "61.255.26.99": {
     "status": "success",
@@ -558,5 +542,53 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "59.28.247.22"
+  },
+  "71.57.50.63": {
+    "status": "success",
+    "country": "United States",
+    "countryCode": "US",
+    "region": "IL",
+    "regionName": "Illinois",
+    "city": "Des Plaines",
+    "zip": "60016",
+    "lat": 42.0487,
+    "lon": -87.8905,
+    "timezone": "America/Chicago",
+    "isp": "Comcast Cable Communications",
+    "org": "Comcast Cable Communications Holdings, Inc",
+    "as": "AS7922 Comcast Cable Communications, LLC",
+    "query": "71.57.50.63"
+  },
+  "106.254.0.245": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Yongsan-dong",
+    "zip": "04371",
+    "lat": 37.5379,
+    "lon": 126.97,
+    "timezone": "Asia/Seoul",
+    "isp": "LG DACOM Corporation",
+    "org": "Boranet",
+    "as": "AS3786 LG DACOM Corporation",
+    "query": "106.254.0.245"
+  },
+  "188.233.49.163": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "VGG",
+    "regionName": "Volgograd Oblast",
+    "city": "Volgograd",
+    "zip": "400011",
+    "lat": 48.7168,
+    "lon": 44.5035,
+    "timezone": "Europe/Volgograd",
+    "isp": "CJSC \"ER-Telecom Holding\" Volgograd branch",
+    "org": "JSC \"ER-Telecom Holding\" Volgograd Branch",
+    "as": "AS39435 JSC ER-Telecom Holding",
+    "query": "188.233.49.163"
   }
 }
