@@ -239,6 +239,22 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "77.82.181.118"
   },
+  "58.85.120.229": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Minoh",
+    "zip": "562-0011",
+    "lat": 34.845,
+    "lon": 135.4855,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM Co., Ltd.",
+    "org": "JCOM",
+    "as": "AS9617 JCOM Co., Ltd.",
+    "query": "58.85.120.229"
+  },
   "61.47.212.110": {
     "status": "success",
     "country": "South Korea",
@@ -254,22 +270,6 @@
     "org": "TBROAD SaeromNamdongSeohae",
     "as": "AS17597 SK Broadband Co Ltd",
     "query": "61.47.212.110"
-  },
-  "126.219.0.177": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.219.0.177"
   },
   "219.100.37.50": {
     "status": "success",
@@ -366,38 +366,6 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "121.167.246.176"
-  },
-  "212.14.195.153": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "MAG",
-    "regionName": "Magadan Oblast",
-    "city": "Magadan",
-    "zip": "685000",
-    "lat": 59.5686,
-    "lon": 150.8133,
-    "timezone": "Asia/Magadan",
-    "isp": "Telephone&Telegraph Station",
-    "org": "Northern International University",
-    "as": "AS34205 PJSC Rostelecom",
-    "query": "212.14.195.153"
-  },
-  "111.217.169.226": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Tokyo",
-    "zip": "151-0071",
-    "lat": 35.6837,
-    "lon": 139.6805,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "111.217.169.226"
   },
   "124.210.129.151": {
     "status": "success",
@@ -511,6 +479,22 @@
     "as": "AS20661 State Company of Electro Communications Turkmentelecom",
     "query": "119.235.113.226"
   },
+  "118.174.71.96": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "10",
+    "regionName": "Bangkok",
+    "city": "Bangkok",
+    "zip": "10110",
+    "lat": 13.7101,
+    "lon": 100.4543,
+    "timezone": "Asia/Bangkok",
+    "isp": "TOT Public Company Limited",
+    "org": "TOT Public Company Limited",
+    "as": "AS23969 TOT Public Company Limited",
+    "query": "118.174.71.96"
+  },
   "210.197.161.220": {
     "status": "success",
     "country": "Japan",
@@ -623,22 +607,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "39.122.182.187"
   },
-  "121.133.160.141": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Seongnam-si",
-    "zip": "135",
-    "lat": 37.377,
-    "lon": 127.1091,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "121.133.160.141"
-  },
   "46.188.124.136": {
     "status": "success",
     "country": "Russia",
@@ -702,6 +670,22 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.226.8.88"
+  },
+  "91.132.22.148": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "KYA",
+    "regionName": "Krasnoyarsk Krai",
+    "city": "Krasnoyarsk",
+    "zip": "660049",
+    "lat": 56.0374,
+    "lon": 92.9314,
+    "timezone": "Asia/Krasnoyarsk",
+    "isp": "Igra-Service LLC",
+    "org": "Netname",
+    "as": "AS33991 Igra-Service LLC",
+    "query": "91.132.22.148"
   },
   "77.35.108.88": {
     "status": "success",
