@@ -95,6 +95,22 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.95.76.42"
   },
+  "219.100.37.126": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6916,
+    "lon": 139.768,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftEther",
+    "org": "SoftEther Corporation",
+    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
+    "query": "219.100.37.126"
+  },
   "92.202.199.250": {
     "status": "success",
     "country": "Japan",
@@ -126,22 +142,6 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "118.157.139.36"
-  },
-  "219.100.37.126": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Chiyoda City",
-    "zip": "100-8111",
-    "lat": 35.6916,
-    "lon": 139.768,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftEther",
-    "org": "SoftEther Corporation",
-    "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
-    "query": "219.100.37.126"
   },
   "121.167.189.126": {
     "status": "success",
@@ -415,21 +415,21 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "60.145.145.27"
   },
-  "180.30.154.157": {
+  "106.130.52.146": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
-    "region": "24",
-    "regionName": "Mie",
-    "city": "Tsu",
-    "zip": "514-0011",
-    "lat": 34.7361,
-    "lon": 136.522,
+    "region": "46",
+    "regionName": "Kagoshima",
+    "city": "Kagoshima",
+    "zip": "890-0061",
+    "lat": 31.5667,
+    "lon": 130.55,
     "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "NTT Communications Corporation",
-    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
-    "query": "180.30.154.157"
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "106.130.52.146"
   },
   "112.186.104.121": {
     "status": "success",
@@ -446,6 +446,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "112.186.104.121"
+  },
+  "180.30.154.157": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "24",
+    "regionName": "Mie",
+    "city": "Tsu",
+    "zip": "514-0011",
+    "lat": 34.7361,
+    "lon": 136.522,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Communications Corporation",
+    "org": "NTT Communications Corporation",
+    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
+    "query": "180.30.154.157"
   },
   "94.60.118.99": {
     "status": "success",
@@ -494,6 +510,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "14.47.60.103"
+  },
+  "121.83.154.182": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Moriguchi",
+    "zip": "570-0071",
+    "lat": 34.7343,
+    "lon": 135.5605,
+    "timezone": "Asia/Tokyo",
+    "isp": "OPTAGE Inc.",
+    "org": "K-Opticom Corporation",
+    "as": "AS17511 OPTAGE Inc.",
+    "query": "121.83.154.182"
   },
   "213.165.55.55": {
     "status": "success",
@@ -575,22 +607,6 @@
     "as": "AS9365 its communications Inc.",
     "query": "175.177.44.75"
   },
-  "59.6.133.219": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Seodaemun-gu",
-    "zip": "036",
-    "lat": 37.573,
-    "lon": 126.926,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "",
-    "as": "AS4766 Korea Telecom",
-    "query": "59.6.133.219"
-  },
   "77.35.126.91": {
     "status": "success",
     "country": "Russia",
@@ -606,22 +622,6 @@
     "org": "POL Pppoe Ussk Unlim",
     "as": "AS12389 PJSC Rostelecom",
     "query": "77.35.126.91"
-  },
-  "77.82.213.244": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KAM",
-    "regionName": "Kamchatka",
-    "city": "Petropavlovsk-Kamchatsky",
-    "zip": "683902",
-    "lat": 53.0716,
-    "lon": 158.627,
-    "timezone": "Asia/Kamchatka",
-    "isp": "Rostelecom networks",
-    "org": "Rostelecom",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "77.82.213.244"
   },
   "86.102.15.253": {
     "status": "success",
