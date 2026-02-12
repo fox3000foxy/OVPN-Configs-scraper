@@ -6,7 +6,6 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const fs_1 = __importDefault(require("fs"));
 const path_1 = __importDefault(require("path"));
 // import simpleGit from 'simple-git';
-const IPSpeed_getVpnList_1 = require("./api/IPSpeed-getVpnList");
 const VPNGATE_getVpnList_1 = require("./api/VPNGATE-getVpnList");
 const getIPInfo_1 = require("./api/getIPInfo");
 // --- Ajout de la fonction convertOvpnConfig ---
@@ -54,11 +53,11 @@ async function main() {
     await ensureDir(dataDir);
     await ensureDir(configsDir);
     // simpleGit().pull();
-    const [vpngate, ipspeed] = await Promise.all([(0, VPNGATE_getVpnList_1.getVpnList)(), (0, IPSpeed_getVpnList_1.getVpnList)()]);
+    const [vpngate] = await Promise.all([(0, VPNGATE_getVpnList_1.getVpnList)()]);
     // On fusionne toutes les sources, puis on retire les doublons d'IP
     const mergedServers = [
         ...vpngate.servers.map((s) => ({ ...s, provider: 'VPNGate', url: s.download_url || "data:text/opvn;base64," + s.openvpn_configdata_base64 })),
-        ...ipspeed.map((s) => ({ ...s, provider: 'IPSpeed', url: s.download_url }))
+        // ...ipspeed.map((s: any) => ({ ...s, provider: 'IPSpeed', url: s.download_url }))
     ];
     // Sécurité anti-doublons d'IP
     const seenIps = new Set();
