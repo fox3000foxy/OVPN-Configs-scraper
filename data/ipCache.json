@@ -335,22 +335,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.50"
   },
-  "220.86.64.116": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Gangseo-gu",
-    "zip": "075",
-    "lat": 37.5699,
-    "lon": 126.853,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "220.86.64.116"
-  },
   "220.212.184.191": {
     "status": "success",
     "country": "Japan",
@@ -607,6 +591,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "221.156.152.66"
   },
+  "14.48.249.166": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "49",
+    "regionName": "Jeju-do",
+    "city": "Jeju City",
+    "zip": "633",
+    "lat": 33.4517,
+    "lon": 126.5724,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "14.48.249.166"
+  },
   "221.162.98.36": {
     "status": "success",
     "country": "South Korea",
@@ -751,20 +751,20 @@
     "as": "AS33991 Igra-Service LLC",
     "query": "91.132.22.148"
   },
-  "85.15.125.103": {
+  "77.35.108.88": {
     "status": "success",
     "country": "Russia",
     "countryCode": "RU",
-    "region": "KHA",
-    "regionName": "Khabarovsk",
-    "city": "Khabarovsk",
-    "zip": "680000",
-    "lat": 48.4817,
-    "lon": 135.083,
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Vladivostok",
+    "zip": "690014",
+    "lat": 43.1236,
+    "lon": 131.888,
     "timezone": "Asia/Vladivostok",
-    "isp": "Vostoktelecom Telephone Company Limited Liability Company",
-    "org": "Vostoktelecom Telephone Company Limited Liability Company",
-    "as": "AS34896 Vostoktelecom Telephone Company Limited Liability Company",
-    "query": "85.15.125.103"
+    "isp": "Eastern Economic Forum - 2022",
+    "org": "",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "77.35.108.88"
   }
 }
