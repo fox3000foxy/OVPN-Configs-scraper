@@ -239,22 +239,6 @@
     "as": "AS44724 Octopusnet LTD",
     "query": "95.154.89.139"
   },
-  "121.165.121.91": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Seongnam-si",
-    "zip": "135",
-    "lat": 37.377,
-    "lon": 127.1091,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Sudogwongangnambonbu",
-    "as": "AS4766 Korea Telecom",
-    "query": "121.165.121.91"
-  },
   "173.80.88.246": {
     "status": "success",
     "country": "United States",
@@ -399,22 +383,6 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.206.11.243"
   },
-  "112.145.244.242": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "50",
-    "regionName": "Sejong-si",
-    "city": "Sejong",
-    "zip": "30113",
-    "lat": 36.5916,
-    "lon": 127.2916,
-    "timezone": "Asia/Seoul",
-    "isp": "LG POWERCOMM",
-    "org": "LG POWERCOMM",
-    "as": "AS17858 LG POWERCOMM",
-    "query": "112.145.244.242"
-  },
   "124.210.129.151": {
     "status": "success",
     "country": "Japan",
@@ -462,6 +430,22 @@
     "org": "Dynamic distribution IPs for broadband services",
     "as": "AS12389 PJSC Rostelecom",
     "query": "31.163.86.85"
+  },
+  "101.235.81.130": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Yangju",
+    "zip": "114",
+    "lat": 37.8119,
+    "lon": 127.08,
+    "timezone": "Asia/Seoul",
+    "isp": "DLIVE",
+    "org": "DLIVE Jungrang Cable TV",
+    "as": "AS10036 DLIVE",
+    "query": "101.235.81.130"
   },
   "203.168.105.172": {
     "status": "success",
@@ -591,21 +575,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "221.156.152.66"
   },
-  "175.203.118.19": {
+  "14.48.249.166": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
-    "region": "30",
-    "regionName": "Daejeon",
-    "city": "Yuseong-gu",
-    "zip": "342",
-    "lat": 36.3733,
-    "lon": 127.3245,
+    "region": "49",
+    "regionName": "Jeju-do",
+    "city": "Jeju City",
+    "zip": "633",
+    "lat": 33.4517,
+    "lon": 126.5724,
     "timezone": "Asia/Seoul",
     "isp": "Korea Telecom",
-    "org": "",
+    "org": "Kornet",
     "as": "AS4766 Korea Telecom",
-    "query": "175.203.118.19"
+    "query": "14.48.249.166"
   },
   "221.162.98.36": {
     "status": "success",
@@ -623,21 +607,21 @@
     "as": "AS4766 Korea Telecom",
     "query": "221.162.98.36"
   },
-  "58.123.224.213": {
+  "58.122.224.175": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Anyang-si",
-    "zip": "139",
-    "lat": 37.4027,
-    "lon": 126.9257,
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Eunpyeong-gu",
+    "zip": "033",
+    "lat": 37.6053,
+    "lon": 126.9231,
     "timezone": "Asia/Seoul",
     "isp": "SK Broadband Co Ltd",
-    "org": "SK Broadband Co Ltd",
+    "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
-    "query": "58.123.224.213"
+    "query": "58.122.224.175"
   },
   "39.122.182.187": {
     "status": "success",
