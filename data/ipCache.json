@@ -143,6 +143,22 @@
     "as": "AS3786 LG DACOM Corporation",
     "query": "106.243.71.229"
   },
+  "113.52.211.252": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "47",
+    "regionName": "Gyeongsangbuk-do",
+    "city": "Gyeongju",
+    "zip": "381",
+    "lat": 35.8413,
+    "lon": 129.2111,
+    "timezone": "Asia/Seoul",
+    "isp": "CJ Hello Co.",
+    "org": "HVSilla",
+    "as": "AS9770 LG HelloVision Corp.",
+    "query": "113.52.211.252"
+  },
   "219.100.37.208": {
     "status": "success",
     "country": "Japan",
@@ -222,22 +238,6 @@
     "org": "Optimum",
     "as": "AS19108 Optimum",
     "query": "173.80.88.246"
-  },
-  "77.82.181.118": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KAM",
-    "regionName": "Kamchatka",
-    "city": "Petropavlovsk-Kamchatsky",
-    "zip": "683902",
-    "lat": 53.0716,
-    "lon": 158.627,
-    "timezone": "Asia/Kamchatka",
-    "isp": "OJSC Rostelecom",
-    "org": "Rostelecom",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "77.82.181.118"
   },
   "58.85.120.229": {
     "status": "success",
@@ -367,6 +367,38 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.167.246.176"
   },
+  "212.14.195.153": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "MAG",
+    "regionName": "Magadan Oblast",
+    "city": "Magadan",
+    "zip": "685000",
+    "lat": 59.5686,
+    "lon": 150.8133,
+    "timezone": "Asia/Magadan",
+    "isp": "Telephone&Telegraph Station",
+    "org": "Northern International University",
+    "as": "AS34205 PJSC Rostelecom",
+    "query": "212.14.195.153"
+  },
+  "111.217.169.226": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tokyo",
+    "zip": "151-0071",
+    "lat": 35.6837,
+    "lon": 139.6805,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "111.217.169.226"
+  },
   "124.210.129.151": {
     "status": "success",
     "country": "Japan",
@@ -479,22 +511,6 @@
     "as": "AS20661 State Company of Electro Communications Turkmentelecom",
     "query": "119.235.113.226"
   },
-  "118.174.71.96": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "10",
-    "regionName": "Bangkok",
-    "city": "Bangkok",
-    "zip": "10110",
-    "lat": 13.7101,
-    "lon": 100.4543,
-    "timezone": "Asia/Bangkok",
-    "isp": "TOT Public Company Limited",
-    "org": "TOT Public Company Limited",
-    "as": "AS23969 TOT Public Company Limited",
-    "query": "118.174.71.96"
-  },
   "210.197.161.220": {
     "status": "success",
     "country": "Japan",
@@ -511,21 +527,21 @@
     "as": "AS4725 SoftBank Corp.",
     "query": "210.197.161.220"
   },
-  "49.163.26.171": {
+  "125.129.85.155": {
     "status": "success",
     "country": "South Korea",
     "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Pocheon-si",
-    "zip": "11147",
-    "lat": 37.8927,
-    "lon": 127.2009,
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Jungnang-gu",
+    "zip": "021",
+    "lat": 37.5859,
+    "lon": 127.1029,
     "timezone": "Asia/Seoul",
-    "isp": "LG POWERCOMM",
-    "org": "LG POWERCOMM",
-    "as": "AS17858 LG POWERCOMM",
-    "query": "49.163.26.171"
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "125.129.85.155"
   },
   "59.135.171.57": {
     "status": "success",
@@ -542,6 +558,22 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "59.135.171.57"
+  },
+  "49.163.26.171": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Pocheon-si",
+    "zip": "11147",
+    "lat": 37.8927,
+    "lon": 127.2009,
+    "timezone": "Asia/Seoul",
+    "isp": "LG POWERCOMM",
+    "org": "LG POWERCOMM",
+    "as": "AS17858 LG POWERCOMM",
+    "query": "49.163.26.171"
   },
   "221.156.152.66": {
     "status": "success",
@@ -575,22 +607,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "175.203.118.19"
   },
-  "175.129.249.17": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "01",
-    "regionName": "Hokkaido",
-    "city": "Tomakomai",
-    "zip": "053-0021",
-    "lat": 42.6382,
-    "lon": 141.607,
-    "timezone": "Asia/Tokyo",
-    "isp": "Kddi Corporation",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "175.129.249.17"
-  },
   "39.122.182.187": {
     "status": "success",
     "country": "South Korea",
@@ -606,6 +622,22 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "39.122.182.187"
+  },
+  "121.133.160.141": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Seongnam-si",
+    "zip": "135",
+    "lat": 37.377,
+    "lon": 127.1091,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "121.133.160.141"
   },
   "46.188.124.136": {
     "status": "success",
@@ -671,22 +703,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "1.226.8.88"
   },
-  "91.132.22.148": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "KYA",
-    "regionName": "Krasnoyarsk Krai",
-    "city": "Krasnoyarsk",
-    "zip": "660049",
-    "lat": 56.0374,
-    "lon": 92.9314,
-    "timezone": "Asia/Krasnoyarsk",
-    "isp": "Igra-Service LLC",
-    "org": "Netname",
-    "as": "AS33991 Igra-Service LLC",
-    "query": "91.132.22.148"
-  },
   "77.35.108.88": {
     "status": "success",
     "country": "Russia",
@@ -702,21 +718,5 @@
     "org": "",
     "as": "AS12389 PJSC Rostelecom",
     "query": "77.35.108.88"
-  },
-  "188.232.189.237": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "OMS",
-    "regionName": "Omsk Oblast",
-    "city": "Omsk",
-    "zip": "644000",
-    "lat": 54.9896,
-    "lon": 73.3729,
-    "timezone": "Asia/Omsk",
-    "isp": "JSC \"ER-Telecom Holding\"",
-    "org": "CJSC \"ER-Telecom Holding\" Omsk Branch",
-    "as": "AS41843 JSC ER-Telecom Holding",
-    "query": "188.232.189.237"
   }
 }
