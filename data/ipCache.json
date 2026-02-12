@@ -127,22 +127,6 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.126"
   },
-  "118.240.68.160": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "14",
-    "regionName": "Kanagawa",
-    "city": "Kamikuratachō",
-    "zip": "244-0816",
-    "lat": 35.3973,
-    "lon": 139.5453,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "118.240.68.160"
-  },
   "131.147.142.132": {
     "status": "success",
     "country": "Japan",
@@ -158,6 +142,22 @@
     "org": "Sony Network Communications Inc.",
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "131.147.142.132"
+  },
+  "118.240.68.160": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "14",
+    "regionName": "Kanagawa",
+    "city": "Kamikuratachō",
+    "zip": "244-0816",
+    "lat": 35.3973,
+    "lon": 139.5453,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "118.240.68.160"
   },
   "59.11.98.103": {
     "status": "success",
@@ -238,6 +238,22 @@
     "org": "KDDI",
     "as": "AS2516 KDDI CORPORATION",
     "query": "27.83.68.134"
+  },
+  "103.152.178.62": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Chiyoda City",
+    "zip": "100-0001",
+    "lat": 35.694,
+    "lon": 139.754,
+    "timezone": "Asia/Tokyo",
+    "isp": "Ayao Takata",
+    "org": "SDCC-East01",
+    "as": "AS38074 SDCC Japan-West Area",
+    "query": "103.152.178.62"
   },
   "153.165.156.176": {
     "status": "success",
@@ -415,22 +431,6 @@
     "as": "AS2518 BIGLOBE Inc.",
     "query": "125.192.55.26"
   },
-  "60.93.146.33": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan Nation-wide Network of Softbank Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "60.93.146.33"
-  },
   "193.114.24.248": {
     "status": "success",
     "country": "Japan",
@@ -447,21 +447,21 @@
     "as": "AS59126 NCT CO.,LTD.",
     "query": "193.114.24.248"
   },
-  "184.82.112.28": {
+  "60.93.146.33": {
     "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "10",
-    "regionName": "Bangkok",
-    "city": "Bangkok",
-    "zip": "10310",
-    "lat": 13.7749,
-    "lon": 100.5197,
-    "timezone": "Asia/Bangkok",
-    "isp": "AIS-Fibre",
-    "org": "",
-    "as": "AS133481 AIS Fibre",
-    "query": "184.82.112.28"
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.93.146.33"
   },
   "116.67.212.245": {
     "status": "success",
@@ -527,6 +527,22 @@
     "as": "AS45758 Triple T Broadband Public Company Limited",
     "query": "49.49.78.23"
   },
+  "60.93.74.112": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.93.74.112"
+  },
   "218.235.89.115": {
     "status": "success",
     "country": "South Korea",
@@ -559,22 +575,6 @@
     "as": "AS812 Rogers Communications Canada Inc.",
     "query": "99.235.28.174"
   },
-  "188.226.89.84": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "SVE",
-    "regionName": "Sverdlovsk Oblast",
-    "city": "Yekaterinburg",
-    "zip": "620028",
-    "lat": 56.8577,
-    "lon": 60.6113,
-    "timezone": "Asia/Yekaterinburg",
-    "isp": "LLC \"KomTehCentr\"",
-    "org": "LLC KOMTEHCENTR FTTB Customers",
-    "as": "AS12668 LLC \"KomTehCentr\"",
-    "query": "188.226.89.84"
-  },
   "118.37.233.14": {
     "status": "success",
     "country": "South Korea",
@@ -606,5 +606,21 @@
     "org": "OJSC Sibirtelecom",
     "as": "AS12389 PJSC Rostelecom",
     "query": "95.188.55.239"
+  },
+  "113.23.40.95": {
+    "status": "success",
+    "country": "Vietnam",
+    "countryCode": "VN",
+    "region": "HN",
+    "regionName": "Hanoi",
+    "city": "Hanoi",
+    "zip": "",
+    "lat": 21.0278,
+    "lon": 105.834,
+    "timezone": "Asia/Bangkok",
+    "isp": "FPT Telecom Company",
+    "org": "Vietnam Internet Network Information Center",
+    "as": "AS18403 FPT Telecom Company",
+    "query": "113.23.40.95"
   }
 }
