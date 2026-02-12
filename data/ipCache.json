@@ -191,22 +191,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "114.206.223.158"
   },
-  "95.84.132.179": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "MOW",
-    "regionName": "Moscow",
-    "city": "Moscow",
-    "zip": "127474",
-    "lat": 55.7487,
-    "lon": 37.6187,
-    "timezone": "Europe/Moscow",
-    "isp": "NCNET",
-    "org": "",
-    "as": "AS42610 PJSC Rostelecom",
-    "query": "95.84.132.179"
-  },
   "103.152.178.62": {
     "status": "success",
     "country": "Japan",
@@ -286,6 +270,22 @@
     "org": "OJSC Far Eastern Telecommunications Company Amursky st.",
     "as": "AS34137 PJSC Rostelecom",
     "query": "79.105.223.157"
+  },
+  "150.147.126.178": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "34",
+    "regionName": "Hiroshima",
+    "city": "Hiroshima",
+    "zip": "730-0841",
+    "lat": 34.3895,
+    "lon": 132.4527,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "150.147.126.178"
   },
   "219.100.37.102": {
     "status": "success",
@@ -590,5 +590,21 @@
     "org": "JSC \"ER-Telecom Holding\" Volgograd Branch",
     "as": "AS39435 JSC ER-Telecom Holding",
     "query": "188.233.49.163"
+  },
+  "59.168.25.10": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Takashimadaira",
+    "zip": "175-0081",
+    "lat": 35.7931,
+    "lon": 139.6606,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM Co., Ltd.",
+    "org": "JCOM Co., Ltd",
+    "as": "AS9824 JCOM Co., Ltd.",
+    "query": "59.168.25.10"
   }
 }
