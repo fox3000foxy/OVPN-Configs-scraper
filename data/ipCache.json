@@ -239,22 +239,6 @@
     "as": "AS18126 Chubu Telecommunications Company, Inc.",
     "query": "115.37.29.195"
   },
-  "220.74.79.4": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Ansan-si",
-    "zip": "15345",
-    "lat": 37.3253,
-    "lon": 126.8178,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "KORNET",
-    "as": "AS4766 Korea Telecom",
-    "query": "220.74.79.4"
-  },
   "125.199.40.49": {
     "status": "success",
     "country": "Japan",
@@ -286,22 +270,6 @@
     "org": "OJSC Far Eastern Telecommunications Company Amursky st.",
     "as": "AS34137 PJSC Rostelecom",
     "query": "79.105.223.157"
-  },
-  "150.147.126.178": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "34",
-    "regionName": "Hiroshima",
-    "city": "Hiroshima",
-    "zip": "730-0841",
-    "lat": 34.3895,
-    "lon": 132.4527,
-    "timezone": "Asia/Tokyo",
-    "isp": "Sony Network Communications Inc",
-    "org": "Sony Network Communications Inc.",
-    "as": "AS2527 Sony Network Communications Inc.",
-    "query": "150.147.126.178"
   },
   "219.100.37.102": {
     "status": "success",
@@ -415,6 +383,22 @@
     "as": "AS45758 Triple T Broadband Public Company Limited",
     "query": "183.88.237.254"
   },
+  "49.228.236.255": {
+    "status": "success",
+    "country": "Thailand",
+    "countryCode": "TH",
+    "region": "10",
+    "regionName": "Bangkok",
+    "city": "Bangkok",
+    "zip": "10110",
+    "lat": 13.7101,
+    "lon": 100.4543,
+    "timezone": "Asia/Bangkok",
+    "isp": "Advanced Wireless Network Company Limited",
+    "org": "",
+    "as": "AS133481 AIS Fibre",
+    "query": "49.228.236.255"
+  },
   "106.174.107.75": {
     "status": "success",
     "country": "Japan",
@@ -478,6 +462,22 @@
     "org": "Swift Telecom",
     "as": "AS51592 OOO Svift Telecom",
     "query": "176.112.53.115"
+  },
+  "121.137.174.248": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "41",
+    "regionName": "Gyeonggi-do",
+    "city": "Anseong",
+    "zip": "175",
+    "lat": 37.0138,
+    "lon": 127.2698,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "121.137.174.248"
   },
   "118.219.21.191": {
     "status": "success",
@@ -574,5 +574,37 @@
     "org": "Comcast Cable Communications Holdings, Inc",
     "as": "AS7922 Comcast Cable Communications, LLC",
     "query": "71.57.50.63"
+  },
+  "106.254.0.245": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Yongsan-dong",
+    "zip": "04371",
+    "lat": 37.5379,
+    "lon": 126.97,
+    "timezone": "Asia/Seoul",
+    "isp": "LG DACOM Corporation",
+    "org": "Boranet",
+    "as": "AS3786 LG DACOM Corporation",
+    "query": "106.254.0.245"
+  },
+  "188.233.49.163": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "VGG",
+    "regionName": "Volgograd Oblast",
+    "city": "Volgograd",
+    "zip": "400011",
+    "lat": 48.7168,
+    "lon": 44.5035,
+    "timezone": "Europe/Volgograd",
+    "isp": "CJSC \"ER-Telecom Holding\" Volgograd branch",
+    "org": "JSC \"ER-Telecom Holding\" Volgograd Branch",
+    "as": "AS39435 JSC ER-Telecom Holding",
+    "query": "188.233.49.163"
   }
 }
