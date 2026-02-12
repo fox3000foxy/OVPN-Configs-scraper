@@ -6,7 +6,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const fs_1 = __importDefault(require("fs"));
 const node_fetch_1 = __importDefault(require("node-fetch"));
 const path_1 = __importDefault(require("path"));
-const simple_git_1 = __importDefault(require("simple-git"));
+// import simpleGit from 'simple-git';
 const VPNGATE_getVpnList_1 = require("./api/VPNGATE-getVpnList");
 const getIPInfo_1 = require("./api/getIPInfo");
 // --- Ajout de la fonction convertOvpnConfig ---
@@ -53,7 +53,7 @@ async function main() {
     const configsDir = path_1.default.join(dataDir, 'configs');
     await ensureDir(dataDir);
     await ensureDir(configsDir);
-    (0, simple_git_1.default)().pull();
+    // simpleGit().pull();
     const [vpngate] = await Promise.all([(0, VPNGATE_getVpnList_1.getVpnList)()]);
     // On fusionne toutes les sources, puis on retire les doublons d'IP
     const mergedServers = [
@@ -129,26 +129,15 @@ async function main() {
     fs_1.default.writeFileSync(path_1.default.join(dataDir, 'ips.json'), JSON.stringify(filteredIps, null, 2));
     console.log('Done!');
 }
-async function loop() {
-    const git = (0, simple_git_1.default)();
-    while (true) {
-        try {
-            await main();
-            process.env.GIT_AUTHOR_NAME = "openvpn-configs-bot";
-            process.env.GIT_AUTHOR_EMAIL = "openvpn-configs-bot@local";
-            process.env.GIT_COMMITTER_NAME = "openvpn-configs-bot";
-            process.env.GIT_COMMITTER_EMAIL = "openvpn-configs-bot@local";
-            // Git add, commit, push
-            await git.add('./*');
-            const date = new Date().toLocaleString('en-GB', { timeZone: 'GMT', hour12: false });
-            await git.commit(`Update ${date} GMT`);
-            await git.push();
-            console.log('Git push done!');
-        }
-        catch (e) {
-            console.error('Erreur dans main ou git:', e);
-        }
-        await new Promise(res => setTimeout(res, 60000 * 10)); // 1 minute
-    }
-}
-loop();
+// async function loop() {
+//   while (true) {
+//     try {
+//       await main();
+//     } catch (e) {
+//       console.error('Erreur dans main:', e);
+//     }
+//     await new Promise(res => setTimeout(res, 60_000 * 10)); // 10 minutes
+//   }
+// }
+// loop();
+main();

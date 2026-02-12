@@ -1,8 +1,7 @@
 import fs from 'fs';
 import fetch from 'node-fetch';
 import path from 'path';
-import simpleGit from 'simple-git';
-import { getVpnList as IPSpeed } from './api/IPSpeed-getVpnList';
+// import simpleGit from 'simple-git';
 import { getVpnList as VPNGate } from './api/VPNGATE-getVpnList';
 import { bulkIpLookup } from './api/getIPInfo';
 
@@ -60,7 +59,7 @@ async function main() {
   await ensureDir(dataDir);
   await ensureDir(configsDir);
 
-  simpleGit().pull();
+  // simpleGit().pull();
   const [vpngate] = await Promise.all([VPNGate()]);
   // On fusionne toutes les sources, puis on retire les doublons d'IP
   const mergedServers = [
@@ -144,26 +143,16 @@ async function main() {
   console.log('Done!');
 }
 
-async function loop() {
-  const git = simpleGit();
-  while (true) {
-    try {
-      await main();
-      process.env.GIT_AUTHOR_NAME = "openvpn-configs-bot";
-      process.env.GIT_AUTHOR_EMAIL = "openvpn-configs-bot@local"
-      process.env.GIT_COMMITTER_NAME = "openvpn-configs-bot"
-      process.env.GIT_COMMITTER_EMAIL = "openvpn-configs-bot@local"
-      // Git add, commit, push
-      await git.add('./*');
-      const date = new Date().toLocaleString('en-GB', { timeZone: 'GMT', hour12: false });
-      await git.commit(`Update ${date} GMT`);
-      await git.push();
-      console.log('Git push done!');
-    } catch (e) {
-      console.error('Erreur dans main ou git:', e);
-    }
-    await new Promise(res => setTimeout(res, 60_000 * 10)); // 1 minute
-  }
-}
+// async function loop() {
+//   while (true) {
+//     try {
+//       await main();
+//     } catch (e) {
+//       console.error('Erreur dans main:', e);
+//     }
+//     await new Promise(res => setTimeout(res, 60_000 * 10)); // 10 minutes
+//   }
+// }
 
-loop();
+// loop();
+main();
