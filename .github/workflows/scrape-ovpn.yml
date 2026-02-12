@@ -5,6 +5,10 @@ on:
     - cron: "*/5 * * * *"  # toutes les 5 minutes
   workflow_dispatch:      # exécution manuelle
 
+
+permissions:
+  contents: write
+
 jobs:
   build-and-scrape:
     runs-on: ubuntu-latest
