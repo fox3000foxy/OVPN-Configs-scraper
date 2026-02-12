@@ -511,6 +511,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.181.132.200"
   },
+  "60.93.74.112": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Minato-ku",
+    "zip": "104-0045",
+    "lat": 35.6629,
+    "lon": 139.761,
+    "timezone": "Asia/Tokyo",
+    "isp": "SoftBank Corp.",
+    "org": "Japan Nation-wide Network of Softbank Corp.",
+    "as": "AS17676 SoftBank Corp.",
+    "query": "60.93.74.112"
+  },
   "218.235.89.115": {
     "status": "success",
     "country": "South Korea",
