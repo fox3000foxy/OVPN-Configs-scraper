@@ -495,22 +495,6 @@
     "as": "AS23969 TOT Public Company Limited",
     "query": "118.174.71.96"
   },
-  "116.220.180.119": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Higashimurayama",
-    "zip": "189-0021",
-    "lat": 35.7554,
-    "lon": 139.4693,
-    "timezone": "Asia/Tokyo",
-    "isp": "JCOM Co., Ltd.",
-    "org": "Jupiter Telecommunication Co. Ltd",
-    "as": "AS9824 JCOM Co., Ltd.",
-    "query": "116.220.180.119"
-  },
   "49.163.26.171": {
     "status": "success",
     "country": "South Korea",
@@ -703,6 +687,22 @@
     "as": "AS17858 LG POWERCOMM",
     "query": "49.164.173.80"
   },
+  "210.131.164.150": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Owadamachi",
+    "zip": "192-0041",
+    "lat": 35.6608,
+    "lon": 139.3494,
+    "timezone": "Asia/Tokyo",
+    "isp": "ARTERIA Networks Corporation",
+    "org": "ARTERIA Networks Corporation",
+    "as": "AS2519 ARTERIA Networks Corporation",
+    "query": "210.131.164.150"
+  },
   "1.226.8.88": {
     "status": "success",
     "country": "South Korea",
@@ -734,5 +734,21 @@
     "org": "Netname",
     "as": "AS33991 Igra-Service LLC",
     "query": "91.132.22.148"
+  },
+  "77.35.108.88": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "PRI",
+    "regionName": "Primorye",
+    "city": "Vladivostok",
+    "zip": "690014",
+    "lat": 43.1236,
+    "lon": 131.888,
+    "timezone": "Asia/Vladivostok",
+    "isp": "Eastern Economic Forum - 2022",
+    "org": "",
+    "as": "AS12389 PJSC Rostelecom",
+    "query": "77.35.108.88"
   }
 }
