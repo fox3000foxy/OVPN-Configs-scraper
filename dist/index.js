@@ -4,7 +4,6 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 const fs_1 = __importDefault(require("fs"));
-const node_fetch_1 = __importDefault(require("node-fetch"));
 const path_1 = __importDefault(require("path"));
 // import simpleGit from 'simple-git';
 const VPNGATE_getVpnList_1 = require("./api/VPNGATE-getVpnList");
@@ -42,7 +41,7 @@ async function saveConfig(ip, configUrl, outDir) {
         originalConfig = Buffer.from(base64, 'base64').toString('utf8');
     }
     else {
-        const res = await (0, node_fetch_1.default)(configUrl);
+        const res = await fetch(configUrl);
         originalConfig = await res.text();
     }
     const converted = convertOvpnConfig(originalConfig);

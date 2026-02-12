@@ -1,5 +1,4 @@
 import fs from 'fs';
-import fetch from 'node-fetch';
 import path from 'path';
 // import simpleGit from 'simple-git';
 import { getVpnList as VPNGate } from './api/VPNGATE-getVpnList';
