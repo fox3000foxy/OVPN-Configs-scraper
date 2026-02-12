@@ -111,6 +111,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "121.167.189.126"
   },
+  "160.86.46.9": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "24",
+    "regionName": "Mie",
+    "city": "Matsusaka",
+    "zip": "515-0001",
+    "lat": 34.6003,
+    "lon": 136.5592,
+    "timezone": "Asia/Tokyo",
+    "isp": "Sony Network Communications Inc",
+    "org": "Sony Network Communications Inc.",
+    "as": "AS2527 Sony Network Communications Inc.",
+    "query": "160.86.46.9"
+  },
   "106.243.71.229": {
     "status": "success",
     "country": "South Korea",
@@ -415,22 +431,6 @@
     "as": "AS17858 LG POWERCOMM",
     "query": "112.145.244.242"
   },
-  "60.145.145.27": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan Nation-wide Network of Softbank Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "60.145.145.27"
-  },
   "124.210.129.151": {
     "status": "success",
     "country": "Japan",
@@ -494,22 +494,6 @@
     "org": "State Company of Electro Communications Turkmentelecom",
     "as": "AS20661 State Company of Electro Communications Turkmentelecom",
     "query": "119.235.113.226"
-  },
-  "203.168.105.172": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "34",
-    "regionName": "Hiroshima",
-    "city": "Hiroshima",
-    "zip": "730-0001",
-    "lat": 34.4031,
-    "lon": 132.4601,
-    "timezone": "Asia/Tokyo",
-    "isp": "Enecom, Inc.",
-    "org": "Energia Communications, Inc.",
-    "as": "AS18144 Enecom,Inc.",
-    "query": "203.168.105.172"
   },
   "118.174.71.96": {
     "status": "success",
@@ -655,6 +639,22 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "39.122.182.187"
   },
+  "46.188.124.136": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "MOW",
+    "regionName": "Moscow",
+    "city": "Moscow",
+    "zip": "127474",
+    "lat": 55.7487,
+    "lon": 37.6187,
+    "timezone": "Europe/Moscow",
+    "isp": "2COM",
+    "org": "2COM Co ltd.",
+    "as": "AS8334 LLC SETEL",
+    "query": "46.188.124.136"
+  },
   "86.102.15.253": {
     "status": "success",
     "country": "Russia",
@@ -719,21 +719,21 @@
     "as": "AS33991 Igra-Service LLC",
     "query": "91.132.22.148"
   },
-  "212.164.178.80": {
+  "109.161.49.118": {
     "status": "success",
     "country": "Russia",
     "countryCode": "RU",
-    "region": "NVS",
-    "regionName": "Novosibirsk Oblast",
-    "city": "Novosibirsk",
-    "zip": "630000",
-    "lat": 55.0226,
-    "lon": 82.9317,
-    "timezone": "Asia/Novosibirsk",
-    "isp": "Rostelecom networks",
-    "org": "OJSC Sibirtelecom",
+    "region": "YAR",
+    "regionName": "Yaroslavl Oblast",
+    "city": "Yaroslavl",
+    "zip": "150000",
+    "lat": 57.6261,
+    "lon": 39.8845,
+    "timezone": "Europe/Moscow",
+    "isp": "Yaroslavl Branch",
+    "org": "OJSC Rostelecom",
     "as": "AS12389 PJSC Rostelecom",
-    "query": "212.164.178.80"
+    "query": "109.161.49.118"
   },
   "85.15.125.103": {
     "status": "success",
@@ -750,21 +750,5 @@
     "org": "Vostoktelecom Telephone Company Limited Liability Company",
     "as": "AS34896 Vostoktelecom Telephone Company Limited Liability Company",
     "query": "85.15.125.103"
-  },
-  "77.35.108.88": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PRI",
-    "regionName": "Primorye",
-    "city": "Vladivostok",
-    "zip": "690014",
-    "lat": 43.1236,
-    "lon": 131.888,
-    "timezone": "Asia/Vladivostok",
-    "isp": "Eastern Economic Forum - 2022",
-    "org": "",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "77.35.108.88"
   }
 }
