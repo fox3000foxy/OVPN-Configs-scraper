@@ -223,22 +223,6 @@
     "as": "AS4766 Korea Telecom",
     "query": "222.109.124.1"
   },
-  "182.237.221.37": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "45",
-    "regionName": "Jeollabuk-do",
-    "city": "Iksan",
-    "zip": "546",
-    "lat": 35.9579,
-    "lon": 126.9382,
-    "timezone": "Asia/Seoul",
-    "isp": "Keumgang Cable Network",
-    "org": "Kumgang Jungbotongsin(Gunsan)",
-    "as": "AS17583 Keumgang Cable Network",
-    "query": "182.237.221.37"
-  },
   "42.116.114.23": {
     "status": "success",
     "country": "Vietnam",
@@ -254,38 +238,6 @@
     "org": "FPT-STATICIP",
     "as": "AS18403 FPT Telecom Company",
     "query": "42.116.114.23"
-  },
-  "1.66.33.240": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Osaka",
-    "zip": "530-0041",
-    "lat": 34.6967,
-    "lon": 135.5154,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Docomo, inc.",
-    "org": "NTTDoCoMo",
-    "as": "AS9605 NTT DOCOMO, INC.",
-    "query": "1.66.33.240"
-  },
-  "39.119.183.162": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "30",
-    "regionName": "Daejeon",
-    "city": "Yuseong-gu",
-    "zip": "340",
-    "lat": 36.3924,
-    "lon": 127.4106,
-    "timezone": "Asia/Seoul",
-    "isp": "SK Broadband Co Ltd",
-    "org": "broadNnet",
-    "as": "AS9318 SK Broadband Co Ltd",
-    "query": "39.119.183.162"
   },
   "219.100.37.109": {
     "status": "success",
@@ -303,6 +255,38 @@
     "as": "AS36599 SoftEther Telecommunication Research Institute, LLC",
     "query": "219.100.37.109"
   },
+  "39.119.183.162": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "30",
+    "regionName": "Daejeon",
+    "city": "Yuseong-gu",
+    "zip": "340",
+    "lat": 36.3924,
+    "lon": 127.4106,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "broadNnet",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "39.119.183.162"
+  },
+  "182.237.221.37": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "45",
+    "regionName": "Jeollabuk-do",
+    "city": "Iksan",
+    "zip": "546",
+    "lat": 35.9579,
+    "lon": 126.9382,
+    "timezone": "Asia/Seoul",
+    "isp": "Keumgang Cable Network",
+    "org": "Kumgang Jungbotongsin(Gunsan)",
+    "as": "AS17583 Keumgang Cable Network",
+    "query": "182.237.221.37"
+  },
   "211.205.56.227": {
     "status": "success",
     "country": "South Korea",
@@ -318,6 +302,22 @@
     "org": "broadNnet",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "211.205.56.227"
+  },
+  "1.66.33.240": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Osaka",
+    "zip": "530-0041",
+    "lat": 34.6967,
+    "lon": 135.5154,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Docomo, inc.",
+    "org": "NTTDoCoMo",
+    "as": "AS9605 NTT DOCOMO, INC.",
+    "query": "1.66.33.240"
   },
   "219.100.37.204": {
     "status": "success",
@@ -590,6 +590,22 @@
     "org": "TBROAD Jeonju",
     "as": "AS17854 SK Broadband Co Ltd",
     "query": "211.116.113.124"
+  },
+  "59.6.133.219": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Seodaemun-gu",
+    "zip": "036",
+    "lat": 37.573,
+    "lon": 126.926,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "59.6.133.219"
   },
   "77.35.126.91": {
     "status": "success",
