@@ -8,40 +8,106 @@ const url = "https://ipspeed.info/freevpn_openvpn.php?language=en&page=";
 
 async function scrapPage(page: string): Promise<string> {
     const response = await fetch(url + page);
-    if (!response.ok)
-        throw new Error("Network error");
+    if (!response.ok) {
+        throw new Error(`Network error: ${response.status} ${response.statusText}`);
+    }
     return response.text();
 }
 
-function parsePage(html: string): IPSpeedServer[] {
-    // Regex pour matcher les lignes du tableau : <td class="list_o1">... Country</td><td><a href="...">IP.ovpn</a></td>
-    try {
-        const regex = /<td class="list_o1"[^>]*>(?:[^<]*\s+)?([^<]+)<\/td>\s*<td[^>]*><a href="([^"]+\.ovpn)"[^>]*>([^<]+)\.ovpn<\/a><\/td>/gi;
-        const ipSpeedServers: IPSpeedServer[] = [];
-        let match;
-        while ((match = regex.exec(html)) !== null) {
-            const country = match[1].trim();
-            const download_url = match[2];
-            const ip = match[3].trim();
-            ipSpeedServers.push({ ip, country, download_url });
-        }
-        return ipSpeedServers;
-    } catch (error) {
-        console.error("Error parsing page:", error);
-        return [];
+function extractAttr(tag: string, attr: string): string | null {
+    const idx = tag.indexOf(attr + "=");
+    if (idx === -1) return null;
+    const quote = tag[idx + attr.length + 1];
+    const start = idx + attr.length + 2;
+    const end = tag.indexOf(quote, start);
+    if (end === -1) return null;
+    return tag.slice(start, end);
+}
+
+function stripTags(text: string): string {
+    let result = "";
+    let inTag = false;
+    for (let i = 0; i < text.length; i++) {
+        const ch = text[i];
+        if (ch === "<") inTag = true;
+        else if (ch === ">") inTag = false;
+        else if (!inTag) result += ch;
     }
+    return result.trim();
+}
+
+function extractCountryFromRow(rowHtml: string): string {
+    const clsIdx = rowHtml.indexOf('class="list_o1"');
+    if (clsIdx === -1) return "";
+    const startTagEnd = rowHtml.indexOf(">", clsIdx);
+    if (startTagEnd === -1) return "";
+    const endTagStart = rowHtml.indexOf("</", startTagEnd);
+    if (endTagStart === -1) return "";
+    const text = stripTags(rowHtml.slice(startTagEnd + 1, endTagStart));
+    const parts = text.split(" ");
+    return (parts[1] ?? "").trim();
+}
+
+function parsePage(html: string): IPSpeedServer[] {
+    const results: IPSpeedServer[] = [];
+    let pos = 0;
+
+    while (pos < html.length) {
+        const aStart = html.indexOf("<a", pos);
+        if (aStart === -1) break;
+        const aEnd = html.indexOf(">", aStart);
+        if (aEnd === -1) break;
+
+        const aTag = html.slice(aStart, aEnd + 1);
+        const href = extractAttr(aTag, "href");
+
+        if (href && href.endsWith(".ovpn")) {
+            const aClose = html.indexOf("</a>", aEnd);
+            if (aClose === -1) break;
+
+            const linkText = stripTags(html.slice(aEnd + 1, aClose));
+            const ip = linkText.replace(".ovpn", "").trim();
+
+            // Try to get enclosing <tr> to extract country
+            const trStart = html.lastIndexOf("<tr", aStart);
+            const trEnd = html.indexOf("</tr>", aClose);
+            let country = "";
+            if (trStart !== -1 && trEnd !== -1) {
+                const rowHtml = html.slice(trStart, trEnd);
+                country = extractCountryFromRow(rowHtml);
+            }
+
+            results.push({ ip, country, download_url: href });
+            pos = aClose + 4;
+        } else {
+            pos = aEnd + 1;
+        }
+    }
+
+    return results;
 }
 
 const PAGE_NB = 4;
 export async function getVpnList(): Promise<IPSpeedServer[]> {
     const pages = Array.from({ length: PAGE_NB }, (_, i) => i + 1);
-    const htmls = await Promise.all(pages.map(page => scrapPage(page.toString())));
+    const settled = await Promise.allSettled(pages.map(page => scrapPage(page.toString())));
+
+    const htmls: string[] = [];
+    for (const res of settled) {
+        if (res.status === "fulfilled") {
+            htmls.push(res.value);
+        } else {
+            // Empêche l’UnhandledPromiseRejection
+            console.warn("scrapPage failed:", res.reason);
+        }
+    }
+
     const allLinks = htmls.flatMap(parsePage);
     // Remove duplicate IPs and exclude Russia
     const seenIps = new Set<string>();
     const uniqueLinks: IPSpeedServer[] = [];
     for (const server of allLinks) {
-        if (server.country === 'Russia') continue;
+        if (server.country === "Russia") continue;
         if (!seenIps.has(server.ip)) {
             seenIps.add(server.ip);
             uniqueLinks.push(server);

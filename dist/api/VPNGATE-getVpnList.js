@@ -24,7 +24,7 @@ function getVpnList() {
                         const returnData = { servers, countries };
                         let lines = data.trim().split("\n");
                         if (lines.length < 2) {
-                            reject(returnData);
+                            reject(new Error("Invalid data format: not enough lines"));
                             return;
                         }
                         const headers = lines[1]
@@ -63,14 +63,14 @@ function getVpnList() {
                         resolve(returnData);
                     }
                     catch (error) {
-                        reject({ servers: [], countries: {} });
+                        reject(new Error(`Parsing error: ${error}`));
                     }
                 }
             });
         });
         console.log("Fetching VPN list from VPNGate API");
-        req.on("error", () => {
-            reject({ servers: [], countries: {} });
+        req.on("error", (err) => {
+            reject(new Error(`Network error: ${err.message}`));
         });
         req.end();
     });
