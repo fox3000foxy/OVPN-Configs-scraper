@@ -255,22 +255,6 @@
     "as": "AS2527 Sony Network Communications Inc.",
     "query": "39.111.1.5"
   },
-  "119.24.254.96": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "28",
-    "regionName": "Hyōgo",
-    "city": "Kobe",
-    "zip": "650-0011",
-    "lat": 34.6922,
-    "lon": 135.1816,
-    "timezone": "Asia/Tokyo",
-    "isp": "HCT",
-    "org": "Jupiter Telecommunications Co., Ltd.",
-    "as": "AS9617 JCOM Co., Ltd.",
-    "query": "119.24.254.96"
-  },
   "61.45.108.61": {
     "status": "success",
     "country": "Japan",
@@ -286,6 +270,22 @@
     "org": "XePhion",
     "as": "AS9595 NTT-ME Corporation",
     "query": "61.45.108.61"
+  },
+  "119.24.254.96": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "28",
+    "regionName": "Hyōgo",
+    "city": "Kobe",
+    "zip": "650-0011",
+    "lat": 34.6922,
+    "lon": 135.1816,
+    "timezone": "Asia/Tokyo",
+    "isp": "HCT",
+    "org": "Jupiter Telecommunications Co., Ltd.",
+    "as": "AS9617 JCOM Co., Ltd.",
+    "query": "119.24.254.96"
   },
   "42.148.36.223": {
     "status": "success",
@@ -366,22 +366,6 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "59.28.121.13"
-  },
-  "14.43.64.221": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "26",
-    "regionName": "Busan",
-    "city": "Dong-gu",
-    "zip": "488",
-    "lat": 35.1266,
-    "lon": 129.0299,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "14.43.64.221"
   },
   "77.82.96.18": {
     "status": "success",
@@ -735,21 +719,37 @@
     "as": "AS8749 JSC Redcom-lnternet",
     "query": "46.183.131.163"
   },
-  "92.124.163.63": {
+  "125.13.45.183": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "43",
+    "regionName": "Kumamoto",
+    "city": "Kumamoto",
+    "zip": "860-0031",
+    "lat": 32.8095,
+    "lon": 130.6931,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM Co",
+    "org": "JCOM Co., Ltd",
+    "as": "AS9824 JCOM Co., Ltd.",
+    "query": "125.13.45.183"
+  },
+  "95.105.4.132": {
     "status": "success",
     "country": "Russia",
     "countryCode": "RU",
-    "region": "OMS",
-    "regionName": "Omsk Oblast",
-    "city": "Omsk",
-    "zip": "644000",
-    "lat": 54.9896,
-    "lon": 73.3729,
-    "timezone": "Asia/Omsk",
-    "isp": "OJSC \"Sibirtelecom\"",
-    "org": "OJSC Sibirtelecom",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "92.124.163.63"
+    "region": "TA",
+    "regionName": "Tatarstan Republic",
+    "city": "Kazan'",
+    "zip": "422525",
+    "lat": 55.785,
+    "lon": 49.1178,
+    "timezone": "Europe/Moscow",
+    "isp": "JSC \"Ufanet\"",
+    "org": "JSC Ufanet",
+    "as": "AS57128 JSC Ufanet",
+    "query": "95.105.4.132"
   },
   "183.91.108.16": {
     "status": "success",
