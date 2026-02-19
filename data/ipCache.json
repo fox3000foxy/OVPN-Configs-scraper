@@ -271,6 +271,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "125.129.244.247"
   },
+  "219.115.184.198": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Sakai",
+    "zip": "590-0071",
+    "lat": 34.5742,
+    "lon": 135.4777,
+    "timezone": "Asia/Tokyo",
+    "isp": "JCOM",
+    "org": "J:COM WEST Co., Ltd.",
+    "as": "AS9617 JCOM Co., Ltd.",
+    "query": "219.115.184.198"
+  },
   "223.218.255.240": {
     "status": "success",
     "country": "Japan",
@@ -399,6 +415,22 @@
     "as": "AS4766 Korea Telecom",
     "query": "222.118.132.123"
   },
+  "175.194.49.68": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Seoul",
+    "zip": "045",
+    "lat": 37.5656,
+    "lon": 126.978,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "175.194.49.68"
+  },
   "184.82.151.79": {
     "status": "success",
     "country": "Thailand",
@@ -462,22 +494,6 @@
     "org": "Dlive",
     "as": "AS10036 DLIVE",
     "query": "210.106.204.25"
-  },
-  "126.217.127.65": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "13",
-    "regionName": "Tokyo",
-    "city": "Minato",
-    "zip": "105-0012",
-    "lat": 35.6552,
-    "lon": 139.761,
-    "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "SOFTBANK Corp",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "126.217.127.65"
   },
   "5.206.105.11": {
     "status": "success",
@@ -590,22 +606,6 @@
     "org": "its communications Inc.",
     "as": "AS9365 its communications Inc.",
     "query": "175.177.49.119"
-  },
-  "210.178.240.40": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Uijeongbu-si",
-    "zip": "116",
-    "lat": 37.7413,
-    "lon": 127.0361,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "210.178.240.40"
   },
   "95.167.183.47": {
     "status": "success",
@@ -750,5 +750,21 @@
     "org": "",
     "as": "AS8749 JSC Redcom-lnternet",
     "query": "164.138.95.203"
+  },
+  "188.113.174.84": {
+    "status": "success",
+    "country": "Russia",
+    "countryCode": "RU",
+    "region": "SAK",
+    "regionName": "Sakhalin Oblast",
+    "city": "Yuzhno-Sakhalinsk",
+    "zip": "693003",
+    "lat": 46.9557,
+    "lon": 142.733,
+    "timezone": "Asia/Sakhalin",
+    "isp": "Sakhalin Cable Telesystems Ltd",
+    "org": "Sakhalin Cable Telesystems Ltd",
+    "as": "AS51004 Sakhalin Cable Telesystems Ltd",
+    "query": "188.113.174.84"
   }
 }
