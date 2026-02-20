@@ -463,6 +463,22 @@
     "as": "AS133481 AIS Fibre",
     "query": "49.228.33.146"
   },
+  "221.159.197.158": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "42",
+    "regionName": "Gangwon-do",
+    "city": "Chuncheon",
+    "zip": "242",
+    "lat": 37.8897,
+    "lon": 127.736,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "Kornet",
+    "as": "AS4766 Korea Telecom",
+    "query": "221.159.197.158"
+  },
   "126.221.85.192": {
     "status": "success",
     "country": "Japan",
@@ -494,6 +510,22 @@
     "org": "Jupiter Telecommunication Co. Ltd",
     "as": "AS9824 JCOM Co., Ltd.",
     "query": "60.61.234.94"
+  },
+  "1.66.33.101": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Osaka",
+    "zip": "530-0041",
+    "lat": 34.6967,
+    "lon": 135.5154,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Docomo, inc.",
+    "org": "NTTDoCoMo",
+    "as": "AS9605 NTT DOCOMO, INC.",
+    "query": "1.66.33.101"
   },
   "58.8.180.149": {
     "status": "success",
@@ -542,22 +574,6 @@
     "org": "Evoxt",
     "as": "AS149440 Evoxt Sdn. Bhd.",
     "query": "166.88.14.45"
-  },
-  "59.133.37.6": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "01",
-    "regionName": "Hokkaido",
-    "city": "Kushiro",
-    "zip": "085-0021",
-    "lat": 42.9917,
-    "lon": 144.3755,
-    "timezone": "Asia/Tokyo",
-    "isp": "DION (KDDI CORPORATION)",
-    "org": "KDDI",
-    "as": "AS2516 KDDI CORPORATION",
-    "query": "59.133.37.6"
   },
   "46.48.201.18": {
     "status": "success",
@@ -622,22 +638,6 @@
     "org": "SK Broadband Co Ltd",
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "218.48.216.27"
-  },
-  "222.101.122.11": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "41",
-    "regionName": "Gyeonggi-do",
-    "city": "Paju-si",
-    "zip": "10923",
-    "lat": 37.7562,
-    "lon": 126.7865,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Korea Telecom",
-    "as": "AS4766 Korea Telecom",
-    "query": "222.101.122.11"
   },
   "124.216.228.99": {
     "status": "success",
