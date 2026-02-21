@@ -399,6 +399,22 @@
     "as": "AS17676 SoftBank Corp.",
     "query": "126.130.164.3"
   },
+  "1.66.33.101": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Osaka",
+    "zip": "530-0041",
+    "lat": 34.6967,
+    "lon": 135.5154,
+    "timezone": "Asia/Tokyo",
+    "isp": "NTT Docomo, inc.",
+    "org": "NTTDoCoMo",
+    "as": "AS9605 NTT DOCOMO, INC.",
+    "query": "1.66.33.101"
+  },
   "5.8.205.199": {
     "status": "success",
     "country": "Russia",
@@ -638,21 +654,5 @@
     "org": "LG POWERCOMM",
     "as": "AS17858 LG POWERCOMM",
     "query": "49.164.173.80"
-  },
-  "222.97.15.183": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "26",
-    "regionName": "Busan",
-    "city": "Sasang-gu",
-    "zip": "470",
-    "lat": 35.1417,
-    "lon": 128.999,
-    "timezone": "Asia/Seoul",
-    "isp": "KORNET",
-    "org": "busanbonbu(deiteosaeobyong)",
-    "as": "AS4766 Korea Telecom",
-    "query": "222.97.15.183"
   }
 }
