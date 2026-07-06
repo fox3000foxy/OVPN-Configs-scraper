@@ -159,6 +159,22 @@
     "as": "AS9009 M247 Europe SRL",
     "query": "217.138.212.62"
   },
+  "70.79.229.82": {
+    "status": "success",
+    "country": "Canada",
+    "countryCode": "CA",
+    "region": "BC",
+    "regionName": "British Columbia",
+    "city": "Richmond",
+    "zip": "V7C",
+    "lat": 49.1617,
+    "lon": -123.175,
+    "timezone": "America/Vancouver",
+    "isp": "Shaw Communications",
+    "org": "Shaw Communications",
+    "as": "AS6327 Shaw Communications",
+    "query": "70.79.229.82"
+  },
   "220.77.208.68": {
     "status": "success",
     "country": "South Korea",
@@ -207,6 +223,22 @@
     "as": "AS2518 BIGLOBE Inc.",
     "query": "220.102.233.254"
   },
+  "111.169.56.91": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "27",
+    "regionName": "Osaka",
+    "city": "Minamimorimachi",
+    "zip": "530-0051",
+    "lat": 34.7013,
+    "lon": 135.5071,
+    "timezone": "Asia/Tokyo",
+    "isp": "BIGLOBE Inc.",
+    "org": "BIGLOBE",
+    "as": "AS2518 BIGLOBE Inc.",
+    "query": "111.169.56.91"
+  },
   "211.169.158.108": {
     "status": "success",
     "country": "South Korea",
@@ -239,21 +271,37 @@
     "as": "AS60075 Gorodok Ltd.",
     "query": "31.148.3.252"
   },
-  "60.94.22.70": {
+  "118.155.140.137": {
     "status": "success",
     "country": "Japan",
     "countryCode": "JP",
     "region": "13",
     "regionName": "Tokyo",
-    "city": "Minato-ku",
-    "zip": "104-0045",
-    "lat": 35.6629,
-    "lon": 139.761,
+    "city": "Chiyoda City",
+    "zip": "100-8111",
+    "lat": 35.6906,
+    "lon": 139.77,
     "timezone": "Asia/Tokyo",
-    "isp": "SoftBank Corp.",
-    "org": "Japan Nation-wide Network of Softbank Corp.",
-    "as": "AS17676 SoftBank Corp.",
-    "query": "60.94.22.70"
+    "isp": "DION (KDDI CORPORATION)",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "118.155.140.137"
+  },
+  "115.179.206.241": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Tsurumaki",
+    "zip": "154-0011",
+    "lat": 35.6413,
+    "lon": 139.6662,
+    "timezone": "Asia/Tokyo",
+    "isp": "ARTERIA Networks Corporation",
+    "org": "Marubeni Access Solutions Inc.",
+    "as": "AS2519 ARTERIA Networks Corporation",
+    "query": "115.179.206.241"
   },
   "221.150.82.30": {
     "status": "success",
@@ -270,22 +318,6 @@
     "org": "",
     "as": "AS4766 Korea Telecom",
     "query": "221.150.82.30"
-  },
-  "111.169.56.91": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "27",
-    "regionName": "Osaka",
-    "city": "Minamimorimachi",
-    "zip": "530-0051",
-    "lat": 34.7013,
-    "lon": 135.5071,
-    "timezone": "Asia/Tokyo",
-    "isp": "BIGLOBE Inc.",
-    "org": "BIGLOBE",
-    "as": "AS2518 BIGLOBE Inc.",
-    "query": "111.169.56.91"
   },
   "133.32.233.192": {
     "status": "success",
@@ -351,22 +383,6 @@
     "as": "AS13188 CONTENT DELIVERY NETWORK LTD",
     "query": "178.151.36.49"
   },
-  "49.49.239.43": {
-    "status": "success",
-    "country": "Thailand",
-    "countryCode": "TH",
-    "region": "10",
-    "regionName": "Bangkok",
-    "city": "Bangkok",
-    "zip": "10160",
-    "lat": 13.7159,
-    "lon": 100.417,
-    "timezone": "Asia/Bangkok",
-    "isp": "Triple T Broadband Public Company Limited",
-    "org": "Triple T Broadband Public Company Limited",
-    "as": "AS45758 Triple T Broadband Public Company Limited",
-    "query": "49.49.239.43"
-  },
   "210.239.247.25": {
     "status": "success",
     "country": "Japan",
@@ -431,22 +447,6 @@
     "as": "AS213468 HD-decor Oy",
     "query": "5.61.88.31"
   },
-  "133.175.189.174": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "40",
-    "regionName": "Fukuoka",
-    "city": "Tenjin",
-    "zip": "810-0001",
-    "lat": 33.5959,
-    "lon": 130.4008,
-    "timezone": "Asia/Tokyo",
-    "isp": "ARTERIA Networks Corporation",
-    "org": "Toray Industries, Inc.",
-    "as": "AS2519 ARTERIA Networks Corporation",
-    "query": "133.175.189.174"
-  },
   "121.163.220.215": {
     "status": "success",
     "country": "South Korea",
@@ -462,6 +462,22 @@
     "org": "Kornet",
     "as": "AS4766 Korea Telecom",
     "query": "121.163.220.215"
+  },
+  "175.113.226.10": {
+    "status": "success",
+    "country": "South Korea",
+    "countryCode": "KR",
+    "region": "11",
+    "regionName": "Seoul",
+    "city": "Yangcheon-gu",
+    "zip": "079",
+    "lat": 37.5392,
+    "lon": 126.8605,
+    "timezone": "Asia/Seoul",
+    "isp": "SK Broadband Co Ltd",
+    "org": "SK Broadband Co Ltd",
+    "as": "AS9318 SK Broadband Co Ltd",
+    "query": "175.113.226.10"
   },
   "58.142.9.219": {
     "status": "success",
@@ -479,22 +495,6 @@
     "as": "AS10036 DLIVE",
     "query": "58.142.9.219"
   },
-  "117.20.244.14": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "47",
-    "regionName": "Gyeongsangbuk-do",
-    "city": "Chilgok-gun",
-    "zip": "398",
-    "lat": 36.0734,
-    "lon": 128.3934,
-    "timezone": "Asia/Seoul",
-    "isp": "HYUNDAI COMMUNICATIONS & NETWORK",
-    "org": "HYUNDAI HCN Seronet Systems Co.Ltd",
-    "as": "AS9981 Saero Network Service LTD",
-    "query": "117.20.244.14"
-  },
   "211.179.204.251": {
     "status": "success",
     "country": "South Korea",
@@ -511,38 +511,6 @@
     "as": "AS9318 SK Broadband Co Ltd",
     "query": "211.179.204.251"
   },
-  "59.26.41.201": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "30",
-    "regionName": "Daejeon",
-    "city": "Seo-gu",
-    "zip": "353",
-    "lat": 36.2981,
-    "lon": 127.3362,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Kornet",
-    "as": "AS4766 Korea Telecom",
-    "query": "59.26.41.201"
-  },
-  "182.237.221.38": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "45",
-    "regionName": "Jeollabuk-do",
-    "city": "Iksan",
-    "zip": "546",
-    "lat": 35.9445,
-    "lon": 126.954,
-    "timezone": "Asia/Seoul",
-    "isp": "Keumgang Cable Network",
-    "org": "Kumgang Jungbotongsin(Gunsan)",
-    "as": "AS17583 Keumgang Cable Network",
-    "query": "182.237.221.38"
-  },
   "112.133.160.14": {
     "status": "success",
     "country": "South Korea",
@@ -558,38 +526,6 @@
     "org": "Cmbkwangjunet",
     "as": "AS10054 CMB Kwangju Broadcasting",
     "query": "112.133.160.14"
-  },
-  "5.143.56.108": {
-    "status": "success",
-    "country": "Russia",
-    "countryCode": "RU",
-    "region": "PRI",
-    "regionName": "Primorye",
-    "city": "Vladivostok",
-    "zip": "690000",
-    "lat": 43.1068,
-    "lon": 131.8692,
-    "timezone": "Asia/Vladivostok",
-    "isp": "Rostelecom networks",
-    "org": "OJSC Rostelecom Far-East Region",
-    "as": "AS12389 PJSC Rostelecom",
-    "query": "5.143.56.108"
-  },
-  "73.66.18.124": {
-    "status": "success",
-    "country": "United States",
-    "countryCode": "US",
-    "region": "CA",
-    "regionName": "California",
-    "city": "Fresno",
-    "zip": "93726",
-    "lat": 36.7986,
-    "lon": -119.7617,
-    "timezone": "America/Los_Angeles",
-    "isp": "Comcast Cable Communications, LLC",
-    "org": "Comcast IP Services, L.L.C.",
-    "as": "AS7922 Comcast Cable Communications, LLC",
-    "query": "73.66.18.124"
   },
   "85.15.92.92": {
     "status": "success",
@@ -623,21 +559,21 @@
     "as": "AS12389 PJSC Rostelecom",
     "query": "212.164.39.35"
   },
-  "37.56.105.164": {
+  "73.66.18.124": {
     "status": "success",
-    "country": "Saudi Arabia",
-    "countryCode": "SA",
-    "region": "01",
-    "regionName": "Riyadh Region",
-    "city": "Riyadh",
-    "zip": "09848",
-    "lat": 24.6869,
-    "lon": 46.7224,
-    "timezone": "Asia/Riyadh",
-    "isp": "Saudi Telecom Company JSC",
-    "org": "STC",
-    "as": "AS25019 Saudi Telecom Company JSC",
-    "query": "37.56.105.164"
+    "country": "United States",
+    "countryCode": "US",
+    "region": "CA",
+    "regionName": "California",
+    "city": "Fresno",
+    "zip": "93726",
+    "lat": 36.7986,
+    "lon": -119.7617,
+    "timezone": "America/Los_Angeles",
+    "isp": "Comcast Cable Communications, LLC",
+    "org": "Comcast IP Services, L.L.C.",
+    "as": "AS7922 Comcast Cable Communications, LLC",
+    "query": "73.66.18.124"
   },
   "78.147.48.105": {
     "status": "success",
