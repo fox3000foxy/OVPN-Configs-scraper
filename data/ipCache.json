@@ -143,22 +143,6 @@
     "as": "AS8151 UNINET",
     "query": "187.149.92.101"
   },
-  "121.84.204.226": {
-    "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
-    "region": "28",
-    "regionName": "Hyōgo",
-    "city": "Amagasaki",
-    "zip": "660-0871",
-    "lat": 34.717,
-    "lon": 135.4179,
-    "timezone": "Asia/Tokyo",
-    "isp": "OPTAGE Inc.",
-    "org": "K-Opticom Corporation",
-    "as": "AS17511 OPTAGE Inc.",
-    "query": "121.84.204.226"
-  },
   "217.138.212.62": {
     "status": "success",
     "country": "Japan",
@@ -174,6 +158,22 @@
     "org": "M247 LTD",
     "as": "AS9009 M247 Europe SRL",
     "query": "217.138.212.62"
+  },
+  "121.84.204.226": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "28",
+    "regionName": "Hyōgo",
+    "city": "Amagasaki",
+    "zip": "660-0871",
+    "lat": 34.717,
+    "lon": 135.4179,
+    "timezone": "Asia/Tokyo",
+    "isp": "OPTAGE Inc.",
+    "org": "K-Opticom Corporation",
+    "as": "AS17511 OPTAGE Inc.",
+    "query": "121.84.204.226"
   },
   "115.179.206.241": {
     "status": "success",
@@ -238,22 +238,6 @@
     "org": "LG POWERCOMM",
     "as": "AS17858 LG POWERCOMM",
     "query": "125.180.22.7"
-  },
-  "222.109.180.8": {
-    "status": "success",
-    "country": "South Korea",
-    "countryCode": "KR",
-    "region": "11",
-    "regionName": "Seoul",
-    "city": "Seongdong-gu",
-    "zip": "047",
-    "lat": 37.5511,
-    "lon": 127.0387,
-    "timezone": "Asia/Seoul",
-    "isp": "Korea Telecom",
-    "org": "Sudogwonseobubonbu",
-    "as": "AS4766 Korea Telecom",
-    "query": "222.109.180.8"
   },
   "104.28.193.181": {
     "status": "success",
@@ -415,6 +399,22 @@
     "as": "AS10010 TOKAI Communications Corporation",
     "query": "59.85.23.36"
   },
+  "59.129.18.62": {
+    "status": "success",
+    "country": "Japan",
+    "countryCode": "JP",
+    "region": "13",
+    "regionName": "Tokyo",
+    "city": "Hachiōji",
+    "zip": "193-0931",
+    "lat": 35.6525,
+    "lon": 139.3227,
+    "timezone": "Asia/Tokyo",
+    "isp": "Kddi Corporation",
+    "org": "KDDI",
+    "as": "AS2516 KDDI CORPORATION",
+    "query": "59.129.18.62"
+  },
   "119.173.200.77": {
     "status": "success",
     "country": "Japan",
@@ -447,21 +447,21 @@
     "as": "AS2586 Elisa Eesti AS",
     "query": "85.253.240.203"
   },
-  "153.239.54.128": {
+  "203.251.76.183": {
     "status": "success",
-    "country": "Japan",
-    "countryCode": "JP",
+    "country": "South Korea",
+    "countryCode": "KR",
     "region": "27",
-    "regionName": "Osaka",
-    "city": "Osaka",
-    "zip": "540-0031",
-    "lat": 34.691,
-    "lon": 135.5124,
-    "timezone": "Asia/Tokyo",
-    "isp": "NTT Communications Corporation",
-    "org": "Open Computer Network",
-    "as": "AS4713 NTT DOCOMO BUSINESS,Inc.",
-    "query": "153.239.54.128"
+    "regionName": "Daegu",
+    "city": "Buk-gu",
+    "zip": "415",
+    "lat": 35.8828,
+    "lon": 128.6017,
+    "timezone": "Asia/Seoul",
+    "isp": "Korea Telecom",
+    "org": "",
+    "as": "AS4766 Korea Telecom",
+    "query": "203.251.76.183"
   },
   "124.212.102.156": {
     "status": "success",
